@@ -100,3 +100,4 @@ https://video.twimg.com/amplify_video/2054874377465090048/vid/avc1/1080x1920/a-n
 https://video.twimg.com/amplify_video/2058496756116238336/vid/avc1/590x1280/gtrVKFcto9wn5Bxv.mp4
 https://video.twimg.com/amplify_video/2018252566900178944/vid/avc1/720x1280/mtRy-v1t0UT6xew2.mp4
 https://video.twimg.com/amplify_video/2030569973756923904/vid/avc1/1280x720/cDBVXRGiAR1WAPTc.mp4
+https://video.twimg.com/amplify_video/2055095870240980992/vid/avc1/720x1222/n4NxpqyrtjnGzBFB.mp4
