@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075906932590936064"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075906940845387912",
+    "created_at": "2026-07-11T11:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075906940845387912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9HS10AYUR1",
+          "end": 23,
+          "expanded_url": "https://x.com/shirochankawa1/status/2075906940845387912/photo/1",
+          "media_key": "3_2075906932590936064",
+          "start": 0,
+          "url": "https://t.co/9HS10AYUR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075906940845387912",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/9HS10AYUR1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2075906932590936064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8aW0fagAAzBoX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075906932590936064"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075906940845387912",
+        "created_at": "2026-07-11T11:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075906940845387912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9HS10AYUR1",
+              "end": 23,
+              "expanded_url": "https://x.com/shirochankawa1/status/2075906940845387912/photo/1",
+              "media_key": "3_2075906932590936064",
+              "start": 0,
+              "url": "https://t.co/9HS10AYUR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075906940845387912",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9HS10AYUR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 2177,
+          "like_count": 71425,
+          "listed_count": 8,
+          "media_count": 1798,
+          "tweet_count": 12125
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

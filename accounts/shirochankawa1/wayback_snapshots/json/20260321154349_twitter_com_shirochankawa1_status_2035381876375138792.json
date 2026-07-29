@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2035381876375138792",
+    "created_at": "2026-03-21T15:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T16:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035381876375138792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1952728554401374208",
+          "start": 3,
+          "username": "litsad_0621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035381876375138792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035208856771653871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @litsad_0621: 眼睛瞎在长发男🤩🤩😭😭手也粘在眼镜男😡😡🥵🥵脑子用在阴湿男 👿👿👿👿💀颈椎疼在4i男🫄🫄🫄🫄男人花心小男娘🧚🧚🧚🧚女人变心男妈妈💪💪🫵🫵孩子废在纸片男🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️老人受骗年下男👶👶👶👶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2035381876375138792",
+        "created_at": "2026-03-21T15:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035381876375138792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952728554401374208",
+              "start": 3,
+              "username": "litsad_0621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035381876375138792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035208856771653871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @litsad_0621: 眼睛瞎在长发男🤩🤩😭😭手也粘在眼镜男😡😡🥵🥵脑子用在阴湿男 👿👿👿👿💀颈椎疼在4i男🫄🫄🫄🫄男人花心小男娘🧚🧚🧚🧚女人变心男妈妈💪💪🫵🫵孩子废在纸片男🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️老人受骗年下男👶👶👶👶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952728554401374208",
+        "conversation_id": "2035208856771653871",
+        "created_at": "2026-03-21T04:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035208856771653871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035208856771653871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4997,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "眼睛瞎在长发男🤩🤩😭😭手也粘在眼镜男😡😡🥵🥵脑子用在阴湿男 👿👿👿👿💀颈椎疼在4i男🫄🫄🫄🫄男人花心小男娘🧚🧚🧚🧚女人变心男妈妈💪💪🫵🫵孩子废在纸片男🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️老人受骗年下男👶👶👶👶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 2027,
+          "like_count": 67917,
+          "listed_count": 8,
+          "media_count": 1605,
+          "tweet_count": 10848
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T13:49:15.000Z",
+        "description": "人，你好。这里是一只kitty(՞_ ̫ _՞)ᐝ 可以称呼我为念念switch偏m 负能量多 爱碎碎念 把这里当情绪回收站🗑️ 分享欲强 当朋友圈发｜时常因为睡眠不足而显得忧郁… @Kittychime0621 过门直接私信发口令",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "Kittychime0621"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kittychime",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kittychime",
+                "start": 0,
+                "url": "https://t.co/f5DKGDkFev"
+              }
+            ]
+          }
+        },
+        "id": "1952728554401374208",
+        "location": "🚪188/388/520/1314",
+        "name": "Kittychime",
+        "pinned_tweet_id": "2034937804502048994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019311099980681216/Brpzcg2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 286,
+          "like_count": 5560,
+          "listed_count": 8,
+          "media_count": 150,
+          "tweet_count": 2480
+        },
+        "url": "https://t.co/f5DKGDkFev",
+        "username": "litsad_0621",
+        "verified": false
+      }
+    ]
+  }
+}

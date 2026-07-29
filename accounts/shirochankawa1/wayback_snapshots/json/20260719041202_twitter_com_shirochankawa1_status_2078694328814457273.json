@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2078693192816554312",
+    "created_at": "2026-07-19T04:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078694328814457273"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078694328814457273",
+    "in_reply_to_user_id": "1713713115270139904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078693192816554312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了，没有值得他剥削的地方？那跟我提要求干啥，那跟我索取干啥，他又有什么资格要我这样对他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2078693192816554312",
+        "created_at": "2026-07-19T04:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078694328814457273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078694328814457273",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078693192816554312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了，没有值得他剥削的地方？那跟我提要求干啥，那跟我索取干啥，他又有什么资格要我这样对他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2078693192816554312",
+        "created_at": "2026-07-19T04:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078693192816554312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078693192816554312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凭什么凭什么要我听你的，凭什么叫我啥都给你，凭什么这样对我，去死啊明明我们根本不熟，就算我以前这样也不可能再这样了就是因为初恋这么对我我才去自杀的我不会再回去了，好恶心好恶心好恶心，刚开始装的自己老正义了还是来骗我的去死吧去死吧去死吧去死吧去死吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 2177,
+          "like_count": 71699,
+          "listed_count": 8,
+          "media_count": 1811,
+          "tweet_count": 12220
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

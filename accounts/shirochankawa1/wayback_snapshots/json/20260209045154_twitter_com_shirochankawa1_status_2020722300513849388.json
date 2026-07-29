@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2019196704944451761",
+    "created_at": "2026-02-09T04:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T05:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020722300513849388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641777963015471104",
+          "start": 0,
+          "username": "HuangRiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020722300513849388",
+    "in_reply_to_user_id": "1641777963015471104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020592865513181250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuangRiii 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2019196704944451761",
+        "created_at": "2026-02-09T04:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T05:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020722300513849388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641777963015471104",
+              "start": 0,
+              "username": "HuangRiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020722300513849388",
+        "in_reply_to_user_id": "1641777963015471104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020592865513181250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangRiii 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641777963015471104",
+        "conversation_id": "2019196704944451761",
+        "created_at": "2026-02-08T20:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T21:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020592865513181250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020592865513181250",
+        "in_reply_to_user_id": "1641777963015471104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020592602731409683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 看见高精力有行动计划的人好羡慕。我一直在拖延，不想动也没精力动。做点什么事要花很长时间精神也不集中🏳️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 1963,
+          "like_count": 63615,
+          "listed_count": 8,
+          "media_count": 1454,
+          "tweet_count": 9814
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T12:22:43.000Z",
+        "description": "碎碎念📝/想和小女孩贴贴互fo💗/喜欢你们✨/可以私信来找我聊天💬/嗲比妹🎤/喜欢我请给我打钱🤲/不是黄推不要来骚扰我‼️/不涉政🚫/分享日常🌍/现低能量中⛔️/友宝女🔔/二次其他啥都看点🤟/燕云跑路中💢",
+        "id": "1641777963015471104",
+        "location": "ᗜ ˰ ᗜ 由弥弥の幻想",
+        "name": "はなさき由弥弥ᗜ ˰ ᗜ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011029159720472576/6s4wCKZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 53,
+          "like_count": 5196,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 446
+        },
+        "username": "HuangRiii",
+        "verified": false
+      }
+    ]
+  }
+}

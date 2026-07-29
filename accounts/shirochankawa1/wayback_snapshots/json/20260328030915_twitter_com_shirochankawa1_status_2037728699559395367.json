@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2037728699559395367",
+    "created_at": "2026-03-28T03:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T04:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037728699559395367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001714721330991109",
+          "start": 3,
+          "username": "Ravenxux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037728699559395367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037142175037964740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ravenxux: 小红书女权假的要死 全是投胎投得好的精英女在抱团 她们所谓的女权就是把学历家庭资源没有她们好的人全部羞辱一遍 不管我们普女死活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2037728699559395367",
+        "created_at": "2026-03-28T03:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037728699559395367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001714721330991109",
+              "start": 3,
+              "username": "Ravenxux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037728699559395367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037142175037964740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ravenxux: 小红书女权假的要死 全是投胎投得好的精英女在抱团 她们所谓的女权就是把学历家庭资源没有她们好的人全部羞辱一遍 不管我们普女死活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001714721330991109",
+        "conversation_id": "2037142175037964740",
+        "created_at": "2026-03-26T12:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037142175037964740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037142175037964740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 46741,
+          "like_count": 863,
+          "quote_count": 6,
+          "reply_count": 48,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "小红书女权假的要死 全是投胎投得好的精英女在抱团 她们所谓的女权就是把学历家庭资源没有她们好的人全部羞辱一遍 不管我们普女死活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 2029,
+          "like_count": 67755,
+          "listed_count": 8,
+          "media_count": 1611,
+          "tweet_count": 10880
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T18:02:42.000Z",
+        "description": "女大学生 这是我的垃圾桶 啥都扔 不约 不聊天 暂时不加好友 骂我惹我会变得倒霉 不接推广",
+        "id": "2001714721330991109",
+        "location": "比奇堡",
+        "name": "Raven",
+        "pinned_tweet_id": "2024917928970215784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001715199091548160/mGxVxuCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6595,
+          "following_count": 38,
+          "like_count": 3265,
+          "listed_count": 16,
+          "media_count": 125,
+          "tweet_count": 782
+        },
+        "username": "Ravenxux",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2016917058001522770",
+    "created_at": "2026-01-29T16:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T17:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016917058001522770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coad1ceking/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/coad1ceking/status/2016784227497554019",
+          "start": 9,
+          "url": "https://t.co/hP9JcPuxwn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016917058001522770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016784227497554019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哥妹就是最伟大的 https://t.co/hP9JcPuxwn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2016917058001522770",
+        "created_at": "2026-01-29T16:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016917058001522770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coad1ceking/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/coad1ceking/status/2016784227497554019",
+              "start": 9,
+              "url": "https://t.co/hP9JcPuxwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016917058001522770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016784227497554019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哥妹就是最伟大的 https://t.co/hP9JcPuxwn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875024920318713856",
+        "conversation_id": "2016784227497554019",
+        "created_at": "2026-01-29T08:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016784227497554019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016784227497554019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2107,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢年上1的原因启蒙是哥妹啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 1955,
+          "like_count": 63522,
+          "listed_count": 8,
+          "media_count": 1422,
+          "tweet_count": 9710
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T03:42:37.000Z",
+        "description": "=我永远在你眼里是那种家伙｜不知道叫我什么可以叫我恋恋｜",
+        "id": "1875024920318713856",
+        "name": "極光類型",
+        "pinned_tweet_id": "1918503448506691674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016554496428822529/GCjhti4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 163,
+          "like_count": 21394,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3876
+        },
+        "username": "CoAd1ceking",
+        "verified": false
+      }
+    ]
+  }
+}

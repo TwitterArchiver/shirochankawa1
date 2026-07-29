@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024812706466033702",
+    "created_at": "2026-02-20T11:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T12:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024812706466033702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nhnhov0/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/nhnhov0/status/2024737788663357828",
+          "start": 9,
+          "url": "https://t.co/jyhaAbGe0e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024812706466033702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024737788663357828",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢用奶茶吃药 https://t.co/jyhaAbGe0e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2024737785010081793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlQSbbWUAE1HsD.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024812706466033702",
+        "created_at": "2026-02-20T11:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024812706466033702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nhnhov0/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nhnhov0/status/2024737788663357828",
+              "start": 9,
+              "url": "https://t.co/jyhaAbGe0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024812706466033702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024737788663357828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢用奶茶吃药 https://t.co/jyhaAbGe0e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024737785010081793"
+          ]
+        },
+        "author_id": "1678425548673150976",
+        "conversation_id": "2024737788663357828",
+        "created_at": "2026-02-20T06:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024737788663357828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pm01pfEJZK",
+              "end": 52,
+              "expanded_url": "https://x.com/nhnhOv0/status/2024737788663357828/photo/1",
+              "media_key": "3_2024737785010081793",
+              "start": 29,
+              "url": "https://t.co/pm01pfEJZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024737788663357828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 592,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才知道你们od都是饮料就我一个是用矿泉水  那个药苦啊 https://t.co/pm01pfEJZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232,
+          "following_count": 1987,
+          "like_count": 64916,
+          "listed_count": 8,
+          "media_count": 1512,
+          "tweet_count": 10149
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T15:26:55.000Z",
+        "description": "强者从不抱怨环境\n但我是神经病",
+        "id": "1678425548673150976",
+        "location": "天堂和地狱之间—人间",
+        "name": ".",
+        "pinned_tweet_id": "2024044450775720264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021975285412089856/8Y4KT05E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 337,
+          "like_count": 5764,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 3643
+        },
+        "username": "nhnhOv0",
+        "verified": false
+      }
+    ]
+  }
+}

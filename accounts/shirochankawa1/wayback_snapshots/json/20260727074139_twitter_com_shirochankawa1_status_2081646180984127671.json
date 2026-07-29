@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2081582849745182925",
+    "created_at": "2026-07-27T07:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081646180984127671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1190192406307602433",
+          "start": 0,
+          "username": "annaqizuyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081646180984127671",
+    "in_reply_to_user_id": "1190192406307602433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081643024413864125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annaqizuyi 其实这样并不需要开口说话哦我直接在脑子里就对话了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2081582849745182925",
+        "created_at": "2026-07-27T07:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081646180984127671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1190192406307602433",
+              "start": 0,
+              "username": "annaqizuyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081646180984127671",
+        "in_reply_to_user_id": "1190192406307602433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081643024413864125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annaqizuyi 其实这样并不需要开口说话哦我直接在脑子里就对话了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1190192406307602433",
+        "conversation_id": "2081582849745182925",
+        "created_at": "2026-07-27T07:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081643024413864125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081643024413864125",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081582849745182925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 可以在家里自说自话和自己说话呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2920,
+          "following_count": 2189,
+          "like_count": 71990,
+          "listed_count": 8,
+          "media_count": 1824,
+          "tweet_count": 12288
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-01T09:03:16.000Z",
+        "description": "我只希望自由只能更加自由\n警告：我的思想价值观有严重问题（从社会规范上面说确实如此）主要就是情绪词和语言游戏的自说自话为主。有一点要说清楚我并不是在搞“哲学”，我只是在玩一个思维游戏我从这些和自己游戏里面会有神圣感和欣快感。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/annaqizhuyi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/annaqizhuyi",
+                "start": 0,
+                "url": "https://t.co/DcqWU8dcZh"
+              }
+            ]
+          }
+        },
+        "id": "1190192406307602433",
+        "location": "上海闵行徐汇交界处",
+        "name": "卡爾思",
+        "pinned_tweet_id": "2077262016499335489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190192652026830848/6P_aT4uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 127,
+          "like_count": 109,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/DcqWU8dcZh",
+        "username": "annaqizuyi",
+        "verified": false
+      }
+    ]
+  }
+}

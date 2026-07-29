@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2061031932578926915",
+    "created_at": "2026-05-31T10:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T11:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061031932578926915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1244543552652054528",
+          "start": 3,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061031932578926915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 192
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060787304558735784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Greenfish_111: 十几岁抑郁是“青春期无病呻吟”“作业太少导致的”\n二十来岁抑郁是“浪费青春”“抗压能力差”\n中年抑郁是“逃避责任”“不适宜生存”\n老年抑郁是“都活到这个岁数了还有什么想不开的”\n有的人啥时候能承认这是种病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2061031932578926915",
+        "created_at": "2026-05-31T10:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061031932578926915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1244543552652054528",
+              "start": 3,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061031932578926915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060787304558735784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Greenfish_111: 十几岁抑郁是“青春期无病呻吟”“作业太少导致的”\n二十来岁抑郁是“浪费青春”“抗压能力差”\n中年抑郁是“逃避责任”“不适宜生存”\n老年抑郁是“都活到这个岁数了还有什么想不开的”\n有的人啥时候能承认这是种病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2060787304558735784",
+        "created_at": "2026-05-30T18:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060787304558735784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060787304558735784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 29162,
+          "like_count": 1974,
+          "quote_count": 5,
+          "reply_count": 65,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "十几岁抑郁是“青春期无病呻吟”“作业太少导致的”\n二十来岁抑郁是“浪费青春”“抗压能力差”\n中年抑郁是“逃避责任”“不适宜生存”\n老年抑郁是“都活到这个岁数了还有什么想不开的”\n有的人啥时候能承认这是种病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2578,
+          "following_count": 2109,
+          "like_count": 70373,
+          "listed_count": 8,
+          "media_count": 1738,
+          "tweet_count": 11706
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd/神秘备用舱@flyfrog_222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "flyfrog_222"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill    ",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2047987551819194768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4980,
+          "following_count": 540,
+          "like_count": 13168,
+          "listed_count": 8,
+          "media_count": 1079,
+          "tweet_count": 14134
+        },
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

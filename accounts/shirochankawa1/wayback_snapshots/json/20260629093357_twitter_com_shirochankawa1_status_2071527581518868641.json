@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071217362121170944"
+      ],
+      "media_source_tweet_id": [
+        "2071217397508555053"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071527581518868641",
+    "created_at": "2026-06-29T09:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071527581518868641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1695974879429033984",
+          "start": 3,
+          "username": "Nirvanaworldx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1thtfiZUUF",
+          "end": 42,
+          "expanded_url": "https://x.com/Nirvanaworldx/status/2071217397508555053/video/1",
+          "media_key": "13_2071217362121170944",
+          "start": 19,
+          "url": "https://t.co/1thtfiZUUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071527581518868641",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 564
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071217397508555053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nirvanaworldx: https://t.co/1thtfiZUUF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12200,
+        "height": 720,
+        "media_key": "13_2071217362121170944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071217362121170944/img/DHzEPsfE6TlOltjT.jpg",
+        "public_metrics": {
+          "view_count": 16592
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071217362121170944/vid/avc1/320x320/6g7SSPIkob-97wOz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071217362121170944/vid/avc1/540x540/Scz6UTBN2MF8iE64.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071217362121170944/vid/avc1/720x720/jz3oFQijGmFcakFE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071217362121170944/pl/eHl9FrpdVJD7dXU0.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071217362121170944"
+          ],
+          "media_source_tweet_id": [
+            "2071217397508555053"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071527581518868641",
+        "created_at": "2026-06-29T09:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071527581518868641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1695974879429033984",
+              "start": 3,
+              "username": "Nirvanaworldx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1thtfiZUUF",
+              "end": 42,
+              "expanded_url": "https://x.com/Nirvanaworldx/status/2071217397508555053/video/1",
+              "media_key": "13_2071217362121170944",
+              "start": 19,
+              "url": "https://t.co/1thtfiZUUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071527581518868641",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 564
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071217397508555053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nirvanaworldx: https://t.co/1thtfiZUUF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071217362121170944"
+          ]
+        },
+        "author_id": "1695974879429033984",
+        "conversation_id": "2071217397508555053",
+        "created_at": "2026-06-28T13:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071217397508555053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1thtfiZUUF",
+              "end": 23,
+              "expanded_url": "https://x.com/Nirvanaworldx/status/2071217397508555053/video/1",
+              "media_key": "13_2071217362121170944",
+              "start": 0,
+              "url": "https://t.co/1thtfiZUUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071217397508555053",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 667,
+          "impression_count": 43925,
+          "like_count": 4656,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 564
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1thtfiZUUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2831,
+          "following_count": 2167,
+          "like_count": 71341,
+          "listed_count": 8,
+          "media_count": 1784,
+          "tweet_count": 12055
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T01:41:46.000Z",
+        "description": "少し、眠らせて  @seworldkai                                        https://t.co/abPNxokTDV\nご連絡はこちら xnirvanaworldx@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "seworldkai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nirvanaworldx.straw.page",
+                "end": 83,
+                "expanded_url": "https://nirvanaworldx.straw.page",
+                "start": 60,
+                "url": "https://t.co/abPNxokTDV"
+              }
+            ]
+          }
+        },
+        "id": "1695974879429033984",
+        "name": "寂滅世界",
+        "pinned_tweet_id": "2022653099744334089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775711970735562752/RzbetoGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24802,
+          "following_count": 206,
+          "like_count": 2513,
+          "listed_count": 78,
+          "media_count": 90,
+          "tweet_count": 799
+        },
+        "url": "",
+        "username": "Nirvanaworldx",
+        "verified": false
+      }
+    ]
+  }
+}

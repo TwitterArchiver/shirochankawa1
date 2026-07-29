@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2050144300961575328",
+    "created_at": "2026-05-01T09:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050144300961575328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3039579409",
+          "start": 3,
+          "username": "info_bugsystem"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ぱれっと with CLEARRAVE 【10周年イベントGORE SICK】BUG SYSTEM 10th Anniversary OFFICIAL FAN BOOK【GORE SICK】(¥ 4,400), 【10周年イベントGORE SICK】美亜のもっと脱いじゃう抱き枕カバー(¥ 14,500), 【10周年イベントGORE SICK】両面ブランケット(にくにく・まなかし・にくにく2)(¥ 6,600), as:9-nine- ARTEISIA 如月結那 アクリルスタンド(¥ 1,980), as:9-nine- ARTEISIA 如月結那 B2Wスエードタペストリー(¥",
+          "display_url": "clearrave.booth.pm",
+          "end": 126,
+          "expanded_url": "https://clearrave.booth.pm",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2048716729472397312/3K4Flsu3?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2048716729472397312/3K4Flsu3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 103,
+          "status": 200,
+          "title": "CLEARRAVE - BOOTH",
+          "unwound_url": "https://clearrave.booth.pm",
+          "url": "https://t.co/2EN59UC4Es"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050144300961575328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039991329913176529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @info_bugsystem: 📢 再販販売決定！！\n\n多くのご要望にお応えして\n10周年イベント・コラボカフェの一部商品を\n本日の19時より追加販売を開始いたします！！\n\n■販売サイトはコチラ■\nhttps://t.co/2EN59UC4Es\n\n※定数に達し次第終了い…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2039985197983420416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE97urDbUAAKMW8.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2050144300961575328",
+        "created_at": "2026-05-01T09:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050144300961575328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3039579409",
+              "start": 3,
+              "username": "info_bugsystem"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ぱれっと with CLEARRAVE 【10周年イベントGORE SICK】BUG SYSTEM 10th Anniversary OFFICIAL FAN BOOK【GORE SICK】(¥ 4,400), 【10周年イベントGORE SICK】美亜のもっと脱いじゃう抱き枕カバー(¥ 14,500), 【10周年イベントGORE SICK】両面ブランケット(にくにく・まなかし・にくにく2)(¥ 6,600), as:9-nine- ARTEISIA 如月結那 アクリルスタンド(¥ 1,980), as:9-nine- ARTEISIA 如月結那 B2Wスエードタペストリー(¥",
+              "display_url": "clearrave.booth.pm",
+              "end": 126,
+              "expanded_url": "https://clearrave.booth.pm",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2048716729472397312/3K4Flsu3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048716729472397312/3K4Flsu3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "CLEARRAVE - BOOTH",
+              "unwound_url": "https://clearrave.booth.pm",
+              "url": "https://t.co/2EN59UC4Es"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050144300961575328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039991329913176529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @info_bugsystem: 📢 再販販売決定！！\n\n多くのご要望にお応えして\n10周年イベント・コラボカフェの一部商品を\n本日の19時より追加販売を開始いたします！！\n\n■販売サイトはコチラ■\nhttps://t.co/2EN59UC4Es\n\n※定数に達し次第終了い…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039985197983420416"
+          ]
+        },
+        "author_id": "3039579409",
+        "conversation_id": "2039991329913176529",
+        "created_at": "2026-04-03T09:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039991329913176529"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 126,
+              "tag": "バグ10thANV"
+            },
+            {
+              "end": 145,
+              "start": 138,
+              "tag": "バグシステム"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ぱれっと with CLEARRAVE 【10周年イベントGORE SICK】BUG SYSTEM 10th Anniversary OFFICIAL FAN BOOK【GORE SICK】(¥ 4,400), 【10周年イベントGORE SICK】美亜のもっと脱いじゃう抱き枕カバー(¥ 14,500), 【10周年イベントGORE SICK】両面ブランケット(にくにく・まなかし・にくにく2)(¥ 6,600), as:9-nine- ARTEISIA 如月結那 アクリルスタンド(¥ 1,980), as:9-nine- ARTEISIA 如月結那 B2Wスエードタペストリー(¥",
+              "display_url": "clearrave.booth.pm",
+              "end": 106,
+              "expanded_url": "https://clearrave.booth.pm",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2048716729472397312/3K4Flsu3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048716729472397312/3K4Flsu3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "CLEARRAVE - BOOTH",
+              "unwound_url": "https://clearrave.booth.pm",
+              "url": "https://t.co/2EN59UC4Es"
+            },
+            {
+              "display_url": "pic.x.com/LXHGbzSTyQ",
+              "end": 169,
+              "expanded_url": "https://x.com/info_bugsystem/status/2039991329913176529/photo/1",
+              "media_key": "3_2039985197983420416",
+              "start": 146,
+              "url": "https://t.co/LXHGbzSTyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039991329913176529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 57041,
+          "like_count": 774,
+          "quote_count": 19,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "reply_settings": "following",
+        "text": "📢 再販販売決定！！\n\n多くのご要望にお応えして\n10周年イベント・コラボカフェの一部商品を\n本日の19時より追加販売を開始いたします！！\n\n■販売サイトはコチラ■\nhttps://t.co/2EN59UC4Es\n\n※定数に達し次第終了いたします。\n\n#バグ10thANV \n#バグシステム https://t.co/LXHGbzSTyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 2064,
+          "like_count": 68622,
+          "listed_count": 8,
+          "media_count": 1665,
+          "tweet_count": 11172
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-24T12:39:57.000Z",
+        "description": "CLEARRAVEグループブランド「バグシステム」公式アカウントです。\n最新作『死に逝く騎士、異世界に響く断末魔』\n原画：るび様 /シナリオ：和泉万夜 \n2024年4月26日(金)発売予定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bug-system.com/product/05_nkn…",
+                "end": 23,
+                "expanded_url": "http://bug-system.com/product/05_nknk/",
+                "start": 0,
+                "url": "https://t.co/Q1UmLHomKJ"
+              }
+            ]
+          }
+        },
+        "id": "3039579409",
+        "name": "バグシステム",
+        "pinned_tweet_id": "1996882511683875047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749357975897247744/wr3dOqm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10527,
+          "following_count": 0,
+          "like_count": 154,
+          "listed_count": 108,
+          "media_count": 228,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/Q1UmLHomKJ",
+        "username": "info_bugsystem",
+        "verified": false
+      }
+    ]
+  }
+}

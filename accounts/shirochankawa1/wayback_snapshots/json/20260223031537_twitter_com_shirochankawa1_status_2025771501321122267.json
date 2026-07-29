@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2025750502840168594",
+    "created_at": "2026-02-23T03:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T04:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025771501321122267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677369315388174336",
+          "start": 0,
+          "username": "FoxRay3567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025771501321122267",
+    "in_reply_to_user_id": "1677369315388174336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025762403041128730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRay3567 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2025750502840168594",
+        "created_at": "2026-02-23T03:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025771501321122267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677369315388174336",
+              "start": 0,
+              "username": "FoxRay3567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025771501321122267",
+        "in_reply_to_user_id": "1677369315388174336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025762403041128730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRay3567 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677369315388174336",
+        "conversation_id": "2025750502840168594",
+        "created_at": "2026-02-23T02:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025762403041128730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025762403041128730",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025750502840168594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 解封之后还可以继续正常使用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 1998,
+          "like_count": 65453,
+          "listed_count": 8,
+          "media_count": 1534,
+          "tweet_count": 10305
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T17:29:58.000Z",
+        "description": "低社交欲望。另一个我：@foxray200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "foxray200"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sumlemon",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sumlemon",
+                "start": 0,
+                "url": "https://t.co/UBjh2Kkiv5"
+              }
+            ]
+          }
+        },
+        "id": "1677369315388174336",
+        "location": "你的心中",
+        "name": "AAA测量员鱼蛋🍋",
+        "pinned_tweet_id": "1985738641550033207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992894550386647040/KwmuPlW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 224,
+          "like_count": 7426,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/UBjh2Kkiv5",
+        "username": "FoxRay3567",
+        "verified": false
+      }
+    ]
+  }
+}

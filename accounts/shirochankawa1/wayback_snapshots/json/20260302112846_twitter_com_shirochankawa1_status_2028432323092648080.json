@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027992593297248258",
+        "3_2027992593330806784",
+        "3_2027992593293090816",
+        "3_2027992593309831171"
+      ],
+      "media_source_tweet_id": [
+        "2027992607813734865",
+        "2027992607813734865",
+        "2027992607813734865",
+        "2027992607813734865"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "2028432323092648080",
+    "created_at": "2026-03-02T11:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T12:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028432323092648080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "756130000819003393",
+          "start": 3,
+          "username": "shioc621"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/npqvJsOWGo",
+          "end": 49,
+          "expanded_url": "https://x.com/shioc621/status/2027992607813734865/photo/1",
+          "media_key": "3_2027992593297248258",
+          "start": 26,
+          "url": "https://t.co/npqvJsOWGo"
+        },
+        {
+          "display_url": "pic.x.com/npqvJsOWGo",
+          "end": 49,
+          "expanded_url": "https://x.com/shioc621/status/2027992607813734865/photo/1",
+          "media_key": "3_2027992593330806784",
+          "start": 26,
+          "url": "https://t.co/npqvJsOWGo"
+        },
+        {
+          "display_url": "pic.x.com/npqvJsOWGo",
+          "end": 49,
+          "expanded_url": "https://x.com/shioc621/status/2027992607813734865/photo/1",
+          "media_key": "3_2027992593293090816",
+          "start": 26,
+          "url": "https://t.co/npqvJsOWGo"
+        },
+        {
+          "display_url": "pic.x.com/npqvJsOWGo",
+          "end": 49,
+          "expanded_url": "https://x.com/shioc621/status/2027992607813734865/photo/1",
+          "media_key": "3_2027992593309831171",
+          "start": 26,
+          "url": "https://t.co/npqvJsOWGo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028432323092648080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 213
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027992607813734865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shioc621: CDジャケットの絵たち https://t.co/npqvJsOWGo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027992593297248258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTghNKbEAIOk_u.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027992593330806784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTghNSbIAADamR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027992593293090816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTghNJboAA44oZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027992593309831171",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTghNNbEAMoFji.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027992593297248258",
+            "3_2027992593330806784",
+            "3_2027992593293090816",
+            "3_2027992593309831171"
+          ],
+          "media_source_tweet_id": [
+            "2027992607813734865",
+            "2027992607813734865",
+            "2027992607813734865",
+            "2027992607813734865"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2028432323092648080",
+        "created_at": "2026-03-02T11:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028432323092648080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "756130000819003393",
+              "start": 3,
+              "username": "shioc621"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/npqvJsOWGo",
+              "end": 49,
+              "expanded_url": "https://x.com/shioc621/status/2027992607813734865/photo/1",
+              "media_key": "3_2027992593297248258",
+              "start": 26,
+              "url": "https://t.co/npqvJsOWGo"
+            },
+            {
+              "display_url": "pic.x.com/npqvJsOWGo",
+              "end": 49,
+              "expanded_url": "https://x.com/shioc621/status/2027992607813734865/photo/1",
+              "media_key": "3_2027992593330806784",
+              "start": 26,
+              "url": "https://t.co/npqvJsOWGo"
+            },
+            {
+              "display_url": "pic.x.com/npqvJsOWGo",
+              "end": 49,
+              "expanded_url": "https://x.com/shioc621/status/2027992607813734865/photo/1",
+              "media_key": "3_2027992593293090816",
+              "start": 26,
+              "url": "https://t.co/npqvJsOWGo"
+            },
+            {
+              "display_url": "pic.x.com/npqvJsOWGo",
+              "end": 49,
+              "expanded_url": "https://x.com/shioc621/status/2027992607813734865/photo/1",
+              "media_key": "3_2027992593309831171",
+              "start": 26,
+              "url": "https://t.co/npqvJsOWGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028432323092648080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027992607813734865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shioc621: CDジャケットの絵たち https://t.co/npqvJsOWGo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027992593297248258",
+            "3_2027992593330806784",
+            "3_2027992593293090816",
+            "3_2027992593309831171"
+          ]
+        },
+        "author_id": "756130000819003393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2027992607813734865",
+        "created_at": "2026-03-01T06:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027992607813734865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/npqvJsOWGo",
+              "end": 35,
+              "expanded_url": "https://x.com/shioc621/status/2027992607813734865/photo/1",
+              "media_key": "3_2027992593297248258",
+              "start": 12,
+              "url": "https://t.co/npqvJsOWGo"
+            },
+            {
+              "display_url": "pic.x.com/npqvJsOWGo",
+              "end": 35,
+              "expanded_url": "https://x.com/shioc621/status/2027992607813734865/photo/1",
+              "media_key": "3_2027992593330806784",
+              "start": 12,
+              "url": "https://t.co/npqvJsOWGo"
+            },
+            {
+              "display_url": "pic.x.com/npqvJsOWGo",
+              "end": 35,
+              "expanded_url": "https://x.com/shioc621/status/2027992607813734865/photo/1",
+              "media_key": "3_2027992593293090816",
+              "start": 12,
+              "url": "https://t.co/npqvJsOWGo"
+            },
+            {
+              "display_url": "pic.x.com/npqvJsOWGo",
+              "end": 35,
+              "expanded_url": "https://x.com/shioc621/status/2027992607813734865/photo/1",
+              "media_key": "3_2027992593309831171",
+              "start": 12,
+              "url": "https://t.co/npqvJsOWGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027992607813734865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 606,
+          "impression_count": 56085,
+          "like_count": 3053,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "reply_settings": "everyone",
+        "text": "CDジャケットの絵たち https://t.co/npqvJsOWGo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 2001,
+          "like_count": 66296,
+          "listed_count": 8,
+          "media_count": 1566,
+          "tweet_count": 10502
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-21T14:13:35.000Z",
+        "description": "🇨🇳【イラスト＆映像 】FA#薬屋の袖机   日本語/EnglishOK\n仕事はDM/メール（shioc621@gmail.com）まで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2750946",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/2750946",
+                "start": 0,
+                "url": "https://t.co/e6EFIawzyA"
+              }
+            ]
+          }
+        },
+        "id": "756130000819003393",
+        "name": "薬屋",
+        "pinned_tweet_id": "2027992607813734865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854914580755202048/Sk3P9o7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41014,
+          "following_count": 1896,
+          "like_count": 12411,
+          "listed_count": 359,
+          "media_count": 860,
+          "tweet_count": 12454
+        },
+        "url": "https://t.co/e6EFIawzyA",
+        "username": "shioc621",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1994269708540088566",
+    "created_at": "2025-11-28T10:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994346743484309933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967563670910894081",
+          "start": 0,
+          "username": "baiyuewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994346743484309933",
+    "in_reply_to_user_id": "1967563670910894081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994346395466080718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiyuewww 我在吃药了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1994269708540088566",
+        "created_at": "2025-11-28T10:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994346743484309933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967563670910894081",
+              "start": 0,
+              "username": "baiyuewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994346743484309933",
+        "in_reply_to_user_id": "1967563670910894081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994346395466080718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiyuewww 我在吃药了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967563670910894081",
+        "conversation_id": "1994269708540088566",
+        "created_at": "2025-11-28T10:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994346395466080718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994346395466080718",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994269708540088566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 孩子，精神病是可以治好的，不要再伤害自己了，去找心理咨询师聊聊吧，实在不行，每天坚持跳绳30分钟一切都会好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 1966,
+          "like_count": 61700,
+          "listed_count": 8,
+          "media_count": 1298,
+          "tweet_count": 9032
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T12:19:34.000Z",
+        "description": "孤鹤游天外，凡禽莫近身.",
+        "id": "1967563670910894081",
+        "location": "中国 江西",
+        "name": "B站任成轩🇨🇳",
+        "pinned_tweet_id": "1991785074669613360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991784882570182656/B5c7YXZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 3,
+          "like_count": 787,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 725
+        },
+        "username": "baiyuewww",
+        "verified": false
+      }
+    ]
+  }
+}

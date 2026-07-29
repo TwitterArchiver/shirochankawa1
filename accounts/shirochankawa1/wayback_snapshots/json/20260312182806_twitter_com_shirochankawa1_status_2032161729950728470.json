@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2032130221563134218",
+    "created_at": "2026-03-12T18:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T19:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032161729950728470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711227715939160064",
+          "start": 0,
+          "username": "Umino_0906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032161729950728470",
+    "in_reply_to_user_id": "1711227715939160064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032150677217296432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Umino_0906 🥺❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2032130221563134218",
+        "created_at": "2026-03-12T18:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032161729950728470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711227715939160064",
+              "start": 0,
+              "username": "Umino_0906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032161729950728470",
+        "in_reply_to_user_id": "1711227715939160064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032150677217296432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Umino_0906 🥺❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711227715939160064",
+        "conversation_id": "2032130221563134218",
+        "created_at": "2026-03-12T17:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032150677217296432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032150677217296432",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032130221563134218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 好酷的蓝毛😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 2007,
+          "like_count": 67329,
+          "listed_count": 8,
+          "media_count": 1589,
+          "tweet_count": 10711
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T03:51:06.000Z",
+        "description": "清水推，聊黄聊骚的滚，盗图狗也滚，不要冲我脸我会骂人。只有一个号，盗图请自辨，也不会收任何钱，大家不要被骗",
+        "id": "1711227715939160064",
+        "name": "海野",
+        "pinned_tweet_id": "2031333783040045066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031335805646680065/2Tx9Uw-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 597,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 189
+        },
+        "username": "Umino_0906",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2053449821261123637",
+    "created_at": "2026-05-10T12:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053449821261123637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2045452240878743552",
+          "start": 3,
+          "username": "keso03111314sxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053449821261123637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053419633949249938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keso03111314sxh: 推特本来是我发负面和雪兔的地方现在搞得我开始发日常了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2053449821261123637",
+        "created_at": "2026-05-10T12:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053449821261123637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2045452240878743552",
+              "start": 3,
+              "username": "keso03111314sxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053449821261123637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053419633949249938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keso03111314sxh: 推特本来是我发负面和雪兔的地方现在搞得我开始发日常了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045452240878743552",
+        "conversation_id": "2053419633949249938",
+        "created_at": "2026-05-10T10:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053419633949249938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053419633949249938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "推特本来是我发负面和雪兔的地方现在搞得我开始发日常了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 2073,
+          "like_count": 68797,
+          "listed_count": 8,
+          "media_count": 1678,
+          "tweet_count": 11287
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T10:42:01.000Z",
+        "description": "自残｜od｜重度抑郁重度焦虑｜\ncn可颂/杨诺\n爱看看不爱看滚我没惹你\n举报我的4000+\n我是刻薄逼别来惹我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/8Z3AQwkdEA"
+              }
+            ]
+          }
+        },
+        "id": "2045452240878743552",
+        "location": "🚪52纯绿",
+        "name": "Croissant(2.0）",
+        "pinned_tweet_id": "2052401637906587970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396337904427008/-JKsoMvU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 248,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/8Z3AQwkdEA",
+        "username": "keso03111314sxh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2061058205430825270",
+    "created_at": "2026-05-31T12:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T13:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061058205430825270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1988330100056834049",
+          "start": 3,
+          "username": "PLASTICCERO99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061058205430825270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060784871073526243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PLASTICCERO99: 国外给女角色的奶子画的太小会被骂恋童，国内给女角色的奶子画的太大会被骂辱女，都别画了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2061058205430825270",
+        "created_at": "2026-05-31T12:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061058205430825270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1988330100056834049",
+              "start": 3,
+              "username": "PLASTICCERO99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061058205430825270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060784871073526243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PLASTICCERO99: 国外给女角色的奶子画的太小会被骂恋童，国内给女角色的奶子画的太大会被骂辱女，都别画了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988330100056834049",
+        "conversation_id": "2060784871073526243",
+        "created_at": "2026-05-30T18:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060784871073526243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060784871073526243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 34742,
+          "like_count": 676,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "国外给女角色的奶子画的太小会被骂恋童，国内给女角色的奶子画的太大会被骂辱女，都别画了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 2110,
+          "like_count": 70388,
+          "listed_count": 8,
+          "media_count": 1738,
+          "tweet_count": 11713
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T19:37:04.000Z",
+        "description": "HIYA IM GOGO I DOODLE & GIBBERISH 🎮SNK | ENG/中文 | 21+ | I EAT EVERYTHING | SHE/HER | HEAVY RT |BOTTOM!BILLY | I DRAW LOTS OF BILLY KANE | 🔞@ChurroCreamPuff",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 139,
+                "username": "ChurroCreamPuff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "plasticcero99.straw.page",
+                "end": 23,
+                "expanded_url": "https://plasticcero99.straw.page/",
+                "start": 0,
+                "url": "https://t.co/bSMO9jNFbw"
+              }
+            ]
+          }
+        },
+        "id": "1988330100056834049",
+        "location": "Banner by @rindomi3❤️",
+        "name": "舒猴斯",
+        "pinned_tweet_id": "2043656562808410595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004617844252684289/7Ad09msP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3409,
+          "following_count": 553,
+          "like_count": 15587,
+          "listed_count": 14,
+          "media_count": 152,
+          "tweet_count": 7492
+        },
+        "url": "https://t.co/bSMO9jNFbw",
+        "username": "PLASTICCERO99",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2071834600784245214",
+    "created_at": "2026-06-30T08:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T09:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071874217222799774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1630323476551843840",
+          "start": 0,
+          "username": "kongkongk22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071874217222799774",
+    "in_reply_to_user_id": "1630323476551843840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071871908342329744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kongkongk22 🥺❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2071834600784245214",
+        "created_at": "2026-06-30T08:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071874217222799774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1630323476551843840",
+              "start": 0,
+              "username": "kongkongk22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071874217222799774",
+        "in_reply_to_user_id": "1630323476551843840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071871908342329744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kongkongk22 🥺❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630323476551843840",
+        "conversation_id": "2071834600784245214",
+        "created_at": "2026-06-30T08:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071871908342329744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071871908342329744",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071834600784245214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 好萌啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 2174,
+          "like_count": 71403,
+          "listed_count": 8,
+          "media_count": 1790,
+          "tweet_count": 12083
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-27T21:46:33.000Z",
+        "description": "重生 可以叫我鸟鸟 双相/ADHD/ASD/IBS\n泛🌈♂ v系 地雷 男娘 轻重口 露出 sp",
+        "id": "1630323476551843840",
+        "name": "日日keyli",
+        "pinned_tweet_id": "2071027011825586287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068626584899371008/nXqI2DwH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 72,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "kongkongk22",
+        "verified": true
+      }
+    ]
+  }
+}

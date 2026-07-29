@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1994269708540088566",
+    "created_at": "2025-11-28T12:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T13:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994376164778066418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865831426303897600",
+          "start": 0,
+          "username": "dreamlandsym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994376164778066418",
+    "in_reply_to_user_id": "1865831426303897600",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994374435244236962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamlandsym 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1994269708540088566",
+        "created_at": "2025-11-28T12:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994376164778066418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865831426303897600",
+              "start": 0,
+              "username": "dreamlandsym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994376164778066418",
+        "in_reply_to_user_id": "1865831426303897600",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994374435244236962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamlandsym 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865831426303897600",
+        "conversation_id": "1994269708540088566",
+        "created_at": "2025-11-28T11:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994374435244236962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994374435244236962",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994269708540088566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 呜呜…不要伤害自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 1969,
+          "like_count": 61772,
+          "listed_count": 8,
+          "media_count": 1302,
+          "tweet_count": 9081
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:51:06.000Z",
+        "description": "你们好！我们是dreamland system，现主导是零酱和可奈\n/无证hrt2025.1.10\n/里推（触发警告🎈）：@DreamlandSysSub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "DreamlandSysSub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zero_158gjzr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zero_158gjzr",
+                "start": 0,
+                "url": "https://t.co/ZxXMCZ22Y4"
+              }
+            ]
+          }
+        },
+        "id": "1865831426303897600",
+        "location": "梦之彼岸 dreamland",
+        "name": "北雁梦 - ドリームランド システム",
+        "pinned_tweet_id": "1988932406028771734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971261083634761732/H3a08est_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 983,
+          "like_count": 10982,
+          "listed_count": 5,
+          "media_count": 407,
+          "tweet_count": 7136
+        },
+        "url": "https://t.co/ZxXMCZ22Y4",
+        "username": "dreamlandsym",
+        "verified": false
+      }
+    ]
+  }
+}

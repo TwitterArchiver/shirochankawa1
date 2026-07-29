@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062977521889779712",
+        "3_2062977521898196992",
+        "3_2062977521868787712",
+        "3_2062977521860431872"
+      ],
+      "media_source_tweet_id": [
+        "2062977534376259761",
+        "2062977534376259761",
+        "2062977534376259761",
+        "2062977534376259761"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2081696049404825705",
+    "created_at": "2026-07-27T10:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081696049404825705"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "纸房子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1737371787808165888",
+          "start": 3,
+          "username": "Swaybord66"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5lKFMjTr13",
+          "end": 44,
+          "expanded_url": "https://x.com/Swaybord66/status/2062977534376259761/photo/1",
+          "media_key": "3_2062977521889779712",
+          "start": 21,
+          "url": "https://t.co/5lKFMjTr13"
+        },
+        {
+          "display_url": "pic.x.com/5lKFMjTr13",
+          "end": 44,
+          "expanded_url": "https://x.com/Swaybord66/status/2062977534376259761/photo/1",
+          "media_key": "3_2062977521898196992",
+          "start": 21,
+          "url": "https://t.co/5lKFMjTr13"
+        },
+        {
+          "display_url": "pic.x.com/5lKFMjTr13",
+          "end": 44,
+          "expanded_url": "https://x.com/Swaybord66/status/2062977534376259761/photo/1",
+          "media_key": "3_2062977521868787712",
+          "start": 21,
+          "url": "https://t.co/5lKFMjTr13"
+        },
+        {
+          "display_url": "pic.x.com/5lKFMjTr13",
+          "end": 44,
+          "expanded_url": "https://x.com/Swaybord66/status/2062977534376259761/photo/1",
+          "media_key": "3_2062977521860431872",
+          "start": 21,
+          "url": "https://t.co/5lKFMjTr13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081696049404825705",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062977534376259761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Swaybord66: #纸房子 https://t.co/5lKFMjTr13"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_2062977521889779712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKErIEPbIAAsel6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062977521898196992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKErIERbkAAspo6.jpg",
+        "width": 1580
+      },
+      {
+        "height": 1238,
+        "media_key": "3_2062977521868787712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKErIEKa0AAI9Wd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062977521860431872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKErIEIbUAAUpjn.jpg",
+        "width": 1524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062977521889779712",
+            "3_2062977521898196992",
+            "3_2062977521868787712",
+            "3_2062977521860431872"
+          ]
+        },
+        "author_id": "1737371787808165888",
+        "conversation_id": "2062977534376259761",
+        "created_at": "2026-06-05T19:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062977534376259761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "纸房子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lKFMjTr13",
+              "end": 28,
+              "expanded_url": "https://x.com/Swaybord66/status/2062977534376259761/photo/1",
+              "media_key": "3_2062977521889779712",
+              "start": 5,
+              "url": "https://t.co/5lKFMjTr13"
+            },
+            {
+              "display_url": "pic.x.com/5lKFMjTr13",
+              "end": 28,
+              "expanded_url": "https://x.com/Swaybord66/status/2062977534376259761/photo/1",
+              "media_key": "3_2062977521898196992",
+              "start": 5,
+              "url": "https://t.co/5lKFMjTr13"
+            },
+            {
+              "display_url": "pic.x.com/5lKFMjTr13",
+              "end": 28,
+              "expanded_url": "https://x.com/Swaybord66/status/2062977534376259761/photo/1",
+              "media_key": "3_2062977521868787712",
+              "start": 5,
+              "url": "https://t.co/5lKFMjTr13"
+            },
+            {
+              "display_url": "pic.x.com/5lKFMjTr13",
+              "end": 28,
+              "expanded_url": "https://x.com/Swaybord66/status/2062977534376259761/photo/1",
+              "media_key": "3_2062977521860431872",
+              "start": 5,
+              "url": "https://t.co/5lKFMjTr13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062977534376259761",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 9424,
+          "like_count": 360,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "#纸房子 https://t.co/5lKFMjTr13"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062977521889779712",
+            "3_2062977521898196992",
+            "3_2062977521868787712",
+            "3_2062977521860431872"
+          ],
+          "media_source_tweet_id": [
+            "2062977534376259761",
+            "2062977534376259761",
+            "2062977534376259761",
+            "2062977534376259761"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2081696049404825705",
+        "created_at": "2026-07-27T10:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081696049404825705"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "纸房子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1737371787808165888",
+              "start": 3,
+              "username": "Swaybord66"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lKFMjTr13",
+              "end": 44,
+              "expanded_url": "https://x.com/Swaybord66/status/2062977534376259761/photo/1",
+              "media_key": "3_2062977521889779712",
+              "start": 21,
+              "url": "https://t.co/5lKFMjTr13"
+            },
+            {
+              "display_url": "pic.x.com/5lKFMjTr13",
+              "end": 44,
+              "expanded_url": "https://x.com/Swaybord66/status/2062977534376259761/photo/1",
+              "media_key": "3_2062977521898196992",
+              "start": 21,
+              "url": "https://t.co/5lKFMjTr13"
+            },
+            {
+              "display_url": "pic.x.com/5lKFMjTr13",
+              "end": 44,
+              "expanded_url": "https://x.com/Swaybord66/status/2062977534376259761/photo/1",
+              "media_key": "3_2062977521868787712",
+              "start": 21,
+              "url": "https://t.co/5lKFMjTr13"
+            },
+            {
+              "display_url": "pic.x.com/5lKFMjTr13",
+              "end": 44,
+              "expanded_url": "https://x.com/Swaybord66/status/2062977534376259761/photo/1",
+              "media_key": "3_2062977521860431872",
+              "start": 21,
+              "url": "https://t.co/5lKFMjTr13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081696049404825705",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062977534376259761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Swaybord66: #纸房子 https://t.co/5lKFMjTr13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2920,
+          "following_count": 2191,
+          "like_count": 72037,
+          "listed_count": 8,
+          "media_count": 1825,
+          "tweet_count": 12300
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T07:18:28.000Z",
+        "description": "＝66|中文/English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/5138714939",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/5138714939",
+                "start": 0,
+                "url": "https://t.co/d5EA6mdkTC"
+              }
+            ]
+          }
+        },
+        "id": "1737371787808165888",
+        "name": "Six_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769967199215820800/Wic1mHn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5316,
+          "following_count": 251,
+          "like_count": 373,
+          "listed_count": 13,
+          "media_count": 131,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/d5EA6mdkTC",
+        "username": "Swaybord66",
+        "verified": false
+      }
+    ]
+  }
+}

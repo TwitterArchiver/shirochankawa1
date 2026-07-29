@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995101991991934977"
+      ],
+      "media_source_tweet_id": [
+        "1995101999986328008"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995342247014076700",
+    "created_at": "2025-12-01T04:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T05:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995342247014076700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827563342967533568",
+          "start": 3,
+          "username": "merofang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GuI9KEcwK5",
+          "end": 37,
+          "expanded_url": "https://x.com/merofang/status/1995101999986328008/photo/1",
+          "media_key": "3_1995101991991934977",
+          "start": 14,
+          "url": "https://t.co/GuI9KEcwK5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995342247014076700",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2219
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995101999986328008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @merofang: https://t.co/GuI9KEcwK5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995101991991934977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7AGsPNagAEWRJd.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995101991991934977"
+          ],
+          "media_source_tweet_id": [
+            "1995101999986328008"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995342247014076700",
+        "created_at": "2025-12-01T04:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995342247014076700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827563342967533568",
+              "start": 3,
+              "username": "merofang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuI9KEcwK5",
+              "end": 37,
+              "expanded_url": "https://x.com/merofang/status/1995101999986328008/photo/1",
+              "media_key": "3_1995101991991934977",
+              "start": 14,
+              "url": "https://t.co/GuI9KEcwK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995342247014076700",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2219
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995101999986328008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @merofang: https://t.co/GuI9KEcwK5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995101991991934977"
+          ]
+        },
+        "author_id": "1827563342967533568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995101999986328008",
+        "created_at": "2025-11-30T12:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995101999986328008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuI9KEcwK5",
+              "end": 23,
+              "expanded_url": "https://x.com/merofang/status/1995101999986328008/photo/1",
+              "media_key": "3_1995101991991934977",
+              "start": 0,
+              "url": "https://t.co/GuI9KEcwK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995101999986328008",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1854,
+          "impression_count": 220923,
+          "like_count": 20351,
+          "quote_count": 32,
+          "reply_count": 14,
+          "retweet_count": 2219
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GuI9KEcwK5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 1981,
+          "like_count": 62269,
+          "listed_count": 8,
+          "media_count": 1308,
+          "tweet_count": 9212
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T04:27:16.000Z",
+        "description": "🍈메로팡 / 💚contact - https://t.co/SBQhbWJhEF / 🚫 AI & repost & reproduction is prohibited",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/merofang",
+                "end": 41,
+                "expanded_url": "https://lit.link/merofang",
+                "start": 18,
+                "url": "https://t.co/SBQhbWJhEF"
+              }
+            ]
+          }
+        },
+        "id": "1827563342967533568",
+        "name": "メロンパン",
+        "pinned_tweet_id": "1867029875758133495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854538890201444352/KDEPJmbW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27597,
+          "following_count": 97,
+          "like_count": 1269,
+          "listed_count": 142,
+          "media_count": 50,
+          "tweet_count": 537
+        },
+        "username": "merofang",
+        "verified": true
+      }
+    ]
+  }
+}

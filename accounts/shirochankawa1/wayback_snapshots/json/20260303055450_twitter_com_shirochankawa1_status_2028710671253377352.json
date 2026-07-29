@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2028710671253377352",
+    "created_at": "2026-03-03T05:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T06:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028710671253377352"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028710671253377352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有些人之间的感情已经不能叫作仰慕了，而是执念吧。。世界上所有人都不在了也没关系，恒星崩毁太阳寂灭也无所谓，只要你还在那里，只要我们还有能见面的时刻，我就会一直等下去，直到等到我们再次见面的时刻。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2028710671253377352",
+        "created_at": "2026-03-03T05:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028710671253377352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028710671253377352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些人之间的感情已经不能叫作仰慕了，而是执念吧。。世界上所有人都不在了也没关系，恒星崩毁太阳寂灭也无所谓，只要你还在那里，只要我们还有能见面的时刻，我就会一直等下去，直到等到我们再次见面的时刻。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 2000,
+          "like_count": 66366,
+          "listed_count": 8,
+          "media_count": 1567,
+          "tweet_count": 10518
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

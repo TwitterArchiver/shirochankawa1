@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2054389603474473364",
+    "created_at": "2026-05-13T02:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054389603474473364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1788083166856749056",
+          "start": 3,
+          "username": "LanLan93083241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054389603474473364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054090550211666205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanLan93083241: 几年前你觉得这人就是你这辈子最好的朋友了，掏心掏肺两肋插刀恨不得变成一个人，立誓八十岁也要混在一起，转眼间到了今天，竟然和陌生人没什么区别，关于友谊的誓言，有时竟比爱情还要荒唐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2054389603474473364",
+        "created_at": "2026-05-13T02:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054389603474473364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1788083166856749056",
+              "start": 3,
+              "username": "LanLan93083241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054389603474473364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054090550211666205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanLan93083241: 几年前你觉得这人就是你这辈子最好的朋友了，掏心掏肺两肋插刀恨不得变成一个人，立誓八十岁也要混在一起，转眼间到了今天，竟然和陌生人没什么区别，关于友谊的誓言，有时竟比爱情还要荒唐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788083166856749056",
+        "conversation_id": "2054090550211666205",
+        "created_at": "2026-05-12T06:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054090550211666205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054090550211666205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 33410,
+          "like_count": 847,
+          "quote_count": 28,
+          "reply_count": 62,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "几年前你觉得这人就是你这辈子最好的朋友了，掏心掏肺两肋插刀恨不得变成一个人，立誓八十岁也要混在一起，转眼间到了今天，竟然和陌生人没什么区别，关于友谊的誓言，有时竟比爱情还要荒唐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 2076,
+          "like_count": 68996,
+          "listed_count": 9,
+          "media_count": 1683,
+          "tweet_count": 11354
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女生\n(希望路过的你可以点一个关注 谢谢😉)",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "2053722310646120812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978758355318611968/KQBoDyuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41088,
+          "following_count": 2906,
+          "like_count": 40873,
+          "listed_count": 129,
+          "media_count": 1673,
+          "tweet_count": 2467
+        },
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

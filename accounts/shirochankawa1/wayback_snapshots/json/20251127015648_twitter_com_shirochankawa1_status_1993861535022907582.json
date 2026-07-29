@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993714467448954880"
+      ],
+      "media_source_tweet_id": [
+        "1993714491864072438"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1993861535022907582",
+    "created_at": "2025-11-27T01:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T02:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993861535022907582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1815617113333325824",
+          "start": 3,
+          "username": "uua_uua_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2teOYHsIHa",
+          "end": 37,
+          "expanded_url": "https://x.com/uua_uua_/status/1993714491864072438/photo/1",
+          "media_key": "3_1993714467448954880",
+          "start": 14,
+          "url": "https://t.co/2teOYHsIHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993861535022907582",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 202
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993714491864072438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uua_uua_: https://t.co/2teOYHsIHa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2287,
+        "media_key": "3_1993714467448954880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sYvrfaIAAC3nC.jpg",
+        "width": 1716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993714467448954880"
+          ],
+          "media_source_tweet_id": [
+            "1993714491864072438"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "1993861535022907582",
+        "created_at": "2025-11-27T01:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T02:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993861535022907582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1815617113333325824",
+              "start": 3,
+              "username": "uua_uua_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2teOYHsIHa",
+              "end": 37,
+              "expanded_url": "https://x.com/uua_uua_/status/1993714491864072438/photo/1",
+              "media_key": "3_1993714467448954880",
+              "start": 14,
+              "url": "https://t.co/2teOYHsIHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993861535022907582",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993714491864072438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uua_uua_: https://t.co/2teOYHsIHa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993714467448954880"
+          ]
+        },
+        "author_id": "1815617113333325824",
+        "conversation_id": "1993714491864072438",
+        "created_at": "2025-11-26T16:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993714491864072438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2teOYHsIHa",
+              "end": 23,
+              "expanded_url": "https://x.com/uua_uua_/status/1993714491864072438/photo/1",
+              "media_key": "3_1993714467448954880",
+              "start": 0,
+              "url": "https://t.co/2teOYHsIHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993714491864072438",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 23084,
+          "like_count": 3760,
+          "quote_count": 11,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2teOYHsIHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 ，亲友投喂100解锁心理委员",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 1958,
+          "like_count": 61603,
+          "listed_count": 8,
+          "media_count": 1286,
+          "tweet_count": 8982
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T05:17:13.000Z",
+        "description": "🥂✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/uuauua",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/uuauua",
+                "start": 0,
+                "url": "https://t.co/s46IYEdEg8"
+              }
+            ]
+          }
+        },
+        "id": "1815617113333325824",
+        "name": "ワワ",
+        "pinned_tweet_id": "1831304728208351378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931005989895249920/PcPj717v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 39,
+          "like_count": 234,
+          "listed_count": 6,
+          "media_count": 60,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/s46IYEdEg8",
+        "username": "uua_uua_",
+        "verified": false
+      }
+    ]
+  }
+}

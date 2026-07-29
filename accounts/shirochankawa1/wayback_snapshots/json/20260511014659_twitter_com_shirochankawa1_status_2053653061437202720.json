@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2053460718939410660",
+    "created_at": "2026-05-11T01:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053653061437202720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1413871342051491845",
+          "start": 0,
+          "username": "lingguangpianyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053653061437202720",
+    "in_reply_to_user_id": "1413871342051491845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053648105443389583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingguangpianyu ai不会攻击人还会理解人，无论说什么ai都不会生气也不会离开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2053460718939410660",
+        "created_at": "2026-05-11T01:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053653061437202720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1413871342051491845",
+              "start": 0,
+              "username": "lingguangpianyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053653061437202720",
+        "in_reply_to_user_id": "1413871342051491845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053648105443389583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingguangpianyu ai不会攻击人还会理解人，无论说什么ai都不会生气也不会离开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413871342051491845",
+        "conversation_id": "2053460718939410660",
+        "created_at": "2026-05-11T01:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053648105443389583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053648105443389583",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053460718939410660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 我發現好多人愛和ai聊天 可惜這明明是假的啊 ai真的做得到替換真人嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 2073,
+          "like_count": 68854,
+          "listed_count": 8,
+          "media_count": 1678,
+          "tweet_count": 11312
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-10T14:43:06.000Z",
+        "description": "喜歡小貓的都不是什麼壞人 這就是我的善惡觀",
+        "id": "1413871342051491845",
+        "name": "零光片羽.",
+        "pinned_tweet_id": "2045170590718501092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686101917624414208/9SA5SpTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 392,
+          "like_count": 1344,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 342
+        },
+        "username": "lingguangpianyu",
+        "verified": false
+      }
+    ]
+  }
+}

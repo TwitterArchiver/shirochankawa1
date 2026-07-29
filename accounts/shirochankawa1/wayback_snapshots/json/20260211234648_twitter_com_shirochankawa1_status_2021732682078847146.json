@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2021484989989470594",
+    "created_at": "2026-02-11T23:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T00:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021732682078847146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1702503663766568960",
+          "start": 0,
+          "username": "telebookstall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021732682078847146",
+    "in_reply_to_user_id": "1702503663766568960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021701775804522799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@telebookstall 上夜班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2021484989989470594",
+        "created_at": "2026-02-11T23:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T00:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021732682078847146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1702503663766568960",
+              "start": 0,
+              "username": "telebookstall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021732682078847146",
+        "in_reply_to_user_id": "1702503663766568960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021701775804522799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@telebookstall 上夜班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702503663766568960",
+        "conversation_id": "2021484989989470594",
+        "created_at": "2026-02-11T21:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T22:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021701775804522799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021701775804522799",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021484989989470594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 说明你白天不用上班"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 1970,
+          "like_count": 63935,
+          "listed_count": 8,
+          "media_count": 1468,
+          "tweet_count": 9891
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T02:05:42.000Z",
+        "description": "客观主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/telebookstall",
+                "end": 23,
+                "expanded_url": "http://t.me/telebookstall",
+                "start": 0,
+                "url": "https://t.co/quhHbnryhg"
+              }
+            ]
+          }
+        },
+        "id": "1702503663766568960",
+        "location": "中国",
+        "name": "电书摊telebookstall",
+        "pinned_tweet_id": "2018539450675142671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853983593854599168/uaiO_Cvr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 4825,
+          "like_count": 2360,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 1415
+        },
+        "url": "https://t.co/quhHbnryhg",
+        "username": "telebookstall",
+        "verified": true
+      }
+    ]
+  }
+}

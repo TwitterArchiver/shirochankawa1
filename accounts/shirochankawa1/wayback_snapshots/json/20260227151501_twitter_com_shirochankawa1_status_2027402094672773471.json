@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2027402094672773471",
+    "created_at": "2026-02-27T15:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027402094672773471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonsense_778/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/nonsense_778/status/2027273044914540594",
+          "start": 22,
+          "url": "https://t.co/4k3eVmJSew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027402094672773471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027273044914540594",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽王瀚哲咋这么帅了，汤达人变成颜值主播了 https://t.co/4k3eVmJSew"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027273022399508480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJSEqra8AAqbFq.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2027273022399557632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJSEqrbsAA1J02.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2027273020478570496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJSEjhbwAAHjtb.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2027402094672773471",
+        "created_at": "2026-02-27T15:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027402094672773471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonsense_778/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/nonsense_778/status/2027273044914540594",
+              "start": 22,
+              "url": "https://t.co/4k3eVmJSew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027402094672773471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027273044914540594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽王瀚哲咋这么帅了，汤达人变成颜值主播了 https://t.co/4k3eVmJSew"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027273022399508480",
+            "3_2027273022399557632",
+            "3_2027273020478570496"
+          ]
+        },
+        "author_id": "1687683090133778432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027273044914540594",
+        "created_at": "2026-02-27T06:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027273044914540594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKAb77JyVr",
+              "end": 94,
+              "expanded_url": "https://x.com/nonsense_778/status/2027273044914540594/photo/1",
+              "media_key": "3_2027273022399508480",
+              "start": 71,
+              "url": "https://t.co/iKAb77JyVr"
+            },
+            {
+              "display_url": "pic.x.com/iKAb77JyVr",
+              "end": 94,
+              "expanded_url": "https://x.com/nonsense_778/status/2027273044914540594/photo/1",
+              "media_key": "3_2027273022399557632",
+              "start": 71,
+              "url": "https://t.co/iKAb77JyVr"
+            },
+            {
+              "display_url": "pic.x.com/iKAb77JyVr",
+              "end": 94,
+              "expanded_url": "https://x.com/nonsense_778/status/2027273044914540594/photo/1",
+              "media_key": "3_2027273020478570496",
+              "start": 71,
+              "url": "https://t.co/iKAb77JyVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027273044914540594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 99630,
+          "like_count": 537,
+          "quote_count": 11,
+          "reply_count": 39,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我有钱了就这样。做一堆医美搞发型搞穿搭 等颜值飞升之后又专门请一个团队帮我拍美照还要专门开一个号发我的精修美照 然后米米享受大家的震惊和夸赞 https://t.co/iKAb77JyVr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 2002,
+          "like_count": 66017,
+          "listed_count": 8,
+          "media_count": 1558,
+          "tweet_count": 10453
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T04:33:43.000Z",
+        "description": "世界第一清纯女大^_^什么都发👅   自用🪜：https://t.co/kxVuKcyEE9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 46,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=nCPSbLW6",
+                "start": 23,
+                "url": "https://t.co/kxVuKcyEE9"
+              }
+            ]
+          }
+        },
+        "id": "1687683090133778432",
+        "location": "Norway",
+        "name": "floating ice🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910967605361336320/A4fpw_S-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29343,
+          "following_count": 95,
+          "like_count": 20225,
+          "listed_count": 78,
+          "media_count": 230,
+          "tweet_count": 4557
+        },
+        "username": "nonsense_778",
+        "verified": true
+      }
+    ]
+  }
+}

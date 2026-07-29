@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2056968287947219257",
+    "created_at": "2026-05-20T13:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057085415765708999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024183200306909186",
+          "start": 0,
+          "username": "AxiomError"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057085415765708999",
+    "in_reply_to_user_id": "2024183200306909186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056968287947219257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AxiomError 不错哟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056968275636969472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvRv5eW4AAmHa2.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2056968287947219257",
+        "created_at": "2026-05-20T13:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057085415765708999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024183200306909186",
+              "start": 0,
+              "username": "AxiomError"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057085415765708999",
+        "in_reply_to_user_id": "2024183200306909186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056968287947219257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AxiomError 不错哟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056968275636969472"
+          ]
+        },
+        "author_id": "2024183200306909186",
+        "conversation_id": "2056968287947219257",
+        "created_at": "2026-05-20T05:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056968287947219257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOCb9x0psQ",
+              "end": 50,
+              "expanded_url": "https://x.com/AxiomError/status/2056968287947219257/photo/1",
+              "media_key": "3_2056968275636969472",
+              "start": 27,
+              "url": "https://t.co/LOCb9x0psQ"
+            },
+            {
+              "display_url": "x.com/shirochankawa1…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/shirochankawa1/status/2056937869655335106",
+              "start": 51,
+              "url": "https://t.co/mePscGRDZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056968287947219257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056937869655335106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生活嘛，就是这样\n真实又无奈，但还是要笑着过下去呀！ https://t.co/LOCb9x0psQ https://t.co/mePscGRDZL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 2094,
+          "like_count": 69767,
+          "listed_count": 8,
+          "media_count": 1704,
+          "tweet_count": 11512
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:05:15.000Z",
+        "description": "🚫 逻辑凌驾于暴力之上。\nAllow: 『 All_Genders, Multi_Dimensions 』\n@AxiomError ⚠ @AirEtch 互fo私信1☉☉，通透模式。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "AxiomError"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "AirEtch"
+              }
+            ]
+          }
+        },
+        "id": "2024183200306909186",
+        "location": "404: Legitimacy Not Found",
+        "name": "逻辑报错 (フォロバ ¹₁☉☉)",
+        "pinned_tweet_id": "2053626137398345788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048076994106273792/t828vgb5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 135,
+          "like_count": 2733,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 539
+        },
+        "username": "AxiomError",
+        "verified": false
+      }
+    ]
+  }
+}

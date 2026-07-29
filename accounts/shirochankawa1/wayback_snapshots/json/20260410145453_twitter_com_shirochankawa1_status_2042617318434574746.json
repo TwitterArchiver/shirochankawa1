@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042608375100510210"
+      ],
+      "media_source_tweet_id": [
+        "2042608380511158746"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2042617318434574746",
+    "created_at": "2026-04-10T14:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042617318434574746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1529112019013861376",
+          "start": 3,
+          "username": "skura_ku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bR1ystlSjE",
+          "end": 37,
+          "expanded_url": "https://x.com/skura_ku/status/2042608380511158746/photo/1",
+          "media_key": "3_2042608375100510210",
+          "start": 14,
+          "url": "https://t.co/bR1ystlSjE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042617318434574746",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042608380511158746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @skura_ku: https://t.co/bR1ystlSjE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1069,
+        "media_key": "3_2042608375100510210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjNfrUakAIph7r.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042608375100510210"
+          ],
+          "media_source_tweet_id": [
+            "2042608380511158746"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2042617318434574746",
+        "created_at": "2026-04-10T14:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042617318434574746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1529112019013861376",
+              "start": 3,
+              "username": "skura_ku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bR1ystlSjE",
+              "end": 37,
+              "expanded_url": "https://x.com/skura_ku/status/2042608380511158746/photo/1",
+              "media_key": "3_2042608375100510210",
+              "start": 14,
+              "url": "https://t.co/bR1ystlSjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042617318434574746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042608380511158746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @skura_ku: https://t.co/bR1ystlSjE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042608375100510210"
+          ]
+        },
+        "author_id": "1529112019013861376",
+        "conversation_id": "2042608380511158746",
+        "created_at": "2026-04-10T14:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042608380511158746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bR1ystlSjE",
+              "end": 23,
+              "expanded_url": "https://x.com/skura_ku/status/2042608380511158746/photo/1",
+              "media_key": "3_2042608375100510210",
+              "start": 0,
+              "url": "https://t.co/bR1ystlSjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042608380511158746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/bR1ystlSjE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 2034,
+          "like_count": 68145,
+          "listed_count": 8,
+          "media_count": 1635,
+          "tweet_count": 11029
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "あやなHELLO ᝯ◂ ࠫ‘֊‘ ࠫ▾ಎ➹とSAKURA4444444444444444444444ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 不闲聊好友位200 全世界最喜欢@kami07322 💖🌍と@zqlxc_ あかちゃん",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "kami07322"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "zqlxc_"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "name": "アヤナྀིྀི 𓉸ྀི ༘⋆",
+        "pinned_tweet_id": "1997718826864267728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038259949739053056/ftillMdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21213,
+          "following_count": 398,
+          "like_count": 16815,
+          "listed_count": 67,
+          "media_count": 859,
+          "tweet_count": 6964
+        },
+        "username": "skura_ku",
+        "verified": false
+      }
+    ]
+  }
+}

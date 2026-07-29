@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060244430502912000",
+        "3_2060244430507180032"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2060244440896426431",
+    "created_at": "2026-05-29T06:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060244440896426431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vLbIM9FV05",
+          "end": 104,
+          "expanded_url": "https://x.com/shirochankawa1/status/2060244440896426431/photo/1",
+          "media_key": "3_2060244430502912000",
+          "start": 81,
+          "url": "https://t.co/vLbIM9FV05"
+        },
+        {
+          "display_url": "pic.x.com/vLbIM9FV05",
+          "end": 104,
+          "expanded_url": "https://x.com/shirochankawa1/status/2060244440896426431/photo/1",
+          "media_key": "3_2060244430507180032",
+          "start": 81,
+          "url": "https://t.co/vLbIM9FV05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060244440896426431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好可怕，这就是所谓的正义吗？把一个现实中的小女孩网暴成这样，把虚拟人物看的比现实中的人重要，这不就是间接杀人吗？这个时候还在男权女权把人命当什么了？真的太冷血了 https://t.co/vLbIM9FV05"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2060244430502912000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd1ZNaaYAAFDWN.jpg",
+        "width": 1084
+      },
+      {
+        "height": 333,
+        "media_key": "3_2060244430507180032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd1ZNbbgAA3b6_.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060244430502912000",
+            "3_2060244430507180032"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2060244440896426431",
+        "created_at": "2026-05-29T06:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060244440896426431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLbIM9FV05",
+              "end": 104,
+              "expanded_url": "https://x.com/shirochankawa1/status/2060244440896426431/photo/1",
+              "media_key": "3_2060244430502912000",
+              "start": 81,
+              "url": "https://t.co/vLbIM9FV05"
+            },
+            {
+              "display_url": "pic.x.com/vLbIM9FV05",
+              "end": 104,
+              "expanded_url": "https://x.com/shirochankawa1/status/2060244440896426431/photo/1",
+              "media_key": "3_2060244430507180032",
+              "start": 81,
+              "url": "https://t.co/vLbIM9FV05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060244440896426431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可怕，这就是所谓的正义吗？把一个现实中的小女孩网暴成这样，把虚拟人物看的比现实中的人重要，这不就是间接杀人吗？这个时候还在男权女权把人命当什么了？真的太冷血了 https://t.co/vLbIM9FV05"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2581,
+          "following_count": 2105,
+          "like_count": 70303,
+          "listed_count": 8,
+          "media_count": 1734,
+          "tweet_count": 11685
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

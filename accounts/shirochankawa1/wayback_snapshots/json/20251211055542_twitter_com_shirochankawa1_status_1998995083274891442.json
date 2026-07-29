@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998995077306396677",
+        "3_1998995077268733952"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1998995083274891442",
+    "created_at": "2025-12-11T05:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T06:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998995083274891442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X1k9J6qXok",
+          "end": 23,
+          "expanded_url": "https://x.com/shirochankawa1/status/1998995083274891442/photo/1",
+          "media_key": "3_1998995077306396677",
+          "start": 0,
+          "url": "https://t.co/X1k9J6qXok"
+        },
+        {
+          "display_url": "pic.x.com/X1k9J6qXok",
+          "end": 23,
+          "expanded_url": "https://x.com/shirochankawa1/status/1998995083274891442/photo/1",
+          "media_key": "3_1998995077268733952",
+          "start": 0,
+          "url": "https://t.co/X1k9J6qXok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998995083274891442",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/X1k9J6qXok"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998995083274891442].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998995083274891442",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998995083274891442"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_1998995077306396677",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G73bboKaMAUfpDS.jpg",
+        "width": 720
+      },
+      {
+        "height": 884,
+        "media_key": "3_1998995077268733952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G73bboBbgAAl6Sp.jpg",
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 1974,
+          "like_count": 62402,
+          "listed_count": 8,
+          "media_count": 1331,
+          "tweet_count": 9294
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062701178723672064",
+        "3_2062701178757304320"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2062701188018237847",
+    "created_at": "2026-06-05T01:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062701188018237847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LDvR6RwN9A",
+          "end": 29,
+          "expanded_url": "https://x.com/shirochankawa1/status/2062701188018237847/photo/1",
+          "media_key": "3_2062701178723672064",
+          "start": 6,
+          "url": "https://t.co/LDvR6RwN9A"
+        },
+        {
+          "display_url": "pic.x.com/LDvR6RwN9A",
+          "end": 29,
+          "expanded_url": "https://x.com/shirochankawa1/status/2062701188018237847/photo/1",
+          "media_key": "3_2062701178757304320",
+          "start": 6,
+          "url": "https://t.co/LDvR6RwN9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062701188018237847",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类大探索 https://t.co/LDvR6RwN9A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2062701178723672064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAvyxuaoAASoMx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2062701178757304320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAvyx2b0AArPkt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062701178723672064",
+            "3_2062701178757304320"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2062701188018237847",
+        "created_at": "2026-06-05T01:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062701188018237847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LDvR6RwN9A",
+              "end": 29,
+              "expanded_url": "https://x.com/shirochankawa1/status/2062701188018237847/photo/1",
+              "media_key": "3_2062701178723672064",
+              "start": 6,
+              "url": "https://t.co/LDvR6RwN9A"
+            },
+            {
+              "display_url": "pic.x.com/LDvR6RwN9A",
+              "end": 29,
+              "expanded_url": "https://x.com/shirochankawa1/status/2062701188018237847/photo/1",
+              "media_key": "3_2062701178757304320",
+              "start": 6,
+              "url": "https://t.co/LDvR6RwN9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062701188018237847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类大探索 https://t.co/LDvR6RwN9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 2134,
+          "like_count": 70562,
+          "listed_count": 8,
+          "media_count": 1750,
+          "tweet_count": 11798
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

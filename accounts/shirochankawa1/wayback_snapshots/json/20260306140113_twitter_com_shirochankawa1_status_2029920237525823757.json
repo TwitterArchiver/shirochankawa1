@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029920212871696387",
+        "3_2029920212892667908",
+        "3_2029920212871700480",
+        "3_2029920212905336832"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2029920237525823757",
+    "created_at": "2026-03-06T14:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T15:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029920237525823757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J42Pu5yx8q",
+          "end": 103,
+          "expanded_url": "https://x.com/shirochankawa1/status/2029920237525823757/photo/1",
+          "media_key": "3_2029920212871696387",
+          "start": 80,
+          "url": "https://t.co/J42Pu5yx8q"
+        },
+        {
+          "display_url": "pic.x.com/J42Pu5yx8q",
+          "end": 103,
+          "expanded_url": "https://x.com/shirochankawa1/status/2029920237525823757/photo/1",
+          "media_key": "3_2029920212892667908",
+          "start": 80,
+          "url": "https://t.co/J42Pu5yx8q"
+        },
+        {
+          "display_url": "pic.x.com/J42Pu5yx8q",
+          "end": 103,
+          "expanded_url": "https://x.com/shirochankawa1/status/2029920237525823757/photo/1",
+          "media_key": "3_2029920212871700480",
+          "start": 80,
+          "url": "https://t.co/J42Pu5yx8q"
+        },
+        {
+          "display_url": "pic.x.com/J42Pu5yx8q",
+          "end": 103,
+          "expanded_url": "https://x.com/shirochankawa1/status/2029920237525823757/photo/1",
+          "media_key": "3_2029920212905336832",
+          "start": 80,
+          "url": "https://t.co/J42Pu5yx8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029920237525823757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鬰/不稳定意识体，这里是存档点，我们躲起来，不要被命运找到。泛性恋/无性别，低精力人群低浮上致歉，于幻想与梦中沉沦，逃避就是在人生中摸鱼，自介亦是对自我的探索 https://t.co/J42Pu5yx8q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2029920237525823757].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2029920237525823757",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2029920237525823757"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2029920212871696387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu5rbqaUAMO-ZB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029920212892667908",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu5rbvaUAQA6HD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1832,
+        "media_key": "3_2029920212871700480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu5rbqaYAA-j2b.jpg",
+        "width": 1949
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2029920212905336832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu5rbyboAAgOWD.jpg",
+        "width": 1022
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 2006,
+          "like_count": 66949,
+          "listed_count": 8,
+          "media_count": 1579,
+          "tweet_count": 10639
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

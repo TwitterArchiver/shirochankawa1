@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2065637250789159247",
+    "created_at": "2026-06-13T07:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065694375104192756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818963400468426752",
+          "start": 0,
+          "username": "moren086702"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065694375104192756",
+    "in_reply_to_user_id": "1818963400468426752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065652548435144838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moren086702 对的对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2065637250789159247",
+        "created_at": "2026-06-13T07:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065694375104192756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818963400468426752",
+              "start": 0,
+              "username": "moren086702"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065694375104192756",
+        "in_reply_to_user_id": "1818963400468426752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065652548435144838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moren086702 对的对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818963400468426752",
+        "conversation_id": "2065637250789159247",
+        "created_at": "2026-06-13T04:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065652548435144838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065652548435144838",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065637250789159247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 欲望大奖赛要开始了吗？ᔦ ° ꒳ ° ᔨ ̖́-"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 2155,
+          "like_count": 71091,
+          "listed_count": 8,
+          "media_count": 1770,
+          "tweet_count": 11948
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T10:54:11.000Z",
+        "description": "一个社恐哥布林——正在努力学外语～加油\n偶尔会碎碎念，大部分来自刷到的视频或听的小说\n₍ᵔ･•･ᵔ₎",
+        "id": "1818963400468426752",
+        "name": "小布",
+        "pinned_tweet_id": "2023430739526832432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019316728761839617/PF3c00Rr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 488,
+          "like_count": 22648,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 2641
+        },
+        "username": "moren086702",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024431106536460764",
+    "created_at": "2026-02-19T10:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T11:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024431106536460764"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024431106536460764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "飘零的冷冽深入骨髓，会到何处，回到何处，被风吹着，被风推着，“迟早要出去的”\n这不安全，这不安心，“迟早要回去的”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024431106536460764",
+        "created_at": "2026-02-19T10:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024431106536460764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024431106536460764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "飘零的冷冽深入骨髓，会到何处，回到何处，被风吹着，被风推着，“迟早要出去的”\n这不安全，这不安心，“迟早要回去的”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 1984,
+          "like_count": 64691,
+          "listed_count": 8,
+          "media_count": 1507,
+          "tweet_count": 10104
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

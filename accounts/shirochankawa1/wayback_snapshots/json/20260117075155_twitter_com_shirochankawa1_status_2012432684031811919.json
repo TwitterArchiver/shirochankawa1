@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2012428926417825867",
+    "created_at": "2026-01-17T07:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T08:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012432684031811919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1456640419060944896",
+          "start": 0,
+          "username": "gulingf3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012432684031811919",
+    "in_reply_to_user_id": "1456640419060944896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012432530553598276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gulingf3 那很稳定了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2012428926417825867",
+        "created_at": "2026-01-17T07:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012432684031811919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1456640419060944896",
+              "start": 0,
+              "username": "gulingf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012432684031811919",
+        "in_reply_to_user_id": "1456640419060944896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012432530553598276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gulingf3 那很稳定了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456640419060944896",
+        "conversation_id": "2012428926417825867",
+        "created_at": "2026-01-17T07:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012432530553598276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012432530553598276",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012428926417825867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 感覺你還挺穩定的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点/🚪100",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2056,
+          "following_count": 1963,
+          "like_count": 62564,
+          "listed_count": 8,
+          "media_count": 1397,
+          "tweet_count": 9533
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-05T15:12:25.000Z",
+        "description": "002 ❤️ | INFP | 剛從2次元進入2.5次元 | 不善言辭 |",
+        "id": "1456640419060944896",
+        "location": "台灣，新北",
+        "name": "gulingf3",
+        "pinned_tweet_id": "1998038337685500195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985746620538109952/U2ZggV_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 222,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1058
+        },
+        "username": "gulingf3",
+        "verified": false
+      }
+    ]
+  }
+}

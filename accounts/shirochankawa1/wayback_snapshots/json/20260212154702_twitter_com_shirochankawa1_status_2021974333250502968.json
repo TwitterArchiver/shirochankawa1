@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2021974333250502968",
+    "created_at": "2026-02-12T15:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021974333250502968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yueyue8964/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yueyue8964/status/2021862428586521087",
+          "start": 7,
+          "url": "https://t.co/XM9m6hikcY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021974333250502968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021862428586521087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我也这样 https://t.co/XM9m6hikcY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2021974333250502968",
+        "created_at": "2026-02-12T15:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021974333250502968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yueyue8964/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yueyue8964/status/2021862428586521087",
+              "start": 7,
+              "url": "https://t.co/XM9m6hikcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021974333250502968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021862428586521087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我也这样 https://t.co/XM9m6hikcY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750329917252976640",
+        "conversation_id": "2021862428586521087",
+        "created_at": "2026-02-12T08:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021862428586521087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021862428586521087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3024,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小时候都把缘之空当片看的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 1973,
+          "like_count": 64192,
+          "listed_count": 8,
+          "media_count": 1476,
+          "tweet_count": 9953
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "🚪99/188详情私聊o(^▽^)o",
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1865899514122666310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9853,
+          "following_count": 565,
+          "like_count": 11144,
+          "listed_count": 21,
+          "media_count": 479,
+          "tweet_count": 12594
+        },
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

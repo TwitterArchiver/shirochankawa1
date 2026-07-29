@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1995879646471278861",
+    "created_at": "2025-12-03T14:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T15:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996224724771148114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1988533026670903296",
+          "start": 0,
+          "username": "momo7514884"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996224724771148114",
+    "in_reply_to_user_id": "1988533026670903296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996224514393522395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momo7514884 好哦好哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1996224507804299264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QDnQeasAAXLtz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1995879646471278861",
+        "created_at": "2025-12-03T14:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996224724771148114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1988533026670903296",
+              "start": 0,
+              "username": "momo7514884"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996224724771148114",
+        "in_reply_to_user_id": "1988533026670903296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996224514393522395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momo7514884 好哦好哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996224507804299264"
+          ]
+        },
+        "author_id": "1988533026670903296",
+        "conversation_id": "1995879646471278861",
+        "created_at": "2025-12-03T14:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996224514393522395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8iEr6LLCjD",
+              "end": 55,
+              "expanded_url": "https://x.com/momo7514884/status/1996224514393522395/photo/1",
+              "media_key": "3_1996224507804299264",
+              "start": 32,
+              "url": "https://t.co/8iEr6LLCjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996224514393522395",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995879646471278861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 我家桃桃能跟你一起當地偶嗎（？ https://t.co/8iEr6LLCjD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 1978,
+          "like_count": 62437,
+          "listed_count": 8,
+          "media_count": 1317,
+          "tweet_count": 9253
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T09:03:46.000Z",
+        "description": "できるだけ日本語で投稿するように努めます💦 翻訳する使用中 永遠の16y 情緒不安定⚠️ 天馬司夢女子 好意度：桃井愛莉＞天馬司＞初音ミク＞天馬咲希 同擔✖️同擔✖️ #地雷系女子 #プロセカ #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "地雷系女子"
+              },
+              {
+                "end": 96,
+                "start": 91,
+                "tag": "プロセカ"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/ashley_o…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/ashley_octopus_0924",
+                "start": 0,
+                "url": "https://t.co/4nRnpeqFGU"
+              }
+            ]
+          }
+        },
+        "id": "1988533026670903296",
+        "location": "東京 新宿区",
+        "name": "早乙女 もも（・◇・）",
+        "pinned_tweet_id": "1988950805832147090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995477310297006080/V4fhBkQC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 204,
+          "like_count": 2044,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/4nRnpeqFGU",
+        "username": "momo7514884",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1991919776768340397",
+    "created_at": "2025-11-22T04:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T05:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992091007480201694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984971479210229760",
+          "start": 0,
+          "username": "Kallen0720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992091007480201694",
+    "in_reply_to_user_id": "1984971479210229760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991971027514167583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kallen0720 卡密"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1991971025072885760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6TnF-hXEAAtkMu.jpg",
+        "width": 1710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1991919776768340397",
+        "created_at": "2025-11-22T04:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992091007480201694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984971479210229760",
+              "start": 0,
+              "username": "Kallen0720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992091007480201694",
+        "in_reply_to_user_id": "1984971479210229760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991971027514167583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kallen0720 卡密"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991971025072885760"
+          ]
+        },
+        "author_id": "1984971479210229760",
+        "conversation_id": "1991919776768340397",
+        "created_at": "2025-11-21T20:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T21:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991971027514167583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oaksKQDWEp",
+              "end": 39,
+              "expanded_url": "https://x.com/Kallen0720/status/1991971027514167583/photo/1",
+              "media_key": "3_1991971025072885760",
+              "start": 16,
+              "url": "https://t.co/oaksKQDWEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991971027514167583",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991919776768340397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 https://t.co/oaksKQDWEp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 ，亲友投喂100解锁心理委员",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 1961,
+          "like_count": 61215,
+          "listed_count": 8,
+          "media_count": 1262,
+          "tweet_count": 8896
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "✞ 鏡よ鏡 正直割れたいか?@i7g9f0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "i7g9f0"
+              }
+            ]
+          }
+        },
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "バズバズ迷乱电波",
+        "pinned_tweet_id": "1991480118678810724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989173003645509632/-jBjJ4VZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 83,
+          "like_count": 2523,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 925
+        },
+        "username": "Kallen0720",
+        "verified": false
+      }
+    ]
+  }
+}

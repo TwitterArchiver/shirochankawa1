@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2055095945734361170",
+    "created_at": "2026-05-15T14:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055293683260653626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1774470177880477696",
+          "start": 0,
+          "username": "mousegjrl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055293683260653626",
+    "in_reply_to_user_id": "1774470177880477696",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055095945734361170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mousegjrl You're so cute⌯ᵔᗜᵔ⌯ಣ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10750,
+        "height": 1222,
+        "media_key": "13_2055095870240980992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055095870240980992/img/bw9aLcoF2Hsf5iLV.jpg",
+        "public_metrics": {
+          "view_count": 1748
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055095870240980992/vid/avc1/320x542/jHhS5z3-IICDGnNY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055095870240980992/vid/avc1/480x814/aCNHTkl6yv4tDX-r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055095870240980992/vid/avc1/720x1222/n4NxpqyrtjnGzBFB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055095870240980992/pl/ZG4sowCRYKM4boJj.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2055095945734361170",
+        "created_at": "2026-05-15T14:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055293683260653626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1774470177880477696",
+              "start": 0,
+              "username": "mousegjrl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055293683260653626",
+        "in_reply_to_user_id": "1774470177880477696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055095945734361170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mousegjrl You're so cute⌯ᵔᗜᵔ⌯ಣ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055095870240980992"
+          ]
+        },
+        "author_id": "1774470177880477696",
+        "conversation_id": "2055095945734361170",
+        "created_at": "2026-05-15T01:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055095945734361170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKr7qqOGRk",
+              "end": 25,
+              "expanded_url": "https://x.com/mousegjrl/status/2055095945734361170/video/1",
+              "media_key": "13_2055095870240980992",
+              "start": 2,
+              "url": "https://t.co/qKr7qqOGRk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055095945734361170",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 5442,
+          "like_count": 431,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "🐌 https://t.co/qKr7qqOGRk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 2077,
+          "like_count": 69141,
+          "listed_count": 9,
+          "media_count": 1687,
+          "tweet_count": 11380
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T16:14:01.000Z",
+        "description": "i cosplay sometimes :p ♡ asd ♡ be kind ⋆⁺₊⋆ ☾⋆⁺₊⋆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/mousecel",
+                "end": 23,
+                "expanded_url": "http://ko-fi.com/mousecel",
+                "start": 0,
+                "url": "https://t.co/mi0gNaJI63"
+              }
+            ]
+          }
+        },
+        "id": "1774470177880477696",
+        "location": "fluffy cloud far away . . .",
+        "name": "(–⩊–)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053660876628951040/phIE45Ej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9576,
+          "following_count": 251,
+          "like_count": 26863,
+          "listed_count": 11,
+          "media_count": 830,
+          "tweet_count": 5722
+        },
+        "url": "https://t.co/mi0gNaJI63",
+        "username": "mousegjrl",
+        "verified": false
+      }
+    ]
+  }
+}

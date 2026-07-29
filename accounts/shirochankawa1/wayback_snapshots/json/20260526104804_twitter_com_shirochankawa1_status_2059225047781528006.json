@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2059225047781528006",
+    "created_at": "2026-05-26T10:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059225047781528006"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059225047781528006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的不要小看恶评的威力…我社交平台但凡收到一条恶评都会感觉整个人浑身发抖根本不敢想象那种成千上万的恶评和帖子对一个没有受过互联网脱敏训练的人有多恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2059225047781528006",
+        "created_at": "2026-05-26T10:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059225047781528006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059225047781528006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的不要小看恶评的威力…我社交平台但凡收到一条恶评都会感觉整个人浑身发抖根本不敢想象那种成千上万的恶评和帖子对一个没有受过互联网脱敏训练的人有多恐怖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 2094,
+          "like_count": 70042,
+          "listed_count": 8,
+          "media_count": 1724,
+          "tweet_count": 11618
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

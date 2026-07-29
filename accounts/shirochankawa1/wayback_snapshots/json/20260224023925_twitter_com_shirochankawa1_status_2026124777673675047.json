@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026124770367139840",
+        "3_2026124770362945536",
+        "3_2026124770350452736"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2026124777673675047",
+    "created_at": "2026-02-24T02:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T03:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026124777673675047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zECFJxiXh3",
+          "end": 40,
+          "expanded_url": "https://x.com/shirochankawa1/status/2026124777673675047/photo/1",
+          "media_key": "3_2026124770367139840",
+          "start": 17,
+          "url": "https://t.co/zECFJxiXh3"
+        },
+        {
+          "display_url": "pic.x.com/zECFJxiXh3",
+          "end": 40,
+          "expanded_url": "https://x.com/shirochankawa1/status/2026124777673675047/photo/1",
+          "media_key": "3_2026124770362945536",
+          "start": 17,
+          "url": "https://t.co/zECFJxiXh3"
+        },
+        {
+          "display_url": "pic.x.com/zECFJxiXh3",
+          "end": 40,
+          "expanded_url": "https://x.com/shirochankawa1/status/2026124777673675047/photo/1",
+          "media_key": "3_2026124770350452736",
+          "start": 17,
+          "url": "https://t.co/zECFJxiXh3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026124777673675047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "星野前辈好攻啊，好想被星野前辈扣 https://t.co/zECFJxiXh3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2026124770367139840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB49vmhacAAkeKF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2026124770362945536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB49vmgacAAO1nB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2026124770350452736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB49vmdb0AAQ660.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026124770367139840",
+            "3_2026124770362945536",
+            "3_2026124770350452736"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2026124777673675047",
+        "created_at": "2026-02-24T02:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026124777673675047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zECFJxiXh3",
+              "end": 40,
+              "expanded_url": "https://x.com/shirochankawa1/status/2026124777673675047/photo/1",
+              "media_key": "3_2026124770367139840",
+              "start": 17,
+              "url": "https://t.co/zECFJxiXh3"
+            },
+            {
+              "display_url": "pic.x.com/zECFJxiXh3",
+              "end": 40,
+              "expanded_url": "https://x.com/shirochankawa1/status/2026124777673675047/photo/1",
+              "media_key": "3_2026124770362945536",
+              "start": 17,
+              "url": "https://t.co/zECFJxiXh3"
+            },
+            {
+              "display_url": "pic.x.com/zECFJxiXh3",
+              "end": 40,
+              "expanded_url": "https://x.com/shirochankawa1/status/2026124777673675047/photo/1",
+              "media_key": "3_2026124770350452736",
+              "start": 17,
+              "url": "https://t.co/zECFJxiXh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026124777673675047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星野前辈好攻啊，好想被星野前辈扣 https://t.co/zECFJxiXh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 1998,
+          "like_count": 65540,
+          "listed_count": 8,
+          "media_count": 1536,
+          "tweet_count": 10326
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

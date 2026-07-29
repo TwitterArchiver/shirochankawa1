@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1993940184950558831",
+    "created_at": "2025-11-27T07:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993940184950558831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dkr_world/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/dkr_world/status/1993580379127840844",
+          "start": 5,
+          "url": "https://t.co/WmQ9yJLb1P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993940184950558831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993580379127840844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/WmQ9yJLb1P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1993940184950558831",
+        "created_at": "2025-11-27T07:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993940184950558831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dkr_world/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/dkr_world/status/1993580379127840844",
+              "start": 5,
+              "url": "https://t.co/WmQ9yJLb1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993940184950558831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993580379127840844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/WmQ9yJLb1P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115809099482980353",
+        "conversation_id": "1993580379127840844",
+        "created_at": "2025-11-26T07:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T08:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993580379127840844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993580379127840844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 685,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小時候玩4399都玩的是無敵版，你能指望我有什麼抗壓能力，求求別壓力我了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 1959,
+          "like_count": 61670,
+          "listed_count": 8,
+          "media_count": 1289,
+          "tweet_count": 8998
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "自我破壊と相互扶助の連帯の集団の下で、短命なコミューンを築こう！ 最後の指令：すべてと一緒に滅びろ。これは革命家と彼女の恋愛だ。◆🚪52/101/188",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "1932413655498494220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985912421480087552/NfCliotc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 669,
+          "like_count": 34997,
+          "listed_count": 9,
+          "media_count": 428,
+          "tweet_count": 5196
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

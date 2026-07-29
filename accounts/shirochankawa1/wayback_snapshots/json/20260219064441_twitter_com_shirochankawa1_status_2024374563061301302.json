@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024374563061301302",
+    "created_at": "2026-02-19T06:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T07:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024374563061301302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1952728554401374208",
+          "start": 3,
+          "username": "Zhouyuuning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024374563061301302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024054058512699691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhouyuuning: 你他妈再一口一个骚母狗呢老子给你妈打飞气死我了 我就是喜欢听人叫我宝宝乖乖这种！我是一个需要人宠着的宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024374563061301302",
+        "created_at": "2026-02-19T06:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024374563061301302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952728554401374208",
+              "start": 3,
+              "username": "Zhouyuuning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024374563061301302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024054058512699691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zhouyuuning: 你他妈再一口一个骚母狗呢老子给你妈打飞气死我了 我就是喜欢听人叫我宝宝乖乖这种！我是一个需要人宠着的宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952728554401374208",
+        "conversation_id": "2024054058512699691",
+        "created_at": "2026-02-18T09:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024054058512699691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024054058512699691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 51504,
+          "like_count": 678,
+          "quote_count": 5,
+          "reply_count": 35,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "你他妈再一口一个骚母狗呢老子给你妈打飞气死我了 我就是喜欢听人叫我宝宝乖乖这种！我是一个需要人宠着的宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 1980,
+          "like_count": 64665,
+          "listed_count": 8,
+          "media_count": 1506,
+          "tweet_count": 10098
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T13:49:15.000Z",
+        "description": "09留学生 switch偏m｜叫我kitty/念念就好 善用拉黑 喜欢有礼貌的人 过🚪直接私信发口令 谢谢你们的喜欢！请聆听我 @Kittychime0621",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Kittychime0621"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kittychime",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kittychime",
+                "start": 0,
+                "url": "https://t.co/f5DKGDkFev"
+              }
+            ]
+          }
+        },
+        "id": "1952728554401374208",
+        "location": "🚪188/388/520",
+        "name": "Kittychime",
+        "pinned_tweet_id": "2019251436140523680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019311099980681216/Brpzcg2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 187,
+          "like_count": 2400,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 858
+        },
+        "url": "https://t.co/f5DKGDkFev",
+        "username": "Zhouyuuning",
+        "verified": false
+      }
+    ]
+  }
+}

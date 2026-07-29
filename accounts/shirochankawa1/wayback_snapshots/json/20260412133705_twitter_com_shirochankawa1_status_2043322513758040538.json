@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2043322513758040538",
+    "created_at": "2026-04-12T13:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043322513758040538"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043322513758040538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也不是有精力24小时秒回或者经常主动说话好吗好的然后就是性压抑的能不能不要这样骚扰我了我本来就活的挺累的了，我平时也有很多事情干，我吃了药还没精力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2043322513758040538",
+        "created_at": "2026-04-12T13:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043322513758040538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043322513758040538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也不是有精力24小时秒回或者经常主动说话好吗好的然后就是性压抑的能不能不要这样骚扰我了我本来就活的挺累的了，我平时也有很多事情干，我吃了药还没精力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 2034,
+          "like_count": 68309,
+          "listed_count": 8,
+          "media_count": 1642,
+          "tweet_count": 11062
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

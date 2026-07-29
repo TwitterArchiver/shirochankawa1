@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994690743219482624"
+      ],
+      "media_source_tweet_id": [
+        "1994690750240678063"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1994760132262334771",
+    "created_at": "2025-11-29T13:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T14:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994760132262334771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1542745105899339776",
+          "start": 3,
+          "username": "eriri41383917"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/at4TMQS5TR",
+          "end": 42,
+          "expanded_url": "https://x.com/eriri41383917/status/1994690750240678063/photo/1",
+          "media_key": "3_1994690743219482624",
+          "start": 19,
+          "url": "https://t.co/at4TMQS5TR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994760132262334771",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994690750240678063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eriri41383917: https://t.co/at4TMQS5TR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_1994690743219482624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66QqaJbcAAKExQ.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994690743219482624"
+          ],
+          "media_source_tweet_id": [
+            "1994690750240678063"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "1994760132262334771",
+        "created_at": "2025-11-29T13:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994760132262334771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1542745105899339776",
+              "start": 3,
+              "username": "eriri41383917"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/at4TMQS5TR",
+              "end": 42,
+              "expanded_url": "https://x.com/eriri41383917/status/1994690750240678063/photo/1",
+              "media_key": "3_1994690743219482624",
+              "start": 19,
+              "url": "https://t.co/at4TMQS5TR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994760132262334771",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994690750240678063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eriri41383917: https://t.co/at4TMQS5TR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994690743219482624"
+          ]
+        },
+        "author_id": "1542745105899339776",
+        "conversation_id": "1994690750240678063",
+        "created_at": "2025-11-29T08:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994690750240678063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/at4TMQS5TR",
+              "end": 23,
+              "expanded_url": "https://x.com/eriri41383917/status/1994690750240678063/photo/1",
+              "media_key": "3_1994690743219482624",
+              "start": 0,
+              "url": "https://t.co/at4TMQS5TR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994690750240678063",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/at4TMQS5TR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674   English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 1979,
+          "like_count": 62201,
+          "listed_count": 8,
+          "media_count": 1306,
+          "tweet_count": 9187
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T05:41:23.000Z",
+        "description": "生活不会中断，时间不会停止 ，曾经特别的日子，特别的瞬间 ，都会被远远地抛在身后 ，回头望去， 会发现它们像灯塔和星星一样在闪闪发光 ，为我们指引方向｜请关注这个人 → @Janeschanshadow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "Janeschanshadow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eriri32418",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eriri32418",
+                "start": 0,
+                "url": "https://t.co/CFhFswTahh"
+              }
+            ]
+          }
+        },
+        "id": "1542745105899339776",
+        "name": "eriri",
+        "pinned_tweet_id": "1983496447380115864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993524882173575175/RHMtU_HE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 172,
+          "like_count": 1539,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 925
+        },
+        "url": "https://t.co/CFhFswTahh",
+        "username": "eriri41383917",
+        "verified": false
+      }
+    ]
+  }
+}

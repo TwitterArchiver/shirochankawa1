@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2022219742195724608",
+    "created_at": "2026-02-13T08:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T09:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022219742195724608"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022219742195724608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精神生命体，更高维度的存在，祂无法被判定，无法被标签所命名，祂只是在那里，但是好像每个节点都有祂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2022219742195724608",
+        "created_at": "2026-02-13T08:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022219742195724608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022219742195724608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神生命体，更高维度的存在，祂无法被判定，无法被标签所命名，祂只是在那里，但是好像每个节点都有祂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 1975,
+          "like_count": 64242,
+          "listed_count": 8,
+          "media_count": 1479,
+          "tweet_count": 9966
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

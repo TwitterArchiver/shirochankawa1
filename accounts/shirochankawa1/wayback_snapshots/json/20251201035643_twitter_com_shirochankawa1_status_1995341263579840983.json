@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1995322683374944410",
+    "created_at": "2025-12-01T03:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T04:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995341263579840983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1652985793290604545",
+          "start": 0,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995341263579840983",
+    "in_reply_to_user_id": "1652985793290604545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995322683374944410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuTri77 好还原！🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1995322637040439296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7DPXeEXUAA9L1_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1995322683374944410",
+        "created_at": "2025-12-01T03:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T04:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995341263579840983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1652985793290604545",
+              "start": 0,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995341263579840983",
+        "in_reply_to_user_id": "1652985793290604545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995322683374944410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuTri77 好还原！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995322637040439296"
+          ]
+        },
+        "author_id": "1652985793290604545",
+        "conversation_id": "1995322683374944410",
+        "created_at": "2025-12-01T02:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T03:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995322683374944410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "致歉一切"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eT7RK0CBFC",
+              "end": 44,
+              "expanded_url": "https://x.com/TuTri77/status/1995322683374944410/photo/1",
+              "media_key": "3_1995322637040439296",
+              "start": 21,
+              "url": "https://t.co/eT7RK0CBFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995322683374944410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1496,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我初三时cos的糖糖xswl #致歉一切 https://t.co/eT7RK0CBFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 1981,
+          "like_count": 62256,
+          "listed_count": 8,
+          "media_count": 1308,
+          "tweet_count": 9208
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "盗图死全家/推广自便/不要忘记我 ｜自用蜂鸟VPN： https://t.co/S4ISvNZSPv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 50,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=MF28Fdlt",
+                "start": 27,
+                "url": "https://t.co/S4ISvNZSPv"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88",
+        "name": "nini",
+        "pinned_tweet_id": "1995185919926628532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974087407013359616/NnnPIRFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10689,
+          "following_count": 261,
+          "like_count": 3004,
+          "listed_count": 19,
+          "media_count": 425,
+          "tweet_count": 1616
+        },
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

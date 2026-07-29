@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994606995140407296",
+        "3_1994606995144691712"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1994607002354684006",
+    "created_at": "2025-11-29T03:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T04:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994607002354684006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bnxc9nBE7W",
+          "end": 32,
+          "expanded_url": "https://x.com/shirochankawa1/status/1994607002354684006/photo/1",
+          "media_key": "3_1994606995140407296",
+          "start": 9,
+          "url": "https://t.co/bnxc9nBE7W"
+        },
+        {
+          "display_url": "pic.x.com/bnxc9nBE7W",
+          "end": 32,
+          "expanded_url": "https://x.com/shirochankawa1/status/1994607002354684006/photo/1",
+          "media_key": "3_1994606995144691712",
+          "start": 9,
+          "url": "https://t.co/bnxc9nBE7W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994607002354684006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩到真逆转裁判了 https://t.co/bnxc9nBE7W"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994607002354684006].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994607002354684006",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994607002354684006"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994606995140407296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65EfoPacAABzEW.jpg",
+        "width": 276
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994606995144691712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65EfoQb0AAvpVr.jpg",
+        "width": 918
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674   English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2071,
+          "following_count": 1977,
+          "like_count": 62150,
+          "listed_count": 8,
+          "media_count": 1305,
+          "tweet_count": 9156
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

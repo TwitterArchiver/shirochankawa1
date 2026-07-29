@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993284558507438081"
+      ],
+      "media_source_tweet_id": [
+        "1993284569769107762"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1993571015021170716",
+    "created_at": "2025-11-26T06:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T07:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993571015021170716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1586333645962297345",
+          "start": 3,
+          "username": "5masi_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ACQFsJ4ITc",
+          "end": 36,
+          "expanded_url": "https://x.com/5masi_o/status/1993284569769107762/photo/1",
+          "media_key": "3_1993284558507438081",
+          "start": 13,
+          "url": "https://t.co/ACQFsJ4ITc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993571015021170716",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 423
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993284569769107762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5masi_o: https://t.co/ACQFsJ4ITc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2990,
+        "media_key": "3_1993284558507438081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mRvr4bcAEr90q.jpg",
+        "width": 2243
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993284558507438081"
+          ],
+          "media_source_tweet_id": [
+            "1993284569769107762"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "1993571015021170716",
+        "created_at": "2025-11-26T06:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T07:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993571015021170716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1586333645962297345",
+              "start": 3,
+              "username": "5masi_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACQFsJ4ITc",
+              "end": 36,
+              "expanded_url": "https://x.com/5masi_o/status/1993284569769107762/photo/1",
+              "media_key": "3_1993284558507438081",
+              "start": 13,
+              "url": "https://t.co/ACQFsJ4ITc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993571015021170716",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 423
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993284569769107762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5masi_o: https://t.co/ACQFsJ4ITc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993284558507438081"
+          ]
+        },
+        "author_id": "1586333645962297345",
+        "conversation_id": "1993284569769107762",
+        "created_at": "2025-11-25T11:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993284569769107762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACQFsJ4ITc",
+              "end": 23,
+              "expanded_url": "https://x.com/5masi_o/status/1993284569769107762/photo/1",
+              "media_key": "3_1993284558507438081",
+              "start": 0,
+              "url": "https://t.co/ACQFsJ4ITc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993284569769107762",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 393,
+          "impression_count": 39802,
+          "like_count": 4410,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 423
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ACQFsJ4ITc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 ，亲友投喂100解锁心理委员",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 1957,
+          "like_count": 61476,
+          "listed_count": 8,
+          "media_count": 1282,
+          "tweet_count": 8952
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:26:52.000Z",
+        "description": "ごましお|創作| Skeb▶︎https://t.co/993aONIsUb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@5masi_o",
+                "end": 38,
+                "expanded_url": "https://skeb.jp/@5masi_o",
+                "start": 15,
+                "url": "https://t.co/993aONIsUb"
+              }
+            ]
+          }
+        },
+        "id": "1586333645962297345",
+        "name": "5мAsi0",
+        "pinned_tweet_id": "1993284569769107762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676144737814994945/27FQyUGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5753,
+          "following_count": 95,
+          "like_count": 2116,
+          "listed_count": 56,
+          "media_count": 68,
+          "tweet_count": 319
+        },
+        "username": "5masi_o",
+        "verified": false
+      }
+    ]
+  }
+}

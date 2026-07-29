@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022873886820569091"
+      ],
+      "media_source_tweet_id": [
+        "2022873895800623443"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2022913018158580035",
+    "created_at": "2026-02-15T05:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T06:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022913018158580035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829222052833927168",
+          "start": 3,
+          "username": "and_y_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tx1qx0qLxg",
+          "end": 40,
+          "expanded_url": "https://x.com/and_y_u/status/2022873895800623443/photo/1",
+          "media_key": "3_2022873886820569091",
+          "start": 17,
+          "url": "https://t.co/tx1qx0qLxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022913018158580035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022873895800623443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @and_y_u: さよ教 https://t.co/tx1qx0qLxg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022913018158580035].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022913018158580035",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022913018158580035"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022873886820569091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKxFRlakAM7N0f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022873886820569091"
+          ]
+        },
+        "author_id": "829222052833927168",
+        "conversation_id": "2022873895800623443",
+        "created_at": "2026-02-15T03:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022873895800623443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tx1qx0qLxg",
+              "end": 27,
+              "expanded_url": "https://x.com/and_y_u/status/2022873895800623443/photo/1",
+              "media_key": "3_2022873886820569091",
+              "start": 4,
+              "url": "https://t.co/tx1qx0qLxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022873895800623443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 317,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "さよ教 https://t.co/tx1qx0qLxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 1977,
+          "like_count": 64281,
+          "listed_count": 8,
+          "media_count": 1490,
+          "tweet_count": 9997
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-08T06:55:18.000Z",
+        "description": "天国いきは保証するぜ",
+        "id": "829222052833927168",
+        "location": "コホリント島",
+        "name": "安藤",
+        "pinned_tweet_id": "1945275540199628938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022124597492297728/HLrI2ovC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 8,
+          "like_count": 1668,
+          "listed_count": 14,
+          "media_count": 200,
+          "tweet_count": 37667
+        },
+        "username": "and_y_u",
+        "verified": false
+      }
+    ]
+  }
+}

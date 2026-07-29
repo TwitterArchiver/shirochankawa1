@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2028544734126297464",
+    "created_at": "2026-03-03T01:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T02:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028649471731728699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778600109154172928",
+          "start": 0,
+          "username": "KMS_PzEUGIN_III"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028649471731728699",
+    "in_reply_to_user_id": "1778600109154172928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028544734126297464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KMS_PzEUGIN_III 都是铸币大头"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2028544726912180224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCbWrnKXoAAsB4c.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2028544726937300992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCbWrnQW8AAyN1U.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2028544727122071552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCbWrn8aUAAWojo.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2028544726937358337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCbWrnQX0AEM-Sw.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2028544734126297464",
+        "created_at": "2026-03-03T01:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028649471731728699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778600109154172928",
+              "start": 0,
+              "username": "KMS_PzEUGIN_III"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028649471731728699",
+        "in_reply_to_user_id": "1778600109154172928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028544734126297464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KMS_PzEUGIN_III 都是铸币大头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028544726912180224",
+            "3_2028544726937300992",
+            "3_2028544727122071552",
+            "3_2028544726937358337"
+          ]
+        },
+        "author_id": "1778600109154172928",
+        "conversation_id": "2028544734126297464",
+        "created_at": "2026-03-02T18:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T19:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028544734126297464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hx9GJlDY0l",
+              "end": 33,
+              "expanded_url": "https://x.com/KMS_PzEUGIN_III/status/2028544734126297464/photo/1",
+              "media_key": "3_2028544726912180224",
+              "start": 10,
+              "url": "https://t.co/hx9GJlDY0l"
+            },
+            {
+              "display_url": "pic.x.com/hx9GJlDY0l",
+              "end": 33,
+              "expanded_url": "https://x.com/KMS_PzEUGIN_III/status/2028544734126297464/photo/1",
+              "media_key": "3_2028544726937300992",
+              "start": 10,
+              "url": "https://t.co/hx9GJlDY0l"
+            },
+            {
+              "display_url": "pic.x.com/hx9GJlDY0l",
+              "end": 33,
+              "expanded_url": "https://x.com/KMS_PzEUGIN_III/status/2028544734126297464/photo/1",
+              "media_key": "3_2028544727122071552",
+              "start": 10,
+              "url": "https://t.co/hx9GJlDY0l"
+            },
+            {
+              "display_url": "pic.x.com/hx9GJlDY0l",
+              "end": 33,
+              "expanded_url": "https://x.com/KMS_PzEUGIN_III/status/2028544734126297464/photo/1",
+              "media_key": "3_2028544726937358337",
+              "start": 10,
+              "url": "https://t.co/hx9GJlDY0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028544734126297464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的微信百变头像😆 https://t.co/hx9GJlDY0l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 2000,
+          "like_count": 66309,
+          "listed_count": 9,
+          "media_count": 1567,
+          "tweet_count": 10513
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T01:44:56.000Z",
+        "description": "屎踢姆账号：482729448/跑路小账@lappydaisuki/ 像垃圾袋这样实用的东西有时候也装满了风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "lappydaisuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kms_pzeugin_iii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kms_pzeugin_iii",
+                "start": 0,
+                "url": "https://t.co/NKw2JIeEm8"
+              }
+            ]
+          }
+        },
+        "id": "1778600109154172928",
+        "location": "8°45′9.49″N 167°40′59.60″E",
+        "name": "KMS-PrinzEugin",
+        "pinned_tweet_id": "2027800915588063316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790573689211346944/mT4Zy9tR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 3395,
+          "like_count": 41226,
+          "listed_count": 5,
+          "media_count": 895,
+          "tweet_count": 11585
+        },
+        "url": "https://t.co/NKw2JIeEm8",
+        "username": "KMS_PzEUGIN_III",
+        "verified": true
+      }
+    ]
+  }
+}

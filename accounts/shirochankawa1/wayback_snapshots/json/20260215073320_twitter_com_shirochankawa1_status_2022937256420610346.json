@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2022673610780061737",
+    "created_at": "2026-02-15T07:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T08:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022937256420610346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786682099677966336",
+          "start": 0,
+          "username": "mentallychel"
+        },
+        {
+          "end": 29,
+          "id": "1557839863151337473",
+          "start": 14,
+          "username": "scutigera_kuma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022937256420610346",
+    "in_reply_to_user_id": "1786682099677966336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022673610780061737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mentallychel @scutigera_kuma 特别萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022673601003163656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBH67GxakAgdfMz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2022673610780061737",
+        "created_at": "2026-02-15T07:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022937256420610346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786682099677966336",
+              "start": 0,
+              "username": "mentallychel"
+            },
+            {
+              "end": 29,
+              "id": "1557839863151337473",
+              "start": 14,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022937256420610346",
+        "in_reply_to_user_id": "1786682099677966336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022673610780061737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentallychel @scutigera_kuma 特别萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022673601003163656"
+          ]
+        },
+        "author_id": "1786682099677966336",
+        "conversation_id": "2022673610780061737",
+        "created_at": "2026-02-14T14:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022673610780061737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yiFITHKdI2",
+              "end": 29,
+              "expanded_url": "https://x.com/mentallychel/status/2022673610780061737/photo/1",
+              "media_key": "3_2022673601003163656",
+              "start": 6,
+              "url": "https://t.co/yiFITHKdI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022673610780061737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1981,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有小熊喲 https://t.co/yiFITHKdI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 1976,
+          "like_count": 64285,
+          "listed_count": 8,
+          "media_count": 1490,
+          "tweet_count": 9999
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T08:59:54.000Z",
+        "description": "壑2.0 爱是一个遍及宇宙的缺席者 前世@mentallychels 🚪288/520/1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1786682099677966336",
+        "name": "mentallychels",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283507658354688/P1spn4_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 58,
+          "like_count": 50,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 40
+        },
+        "username": "mentallychel",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "クま",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4756,
+          "following_count": 3450,
+          "like_count": 34159,
+          "listed_count": 6,
+          "media_count": 466,
+          "tweet_count": 9013
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

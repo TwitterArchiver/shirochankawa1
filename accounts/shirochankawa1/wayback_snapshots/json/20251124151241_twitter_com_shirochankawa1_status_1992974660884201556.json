@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992974617712132096"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1992974660884201556",
+    "created_at": "2025-11-24T15:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T16:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992974660884201556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kBmX1G7eJq",
+          "end": 41,
+          "expanded_url": "https://x.com/shirochankawa1/status/1992974660884201556/photo/1",
+          "media_key": "3_1992974617712132096",
+          "start": 18,
+          "url": "https://t.co/kBmX1G7eJq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992974660884201556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只有一点点就不容易被发现了也好的快 https://t.co/kBmX1G7eJq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992974660884201556].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992974660884201556",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992974660884201556"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992974617712132096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h32wcaAAAizBj.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 ，亲友投喂100解锁心理委员",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 1960,
+          "like_count": 61392,
+          "listed_count": 8,
+          "media_count": 1269,
+          "tweet_count": 8920
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

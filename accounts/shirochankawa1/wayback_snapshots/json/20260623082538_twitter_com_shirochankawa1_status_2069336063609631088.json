@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2069336063609631088",
+    "created_at": "2026-06-23T08:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069336063609631088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1730415242860236800",
+          "start": 3,
+          "username": "giyommigirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069336063609631088",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4987
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069076312124526610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @giyommigirl: 정신병자들 정신병 ㅈㄴ 심해지면\n내 모든 치부를 타인에게 말하고싶다는 욕망에 사로잡히는데 .........    대가리     힘   꽉주고 참으시긔 그 누구도 당신을 이해해주지 않습니다 모두 망상입니다 이때 못참고 얘…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2069336063609631088",
+        "created_at": "2026-06-23T08:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069336063609631088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1730415242860236800",
+              "start": 3,
+              "username": "giyommigirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069336063609631088",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4987
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069076312124526610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @giyommigirl: 정신병자들 정신병 ㅈㄴ 심해지면\n내 모든 치부를 타인에게 말하고싶다는 욕망에 사로잡히는데 .........    대가리     힘   꽉주고 참으시긔 그 누구도 당신을 이해해주지 않습니다 모두 망상입니다 이때 못참고 얘…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730415242860236800",
+        "conversation_id": "2069076312124526610",
+        "created_at": "2026-06-22T15:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069076312124526610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069076312124526610",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1916,
+          "impression_count": 498308,
+          "like_count": 13016,
+          "quote_count": 1600,
+          "reply_count": 24,
+          "retweet_count": 4987
+        },
+        "reply_settings": "everyone",
+        "text": "정신병자들 정신병 ㅈㄴ 심해지면\n내 모든 치부를 타인에게 말하고싶다는 욕망에 사로잡히는데 .........    대가리     힘   꽉주고 참으시긔 그 누구도 당신을 이해해주지 않습니다 모두 망상입니다 이때 못참고 얘기하면 평생 후회함 끼발"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 2168,
+          "like_count": 71179,
+          "listed_count": 8,
+          "media_count": 1778,
+          "tweet_count": 12000
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T02:35:30.000Z",
+        "description": "사이버고독사도 살인입니다",
+        "id": "1730415242860236800",
+        "location": "🤙돼냥이!!♡",
+        "name": "부랄냥돼머리",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018833815016501248/adMnhRhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5148,
+          "following_count": 1923,
+          "like_count": 32879,
+          "listed_count": 57,
+          "media_count": 1568,
+          "tweet_count": 34280
+        },
+        "url": "",
+        "username": "giyommigirl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056784773348282368"
+      ],
+      "media_source_tweet_id": [
+        "2056784781220999420"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2056939677798817919",
+    "created_at": "2026-05-20T03:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T04:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056939677798817919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SlwKVsAR6l",
+          "end": 90,
+          "expanded_url": "https://x.com/hgds0/status/2056784781220999420/photo/1",
+          "media_key": "3_2056784773348282368",
+          "start": 67,
+          "url": "https://t.co/SlwKVsAR6l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056939677798817919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056784781220999420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 拥抱……拥抱拥抱……拥抱拥抱拥抱…拥抱拥抱拥抱拥抱拥抱拥抱拥抱拥抱……拥抱拥抱拥抱拥抱拥抱……拥抱。。。。。。 https://t.co/SlwKVsAR6l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_2056784773348282368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsq2qLbUAAW81t.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056784773348282368"
+          ],
+          "media_source_tweet_id": [
+            "2056784781220999420"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2056939677798817919",
+        "created_at": "2026-05-20T03:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056939677798817919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlwKVsAR6l",
+              "end": 90,
+              "expanded_url": "https://x.com/hgds0/status/2056784781220999420/photo/1",
+              "media_key": "3_2056784773348282368",
+              "start": 67,
+              "url": "https://t.co/SlwKVsAR6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056939677798817919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056784781220999420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 拥抱……拥抱拥抱……拥抱拥抱拥抱…拥抱拥抱拥抱拥抱拥抱拥抱拥抱拥抱……拥抱拥抱拥抱拥抱拥抱……拥抱。。。。。。 https://t.co/SlwKVsAR6l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056784773348282368"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2056784781220999420",
+        "created_at": "2026-05-19T17:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056784781220999420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlwKVsAR6l",
+              "end": 79,
+              "expanded_url": "https://x.com/hgds0/status/2056784781220999420/photo/1",
+              "media_key": "3_2056784773348282368",
+              "start": 56,
+              "url": "https://t.co/SlwKVsAR6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056784781220999420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7879,
+          "like_count": 320,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "拥抱……拥抱拥抱……拥抱拥抱拥抱…拥抱拥抱拥抱拥抱拥抱拥抱拥抱拥抱……拥抱拥抱拥抱拥抱拥抱……拥抱。。。。。。 https://t.co/SlwKVsAR6l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 2092,
+          "like_count": 69757,
+          "listed_count": 8,
+          "media_count": 1704,
+          "tweet_count": 11509
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97559,
+          "following_count": 2457,
+          "like_count": 44363,
+          "listed_count": 145,
+          "media_count": 4220,
+          "tweet_count": 8618
+        },
+        "username": "hgds0",
+        "verified": false
+      }
+    ]
+  }
+}

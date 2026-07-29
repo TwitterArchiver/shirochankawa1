@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003482611004403712"
+      ],
+      "media_source_tweet_id": [
+        "2003482781905748071"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2003680162177757520",
+    "created_at": "2025-12-24T04:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T05:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003680162177757520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1973996899385688064",
+          "start": 3,
+          "username": "beatosaurus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IiBiHiJPQ9",
+          "end": 88,
+          "expanded_url": "https://x.com/beatosaurus/status/2003482781905748071/photo/1",
+          "media_key": "3_2003482611004403712",
+          "start": 65,
+          "url": "https://t.co/IiBiHiJPQ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003680162177757520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003482781905748071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beatosaurus: kyaahhh!!!~ got jumpscared!!... ｡･ﾟﾟ･(＞_＜)･ﾟﾟ･｡ https://t.co/IiBiHiJPQ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2003482611004403712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83M0d6W8AAFtg0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003482611004403712"
+          ],
+          "media_source_tweet_id": [
+            "2003482781905748071"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003680162177757520",
+        "created_at": "2025-12-24T04:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T05:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003680162177757520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1973996899385688064",
+              "start": 3,
+              "username": "beatosaurus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiBiHiJPQ9",
+              "end": 88,
+              "expanded_url": "https://x.com/beatosaurus/status/2003482781905748071/photo/1",
+              "media_key": "3_2003482611004403712",
+              "start": 65,
+              "url": "https://t.co/IiBiHiJPQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003680162177757520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003482781905748071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beatosaurus: kyaahhh!!!~ got jumpscared!!... ｡･ﾟﾟ･(＞_＜)･ﾟﾟ･｡ https://t.co/IiBiHiJPQ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003482611004403712"
+          ]
+        },
+        "author_id": "1973996899385688064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003482781905748071",
+        "created_at": "2025-12-23T15:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003482781905748071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiBiHiJPQ9",
+              "end": 71,
+              "expanded_url": "https://x.com/beatosaurus/status/2003482781905748071/photo/1",
+              "media_key": "3_2003482611004403712",
+              "start": 48,
+              "url": "https://t.co/IiBiHiJPQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003482781905748071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 16710,
+          "like_count": 2007,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "kyaahhh!!!~ got jumpscared!!... ｡･ﾟﾟ･(＞_＜)･ﾟﾟ･｡ https://t.co/IiBiHiJPQ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化/永远16的千禧电子生命体",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️utopia🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 1972,
+          "like_count": 62534,
+          "listed_count": 8,
+          "media_count": 1357,
+          "tweet_count": 9395
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T06:22:28.000Z",
+        "description": "beginner 3D artist, lolita bitch, umineko consumer |ʘ‿ʘ)╯\n\nryukishi07 is my birth mother",
+        "id": "1973996899385688064",
+        "name": "beatosaurus",
+        "pinned_tweet_id": "1974480533888340283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994797817487843328/yPyyrQce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 61,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 282
+        },
+        "username": "beatosaurus",
+        "verified": false
+      }
+    ]
+  }
+}

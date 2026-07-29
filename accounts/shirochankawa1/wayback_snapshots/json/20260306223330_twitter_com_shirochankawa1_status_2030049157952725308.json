@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2029920237525823757",
+    "created_at": "2026-03-06T22:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T23:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030049157952725308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018670070613032960",
+          "start": 0,
+          "username": "Arashi_0224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030049157952725308",
+    "in_reply_to_user_id": "2018670070613032960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030016964886941996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arashi_0224 永远的初恋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2029920237525823757",
+        "created_at": "2026-03-06T22:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T23:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030049157952725308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018670070613032960",
+              "start": 0,
+              "username": "Arashi_0224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030049157952725308",
+        "in_reply_to_user_id": "2018670070613032960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030016964886941996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arashi_0224 永远的初恋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018670070613032960",
+        "conversation_id": "2029920237525823757",
+        "created_at": "2026-03-06T20:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T21:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030016964886941996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030016964886941996",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029920237525823757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 卧槽啊右美沙芬你回来吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 2009,
+          "like_count": 66982,
+          "listed_count": 8,
+          "media_count": 1579,
+          "tweet_count": 10643
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T12:57:18.000Z",
+        "description": "最低🚪88 私信只回zfb口令 前世@Arashi_100224/双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/互fo欢迎LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Arashi_100224"
+              }
+            ]
+          }
+        },
+        "id": "2018670070613032960",
+        "location": "未來電波基地",
+        "name": "Arashi 2.0",
+        "pinned_tweet_id": "2029458848667587047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018670379435503616/etHTsbV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 115,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 79
+        },
+        "username": "Arashi_0224",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024325329654030336"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024325392237285756",
+    "created_at": "2026-02-19T03:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T04:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024325392237285756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ihrUpKaFii",
+          "end": 23,
+          "expanded_url": "https://x.com/shirochankawa1/status/2024325392237285756/video/1",
+          "media_key": "13_2024325329654030336",
+          "start": 0,
+          "url": "https://t.co/ihrUpKaFii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024325392237285756",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ihrUpKaFii"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_2024325329654030336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024325329654030336/img/TA3YYEmeas5Bm8cH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024325329654030336/vid/avc1/320x568/uZTOI-Cncm6tC1F4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024325329654030336/vid/avc1/480x852/huoJxjvoiIUPHB0n.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024325329654030336/vid/avc1/720x1280/pqH5k0giPG8Nvqd2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024325329654030336/pl/1kUWTvXdWmMUpyeD.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024325329654030336"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024325392237285756",
+        "created_at": "2026-02-19T03:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024325392237285756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihrUpKaFii",
+              "end": 23,
+              "expanded_url": "https://x.com/shirochankawa1/status/2024325392237285756/video/1",
+              "media_key": "13_2024325329654030336",
+              "start": 0,
+              "url": "https://t.co/ihrUpKaFii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024325392237285756",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ihrUpKaFii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 1981,
+          "like_count": 64616,
+          "listed_count": 8,
+          "media_count": 1506,
+          "tweet_count": 10088
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

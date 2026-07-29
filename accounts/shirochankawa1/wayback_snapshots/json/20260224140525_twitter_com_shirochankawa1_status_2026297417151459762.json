@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2026297417151459762",
+    "created_at": "2026-02-24T14:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T15:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026297417151459762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1989734778376261639",
+          "start": 3,
+          "username": "chyu69173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026297417151459762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026015499595956501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chyu69173: 我还是觉得做爱的前提是相爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2026297417151459762",
+        "created_at": "2026-02-24T14:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026297417151459762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989734778376261639",
+              "start": 3,
+              "username": "chyu69173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026297417151459762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026015499595956501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chyu69173: 我还是觉得做爱的前提是相爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989734778376261639",
+        "conversation_id": "2026015499595956501",
+        "created_at": "2026-02-23T19:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026015499595956501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026015499595956501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 44253,
+          "like_count": 670,
+          "quote_count": 9,
+          "reply_count": 45,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "我还是觉得做爱的前提是相爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 2002,
+          "like_count": 65724,
+          "listed_count": 8,
+          "media_count": 1543,
+          "tweet_count": 10377
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T16:38:47.000Z",
+        "description": "06/158/40 喜欢忧郁宅 碎碎念 infp 没🚪不约炮不加任何联系方式 找我约炮我戴假几把草死你",
+        "id": "1989734778376261639",
+        "name": "Snow9urial_",
+        "pinned_tweet_id": "2018711728523969000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018926092791189504/DJJGkEGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 2,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 872
+        },
+        "username": "chyu69173",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2010450053526413635",
+    "created_at": "2026-01-12T10:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010659182144594364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1337040798853029890",
+          "start": 0,
+          "username": "HiddenShikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010659182144594364",
+    "in_reply_to_user_id": "1337040798853029890",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010574196477423808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiddenShikieiki ε=ε=(((＞Д＜)ノノ!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2010450053526413635",
+        "created_at": "2026-01-12T10:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010659182144594364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1337040798853029890",
+              "start": 0,
+              "username": "HiddenShikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010659182144594364",
+        "in_reply_to_user_id": "1337040798853029890",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010574196477423808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiddenShikieiki ε=ε=(((＞Д＜)ノノ!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1337040798853029890",
+        "conversation_id": "2010450053526413635",
+        "created_at": "2026-01-12T04:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010574196477423808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010574196477423808",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010450053526413635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 Σ(っ°Д°;)っ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点/🚪100",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 1960,
+          "like_count": 62445,
+          "listed_count": 8,
+          "media_count": 1384,
+          "tweet_count": 9476
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-10T14:26:59.000Z",
+        "description": "",
+        "id": "1337040798853029890",
+        "name": "shikieiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1337043086212558848/ZcMRobm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 215,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 102
+        },
+        "username": "HiddenShikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2030574779477164399",
+    "created_at": "2026-03-08T09:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T10:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030574779477164399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1795038095500595200",
+          "start": 3,
+          "username": "a_virtualworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030574779477164399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030477336769073280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a_virtualworld: 祝你们无论在大众文化中，还是亲密关系里，不被物化，矮化，附庸化，宠物化，能够得到真正平等的爱与尊重。当然，如果你们不需要的话，也祝你们可以摆脱爱情的桎梏，得到更广阔的自由\n\n祝你们免于遭受一切形式的性别暴力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2030574779477164399",
+        "created_at": "2026-03-08T09:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030574779477164399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1795038095500595200",
+              "start": 3,
+              "username": "a_virtualworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030574779477164399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030477336769073280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a_virtualworld: 祝你们无论在大众文化中，还是亲密关系里，不被物化，矮化，附庸化，宠物化，能够得到真正平等的爱与尊重。当然，如果你们不需要的话，也祝你们可以摆脱爱情的桎梏，得到更广阔的自由\n\n祝你们免于遭受一切形式的性别暴力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795038095500595200",
+        "conversation_id": "2030477336769073280",
+        "created_at": "2026-03-08T02:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030477336769073280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030477336769073280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4239,
+          "like_count": 244,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "祝你们无论在大众文化中，还是亲密关系里，不被物化，矮化，附庸化，宠物化，能够得到真正平等的爱与尊重。当然，如果你们不需要的话，也祝你们可以摆脱爱情的桎梏，得到更广阔的自由\n\n祝你们免于遭受一切形式的性别暴力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 2011,
+          "like_count": 67122,
+          "listed_count": 8,
+          "media_count": 1583,
+          "tweet_count": 10666
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T10:24:12.000Z",
+        "description": "声带存档 @elvirannnn｜废话、调色、我的猫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "elvirannnn"
+              }
+            ]
+          }
+        },
+        "id": "1795038095500595200",
+        "location": "入梦也",
+        "name": "virtual",
+        "pinned_tweet_id": "1795057408852570177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892220664964370432/PPrCdgme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 0,
+          "like_count": 3655,
+          "listed_count": 6,
+          "media_count": 153,
+          "tweet_count": 1692
+        },
+        "username": "a_virtualworld",
+        "verified": false
+      }
+    ]
+  }
+}

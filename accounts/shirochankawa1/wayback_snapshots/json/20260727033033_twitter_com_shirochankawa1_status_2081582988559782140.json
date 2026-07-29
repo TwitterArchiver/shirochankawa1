@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2081582988559782140",
+    "created_at": "2026-07-27T03:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T04:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081582988559782140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1885618607603986432",
+          "start": 3,
+          "username": "enen672150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081582988559782140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080891622397780448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enen672150: 想象一下你老公是一个中国人，然后能飞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2081582988559782140",
+        "created_at": "2026-07-27T03:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081582988559782140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1885618607603986432",
+              "start": 3,
+              "username": "enen672150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081582988559782140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080891622397780448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enen672150: 想象一下你老公是一个中国人，然后能飞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885618607603986432",
+        "conversation_id": "2080891622397780448",
+        "created_at": "2026-07-25T05:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080891622397780448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080891622397780448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 135198,
+          "like_count": 1484,
+          "quote_count": 11,
+          "reply_count": 236,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下你老公是一个中国人，然后能飞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2920,
+          "following_count": 2189,
+          "like_count": 71975,
+          "listed_count": 8,
+          "media_count": 1824,
+          "tweet_count": 12285
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T09:18:24.000Z",
+        "description": "我是豆，这是我的X账号\n我就口嗨 别管",
+        "id": "1885618607603986432",
+        "location": "意大利",
+        "name": "豆豆王",
+        "pinned_tweet_id": "2057858967485734980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073807781178793984/1uRj639t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3203,
+          "following_count": 14,
+          "like_count": 2087,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "enen672150",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024040159449092357",
+    "created_at": "2026-02-19T00:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T01:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024276775501811905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1855260455796953088",
+          "start": 0,
+          "username": "Liuyyy0523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024276775501811905",
+    "in_reply_to_user_id": "1855260455796953088",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024257886604718133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liuyyy0523 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024040159449092357",
+        "created_at": "2026-02-19T00:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T01:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024276775501811905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1855260455796953088",
+              "start": 0,
+              "username": "Liuyyy0523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024276775501811905",
+        "in_reply_to_user_id": "1855260455796953088",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024257886604718133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liuyyy0523 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855260455796953088",
+        "conversation_id": "2024040159449092357",
+        "created_at": "2026-02-18T23:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T00:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024257886604718133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024257886604718133",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024040159449092357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 你的天使女孩来啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 1981,
+          "like_count": 64600,
+          "listed_count": 8,
+          "media_count": 1505,
+          "tweet_count": 10084
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T14:45:54.000Z",
+        "description": "只回口令",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gogo54145",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gogo54145",
+                "start": 0,
+                "url": "https://t.co/hqN4LCZqRk"
+              }
+            ]
+          }
+        },
+        "id": "1855260455796953088",
+        "location": "提问箱-",
+        "name": "钱性恋",
+        "pinned_tweet_id": "1998642684572086678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021013967666388992/b_8Yauql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 5,
+          "like_count": 1265,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/hqN4LCZqRk",
+        "username": "Liuyyy0523",
+        "verified": false
+      }
+    ]
+  }
+}

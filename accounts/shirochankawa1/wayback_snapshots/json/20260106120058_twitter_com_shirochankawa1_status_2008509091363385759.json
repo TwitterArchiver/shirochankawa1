@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2008509091363385759",
+    "created_at": "2026-01-06T12:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008509091363385759"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008509091363385759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我画画的目的：\n1．圈钱（已失败）\n2．画同人（已失败）\n3．成为大瑞德（完全失败）\n4．画鬼图（已超标）\n5．乱花钱（已超标）6．产屎粮（已超标）\n7．演傻子（圆满成功）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2008509091363385759",
+        "created_at": "2026-01-06T12:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008509091363385759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008509091363385759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我画画的目的：\n1．圈钱（已失败）\n2．画同人（已失败）\n3．成为大瑞德（完全失败）\n4．画鬼图（已超标）\n5．乱花钱（已超标）6．产屎粮（已超标）\n7．演傻子（圆满成功）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点/🚪100",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 1968,
+          "like_count": 62404,
+          "listed_count": 8,
+          "media_count": 1372,
+          "tweet_count": 9439
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

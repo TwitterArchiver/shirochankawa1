@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2055452274445697352",
+    "created_at": "2026-05-17T09:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055943129895964715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1175234920257470464",
+          "start": 0,
+          "username": "kokoniiroyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055943129895964715",
+    "in_reply_to_user_id": "1175234920257470464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055851333274779780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokoniiroyo 对的对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2055452274445697352",
+        "created_at": "2026-05-17T09:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055943129895964715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1175234920257470464",
+              "start": 0,
+              "username": "kokoniiroyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055943129895964715",
+        "in_reply_to_user_id": "1175234920257470464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055851333274779780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokoniiroyo 对的对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1175234920257470464",
+        "conversation_id": "2055452274445697352",
+        "created_at": "2026-05-17T03:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055851333274779780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055851333274779780",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055452274445697352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 还是挂壁比较爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 2078,
+          "like_count": 69448,
+          "listed_count": 9,
+          "media_count": 1694,
+          "tweet_count": 11429
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-21T02:26:57.000Z",
+        "description": "",
+        "id": "1175234920257470464",
+        "name": "Miok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942215720407851008/DQ3iVv7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 58,
+          "like_count": 43,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "kokoniiroyo",
+        "verified": false
+      }
+    ]
+  }
+}

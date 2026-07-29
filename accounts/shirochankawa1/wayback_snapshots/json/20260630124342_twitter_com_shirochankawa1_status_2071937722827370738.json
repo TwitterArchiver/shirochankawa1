@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2071834600784245214",
+    "created_at": "2026-06-30T12:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071937722827370738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1995074945429458944",
+          "start": 0,
+          "username": "mizuiro3144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071937722827370738",
+    "in_reply_to_user_id": "1995074945429458944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071897275161522537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuiro3144 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2071834600784245214",
+        "created_at": "2026-06-30T12:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071937722827370738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1995074945429458944",
+              "start": 0,
+              "username": "mizuiro3144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071937722827370738",
+        "in_reply_to_user_id": "1995074945429458944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071897275161522537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuiro3144 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995074945429458944",
+        "conversation_id": "2071834600784245214",
+        "created_at": "2026-06-30T10:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071897275161522537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071897275161522537",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071834600784245214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 美萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 2174,
+          "like_count": 71403,
+          "listed_count": 8,
+          "media_count": 1790,
+          "tweet_count": 12085
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T10:18:40.000Z",
+        "description": "05/长发蝻/双相/od/🔪/广州。",
+        "id": "1995074945429458944",
+        "location": "Hong Kong",
+        "name": "mizuiro",
+        "pinned_tweet_id": "2020176354403307815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995075507378110464/FrPunWsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 350,
+          "like_count": 4630,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1472
+        },
+        "url": "",
+        "username": "mizuiro3144",
+        "verified": false
+      }
+    ]
+  }
+}

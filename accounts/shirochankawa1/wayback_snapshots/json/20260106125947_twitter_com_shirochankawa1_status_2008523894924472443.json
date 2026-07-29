@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007815048538828800"
+      ],
+      "media_source_tweet_id": [
+        "2007815054843064682"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2008523894924472443",
+    "created_at": "2026-01-06T12:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008523894924472443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2004597481049645056",
+          "start": 3,
+          "username": "zfizzarolli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vPxOZ0jt35",
+          "end": 51,
+          "expanded_url": "https://x.com/zfizzarolli/status/2007815054843064682/photo/1",
+          "media_key": "3_2007815048538828800",
+          "start": 28,
+          "url": "https://t.co/vPxOZ0jt35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008523894924472443",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 451
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007815054843064682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zfizzarolli: 4am sesh 💘 https://t.co/vPxOZ0jt35"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007815048538828800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90xJhbXMAALrN4.jpg",
+        "width": 1984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007815048538828800"
+          ],
+          "media_source_tweet_id": [
+            "2007815054843064682"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2008523894924472443",
+        "created_at": "2026-01-06T12:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008523894924472443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2004597481049645056",
+              "start": 3,
+              "username": "zfizzarolli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPxOZ0jt35",
+              "end": 51,
+              "expanded_url": "https://x.com/zfizzarolli/status/2007815054843064682/photo/1",
+              "media_key": "3_2007815048538828800",
+              "start": 28,
+              "url": "https://t.co/vPxOZ0jt35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008523894924472443",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 451
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007815054843064682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zfizzarolli: 4am sesh 💘 https://t.co/vPxOZ0jt35"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007815048538828800"
+          ]
+        },
+        "author_id": "2004597481049645056",
+        "conversation_id": "2007815054843064682",
+        "created_at": "2026-01-04T14:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007815054843064682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPxOZ0jt35",
+              "end": 34,
+              "expanded_url": "https://x.com/zfizzarolli/status/2007815054843064682/photo/1",
+              "media_key": "3_2007815048538828800",
+              "start": 11,
+              "url": "https://t.co/vPxOZ0jt35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007815054843064682",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 25053,
+          "like_count": 4354,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 451
+        },
+        "reply_settings": "everyone",
+        "text": "4am sesh 💘 https://t.co/vPxOZ0jt35"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点/🚪100",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 1968,
+          "like_count": 62411,
+          "listed_count": 8,
+          "media_count": 1372,
+          "tweet_count": 9444
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T16:57:45.000Z",
+        "description": "https://t.co/wLucfY6d2p on stage .ᐟ  🐛 @radiozstatic 𖦹°‧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "radiozstatic"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "j͟e͟s͟t͟e͟r͟.⠀",
+                "end": 23,
+                "expanded_url": "http://xn--jester-bhebbbbb.xn--6ii",
+                "start": 0,
+                "url": "https://t.co/wLucfY6d2p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zfizzarolli.straw.page",
+                "end": 23,
+                "expanded_url": "https://zfizzarolli.straw.page",
+                "start": 0,
+                "url": "https://t.co/DdLrv6Bhd0"
+              }
+            ]
+          }
+        },
+        "id": "2004597481049645056",
+        "name": "𝓕izz of shtwt 🍋‍🟩໒꒱۪",
+        "pinned_tweet_id": "2004645511773438212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004604267194105856/dJHOJzSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 247,
+          "like_count": 2470,
+          "listed_count": 10,
+          "media_count": 159,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/DdLrv6Bhd0",
+        "username": "zfizzarolli",
+        "verified": false
+      }
+    ]
+  }
+}

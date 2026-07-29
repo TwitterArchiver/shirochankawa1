@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2017477311835283456"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2017477392890270222",
+    "created_at": "2026-01-31T05:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T06:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017477392890270222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4irgXLcAx6",
+          "end": 43,
+          "expanded_url": "https://x.com/shirochankawa1/status/2017477392890270222/video/1",
+          "media_key": "13_2017477311835283456",
+          "start": 20,
+          "url": "https://t.co/4irgXLcAx6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017477392890270222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么叫一直穿一件衣服，那是我公式服懂吗 https://t.co/4irgXLcAx6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19642,
+        "height": 1280,
+        "media_key": "13_2017477311835283456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017477311835283456/img/1ag7LnIpO5OAIxn4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017477311835283456/vid/avc1/320x568/1MWtPhW8_VHZMDaQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017477311835283456/vid/avc1/480x852/p8gVioz4AHZwsM5N.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017477311835283456/vid/avc1/720x1280/eJl1CHDTOs2SQ5iR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017477311835283456/pl/HC8vnd5mn07lhGGH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017477311835283456"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2017477392890270222",
+        "created_at": "2026-01-31T05:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017477392890270222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4irgXLcAx6",
+              "end": 43,
+              "expanded_url": "https://x.com/shirochankawa1/status/2017477392890270222/video/1",
+              "media_key": "13_2017477311835283456",
+              "start": 20,
+              "url": "https://t.co/4irgXLcAx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017477392890270222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫一直穿一件衣服，那是我公式服懂吗 https://t.co/4irgXLcAx6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 1958,
+          "like_count": 63577,
+          "listed_count": 8,
+          "media_count": 1428,
+          "tweet_count": 9725
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2028776152895221885",
+    "created_at": "2026-03-03T10:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028776152895221885"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028776152895221885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用什么擦拭我的眼泪，工业纸巾、莎士比亚诗集还是你同样湿润的眼睛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2028776152895221885",
+        "created_at": "2026-03-03T10:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028776152895221885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028776152895221885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用什么擦拭我的眼泪，工业纸巾、莎士比亚诗集还是你同样湿润的眼睛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 2000,
+          "like_count": 66384,
+          "listed_count": 8,
+          "media_count": 1567,
+          "tweet_count": 10524
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2021263396201496872",
+    "created_at": "2026-02-10T23:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T00:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021371250883559669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727951885590740992",
+          "start": 0,
+          "username": "RStacy81486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021371250883559669",
+    "in_reply_to_user_id": "1727951885590740992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021275842878505363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RStacy81486 对，我的号还是个毕业号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2021263396201496872",
+        "created_at": "2026-02-10T23:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T00:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021371250883559669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727951885590740992",
+              "start": 0,
+              "username": "RStacy81486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021371250883559669",
+        "in_reply_to_user_id": "1727951885590740992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021275842878505363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RStacy81486 对，我的号还是个毕业号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727951885590740992",
+        "conversation_id": "2021263396201496872",
+        "created_at": "2026-02-10T17:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T18:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021275842878505363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021275842878505363",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021263396201496872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 卧槽，方舟指令？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 1966,
+          "like_count": 63849,
+          "listed_count": 8,
+          "media_count": 1462,
+          "tweet_count": 9870
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T07:26:56.000Z",
+        "description": "余乃究极の混沌+中二病现役+社畜欧吉桑+原崩农三分天下+apex糕手+互联网sp头子+4i+(抖m(微)",
+        "id": "1727951885590740992",
+        "name": "绯樱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784200761880236032/7-TH8m54_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 734,
+          "like_count": 4942,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1386
+        },
+        "username": "RStacy81486",
+        "verified": false
+      }
+    ]
+  }
+}

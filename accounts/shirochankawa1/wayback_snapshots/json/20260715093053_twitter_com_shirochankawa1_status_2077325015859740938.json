@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2077291108493668411",
+    "created_at": "2026-07-15T09:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077325015859740938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077325015859740938",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077291108493668411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 唉，结婚没有想象的美好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 406,
+        "media_key": "3_2077291100763717633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQFQAwaAAE1Zsv.jpg",
+        "width": 1072
+      },
+      {
+        "height": 122,
+        "media_key": "3_2077291102391177216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQFQG0bEAATbhT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2077291108493668411",
+        "created_at": "2026-07-15T09:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077325015859740938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077325015859740938",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077291108493668411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 唉，结婚没有想象的美好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077291100763717633",
+            "3_2077291102391177216"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2077291108493668411",
+        "created_at": "2026-07-15T07:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077291108493668411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pry71CBeLj",
+              "end": 29,
+              "expanded_url": "https://x.com/Aloevce/status/2077291108493668411/photo/1",
+              "media_key": "3_2077291100763717633",
+              "start": 6,
+              "url": "https://t.co/Pry71CBeLj"
+            },
+            {
+              "display_url": "pic.x.com/Pry71CBeLj",
+              "end": 29,
+              "expanded_url": "https://x.com/Aloevce/status/2077291108493668411/photo/1",
+              "media_key": "3_2077291102391177216",
+              "start": 6,
+              "url": "https://t.co/Pry71CBeLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077291108493668411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1695,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "别结婚谢谢 https://t.co/Pry71CBeLj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2865,
+          "following_count": 2177,
+          "like_count": 71609,
+          "listed_count": 8,
+          "media_count": 1807,
+          "tweet_count": 12177
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18047,
+          "following_count": 1958,
+          "like_count": 56502,
+          "listed_count": 23,
+          "media_count": 6910,
+          "tweet_count": 24234
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2049824046729277823",
+    "created_at": "2026-04-30T12:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049824046729277823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1922650331454058496",
+          "start": 3,
+          "username": "xiaoshu_yy33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049824046729277823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049305387611119972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoshu_yy33: 我发现很多男的真的喜欢莫名其妙的抨击女生以此获得男性优越感  妆浓了 美颜开大了 拉腿了 头大了 胸小了 脚大了 背景扭曲了 大哥 你那长相P图都救不回来 除非你只提供色块 知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2049824046729277823",
+        "created_at": "2026-04-30T12:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049824046729277823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1922650331454058496",
+              "start": 3,
+              "username": "xiaoshu_yy33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049824046729277823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049305387611119972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoshu_yy33: 我发现很多男的真的喜欢莫名其妙的抨击女生以此获得男性优越感  妆浓了 美颜开大了 拉腿了 头大了 胸小了 脚大了 背景扭曲了 大哥 你那长相P图都救不回来 除非你只提供色块 知道吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922650331454058496",
+        "conversation_id": "2049305387611119972",
+        "created_at": "2026-04-29T01:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049305387611119972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049305387611119972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 24381,
+          "like_count": 1329,
+          "quote_count": 2,
+          "reply_count": 63,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "我发现很多男的真的喜欢莫名其妙的抨击女生以此获得男性优越感  妆浓了 美颜开大了 拉腿了 头大了 胸小了 脚大了 背景扭曲了 大哥 你那长相P图都救不回来 除非你只提供色块 知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2457,
+          "following_count": 2065,
+          "like_count": 68603,
+          "listed_count": 8,
+          "media_count": 1664,
+          "tweet_count": 11166
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T13:49:05.000Z",
+        "description": "🏳️‍⚧️",
+        "id": "1922650331454058496",
+        "name": "解树",
+        "pinned_tweet_id": "2042901608154173812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035963160201682944/pGyF7dTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 13,
+          "like_count": 515,
+          "listed_count": 15,
+          "media_count": 95,
+          "tweet_count": 718
+        },
+        "username": "xiaoshu_yy33",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2028819521663062510",
+    "created_at": "2026-03-03T13:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028819521663062510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910008101371273225",
+          "start": 3,
+          "username": "paopao152025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028819521663062510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028358221191328022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paopao152025: 中国人现在最重要的任务是分清疲惫和懒惰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2028819521663062510",
+        "created_at": "2026-03-03T13:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028819521663062510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910008101371273225",
+              "start": 3,
+              "username": "paopao152025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028819521663062510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028358221191328022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paopao152025: 中国人现在最重要的任务是分清疲惫和懒惰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910008101371273225",
+        "conversation_id": "2028358221191328022",
+        "created_at": "2026-03-02T06:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028358221191328022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028358221191328022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 43713,
+          "like_count": 1175,
+          "quote_count": 8,
+          "reply_count": 17,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "中国人现在最重要的任务是分清疲惫和懒惰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 2002,
+          "like_count": 66484,
+          "listed_count": 8,
+          "media_count": 1569,
+          "tweet_count": 10544
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "第一世@keeganlike 第二世@paonew26都被封了tut 不聊骚 纯绿推 请不要冒犯我骚扰我谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "keeganlike"
+              },
+              {
+                "end": 27,
+                "start": 18,
+                "username": "paonew26"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "name": "泡泡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2034,
+          "following_count": 170,
+          "like_count": 3024,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 1076
+        },
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

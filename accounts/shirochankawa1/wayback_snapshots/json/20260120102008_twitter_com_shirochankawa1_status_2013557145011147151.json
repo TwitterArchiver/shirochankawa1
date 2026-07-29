@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013557135158738944",
+        "3_2013557135104176128",
+        "3_2013557135179747328"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2013557145011147151",
+    "created_at": "2026-01-20T10:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T11:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013557145011147151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GIiJ4ydFdE",
+          "end": 27,
+          "expanded_url": "https://x.com/shirochankawa1/status/2013557145011147151/photo/1",
+          "media_key": "3_2013557135158738944",
+          "start": 4,
+          "url": "https://t.co/GIiJ4ydFdE"
+        },
+        {
+          "display_url": "pic.x.com/GIiJ4ydFdE",
+          "end": 27,
+          "expanded_url": "https://x.com/shirochankawa1/status/2013557145011147151/photo/1",
+          "media_key": "3_2013557135104176128",
+          "start": 4,
+          "url": "https://t.co/GIiJ4ydFdE"
+        },
+        {
+          "display_url": "pic.x.com/GIiJ4ydFdE",
+          "end": 27,
+          "expanded_url": "https://x.com/shirochankawa1/status/2013557145011147151/photo/1",
+          "media_key": "3_2013557135179747328",
+          "start": 4,
+          "url": "https://t.co/GIiJ4ydFdE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013557145011147151",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑袅了 https://t.co/GIiJ4ydFdE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2013557145011147151].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2013557145011147151",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2013557145011147151"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013557135158738944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GXi9AXAAAAPEj.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013557135104176128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GXi8zWcAAqyCy.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013557135179747328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GXi9FXkAAoVlz.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点/🚪100",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 1958,
+          "like_count": 62803,
+          "listed_count": 8,
+          "media_count": 1405,
+          "tweet_count": 9596
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

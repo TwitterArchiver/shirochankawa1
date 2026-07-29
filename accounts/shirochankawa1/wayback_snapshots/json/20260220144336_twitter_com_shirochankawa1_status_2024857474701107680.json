@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024853641425977850",
+    "created_at": "2026-02-20T14:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024857474701107680"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "萌之",
+          "probability": 0.5182,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1700015544727138304",
+          "start": 0,
+          "username": "fulei0131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024857474701107680",
+    "in_reply_to_user_id": "1700015544727138304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024853641425977850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fulei0131 萌之"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2024853617023623168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBm5ovTboAAXfde.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1076,
+        "media_key": "3_2024853617006800896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBm5ovPa8AAWByh.jpg",
+        "width": 1392
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2024853616998391808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBm5ovNaoAAKGUY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2017,
+        "media_key": "3_2024853617141022720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBm5ovvbAAADbeM.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024853641425977850",
+        "created_at": "2026-02-20T14:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024857474701107680"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "萌之",
+              "probability": 0.5182,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1700015544727138304",
+              "start": 0,
+              "username": "fulei0131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024857474701107680",
+        "in_reply_to_user_id": "1700015544727138304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024853641425977850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fulei0131 萌之"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024853617023623168",
+            "3_2024853617006800896",
+            "3_2024853616998391808",
+            "3_2024853617141022720"
+          ]
+        },
+        "author_id": "1700015544727138304",
+        "conversation_id": "2024853641425977850",
+        "created_at": "2026-02-20T14:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024853641425977850"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "量产系"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "亞文化"
+            },
+            {
+              "end": 32,
+              "start": 20,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "自撮りウルフ"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "粉色系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jo0QvrN02l",
+              "end": 69,
+              "expanded_url": "https://x.com/fulei0131/status/2024853641425977850/photo/1",
+              "media_key": "3_2024853617023623168",
+              "start": 46,
+              "url": "https://t.co/jo0QvrN02l"
+            },
+            {
+              "display_url": "pic.x.com/jo0QvrN02l",
+              "end": 69,
+              "expanded_url": "https://x.com/fulei0131/status/2024853641425977850/photo/1",
+              "media_key": "3_2024853617006800896",
+              "start": 46,
+              "url": "https://t.co/jo0QvrN02l"
+            },
+            {
+              "display_url": "pic.x.com/jo0QvrN02l",
+              "end": 69,
+              "expanded_url": "https://x.com/fulei0131/status/2024853641425977850/photo/1",
+              "media_key": "3_2024853616998391808",
+              "start": 46,
+              "url": "https://t.co/jo0QvrN02l"
+            },
+            {
+              "display_url": "pic.x.com/jo0QvrN02l",
+              "end": 69,
+              "expanded_url": "https://x.com/fulei0131/status/2024853641425977850/photo/1",
+              "media_key": "3_2024853617141022720",
+              "start": 46,
+              "url": "https://t.co/jo0QvrN02l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024853641425977850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好怀念23年的我呀~#量产系 #亞文化 #地雷系女子と繋がりたい #自撮りウルフ #粉色系 https://t.co/jo0QvrN02l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232,
+          "following_count": 1988,
+          "like_count": 65040,
+          "listed_count": 8,
+          "media_count": 1514,
+          "tweet_count": 10176
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T05:18:02.000Z",
+        "description": "佛系压榨/胁迫/曝光/洗脑🖤是喜欢把贡畜当傻逼玩 钱包清空的芙芙祖宗哦~碾烂废物们的脑子 抢走废物们的贱💵哦~ 不够贱的不回 发\"可以.....\"\"能.....\"的傻逼都会被拉黑 不面贡 喜欢白给的冤种来 双性恋欢迎女孩子贴贴~🐧 3840078612 申请默认榨干",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fufu84488",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fufu84488",
+                "start": 0,
+                "url": "https://t.co/0yJ9MSFW77"
+              }
+            ]
+          }
+        },
+        "id": "1700015544727138304",
+        "location": "🚪50/288/520🖤",
+        "name": "芙芙sama（收狗版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024249914252021766/AbSkG3PZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 1135,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/0yJ9MSFW77",
+        "username": "fulei0131",
+        "verified": false
+      }
+    ]
+  }
+}

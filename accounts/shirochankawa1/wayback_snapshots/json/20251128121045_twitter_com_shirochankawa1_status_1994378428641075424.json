@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1994269708540088566",
+    "created_at": "2025-11-28T12:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T13:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994378428641075424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1154334304681390081",
+          "start": 0,
+          "username": "LOnelyAsh3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994378428641075424",
+    "in_reply_to_user_id": "1154334304681390081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994378262534095218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LOnelyAsh3 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1994269708540088566",
+        "created_at": "2025-11-28T12:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994378428641075424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1154334304681390081",
+              "start": 0,
+              "username": "LOnelyAsh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994378428641075424",
+        "in_reply_to_user_id": "1154334304681390081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994378262534095218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LOnelyAsh3 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1154334304681390081",
+        "conversation_id": "1994269708540088566",
+        "created_at": "2025-11-28T12:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994378262534095218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994378262534095218",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994269708540088566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 寵壞妳就不會受傷了 會遇到的 放心只要這世界上還有愛就不怕遇不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 1969,
+          "like_count": 61781,
+          "listed_count": 8,
+          "media_count": 1302,
+          "tweet_count": 9089
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-25T10:15:19.000Z",
+        "description": "我是沙鼠族的小可愛，來自奈洛之森轉移後睡街邊在巷口長大的孩紙，再重申一次我是鼠不是狐我是鼠 鼠 鼠!!!!!不是狐 rrrrrrrrrrrrrrrrr \nQ口Q!!!!!\ntwitch: https://t.co/juz1gqzHkm\n阿波的麻麻:優米ゆみ @Yumimi160",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Yumimi160"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/twlonelyash",
+                "end": 117,
+                "expanded_url": "http://twitch.tv/twlonelyash",
+                "start": 94,
+                "url": "https://t.co/juz1gqzHkm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCLZ3J…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCLZ3JjS8x6J3q7Kao4fUMcA?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/x3JBRpF6kE"
+              }
+            ]
+          }
+        },
+        "id": "1154334304681390081",
+        "location": "台灣",
+        "name": "【宇智波比】LOnely_Ash",
+        "pinned_tweet_id": "1504795699728162817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725602354094096384/8SzkBdGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 441,
+          "like_count": 3658,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 2677
+        },
+        "url": "https://t.co/x3JBRpF6kE",
+        "username": "LOnelyAsh3",
+        "verified": false
+      }
+    ]
+  }
+}

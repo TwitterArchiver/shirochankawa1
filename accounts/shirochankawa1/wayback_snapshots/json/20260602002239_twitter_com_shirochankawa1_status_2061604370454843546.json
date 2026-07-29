@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2061604370454843546",
+    "created_at": "2026-06-02T00:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T01:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061604370454843546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2984903273",
+          "start": 3,
+          "username": "gtrvariedades"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061604370454843546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894856003369292203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gtrvariedades: 令和假面骑士中的女反派们\n《假面骑士零一》中的亚兹\n《假面骑士圣刃》中的神代玲花\n《假面骑士利维斯》中的阿基蕾拉\n《假面骑士极狐》中的贝洛芭\n《假面骑士歌查德》中的阿特洛波斯和克洛托和拉克西斯\n《假面骑士加布》中的格罗塔和吉普和西塔\n#仮面…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1069,
+        "media_key": "3_1894855999866982400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkvhfhSW0AA9s8M.jpg",
+        "width": 1677
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2061604370454843546",
+        "created_at": "2026-06-02T00:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061604370454843546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2984903273",
+              "start": 3,
+              "username": "gtrvariedades"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061604370454843546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894856003369292203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gtrvariedades: 令和假面骑士中的女反派们\n《假面骑士零一》中的亚兹\n《假面骑士圣刃》中的神代玲花\n《假面骑士利维斯》中的阿基蕾拉\n《假面骑士极狐》中的贝洛芭\n《假面骑士歌查德》中的阿特洛波斯和克洛托和拉克西斯\n《假面骑士加布》中的格罗塔和吉普和西塔\n#仮面…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894855999866982400"
+          ]
+        },
+        "author_id": "2984903273",
+        "conversation_id": "1894856003369292203",
+        "created_at": "2025-02-26T21:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T22:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894856003369292203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 117,
+              "tag": "仮面ライダーガヴ"
+            },
+            {
+              "end": 140,
+              "start": 127,
+              "tag": "仮面ライダーガッチャード"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6kcXvNmWQ",
+              "end": 164,
+              "expanded_url": "https://x.com/gtrvariedades/status/1894856003369292203/photo/1",
+              "media_key": "3_1894855999866982400",
+              "start": 141,
+              "url": "https://t.co/o6kcXvNmWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894856003369292203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4077,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "令和假面骑士中的女反派们\n《假面骑士零一》中的亚兹\n《假面骑士圣刃》中的神代玲花\n《假面骑士利维斯》中的阿基蕾拉\n《假面骑士极狐》中的贝洛芭\n《假面骑士歌查德》中的阿特洛波斯和克洛托和拉克西斯\n《假面骑士加布》中的格罗塔和吉普和西塔\n#仮面ライダーガヴ #仮面ライダーガッチャード https://t.co/o6kcXvNmWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 2110,
+          "like_count": 70409,
+          "listed_count": 8,
+          "media_count": 1740,
+          "tweet_count": 11726
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-19T00:48:13.000Z",
+        "description": "夢はマルチリンガルとポリグロットと翻訳者と言語学者になる。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/supersentai202…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/supersentai2023/",
+                "start": 0,
+                "url": "https://t.co/cERnZtJyri"
+              }
+            ]
+          }
+        },
+        "id": "2984903273",
+        "name": "グレイソン(🇯🇵)그레이슨(🇰🇷)格雷森(🇨🇳)",
+        "pinned_tweet_id": "2051375932028436647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051778251555516419/0ntKnEkK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6656,
+          "following_count": 7493,
+          "like_count": 3792,
+          "listed_count": 20,
+          "media_count": 29427,
+          "tweet_count": 49591
+        },
+        "url": "https://t.co/cERnZtJyri",
+        "username": "gtrvariedades",
+        "verified": false
+      }
+    ]
+  }
+}

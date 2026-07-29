@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2035380400466653332",
+    "created_at": "2026-03-21T15:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T16:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035380400466653332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026168716803846144",
+          "start": 3,
+          "username": "saver_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035380400466653332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035026747520114801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saver_snow: 怂人就是到推上发东西都顾虑这个顾虑那个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2035380400466653332",
+        "created_at": "2026-03-21T15:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035380400466653332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026168716803846144",
+              "start": 3,
+              "username": "saver_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035380400466653332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035026747520114801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saver_snow: 怂人就是到推上发东西都顾虑这个顾虑那个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026168716803846144",
+        "conversation_id": "2035026747520114801",
+        "created_at": "2026-03-20T16:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035026747520114801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035026747520114801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 76359,
+          "like_count": 882,
+          "quote_count": 28,
+          "reply_count": 112,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "怂人就是到推上发东西都顾虑这个顾虑那个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 2027,
+          "like_count": 67901,
+          "listed_count": 8,
+          "media_count": 1605,
+          "tweet_count": 10845
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T05:34:13.000Z",
+        "description": "brat 不怎么绿 无门 颜狗 卡身高 没回你就说明你没引起我的注意（",
+        "id": "2026168716803846144",
+        "name": "救雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026169120954417152/7bc_tN8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 22,
+          "like_count": 41,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 54
+        },
+        "username": "saver_snow",
+        "verified": false
+      }
+    ]
+  }
+}

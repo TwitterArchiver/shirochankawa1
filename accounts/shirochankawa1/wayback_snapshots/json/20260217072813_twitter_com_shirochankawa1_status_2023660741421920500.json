@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2023598952034025715",
+    "created_at": "2026-02-17T07:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T08:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023660741421920500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997495772066324480",
+          "start": 0,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023660741421920500",
+    "in_reply_to_user_id": "1997495772066324480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023598952034025715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuma02150128 其实我也怕这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9971,
+        "height": 720,
+        "media_key": "13_2023598890348609536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023598890348609536/img/a5iNSEuicBhCSp-N.jpg",
+        "public_metrics": {
+          "view_count": 22
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023598890348609536/vid/avc1/480x270/F1TO0eJn1aPqcvEw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023598890348609536/vid/avc1/640x360/rVZ0oB_ES21l3qMV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023598890348609536/vid/avc1/1280x720/YhpbQ1Ptuz1AVzWx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023598890348609536/pl/B2t4xu3mhfhW0iZk.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2023598952034025715",
+        "created_at": "2026-02-17T07:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023660741421920500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997495772066324480",
+              "start": 0,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023660741421920500",
+        "in_reply_to_user_id": "1997495772066324480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023598952034025715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuma02150128 其实我也怕这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023598890348609536"
+          ]
+        },
+        "author_id": "1997495772066324480",
+        "conversation_id": "2023598952034025715",
+        "created_at": "2026-02-17T03:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023598952034025715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1MLS1k6VO",
+              "end": 43,
+              "expanded_url": "https://x.com/kuma02150128/status/2023598952034025715/video/1",
+              "media_key": "13_2023598890348609536",
+              "start": 20,
+              "url": "https://t.co/u1MLS1k6VO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023598952034025715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是年兽\n我操我真的害怕噼里啪啦的 https://t.co/u1MLS1k6VO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 1980,
+          "like_count": 64474,
+          "listed_count": 8,
+          "media_count": 1498,
+          "tweet_count": 10037
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！欢迎找我互fo 🥺/精神状态up/自残/我在努力生活！！！",
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 109,
+          "like_count": 1691,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 454
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

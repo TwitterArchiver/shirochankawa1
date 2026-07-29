@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2059652332632326156",
+    "created_at": "2026-05-27T15:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059652332632326156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2025098173187010560",
+          "start": 3,
+          "username": "LiliLunatic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059652332632326156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059455138738348127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiliLunatic: 哇，发现现在的孩子们真的好能掐架，同人画而已，既然是二创那不是想怎么画都行吗？固然人各有喜好，不喜欢看的滑走嘛，何必跑人家评论里辱骂甚至挂出来引人一起讨伐？看来我小时候所处的那种地球村一般和谐友爱的同人二创环境终究是已成过往了。*嗯我说的是罗小…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2059652332632326156",
+        "created_at": "2026-05-27T15:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059652332632326156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2025098173187010560",
+              "start": 3,
+              "username": "LiliLunatic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059652332632326156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059455138738348127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LiliLunatic: 哇，发现现在的孩子们真的好能掐架，同人画而已，既然是二创那不是想怎么画都行吗？固然人各有喜好，不喜欢看的滑走嘛，何必跑人家评论里辱骂甚至挂出来引人一起讨伐？看来我小时候所处的那种地球村一般和谐友爱的同人二创环境终究是已成过往了。*嗯我说的是罗小…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025098173187010560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1369797118517420032",
+              "name": "The Legend of Hei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1369797118517420032",
+              "name": "The Legend of Hei"
+            }
+          }
+        ],
+        "conversation_id": "2059455138738348127",
+        "created_at": "2026-05-27T02:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059455138738348127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059455138738348127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 52096,
+          "like_count": 1150,
+          "quote_count": 8,
+          "reply_count": 46,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "哇，发现现在的孩子们真的好能掐架，同人画而已，既然是二创那不是想怎么画都行吗？固然人各有喜好，不喜欢看的滑走嘛，何必跑人家评论里辱骂甚至挂出来引人一起讨伐？看来我小时候所处的那种地球村一般和谐友爱的同人二创环境终究是已成过往了。*嗯我说的是罗小黑战记的同人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 2098,
+          "like_count": 70258,
+          "listed_count": 8,
+          "media_count": 1730,
+          "tweet_count": 11663
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T08:40:43.000Z",
+        "description": "因中文互联网无法看苏丹的游戏色情同人而来到x！",
+        "id": "2025098173187010560",
+        "location": "Tokyo",
+        "name": "月亮成瘾者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025129180271362048/aLVpj44f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 19,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 162
+        },
+        "username": "LiliLunatic",
+        "verified": false
+      }
+    ]
+  }
+}

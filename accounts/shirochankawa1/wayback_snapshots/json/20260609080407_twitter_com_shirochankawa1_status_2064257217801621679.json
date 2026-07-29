@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063605688748949504"
+      ],
+      "media_source_tweet_id": [
+        "2063605696810426484"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2064257217801621679",
+    "created_at": "2026-06-09T08:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064257217801621679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3334042759",
+          "start": 3,
+          "username": "revol4357"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5oNerea4Z9",
+          "end": 65,
+          "expanded_url": "https://x.com/revol4357/status/2063605696810426484/photo/1",
+          "media_key": "3_2063605688748949504",
+          "start": 42,
+          "url": "https://t.co/5oNerea4Z9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064257217801621679",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5365
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063605696810426484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @revol4357: they're all laughing at me https://t.co/5oNerea4Z9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 987,
+        "media_key": "3_2063605688748949504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNmcMJbQAAh8U2.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063605688748949504"
+          ],
+          "media_source_tweet_id": [
+            "2063605696810426484"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2064257217801621679",
+        "created_at": "2026-06-09T08:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064257217801621679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3334042759",
+              "start": 3,
+              "username": "revol4357"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5oNerea4Z9",
+              "end": 65,
+              "expanded_url": "https://x.com/revol4357/status/2063605696810426484/photo/1",
+              "media_key": "3_2063605688748949504",
+              "start": 42,
+              "url": "https://t.co/5oNerea4Z9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064257217801621679",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5365
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063605696810426484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @revol4357: they're all laughing at me https://t.co/5oNerea4Z9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063605688748949504"
+          ]
+        },
+        "author_id": "3334042759",
+        "conversation_id": "2063605696810426484",
+        "created_at": "2026-06-07T12:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063605696810426484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5oNerea4Z9",
+              "end": 50,
+              "expanded_url": "https://x.com/revol4357/status/2063605696810426484/photo/1",
+              "media_key": "3_2063605688748949504",
+              "start": 27,
+              "url": "https://t.co/5oNerea4Z9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063605696810426484",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2843,
+          "impression_count": 258378,
+          "like_count": 33517,
+          "quote_count": 92,
+          "reply_count": 64,
+          "retweet_count": 5365
+        },
+        "reply_settings": "everyone",
+        "text": "they're all laughing at me https://t.co/5oNerea4Z9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 2145,
+          "like_count": 70811,
+          "listed_count": 8,
+          "media_count": 1758,
+          "tweet_count": 11862
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-25T05:22:06.000Z",
+        "description": "=revol/Original artworks/中文,Eng,少し日本語&lernen Deutsch/創作sketches→@rev404_ /ins:revol404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "rev404_"
+              }
+            ]
+          }
+        },
+        "id": "3334042759",
+        "location": "🚫无授权转载🚫AI",
+        "name": ".",
+        "pinned_tweet_id": "1791842274768539826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564710107107053569/vsidR1i__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149217,
+          "following_count": 581,
+          "like_count": 5495,
+          "listed_count": 796,
+          "media_count": 1086,
+          "tweet_count": 1981
+        },
+        "username": "revol4357",
+        "verified": false
+      }
+    ]
+  }
+}

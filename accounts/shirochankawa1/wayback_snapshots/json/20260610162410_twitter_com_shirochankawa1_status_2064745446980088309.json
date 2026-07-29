@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2064731397705945096",
+    "created_at": "2026-06-10T16:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T17:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064745446980088309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776109161358807040",
+          "start": 0,
+          "username": "XN63XVEDoX15647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064745446980088309",
+    "in_reply_to_user_id": "1776109161358807040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064741338294182143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XN63XVEDoX15647 对的对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2064731397705945096",
+        "created_at": "2026-06-10T16:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064745446980088309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776109161358807040",
+              "start": 0,
+              "username": "XN63XVEDoX15647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064745446980088309",
+        "in_reply_to_user_id": "1776109161358807040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064741338294182143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XN63XVEDoX15647 对的对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776109161358807040",
+        "conversation_id": "2064731397705945096",
+        "created_at": "2026-06-10T16:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064741338294182143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064741338294182143",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064731397705945096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 暖胃且好吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2701,
+          "following_count": 2156,
+          "like_count": 71042,
+          "listed_count": 8,
+          "media_count": 1768,
+          "tweet_count": 11935
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T04:46:43.000Z",
+        "description": "希望能成为一个温柔善良正能量的人。\nI hope to be a gentle, kind and positive person.\n爱思考🤔   爱做白日梦😪      想交朋友🤗\nLove thinking🤔  Love daydreaming😪    Want to make friends🤗",
+        "id": "1776109161358807040",
+        "name": "雨纪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779802687791656960/SB-UJ9LP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "XN63XVEDoX15647",
+        "verified": false
+      }
+    ]
+  }
+}

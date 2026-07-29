@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1987943814477344886",
+    "created_at": "2025-11-10T18:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T19:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987943814477344886"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987943814477344886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从前以为痛苦是尖锐的，是可以抵抗的，是可以用力挥刀去砍的。它该是一把明晃晃的利刃，带着凛冽的寒光直直刺来，或是一团烧得正旺的火焰，带着灼人的温度扑向周身。那时的我总觉得，只要攥紧拳头、咬紧牙关，拼尽全力去格挡、去反击，砍得深了，痛得够了，血流尽了，总会有一个尽头。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1987943814477344886",
+        "created_at": "2025-11-10T18:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987943814477344886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987943814477344886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从前以为痛苦是尖锐的，是可以抵抗的，是可以用力挥刀去砍的。它该是一把明晃晃的利刃，带着凛冽的寒光直直刺来，或是一团烧得正旺的火焰，带着灼人的温度扑向周身。那时的我总觉得，只要攥紧拳头、咬紧牙关，拼尽全力去格挡、去反击，砍得深了，痛得够了，血流尽了，总会有一个尽头。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 1952,
+          "like_count": 60532,
+          "listed_count": 8,
+          "media_count": 1233,
+          "tweet_count": 8639
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

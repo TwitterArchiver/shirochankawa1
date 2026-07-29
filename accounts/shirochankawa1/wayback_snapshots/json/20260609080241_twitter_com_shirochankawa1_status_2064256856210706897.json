@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2064256856210706897",
+    "created_at": "2026-06-09T08:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064256856210706897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1824784158964772864",
+          "start": 3,
+          "username": "vivian03142792"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064256856210706897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064131519422374148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @vivian03142792: 男的怎么那么恶心啊\n一个性同意18岁就破防叫叫叫\n我寻思打个王者还要十八岁才没有未成年锁呢就想着草b付得起责任吗\n恋童癖都去死好吗\n你不找18以下的你破防什么啊 \n不就是觉得18以下小孩好骗好诱导吗我操你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2064256856210706897",
+        "created_at": "2026-06-09T08:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064256856210706897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1824784158964772864",
+              "start": 3,
+              "username": "vivian03142792"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064256856210706897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064131519422374148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @vivian03142792: 男的怎么那么恶心啊\n一个性同意18岁就破防叫叫叫\n我寻思打个王者还要十八岁才没有未成年锁呢就想着草b付得起责任吗\n恋童癖都去死好吗\n你不找18以下的你破防什么啊 \n不就是觉得18以下小孩好骗好诱导吗我操你妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824784158964772864",
+        "conversation_id": "2064131519422374148",
+        "created_at": "2026-06-08T23:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064131519422374148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064131519422374148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 41824,
+          "like_count": 2867,
+          "quote_count": 15,
+          "reply_count": 46,
+          "retweet_count": 72
+        },
+        "reply_settings": "following",
+        "text": "男的怎么那么恶心啊\n一个性同意18岁就破防叫叫叫\n我寻思打个王者还要十八岁才没有未成年锁呢就想着草b付得起责任吗\n恋童癖都去死好吗\n你不找18以下的你破防什么啊 \n不就是觉得18以下小孩好骗好诱导吗我操你妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 2145,
+          "like_count": 70807,
+          "listed_count": 8,
+          "media_count": 1758,
+          "tweet_count": 11860
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T12:23:53.000Z",
+        "description": "没有回复傻吊的义务。恋童癖4000+",
+        "id": "1824784158964772864",
+        "name": "missyou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064139864904536064/tgVw44iB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 4,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 523
+        },
+        "username": "vivian03142792",
+        "verified": false
+      }
+    ]
+  }
+}

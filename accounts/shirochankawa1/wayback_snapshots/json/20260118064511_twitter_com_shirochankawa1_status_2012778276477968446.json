@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012755936486563840"
+      ],
+      "media_source_tweet_id": [
+        "2012755946506756346"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2012778276477968446",
+    "created_at": "2026-01-18T06:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T07:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012778276477968446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1811812787058016257",
+          "start": 3,
+          "username": "kanakosama0223f"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UPsCB0Tbuq",
+          "end": 97,
+          "expanded_url": "https://x.com/kanakosama0223f/status/2012755946506756346/photo/1",
+          "media_key": "3_2012755936486563840",
+          "start": 74,
+          "url": "https://t.co/UPsCB0Tbuq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012778276477968446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012755946506756346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanakosama0223f: 朋友给我画的 弹药包 白魔爪 长岛冰茶 贴纸手帐 美乐蒂 大头贴 拓麻歌子 愈美片 幸福是什么？ 好喜欢 https://t.co/UPsCB0Tbuq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 623,
+        "media_key": "3_2012755936486563840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6-3DXXIAAO4UO.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012755936486563840"
+          ],
+          "media_source_tweet_id": [
+            "2012755946506756346"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2012778276477968446",
+        "created_at": "2026-01-18T06:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012778276477968446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1811812787058016257",
+              "start": 3,
+              "username": "kanakosama0223f"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPsCB0Tbuq",
+              "end": 97,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2012755946506756346/photo/1",
+              "media_key": "3_2012755936486563840",
+              "start": 74,
+              "url": "https://t.co/UPsCB0Tbuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012778276477968446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012755946506756346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanakosama0223f: 朋友给我画的 弹药包 白魔爪 长岛冰茶 贴纸手帐 美乐蒂 大头贴 拓麻歌子 愈美片 幸福是什么？ 好喜欢 https://t.co/UPsCB0Tbuq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012755936486563840"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "2012755946506756346",
+        "created_at": "2026-01-18T05:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T06:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012755946506756346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPsCB0Tbuq",
+              "end": 76,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2012755946506756346/photo/1",
+              "media_key": "3_2012755936486563840",
+              "start": 53,
+              "url": "https://t.co/UPsCB0Tbuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012755946506756346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 898,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "朋友给我画的 弹药包 白魔爪 长岛冰茶 贴纸手帐 美乐蒂 大头贴 拓麻歌子 愈美片 幸福是什么？ 好喜欢 https://t.co/UPsCB0Tbuq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点/🚪100",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 1964,
+          "like_count": 62671,
+          "listed_count": 8,
+          "media_count": 1398,
+          "tweet_count": 9561
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "INTP 🐾07 🫧IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288 我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "kanako0223ff"
+              },
+              {
+                "end": 147,
+                "start": 139,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "2012755946506756346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008265402099654656/E9mXaAvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15712,
+          "following_count": 101,
+          "like_count": 6864,
+          "listed_count": 21,
+          "media_count": 842,
+          "tweet_count": 4688
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

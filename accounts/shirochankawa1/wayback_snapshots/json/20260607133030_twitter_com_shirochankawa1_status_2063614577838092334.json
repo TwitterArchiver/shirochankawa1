@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2063586755518054650",
+    "created_at": "2026-06-07T13:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063614577838092334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799961465044258816",
+          "start": 0,
+          "username": "hHDD8964"
+        },
+        {
+          "end": 19,
+          "id": "1103830967163117568",
+          "start": 10,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063614577838092334",
+    "in_reply_to_user_id": "1799961465044258816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063605362113360173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hHDD8964 @anblk984 张雪峰来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2063586755518054650",
+        "created_at": "2026-06-07T13:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063614577838092334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799961465044258816",
+              "start": 0,
+              "username": "hHDD8964"
+            },
+            {
+              "end": 19,
+              "id": "1103830967163117568",
+              "start": 10,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063614577838092334",
+        "in_reply_to_user_id": "1799961465044258816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063605362113360173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hHDD8964 @anblk984 张雪峰来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799961465044258816",
+        "conversation_id": "2063586755518054650",
+        "created_at": "2026-06-07T12:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063605362113360173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            },
+            {
+              "end": 25,
+              "id": "1713713115270139904",
+              "start": 10,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063605362113360173",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063592914765451720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 @shirochankawa1 你跑不过他信不信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 2144,
+          "like_count": 70691,
+          "listed_count": 8,
+          "media_count": 1755,
+          "tweet_count": 11829
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T00:27:26.000Z",
+        "description": "中国スパイ N1 /漢奸 6级/ MAGA 8.0/勃学家🔰/當你開始抽象，這個世界就不再抽象/當你開始支持習主席，坦克就不曾存在/",
+        "id": "1799961465044258816",
+        "location": "臺北市",
+        "name": "習門金瓶大官人👿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810996792278069248/eqd0nY8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 193,
+          "like_count": 78524,
+          "listed_count": 19,
+          "media_count": 1163,
+          "tweet_count": 17223
+        },
+        "username": "hHDD8964",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15049,
+          "following_count": 1027,
+          "like_count": 121069,
+          "listed_count": 70,
+          "media_count": 2958,
+          "tweet_count": 29331
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

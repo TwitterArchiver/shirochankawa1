@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2075767096274039227",
+    "created_at": "2026-07-11T02:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T03:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075767096274039227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066715278873088000",
+          "start": 3,
+          "username": "AliceMeWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075767096274039227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075619125167349952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AliceMeWu: 挂个人，这位bro关注列表全是约似和紫砂的女生，然后到处私信别人，他私信我说想聊天，我问他为什么列表全是这样的女生，他答不上，还在那里说自己双相，问他吃什么药，言辞闪烁，还说不吃药自己调节，我的法，医学奇迹吗？总之宝宝们小心！（其实还有好多这样的人…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2075619108411060224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4UlP3asAAWOOe.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075619108373356548",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4UlPubYAQDhTO.jpg",
+        "width": 1016
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075619108402638849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4UlP1aMAEqHob.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2075767096274039227",
+        "created_at": "2026-07-11T02:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075767096274039227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066715278873088000",
+              "start": 3,
+              "username": "AliceMeWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075767096274039227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075619125167349952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AliceMeWu: 挂个人，这位bro关注列表全是约似和紫砂的女生，然后到处私信别人，他私信我说想聊天，我问他为什么列表全是这样的女生，他答不上，还在那里说自己双相，问他吃什么药，言辞闪烁，还说不吃药自己调节，我的法，医学奇迹吗？总之宝宝们小心！（其实还有好多这样的人…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075619108411060224",
+            "3_2075619108373356548",
+            "3_2075619108402638849"
+          ]
+        },
+        "author_id": "2066715278873088000",
+        "conversation_id": "2075619125167349952",
+        "created_at": "2026-07-10T16:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075619125167349952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJrGzHvY57",
+              "end": 159,
+              "expanded_url": "https://x.com/AliceMeWu/status/2075619125167349952/photo/1",
+              "media_key": "3_2075619108411060224",
+              "start": 136,
+              "url": "https://t.co/yJrGzHvY57"
+            },
+            {
+              "display_url": "pic.x.com/yJrGzHvY57",
+              "end": 159,
+              "expanded_url": "https://x.com/AliceMeWu/status/2075619125167349952/photo/1",
+              "media_key": "3_2075619108373356548",
+              "start": 136,
+              "url": "https://t.co/yJrGzHvY57"
+            },
+            {
+              "display_url": "pic.x.com/yJrGzHvY57",
+              "end": 159,
+              "expanded_url": "https://x.com/AliceMeWu/status/2075619125167349952/photo/1",
+              "media_key": "3_2075619108402638849",
+              "start": 136,
+              "url": "https://t.co/yJrGzHvY57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075619125167349952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "挂个人，这位bro关注列表全是约似和紫砂的女生，然后到处私信别人，他私信我说想聊天，我问他为什么列表全是这样的女生，他答不上，还在那里说自己双相，问他吃什么药，言辞闪烁，还说不吃药自己调节，我的法，医学奇迹吗？总之宝宝们小心！（其实还有好多这样的人，被骚扰了好多次😭😭） https://t.co/yJrGzHvY57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2856,
+          "following_count": 2175,
+          "like_count": 71442,
+          "listed_count": 8,
+          "media_count": 1797,
+          "tweet_count": 12125
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T02:52:43.000Z",
+        "description": "我的人生充满了痛苦 16⬆️OD ZC ZS 精神疾病 休学中 我是女生 这是我第4个号了 我没有什么朋友 对不起不加墙内呀 被盒过有心理阴影谢谢宝宝们理解😭想和同类互fo🥹",
+        "id": "2066715278873088000",
+        "name": "アイレス🦴",
+        "pinned_tweet_id": "2069465574938390584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071797410100379648/8bPabf67_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 144,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "AliceMeWu",
+        "verified": false
+      }
+    ]
+  }
+}

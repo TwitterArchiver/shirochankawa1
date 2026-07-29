@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2055649724636844094",
+    "created_at": "2026-05-17T11:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055975825846239659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1922456644002447364",
+          "start": 0,
+          "username": "ZiXia11115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055975825846239659",
+    "in_reply_to_user_id": "1922456644002447364",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055878563656777969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZiXia11115 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2055649724636844094",
+        "created_at": "2026-05-17T11:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055975825846239659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1922456644002447364",
+              "start": 0,
+              "username": "ZiXia11115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055975825846239659",
+        "in_reply_to_user_id": "1922456644002447364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055878563656777969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZiXia11115 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922456644002447364",
+        "conversation_id": "2055649724636844094",
+        "created_at": "2026-05-17T05:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055878563656777969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055878563656777969",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055649724636844094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 多多关注它吧，动物的生命是短暂的，要珍惜陪伴的时间呢。不要等到失去再追悔莫及哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 2078,
+          "like_count": 69475,
+          "listed_count": 9,
+          "media_count": 1694,
+          "tweet_count": 11432
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T01:00:27.000Z",
+        "description": "称呼我xiapazi就好。希望能帮助到更多的人，中国人。学生。对心理方面有过一些思考。如果大家有什么问题也都可以问我。每个问题都会认真回复的!",
+        "id": "1922456644002447364",
+        "name": "虾爬子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922456942724972546/jo7QF3I5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 130
+        },
+        "username": "ZiXia11115",
+        "verified": false
+      }
+    ]
+  }
+}

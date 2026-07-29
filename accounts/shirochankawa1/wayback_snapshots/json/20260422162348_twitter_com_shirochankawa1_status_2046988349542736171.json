@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046988331175878656"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401934144238604294",
+          "name": "Pixel art"
+        }
+      }
+    ],
+    "conversation_id": "2046988349542736171",
+    "created_at": "2026-04-22T16:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046988349542736171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GxUjqs7aJx",
+          "end": 31,
+          "expanded_url": "https://x.com/shirochankawa1/status/2046988349542736171/photo/1",
+          "media_key": "3_2046988331175878656",
+          "start": 8,
+          "url": "https://t.co/GxUjqs7aJx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046988349542736171",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像素画复健草稿 https://t.co/GxUjqs7aJx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1958,
+        "media_key": "3_2046988331175878656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhdCrMboAA55a8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046988331175878656"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401934144238604294",
+              "name": "Pixel art"
+            }
+          }
+        ],
+        "conversation_id": "2046988349542736171",
+        "created_at": "2026-04-22T16:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046988349542736171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxUjqs7aJx",
+              "end": 31,
+              "expanded_url": "https://x.com/shirochankawa1/status/2046988349542736171/photo/1",
+              "media_key": "3_2046988331175878656",
+              "start": 8,
+              "url": "https://t.co/GxUjqs7aJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046988349542736171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像素画复健草稿 https://t.co/GxUjqs7aJx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 2045,
+          "like_count": 68583,
+          "listed_count": 8,
+          "media_count": 1658,
+          "tweet_count": 11133
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

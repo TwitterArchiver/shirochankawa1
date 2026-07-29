@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024093954858274817",
+    "created_at": "2026-02-18T12:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T13:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024093954858274817"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024093954858274817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉其实我觉得特别好理解，人要是选择变得强大就必然舍弃性格中柔软的部分甚至是人性，人要是温柔就不得不放弃许多力量，而一个人要是做到既强大又温柔谦和具有同理心，那么他失去的东西也一定是超乎寻常难以想象的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024093954858274817",
+        "created_at": "2026-02-18T12:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024093954858274817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024093954858274817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉其实我觉得特别好理解，人要是选择变得强大就必然舍弃性格中柔软的部分甚至是人性，人要是温柔就不得不放弃许多力量，而一个人要是做到既强大又温柔谦和具有同理心，那么他失去的东西也一定是超乎寻常难以想象的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 1982,
+          "like_count": 64601,
+          "listed_count": 8,
+          "media_count": 1505,
+          "tweet_count": 10080
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

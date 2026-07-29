@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2062111801874284850",
+    "created_at": "2026-06-04T08:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062452710767759793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829867271592026112",
+          "start": 0,
+          "username": "Shivam3228"
+        },
+        {
+          "end": 28,
+          "id": "1513307980845879302",
+          "start": 12,
+          "username": "yuukiasuna10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062452710767759793",
+    "in_reply_to_user_id": "1829867271592026112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062111801874284850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shivam3228 @yuukiasuna10086 太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2062111801874284850",
+        "created_at": "2026-06-04T08:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062452710767759793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            },
+            {
+              "end": 28,
+              "id": "1513307980845879302",
+              "start": 12,
+              "username": "yuukiasuna10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062452710767759793",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062111801874284850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 @yuukiasuna10086 太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2062111801874284850",
+        "created_at": "2026-06-03T09:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062111801874284850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062111801874284850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4106,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天是个好日子，以前霸凌我的人被送扭转了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 2131,
+          "like_count": 70535,
+          "listed_count": 8,
+          "media_count": 1749,
+          "tweet_count": 11786
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "寻回互fo\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2062195398660489469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 367,
+          "like_count": 1083,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 587
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T00:08:45.000Z",
+        "description": "｜INFP-T｜ADHD｜07｜摩羯｜手柄FPS玩家｜\n上海、东京随机刷新\n欢迎找我打apex",
+        "id": "1513307980845879302",
+        "location": "卧室床上",
+        "name": "Rosario",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023626372128927745/ZLjjc2yZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 1579,
+          "like_count": 45206,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 4237
+        },
+        "username": "yuukiasuna10086",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2024857255074824192"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024672646290633085",
+    "created_at": "2026-02-20T14:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024857266235888070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1641079682102616065",
+          "start": 0,
+          "username": "chacha_xu48602"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YKzbAmGzOB",
+          "end": 39,
+          "expanded_url": "https://x.com/shirochankawa1/status/2024857266235888070/photo/1",
+          "media_key": "16_2024857255074824192",
+          "start": 16,
+          "url": "https://t.co/YKzbAmGzOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024857266235888070",
+    "in_reply_to_user_id": "1641079682102616065",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024855772715257959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chacha_xu48602 https://t.co/YKzbAmGzOB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2024857255074824192",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBm88gGbgAATacY.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBm88gGbgAATacY.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2024857255074824192"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024672646290633085",
+        "created_at": "2026-02-20T14:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024857266235888070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1641079682102616065",
+              "start": 0,
+              "username": "chacha_xu48602"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKzbAmGzOB",
+              "end": 39,
+              "expanded_url": "https://x.com/shirochankawa1/status/2024857266235888070/photo/1",
+              "media_key": "16_2024857255074824192",
+              "start": 16,
+              "url": "https://t.co/YKzbAmGzOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024857266235888070",
+        "in_reply_to_user_id": "1641079682102616065",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024855772715257959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chacha_xu48602 https://t.co/YKzbAmGzOB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641079682102616065",
+        "conversation_id": "2024672646290633085",
+        "created_at": "2026-02-20T14:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024855772715257959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024855772715257959",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024672646290633085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 小寄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232,
+          "following_count": 1988,
+          "like_count": 65036,
+          "listed_count": 8,
+          "media_count": 1514,
+          "tweet_count": 10175
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-29T14:07:50.000Z",
+        "description": "平等的讨厌每一个人",
+        "id": "1641079682102616065",
+        "location": "Democratic Republic of Congo",
+        "name": "茶恹恹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757390754320637952/wLdZ0jQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 14,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 934
+        },
+        "username": "chacha_xu48602",
+        "verified": false
+      }
+    ]
+  }
+}

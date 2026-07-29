@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1994306931906035801",
+    "created_at": "2025-11-29T02:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T03:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994599668257624340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1748755970636038144",
+          "start": 0,
+          "username": "er_zuo96208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994599668257624340",
+    "in_reply_to_user_id": "1748755970636038144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994306931906035801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@er_zuo96208 这男的脑残来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 94593,
+        "height": 1280,
+        "media_key": "13_1994306765178228736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994306765178228736/img/0AU6eOkLpBO-VAaj.jpg",
+        "public_metrics": {
+          "view_count": 8893
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994306765178228736/vid/avc1/320x690/rkov2Dxn-HuKU3J1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994306765178228736/vid/avc1/480x1036/aKYij-A8euLtuZb6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994306765178228736/vid/avc1/592x1280/y2i_OYtAFF9nQ-yP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994306765178228736/pl/dBdyAlyPwTO9o7sB.m3u8?v=c17"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1994306931906035801",
+        "created_at": "2025-11-29T02:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T03:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994599668257624340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1748755970636038144",
+              "start": 0,
+              "username": "er_zuo96208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994599668257624340",
+        "in_reply_to_user_id": "1748755970636038144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994306931906035801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@er_zuo96208 这男的脑残来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994306765178228736"
+          ]
+        },
+        "author_id": "1748755970636038144",
+        "conversation_id": "1994306931906035801",
+        "created_at": "2025-11-28T07:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T08:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994306931906035801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YuF0PFeq0Z",
+              "end": 31,
+              "expanded_url": "https://x.com/er_zuo96208/status/1994306931906035801/video/1",
+              "media_key": "13_1994306765178228736",
+              "start": 8,
+              "url": "https://t.co/YuF0PFeq0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994306931906035801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26203,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底在破防什么 https://t.co/YuF0PFeq0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674   English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 1977,
+          "like_count": 62086,
+          "listed_count": 8,
+          "media_count": 1304,
+          "tweet_count": 9150
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:15:06.000Z",
+        "description": "od自残 看不了血图和疤痕的屏蔽我好吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B7%A6%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B7%A6%E8%80%B31",
+                "start": 0,
+                "url": "https://t.co/T6lnnI9h8q"
+              }
+            ]
+          }
+        },
+        "id": "1748755970636038144",
+        "location": "純綠🚪100➕",
+        "name": "老公孩子在天堂",
+        "pinned_tweet_id": "1989256191537729622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993975222563950597/feVDTfjq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 279,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 730
+        },
+        "url": "https://t.co/T6lnnI9h8q",
+        "username": "er_zuo96208",
+        "verified": false
+      }
+    ]
+  }
+}

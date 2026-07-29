@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2056392979234046065",
+    "created_at": "2026-05-19T05:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056608185491059135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036049957560766464",
+          "start": 0,
+          "username": "LadyLex1925_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056608185491059135",
+    "in_reply_to_user_id": "2036049957560766464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056600926434259298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LadyLex1925_OvO 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2056392979234046065",
+        "created_at": "2026-05-19T05:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056608185491059135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036049957560766464",
+              "start": 0,
+              "username": "LadyLex1925_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056608185491059135",
+        "in_reply_to_user_id": "2036049957560766464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056600926434259298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LadyLex1925_OvO 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036049957560766464",
+        "conversation_id": "2056392979234046065",
+        "created_at": "2026-05-19T05:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056600926434259298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056600926434259298",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056392979234046065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 帅哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 2083,
+          "like_count": 69659,
+          "listed_count": 8,
+          "media_count": 1700,
+          "tweet_count": 11484
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T11:59:46.000Z",
+        "description": "INFJ+焦虑型依恋，内耗领域大神，会左右脑互搏+脑内轮播bad end",
+        "id": "2036049957560766464",
+        "location": "Always With U😇",
+        "name": "OvO LadyLex",
+        "pinned_tweet_id": "2041444682329366899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040655835890913280/2Kk63Yop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 227
+        },
+        "username": "LadyLex1925_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992975127014002688",
+        "3_1992975127198441472",
+        "3_1992975126988771328",
+        "3_1992975127194316801"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992975183645417778",
+    "created_at": "2025-11-24T15:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T16:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992975183645417778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pWS3GUUaL6",
+          "end": 68,
+          "expanded_url": "https://x.com/shirochankawa1/status/1992975183645417778/photo/1",
+          "media_key": "3_1992975127014002688",
+          "start": 45,
+          "url": "https://t.co/pWS3GUUaL6"
+        },
+        {
+          "display_url": "pic.x.com/pWS3GUUaL6",
+          "end": 68,
+          "expanded_url": "https://x.com/shirochankawa1/status/1992975183645417778/photo/1",
+          "media_key": "3_1992975127198441472",
+          "start": 45,
+          "url": "https://t.co/pWS3GUUaL6"
+        },
+        {
+          "display_url": "pic.x.com/pWS3GUUaL6",
+          "end": 68,
+          "expanded_url": "https://x.com/shirochankawa1/status/1992975183645417778/photo/1",
+          "media_key": "3_1992975126988771328",
+          "start": 45,
+          "url": "https://t.co/pWS3GUUaL6"
+        },
+        {
+          "display_url": "pic.x.com/pWS3GUUaL6",
+          "end": 68,
+          "expanded_url": "https://x.com/shirochankawa1/status/1992975183645417778/photo/1",
+          "media_key": "3_1992975127194316801",
+          "start": 45,
+          "url": "https://t.co/pWS3GUUaL6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992975183645417778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很喜欢忆我这个游戏，这次的结果和我去年测的还不一样呢，我也会经常迷茫自己究竟是什么样的 https://t.co/pWS3GUUaL6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1992975127014002688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h4UZvb0AAP4wG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_1992975127198441472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h4UabaIAA7no1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_1992975126988771328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h4UZpa0AAJeFC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992975127194316801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h4UaabMAEK2BQ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992975127014002688",
+            "3_1992975127198441472",
+            "3_1992975126988771328",
+            "3_1992975127194316801"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992975183645417778",
+        "created_at": "2025-11-24T15:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992975183645417778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWS3GUUaL6",
+              "end": 68,
+              "expanded_url": "https://x.com/shirochankawa1/status/1992975183645417778/photo/1",
+              "media_key": "3_1992975127014002688",
+              "start": 45,
+              "url": "https://t.co/pWS3GUUaL6"
+            },
+            {
+              "display_url": "pic.x.com/pWS3GUUaL6",
+              "end": 68,
+              "expanded_url": "https://x.com/shirochankawa1/status/1992975183645417778/photo/1",
+              "media_key": "3_1992975127198441472",
+              "start": 45,
+              "url": "https://t.co/pWS3GUUaL6"
+            },
+            {
+              "display_url": "pic.x.com/pWS3GUUaL6",
+              "end": 68,
+              "expanded_url": "https://x.com/shirochankawa1/status/1992975183645417778/photo/1",
+              "media_key": "3_1992975126988771328",
+              "start": 45,
+              "url": "https://t.co/pWS3GUUaL6"
+            },
+            {
+              "display_url": "pic.x.com/pWS3GUUaL6",
+              "end": 68,
+              "expanded_url": "https://x.com/shirochankawa1/status/1992975183645417778/photo/1",
+              "media_key": "3_1992975127194316801",
+              "start": 45,
+              "url": "https://t.co/pWS3GUUaL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992975183645417778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很喜欢忆我这个游戏，这次的结果和我去年测的还不一样呢，我也会经常迷茫自己究竟是什么样的 https://t.co/pWS3GUUaL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 ，亲友投喂100解锁心理委员",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 1960,
+          "like_count": 61395,
+          "listed_count": 8,
+          "media_count": 1270,
+          "tweet_count": 8922
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

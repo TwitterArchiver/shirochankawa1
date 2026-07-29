@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2020872823170846741",
+    "created_at": "2026-02-09T15:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020888864588796082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809241272152170496",
+          "start": 0,
+          "username": "af0599755540710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020888864588796082",
+    "in_reply_to_user_id": "1809241272152170496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020885124897018258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@af0599755540710 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2020872823170846741",
+        "created_at": "2026-02-09T15:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020888864588796082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809241272152170496",
+              "start": 0,
+              "username": "af0599755540710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020888864588796082",
+        "in_reply_to_user_id": "1809241272152170496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020885124897018258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@af0599755540710 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809241272152170496",
+        "conversation_id": "2020872823170846741",
+        "created_at": "2026-02-09T15:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020885124897018258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020885124897018258",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020872823170846741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 好帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 1963,
+          "like_count": 63714,
+          "listed_count": 8,
+          "media_count": 1458,
+          "tweet_count": 9843
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T15:01:54.000Z",
+        "description": "新人开发者 | 二次元 | 长发男高\n叫我阿风或者风都可以\ngithub: https://t.co/pStnOLmBkm\ndc:windaf_75152",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/WindAFeng",
+                "end": 61,
+                "expanded_url": "https://github.com/WindAFeng",
+                "start": 38,
+                "url": "https://t.co/pStnOLmBkm"
+              }
+            ]
+          }
+        },
+        "id": "1809241272152170496",
+        "name": "AFeng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018881739733737472/0W255eW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 43,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 81
+        },
+        "username": "af0599755540710",
+        "verified": false
+      }
+    ]
+  }
+}

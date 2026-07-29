@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2046803594134094088",
+    "created_at": "2026-04-22T04:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046803594134094088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1584537561787428865",
+          "start": 3,
+          "username": "HimeMiya_Nekoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046803594134094088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046107375791419570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HimeMiya_Nekoo: 如果你在十几岁这个美好的年纪已经变成了，磕药逼，惨圈女，地雷女，裸照妹，反差婊，混圈女，二次元，婊子，接触了cos，朋友圈，自残，长发男，早恋。那你一定是我的好朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2046803594134094088",
+        "created_at": "2026-04-22T04:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046803594134094088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1584537561787428865",
+              "start": 3,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046803594134094088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046107375791419570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HimeMiya_Nekoo: 如果你在十几岁这个美好的年纪已经变成了，磕药逼，惨圈女，地雷女，裸照妹，反差婊，混圈女，二次元，婊子，接触了cos，朋友圈，自残，长发男，早恋。那你一定是我的好朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2046107375791419570",
+        "created_at": "2026-04-20T06:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046107375791419570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046107375791419570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 13547,
+          "like_count": 503,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "如果你在十几岁这个美好的年纪已经变成了，磕药逼，惨圈女，地雷女，裸照妹，反差婊，混圈女，二次元，婊子，接触了cos，朋友圈，自残，长发男，早恋。那你一定是我的好朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 2048,
+          "like_count": 68535,
+          "listed_count": 8,
+          "media_count": 1654,
+          "tweet_count": 11114
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（一条紅愛版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 34,
+          "like_count": 7663,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 4198
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

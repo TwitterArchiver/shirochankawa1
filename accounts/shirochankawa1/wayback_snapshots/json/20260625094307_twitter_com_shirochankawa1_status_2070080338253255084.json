@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2070080338253255084",
+    "created_at": "2026-06-25T09:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070080338253255084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1497446741645348866",
+          "start": 3,
+          "username": "sourberryvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070080338253255084",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3820
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069611945271968002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sourberryvi: “why do i feel lonely?” \nisolates myself whenever i’m upset\nisolates myself whenever i’m upset\nisolates myself whenever i’…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2070080338253255084",
+        "created_at": "2026-06-25T09:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070080338253255084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1497446741645348866",
+              "start": 3,
+              "username": "sourberryvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070080338253255084",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3820
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069611945271968002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sourberryvi: “why do i feel lonely?” \nisolates myself whenever i’m upset\nisolates myself whenever i’m upset\nisolates myself whenever i’…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497446741645348866",
+        "conversation_id": "2069611945271968002",
+        "created_at": "2026-06-24T02:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069611945271968002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069611945271968002",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 504,
+          "impression_count": 98738,
+          "like_count": 11463,
+          "quote_count": 47,
+          "reply_count": 21,
+          "retweet_count": 3820
+        },
+        "reply_settings": "everyone",
+        "text": "“why do i feel lonely?” \nisolates myself whenever i’m upset\nisolates myself whenever i’m upset\nisolates myself whenever i’m upset\nisolates myself whenever i’m upset\nisolates myself whenever i’m upset\nisolates and ruins all relationships"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 2165,
+          "like_count": 71260,
+          "listed_count": 8,
+          "media_count": 1780,
+          "tweet_count": 12029
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T05:41:46.000Z",
+        "description": "psychologists hate her !!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinkietropolis.straw.page",
+                "end": 23,
+                "expanded_url": "https://pinkietropolis.straw.page",
+                "start": 0,
+                "url": "https://t.co/L8aRJHtKww"
+              }
+            ]
+          }
+        },
+        "id": "1497446741645348866",
+        "location": "the pinkamena diane pie. 18",
+        "name": "pinkie v",
+        "pinned_tweet_id": "2067032521552933084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064466196758405120/U0_riZba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 627,
+          "like_count": 8448,
+          "listed_count": 16,
+          "media_count": 738,
+          "tweet_count": 5413
+        },
+        "url": "https://t.co/L8aRJHtKww",
+        "username": "sourberryvi",
+        "verified": false
+      }
+    ]
+  }
+}

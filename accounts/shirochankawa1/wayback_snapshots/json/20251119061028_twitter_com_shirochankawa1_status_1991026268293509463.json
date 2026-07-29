@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1991026268293509463",
+    "created_at": "2025-11-19T06:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T07:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991026268293509463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/angelica_zj/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/angelica_zj/status/1990977396498137344",
+          "start": 24,
+          "url": "https://t.co/5k538upS8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991026268293509463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990977396498137344",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会有吧，虽然理解不了健全人日子过的好好的去割手 https://t.co/5k538upS8Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1991026268293509463",
+        "created_at": "2025-11-19T06:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T07:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991026268293509463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angelica_zj/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/angelica_zj/status/1990977396498137344",
+              "start": 24,
+              "url": "https://t.co/5k538upS8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991026268293509463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990977396498137344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会有吧，虽然理解不了健全人日子过的好好的去割手 https://t.co/5k538upS8Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1990977396498137344",
+        "created_at": "2025-11-19T02:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T03:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990977396498137344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990977396498137344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 385,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说这话可能有人会骂我，但我不太明白，真的有很多人割手是因为互联网吗（？）本来是正常人然后看到网上的人割手于是自己开始自残变成精神病\n真的有很多人是这样的吗（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 1958,
+          "like_count": 61077,
+          "listed_count": 8,
+          "media_count": 1255,
+          "tweet_count": 8819
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25305,
+          "following_count": 992,
+          "like_count": 14293,
+          "listed_count": 41,
+          "media_count": 1435,
+          "tweet_count": 16011
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

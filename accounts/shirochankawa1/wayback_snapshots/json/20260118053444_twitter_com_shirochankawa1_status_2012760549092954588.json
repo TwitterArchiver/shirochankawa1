@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2012760549092954588",
+    "created_at": "2026-01-18T05:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T06:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012760549092954588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837114188046684161",
+          "start": 3,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012760549092954588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012413512815927543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winterfruit_1: 我们不要过正常生活了我们去租个一个月不过千没电梯破烂串串房我们手握手一起od我们闭着眼躺在床上吃致幻剂我们在马路边上互相帮对方割手我们去药店买甘草片一起阿片类成瘾走向毁灭的不归路我们一起因为吃愈美片被抓进派出所因为咬紧口供被放出来我们手握着…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2012760549092954588",
+        "created_at": "2026-01-18T05:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T06:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012760549092954588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837114188046684161",
+              "start": 3,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012760549092954588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012413512815927543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @winterfruit_1: 我们不要过正常生活了我们去租个一个月不过千没电梯破烂串串房我们手握手一起od我们闭着眼躺在床上吃致幻剂我们在马路边上互相帮对方割手我们去药店买甘草片一起阿片类成瘾走向毁灭的不归路我们一起因为吃愈美片被抓进派出所因为咬紧口供被放出来我们手握着…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2012413512815927543",
+        "created_at": "2026-01-17T06:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012413512815927543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012413512815927543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 13246,
+          "like_count": 355,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "我们不要过正常生活了我们去租个一个月不过千没电梯破烂串串房我们手握手一起od我们闭着眼躺在床上吃致幻剂我们在马路边上互相帮对方割手我们去药店买甘草片一起阿片类成瘾走向毁灭的不归路我们一起因为吃愈美片被抓进派出所因为咬紧口供被放出来我们手握着手一起在毒品的幸福和幻觉里从楼顶一跃而下吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点/🚪100",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 1963,
+          "like_count": 62580,
+          "listed_count": 8,
+          "media_count": 1398,
+          "tweet_count": 9544
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 @cy79p｜渡川@justyanwu14｜星 @chenXXX_9｜小a @w0sh1Asak1｜小k @akinoyo_desu ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 1454,
+          "like_count": 29805,
+          "listed_count": 6,
+          "media_count": 1217,
+          "tweet_count": 9513
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

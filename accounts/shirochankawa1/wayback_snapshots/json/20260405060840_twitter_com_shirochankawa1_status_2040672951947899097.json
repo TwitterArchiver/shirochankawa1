@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2040672951947899097",
+    "created_at": "2026-04-05T06:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T07:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040672951947899097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1730181663869788160",
+          "start": 3,
+          "username": "IIILanyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040672951947899097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040455801719161247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IIILanyi: 我一直都不鼓励女生去当所谓的m\n不是说我干扰人身自由\n而是你以为的自己的性癖是生来如此吗 还是受到过各种性相关的影视 书籍的直接影响或者间接影响？\n而且当m上瘾会越来越厌弃现实世界或者当一个人类 直至完全失去自控权\n极致的sm完全就是反人性的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2040672951947899097",
+        "created_at": "2026-04-05T06:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040672951947899097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1730181663869788160",
+              "start": 3,
+              "username": "IIILanyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040672951947899097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040455801719161247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IIILanyi: 我一直都不鼓励女生去当所谓的m\n不是说我干扰人身自由\n而是你以为的自己的性癖是生来如此吗 还是受到过各种性相关的影视 书籍的直接影响或者间接影响？\n而且当m上瘾会越来越厌弃现实世界或者当一个人类 直至完全失去自控权\n极致的sm完全就是反人性的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730181663869788160",
+        "conversation_id": "2040455801719161247",
+        "created_at": "2026-04-04T15:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040455801719161247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040455801719161247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 82570,
+          "like_count": 765,
+          "quote_count": 11,
+          "reply_count": 97,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我一直都不鼓励女生去当所谓的m\n不是说我干扰人身自由\n而是你以为的自己的性癖是生来如此吗 还是受到过各种性相关的影视 书籍的直接影响或者间接影响？\n而且当m上瘾会越来越厌弃现实世界或者当一个人类 直至完全失去自控权\n极致的sm完全就是反人性的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2371,
+          "following_count": 2034,
+          "like_count": 67927,
+          "listed_count": 8,
+          "media_count": 1624,
+          "tweet_count": 10960
+        },
+        "username": "shirochankawa1",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-30T11:07:41.000Z",
+        "description": "不接合作/骂我的接所有女性的霉运",
+        "id": "1730181663869788160",
+        "name": "叶澜依",
+        "pinned_tweet_id": "1806756200685678702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749107215586435072/mZngb4JH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14471,
+          "following_count": 1,
+          "like_count": 3770,
+          "listed_count": 15,
+          "media_count": 356,
+          "tweet_count": 2479
+        },
+        "username": "IIILanyi",
+        "verified": false
+      }
+    ]
+  }
+}

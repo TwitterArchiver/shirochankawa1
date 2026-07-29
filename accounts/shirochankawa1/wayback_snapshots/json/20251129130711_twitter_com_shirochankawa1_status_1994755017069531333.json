@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1994362320051650963",
+    "created_at": "2025-11-29T13:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T14:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994755017069531333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753042880162299904",
+          "start": 0,
+          "username": "Aletheic_Self"
+        },
+        {
+          "end": 25,
+          "id": "1896061942785310720",
+          "start": 15,
+          "username": "notThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994755017069531333",
+    "in_reply_to_user_id": "1753042880162299904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994733705764769920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aletheic_Self @notThujaS 你也没开智啊，不喜欢看这些还过来看，是不是抖m宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1994362320051650963",
+        "created_at": "2025-11-29T13:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994755017069531333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753042880162299904",
+              "start": 0,
+              "username": "Aletheic_Self"
+            },
+            {
+              "end": 25,
+              "id": "1896061942785310720",
+              "start": 15,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994755017069531333",
+        "in_reply_to_user_id": "1753042880162299904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994733705764769920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aletheic_Self @notThujaS 你也没开智啊，不喜欢看这些还过来看，是不是抖m宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753042880162299904",
+        "conversation_id": "1994362320051650963",
+        "created_at": "2025-11-29T11:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994733705764769920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            },
+            {
+              "end": 26,
+              "id": "1896061942785310720",
+              "start": 16,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994733705764769920",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994388860177117422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 @notThujaS 拿自残当博眼球求关注的工具，借由cos从中获取一种独特的个性感觉呗，不寒碜，不太知道你想表达什么，颠三倒四，感觉你还没开智。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674   English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 1979,
+          "like_count": 62171,
+          "listed_count": 8,
+          "media_count": 1305,
+          "tweet_count": 9174
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T13:09:39.000Z",
+        "description": "令人惊异的理知世界  希望你天天开心🤝🫂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@jjwg1110",
+                "end": 23,
+                "expanded_url": "http://substack.com/@jjwg1110",
+                "start": 0,
+                "url": "https://t.co/OfrRca99eD"
+              }
+            ]
+          }
+        },
+        "id": "1753042880162299904",
+        "name": "荆棘我冠 .",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982480538272169984/4Cyy6NjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 35,
+          "like_count": 6360,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10759
+        },
+        "url": "https://t.co/OfrRca99eD",
+        "username": "Aletheic_Self",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "🇨🇳纯种劳保/07 12 1/不论你是男人女人变杏人，平等歧视每一个神人         愿你在鉴证与对骂与炫压抑之后，吃上一口我精挑细选的上等好💩        随机回关//2000粉堵桥∞延期😭///有瞎骂支黑拿我照片建我仿号骚扰女生，请认准唯一大号@iamThujaS///遇到神人请@我，感激不尽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "iamThujaS"
+              }
+            ]
+          }
+        },
+        "id": "1896061942785310720",
+        "location": "热河省省会",
+        "name": "传奇出生鸟鲁鲁（浮木克星）",
+        "pinned_tweet_id": "1991657587608285501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989280532107313152/-jA_2_sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4058,
+          "following_count": 885,
+          "like_count": 8064,
+          "listed_count": 11,
+          "media_count": 424,
+          "tweet_count": 4171
+        },
+        "username": "notThujaS",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034980718091378688"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2034980781379264529",
+    "created_at": "2026-03-20T13:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T14:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034980781379264529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F2KfFTlMkO",
+          "end": 31,
+          "expanded_url": "https://x.com/shirochankawa1/status/2034980781379264529/video/1",
+          "media_key": "13_2034980718091378688",
+          "start": 8,
+          "url": "https://t.co/F2KfFTlMkO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034980781379264529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好感人的发际线 https://t.co/F2KfFTlMkO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9316,
+        "height": 1280,
+        "media_key": "13_2034980718091378688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034980718091378688/img/hrP2S-IJJIEKzvmU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034980718091378688/vid/avc1/320x568/mytFNz3ax1OsQcRZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034980718091378688/vid/avc1/480x852/St9VlcXbfEqNZ_Rk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034980718091378688/vid/avc1/720x1280/JhjTC_18AWhTTfcd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034980718091378688/pl/0T2nJqtd_PaHLQ4N.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034980718091378688"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2034980781379264529",
+        "created_at": "2026-03-20T13:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034980781379264529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2KfFTlMkO",
+              "end": 31,
+              "expanded_url": "https://x.com/shirochankawa1/status/2034980781379264529/video/1",
+              "media_key": "13_2034980718091378688",
+              "start": 8,
+              "url": "https://t.co/F2KfFTlMkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034980781379264529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好感人的发际线 https://t.co/F2KfFTlMkO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2372,
+          "following_count": 2026,
+          "like_count": 67867,
+          "listed_count": 8,
+          "media_count": 1602,
+          "tweet_count": 10828
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

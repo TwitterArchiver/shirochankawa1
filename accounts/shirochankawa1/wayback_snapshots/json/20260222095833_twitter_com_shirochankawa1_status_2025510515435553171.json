@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025510486964645889",
+        "3_2025510486956204032",
+        "3_2025510486956220416",
+        "3_2025510486973026304"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025510515435553171",
+    "created_at": "2026-02-22T09:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T10:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025510515435553171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vRzLU0qqad",
+          "end": 23,
+          "expanded_url": "https://x.com/shirochankawa1/status/2025510515435553171/photo/1",
+          "media_key": "3_2025510486964645889",
+          "start": 0,
+          "url": "https://t.co/vRzLU0qqad"
+        },
+        {
+          "display_url": "pic.x.com/vRzLU0qqad",
+          "end": 23,
+          "expanded_url": "https://x.com/shirochankawa1/status/2025510515435553171/photo/1",
+          "media_key": "3_2025510486956204032",
+          "start": 0,
+          "url": "https://t.co/vRzLU0qqad"
+        },
+        {
+          "display_url": "pic.x.com/vRzLU0qqad",
+          "end": 23,
+          "expanded_url": "https://x.com/shirochankawa1/status/2025510515435553171/photo/1",
+          "media_key": "3_2025510486956220416",
+          "start": 0,
+          "url": "https://t.co/vRzLU0qqad"
+        },
+        {
+          "display_url": "pic.x.com/vRzLU0qqad",
+          "end": 23,
+          "expanded_url": "https://x.com/shirochankawa1/status/2025510515435553171/photo/1",
+          "media_key": "3_2025510486973026304",
+          "start": 0,
+          "url": "https://t.co/vRzLU0qqad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025510515435553171",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/vRzLU0qqad"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2025510486964645889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwPDmhbMAEyyIH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2025510486956204032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwPDmfaYAACp6m.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2025510486956220416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwPDmfaoAAXOq2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2025510486973026304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwPDmjbEAA0Az7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025510486964645889",
+            "3_2025510486956204032",
+            "3_2025510486956220416",
+            "3_2025510486973026304"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025510515435553171",
+        "created_at": "2026-02-22T09:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025510515435553171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRzLU0qqad",
+              "end": 23,
+              "expanded_url": "https://x.com/shirochankawa1/status/2025510515435553171/photo/1",
+              "media_key": "3_2025510486964645889",
+              "start": 0,
+              "url": "https://t.co/vRzLU0qqad"
+            },
+            {
+              "display_url": "pic.x.com/vRzLU0qqad",
+              "end": 23,
+              "expanded_url": "https://x.com/shirochankawa1/status/2025510515435553171/photo/1",
+              "media_key": "3_2025510486956204032",
+              "start": 0,
+              "url": "https://t.co/vRzLU0qqad"
+            },
+            {
+              "display_url": "pic.x.com/vRzLU0qqad",
+              "end": 23,
+              "expanded_url": "https://x.com/shirochankawa1/status/2025510515435553171/photo/1",
+              "media_key": "3_2025510486956220416",
+              "start": 0,
+              "url": "https://t.co/vRzLU0qqad"
+            },
+            {
+              "display_url": "pic.x.com/vRzLU0qqad",
+              "end": 23,
+              "expanded_url": "https://x.com/shirochankawa1/status/2025510515435553171/photo/1",
+              "media_key": "3_2025510486973026304",
+              "start": 0,
+              "url": "https://t.co/vRzLU0qqad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025510515435553171",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vRzLU0qqad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 1998,
+          "like_count": 65355,
+          "listed_count": 8,
+          "media_count": 1526,
+          "tweet_count": 10262
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

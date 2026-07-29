@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988952599698247680"
+      ],
+      "media_source_tweet_id": [
+        "1988952605163393223"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1988954078622392602",
+    "created_at": "2025-11-13T12:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T13:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988954078622392602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1475710833154203649",
+          "start": 3,
+          "username": "menonuko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j0tGdMG1NY",
+          "end": 53,
+          "expanded_url": "https://x.com/menonuko/status/1988952605163393223/photo/1",
+          "media_key": "3_1988952599698247680",
+          "start": 30,
+          "url": "https://t.co/j0tGdMG1NY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988954078622392602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988952605163393223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @menonuko: 他のコ見てたらいけないにゃん💢 https://t.co/j0tGdMG1NY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988952599698247680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ot2fwakAAXAdI.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988952599698247680"
+          ],
+          "media_source_tweet_id": [
+            "1988952605163393223"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "1988954078622392602",
+        "created_at": "2025-11-13T12:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988954078622392602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1475710833154203649",
+              "start": 3,
+              "username": "menonuko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0tGdMG1NY",
+              "end": 53,
+              "expanded_url": "https://x.com/menonuko/status/1988952605163393223/photo/1",
+              "media_key": "3_1988952599698247680",
+              "start": 30,
+              "url": "https://t.co/j0tGdMG1NY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988954078622392602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988952605163393223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @menonuko: 他のコ見てたらいけないにゃん💢 https://t.co/j0tGdMG1NY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988952599698247680"
+          ]
+        },
+        "author_id": "1475710833154203649",
+        "conversation_id": "1988952605163393223",
+        "created_at": "2025-11-13T12:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988952605163393223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0tGdMG1NY",
+              "end": 39,
+              "expanded_url": "https://x.com/menonuko/status/1988952605163393223/photo/1",
+              "media_key": "3_1988952599698247680",
+              "start": 16,
+              "url": "https://t.co/j0tGdMG1NY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988952605163393223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 27,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "他のコ見てたらいけないにゃん💢 https://t.co/j0tGdMG1NY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 1953,
+          "like_count": 60592,
+          "listed_count": 8,
+          "media_count": 1239,
+          "tweet_count": 8691
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-28T06:11:28.000Z",
+        "description": "@MiuMeno 中身 @4angelcat4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "MiuMeno"
+              },
+              {
+                "end": 23,
+                "start": 12,
+                "username": "4angelcat4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/meno_yubi",
+                "end": 23,
+                "expanded_url": "https://instagram.com/meno_yubi",
+                "start": 0,
+                "url": "https://t.co/kop4TZrGAj"
+              }
+            ]
+          }
+        },
+        "id": "1475710833154203649",
+        "name": "雪乃めの",
+        "pinned_tweet_id": "1960283249890210284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960404452709675008/Fl4Q5nLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23324,
+          "following_count": 2,
+          "like_count": 17702,
+          "listed_count": 128,
+          "media_count": 144,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/kop4TZrGAj",
+        "username": "menonuko",
+        "verified": false
+      }
+    ]
+  }
+}

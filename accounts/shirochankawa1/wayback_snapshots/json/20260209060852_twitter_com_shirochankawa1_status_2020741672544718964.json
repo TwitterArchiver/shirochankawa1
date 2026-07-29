@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2020741672544718964",
+    "created_at": "2026-02-09T06:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T07:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020741672544718964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1676300586676027392",
+          "start": 3,
+          "username": "Mengchen_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020741672544718964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020097784591053142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mengchen_11: 我一直觉得男生打耳洞特别sexy啊…特别是高位耳骨配黑色耳钉。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2020741672544718964",
+        "created_at": "2026-02-09T06:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T07:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020741672544718964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1676300586676027392",
+              "start": 3,
+              "username": "Mengchen_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020741672544718964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020097784591053142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mengchen_11: 我一直觉得男生打耳洞特别sexy啊…特别是高位耳骨配黑色耳钉。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676300586676027392",
+        "conversation_id": "2020097784591053142",
+        "created_at": "2026-02-07T11:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020097784591053142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020097784591053142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 41385,
+          "like_count": 711,
+          "quote_count": 12,
+          "reply_count": 37,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得男生打耳洞特别sexy啊…特别是高位耳骨配黑色耳钉。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 1963,
+          "like_count": 63674,
+          "listed_count": 8,
+          "media_count": 1455,
+          "tweet_count": 9822
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T18:43:05.000Z",
+        "description": "骂我的人看到我长这样还舍得骂我吗？",
+        "id": "1676300586676027392",
+        "location": "两颗心的距离是5.2km ⁺ ♡̴.⋆",
+        "name": "橙橙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020217184908402688/WLAudiJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 65,
+          "like_count": 7280,
+          "listed_count": 6,
+          "media_count": 386,
+          "tweet_count": 2447
+        },
+        "username": "Mengchen_11",
+        "verified": false
+      }
+    ]
+  }
+}

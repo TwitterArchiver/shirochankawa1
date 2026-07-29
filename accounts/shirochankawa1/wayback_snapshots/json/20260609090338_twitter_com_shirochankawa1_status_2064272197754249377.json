@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2064272197754249377",
+    "created_at": "2026-06-09T09:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064272197754249377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "848480202162184192",
+          "start": 3,
+          "username": "primroseviolet2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064272197754249377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063947802388930753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @primroseviolet2: 根据等国国情，我支持等国性同意年龄提高到18岁。既然bro把那位高考女生开盒了，说明对女性真的有好处。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2064272197754249377",
+        "created_at": "2026-06-09T09:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064272197754249377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "848480202162184192",
+              "start": 3,
+              "username": "primroseviolet2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064272197754249377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063947802388930753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @primroseviolet2: 根据等国国情，我支持等国性同意年龄提高到18岁。既然bro把那位高考女生开盒了，说明对女性真的有好处。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "848480202162184192",
+        "conversation_id": "2063947802388930753",
+        "created_at": "2026-06-08T11:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063947802388930753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063947802388930753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 193207,
+          "like_count": 6370,
+          "quote_count": 10,
+          "reply_count": 209,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "根据等国国情，我支持等国性同意年龄提高到18岁。既然bro把那位高考女生开盒了，说明对女性真的有好处。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 2145,
+          "like_count": 70839,
+          "listed_count": 8,
+          "media_count": 1760,
+          "tweet_count": 11865
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-02T10:20:19.000Z",
+        "description": "TA不懒，但什么都没留下。",
+        "id": "848480202162184192",
+        "name": "荒川咸鱼王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1365608432032751616/ksvMo13J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 32,
+          "like_count": 2745,
+          "listed_count": 5,
+          "media_count": 359,
+          "tweet_count": 2801
+        },
+        "username": "primroseviolet2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1994386631802151109",
+    "created_at": "2025-11-28T12:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T13:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994386631802151109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1114119017524891648",
+          "start": 3,
+          "username": "KUYAXIKUYAXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994386631802151109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839307765539549408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @KUYAXIKUYAXI: 哈喽，我叫爻😘\n年龄是0X后捏（\n性别是武装直升机（好吧，有严重的性别焦虑）\n人格是INFP-T\n😭中度抑郁和中度焦虑😩\n我很穷，请给我钱（本人是有在工作的，但是工资直接被父母拿走了😭😭😭）\n偶尔紫餐，过量服药或乱说话以及发癫发疯\n想互关可以…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1839307761026580480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYaIqeCbwAAO--s.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1839307761034940417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYaIqeEbUAE4u6U.jpg",
+        "width": 768
+      },
+      {
+        "height": 1908,
+        "media_key": "3_1839307761831784457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYaIqhCaMAkN6AG.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1912,
+        "media_key": "3_1839307761668206598",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYaIqgbaMAYATg6.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1994386631802151109",
+        "created_at": "2025-11-28T12:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994386631802151109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1114119017524891648",
+              "start": 3,
+              "username": "KUYAXIKUYAXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994386631802151109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839307765539549408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @KUYAXIKUYAXI: 哈喽，我叫爻😘\n年龄是0X后捏（\n性别是武装直升机（好吧，有严重的性别焦虑）\n人格是INFP-T\n😭中度抑郁和中度焦虑😩\n我很穷，请给我钱（本人是有在工作的，但是工资直接被父母拿走了😭😭😭）\n偶尔紫餐，过量服药或乱说话以及发癫发疯\n想互关可以…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839307761026580480",
+            "3_1839307761034940417",
+            "3_1839307761831784457",
+            "3_1839307761668206598"
+          ]
+        },
+        "author_id": "1114119017524891648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1839307765539549408",
+        "created_at": "2024-09-26T14:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T15:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839307765539549408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tb2gHVvq9h",
+              "end": 175,
+              "expanded_url": "https://x.com/KUYAXIKUYAXI/status/1839307765539549408/photo/1",
+              "media_key": "3_1839307761026580480",
+              "start": 152,
+              "url": "https://t.co/tb2gHVvq9h"
+            },
+            {
+              "display_url": "pic.x.com/tb2gHVvq9h",
+              "end": 175,
+              "expanded_url": "https://x.com/KUYAXIKUYAXI/status/1839307765539549408/photo/1",
+              "media_key": "3_1839307761034940417",
+              "start": 152,
+              "url": "https://t.co/tb2gHVvq9h"
+            },
+            {
+              "display_url": "pic.x.com/tb2gHVvq9h",
+              "end": 175,
+              "expanded_url": "https://x.com/KUYAXIKUYAXI/status/1839307765539549408/photo/1",
+              "media_key": "3_1839307761831784457",
+              "start": 152,
+              "url": "https://t.co/tb2gHVvq9h"
+            },
+            {
+              "display_url": "pic.x.com/tb2gHVvq9h",
+              "end": 175,
+              "expanded_url": "https://x.com/KUYAXIKUYAXI/status/1839307765539549408/photo/1",
+              "media_key": "3_1839307761668206598",
+              "start": 152,
+              "url": "https://t.co/tb2gHVvq9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839307765539549408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5265,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "哈喽，我叫爻😘\n年龄是0X后捏（\n性别是武装直升机（好吧，有严重的性别焦虑）\n人格是INFP-T\n😭中度抑郁和中度焦虑😩\n我很穷，请给我钱（本人是有在工作的，但是工资直接被父母拿走了😭😭😭）\n偶尔紫餐，过量服药或乱说话以及发癫发疯\n想互关可以跟我说一声哦～\n讨厌我的话请打钱😋\n🙇‍♂️求转推，拜托了！ https://t.co/tb2gHVvq9h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 1972,
+          "like_count": 61818,
+          "listed_count": 8,
+          "media_count": 1302,
+          "tweet_count": 9111
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-05T10:54:07.000Z",
+        "description": "对我来说，无痛死去才是最好的祝福。",
+        "id": "1114119017524891648",
+        "location": "恶魔岛",
+        "name": "病弱の牢爻（三代目）",
+        "pinned_tweet_id": "1839307765539549408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984233110725382144/rSZojs1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 157,
+          "like_count": 15455,
+          "listed_count": 3,
+          "media_count": 694,
+          "tweet_count": 11827
+        },
+        "username": "KUYAXIKUYAXI",
+        "verified": false
+      }
+    ]
+  }
+}

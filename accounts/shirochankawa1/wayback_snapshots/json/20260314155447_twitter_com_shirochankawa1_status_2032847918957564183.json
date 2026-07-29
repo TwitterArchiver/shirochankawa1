@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2032797111625068682",
+    "created_at": "2026-03-14T15:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032847918957564183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572217722876080129",
+          "start": 0,
+          "username": "KurokawaRirika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032847918957564183",
+    "in_reply_to_user_id": "1572217722876080129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032797111625068682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KurokawaRirika 喜欢你🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14333,
+        "height": 1280,
+        "media_key": "13_2032797051600384001",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032797051600384001/img/1SsP7v60qLOjtrwO.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032797051600384001/vid/avc1/320x568/o1AAO-qEhJD9dl7T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032797051600384001/vid/avc1/480x852/gW4nbyRH9f-4PwY8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032797051600384001/vid/avc1/720x1280/vctq3Cr0opERX3Um.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032797051600384001/pl/CFvQfBk_JNU43LhJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2032797111625068682",
+        "created_at": "2026-03-14T15:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032847918957564183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1572217722876080129",
+              "start": 0,
+              "username": "KurokawaRirika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032847918957564183",
+        "in_reply_to_user_id": "1572217722876080129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032797111625068682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KurokawaRirika 喜欢你🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032797051600384001"
+          ]
+        },
+        "author_id": "1572217722876080129",
+        "conversation_id": "2032797111625068682",
+        "created_at": "2026-03-14T12:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032797111625068682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sp31dNaUI",
+              "end": 28,
+              "expanded_url": "https://x.com/KurokawaRirika/status/2032797111625068682/video/1",
+              "media_key": "13_2032797051600384001",
+              "start": 5,
+              "url": "https://t.co/0sp31dNaUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032797111625068682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我？ https://t.co/0sp31dNaUI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 2014,
+          "like_count": 67496,
+          "listed_count": 8,
+          "media_count": 1593,
+          "tweet_count": 10754
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T13:37:37.000Z",
+        "description": "我是黒川りりか可以叫我莉莉/广州/165g54kg/不过门不回复任何私信哟！/血图/自拍/废话/餐券妹欢迎互转互fo！",
+        "id": "1572217722876080129",
+        "location": "天国",
+        "name": "Ririka💀🦷🤍",
+        "pinned_tweet_id": "2030980503332164064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030960382580555776/i9Nh8OHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 45,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 26
+        },
+        "username": "KurokawaRirika",
+        "verified": false
+      }
+    ]
+  }
+}

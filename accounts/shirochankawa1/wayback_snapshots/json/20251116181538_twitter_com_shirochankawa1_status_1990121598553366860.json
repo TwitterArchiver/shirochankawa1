@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1990121598553366860",
+    "created_at": "2025-11-16T18:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T19:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990121598553366860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837006133900554240",
+          "start": 3,
+          "username": "xiaoxiong0921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990121598553366860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989919995514818667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoxiong0921: 塌鼻梁有人懂吗 嘴突有人懂吗 内双有人懂吗 黄皮有人懂吗 肩膀内扣有人懂吗 方圆脸有人懂吗 ​​​有人懂我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1990121598553366860",
+        "created_at": "2025-11-16T18:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T19:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990121598553366860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837006133900554240",
+              "start": 3,
+              "username": "xiaoxiong0921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990121598553366860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989919995514818667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoxiong0921: 塌鼻梁有人懂吗 嘴突有人懂吗 内双有人懂吗 黄皮有人懂吗 肩膀内扣有人懂吗 方圆脸有人懂吗 ​​​有人懂我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837006133900554240",
+        "conversation_id": "1989919995514818667",
+        "created_at": "2025-11-16T04:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989919995514818667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989919995514818667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 60644,
+          "like_count": 377,
+          "quote_count": 10,
+          "reply_count": 64,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "塌鼻梁有人懂吗 嘴突有人懂吗 内双有人懂吗 黄皮有人懂吗 肩膀内扣有人懂吗 方圆脸有人懂吗 ​​​有人懂我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 1958,
+          "like_count": 60785,
+          "listed_count": 8,
+          "media_count": 1245,
+          "tweet_count": 8748
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T05:49:34.000Z",
+        "description": "ISFJ｜金牛｜可爱小宝宝请和我互fo｜喜欢有趣的灵魂｜推广自辨❗️｜小宝宝@318430lzy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "318430lzy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%86%8A31584",
+                "start": 0,
+                "url": "https://t.co/mTOxnDXfwC"
+              }
+            ]
+          }
+        },
+        "id": "1837006133900554240",
+        "location": "匿名👉🏻",
+        "name": "小熊（发现老公是男同含泪男装玩4i）",
+        "pinned_tweet_id": "1989580930822881317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986686189752229889/yfFljF9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 77,
+          "like_count": 18749,
+          "listed_count": 3,
+          "media_count": 375,
+          "tweet_count": 7146
+        },
+        "url": "https://t.co/mTOxnDXfwC",
+        "username": "xiaoxiong0921",
+        "verified": false
+      }
+    ]
+  }
+}

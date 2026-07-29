@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039186231574335488",
+        "3_2039186231578533888"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2039186240634069372",
+    "created_at": "2026-04-01T03:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T04:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039186240634069372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d4jHisj26C",
+          "end": 23,
+          "expanded_url": "https://x.com/shirochankawa1/status/2039186240634069372/photo/1",
+          "media_key": "3_2039186231574335488",
+          "start": 0,
+          "url": "https://t.co/d4jHisj26C"
+        },
+        {
+          "display_url": "pic.x.com/d4jHisj26C",
+          "end": 23,
+          "expanded_url": "https://x.com/shirochankawa1/status/2039186240634069372/photo/1",
+          "media_key": "3_2039186231578533888",
+          "start": 0,
+          "url": "https://t.co/d4jHisj26C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039186240634069372",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/d4jHisj26C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2039186231574335488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEylEtPbEAAlhTH.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2039186231578533888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEylEtQbIAAMK2Y.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039186231574335488",
+            "3_2039186231578533888"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2039186240634069372",
+        "created_at": "2026-04-01T03:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039186240634069372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4jHisj26C",
+              "end": 23,
+              "expanded_url": "https://x.com/shirochankawa1/status/2039186240634069372/photo/1",
+              "media_key": "3_2039186231574335488",
+              "start": 0,
+              "url": "https://t.co/d4jHisj26C"
+            },
+            {
+              "display_url": "pic.x.com/d4jHisj26C",
+              "end": 23,
+              "expanded_url": "https://x.com/shirochankawa1/status/2039186240634069372/photo/1",
+              "media_key": "3_2039186231578533888",
+              "start": 0,
+              "url": "https://t.co/d4jHisj26C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039186240634069372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/d4jHisj26C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 2029,
+          "like_count": 67811,
+          "listed_count": 8,
+          "media_count": 1616,
+          "tweet_count": 10890
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

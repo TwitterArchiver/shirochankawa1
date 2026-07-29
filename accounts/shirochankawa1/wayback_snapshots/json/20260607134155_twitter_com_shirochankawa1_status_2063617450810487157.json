@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063576461408358400"
+      ],
+      "media_source_tweet_id": [
+        "2063576467464946117"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2063617450810487157",
+    "created_at": "2026-06-07T13:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063617450810487157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983106189555838983",
+          "start": 3,
+          "username": "loserDog11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ExwPEQiYjB",
+          "end": 43,
+          "expanded_url": "https://x.com/loserDog11/status/2063576467464946117/photo/1",
+          "media_key": "3_2063576461408358400",
+          "start": 20,
+          "url": "https://t.co/ExwPEQiYjB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063617450810487157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063576467464946117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loserDog11: G行為 https://t.co/ExwPEQiYjB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063576461408358400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNL270aUAAkgnh.jpg",
+        "width": 1285
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063576461408358400"
+          ],
+          "media_source_tweet_id": [
+            "2063576467464946117"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2063617450810487157",
+        "created_at": "2026-06-07T13:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063617450810487157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983106189555838983",
+              "start": 3,
+              "username": "loserDog11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExwPEQiYjB",
+              "end": 43,
+              "expanded_url": "https://x.com/loserDog11/status/2063576467464946117/photo/1",
+              "media_key": "3_2063576461408358400",
+              "start": 20,
+              "url": "https://t.co/ExwPEQiYjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063617450810487157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063576467464946117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loserDog11: G行為 https://t.co/ExwPEQiYjB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063576461408358400"
+          ]
+        },
+        "author_id": "1983106189555838983",
+        "conversation_id": "2063576467464946117",
+        "created_at": "2026-06-07T10:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063576467464946117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExwPEQiYjB",
+              "end": 27,
+              "expanded_url": "https://x.com/loserDog11/status/2063576467464946117/photo/1",
+              "media_key": "3_2063576461408358400",
+              "start": 4,
+              "url": "https://t.co/ExwPEQiYjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063576467464946117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 15895,
+          "like_count": 1981,
+          "quote_count": 14,
+          "reply_count": 2,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "G行為 https://t.co/ExwPEQiYjB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 2144,
+          "like_count": 70711,
+          "listed_count": 8,
+          "media_count": 1755,
+          "tweet_count": 11836
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T09:39:32.000Z",
+        "description": "負け犬です。FA,報告等→#負巜犬11 \nskeb→ https://t.co/37wM5eRlrE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "負巜犬11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@loserDog11",
+                "end": 50,
+                "expanded_url": "https://skeb.jp/@loserDog11",
+                "start": 27,
+                "url": "https://t.co/37wM5eRlrE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/bk16vflkb…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/bk16vflkbqnifj8m/",
+                "start": 0,
+                "url": "https://t.co/ajOlKy1Jnx"
+              }
+            ]
+          }
+        },
+        "id": "1983106189555838983",
+        "location": "無断転載･使用･AI学習禁止",
+        "name": "負K℃",
+        "pinned_tweet_id": "2057419417936621802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020830305071067136/y2EsHxBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 12,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/ajOlKy1Jnx",
+        "username": "loserDog11",
+        "verified": false
+      }
+    ]
+  }
+}

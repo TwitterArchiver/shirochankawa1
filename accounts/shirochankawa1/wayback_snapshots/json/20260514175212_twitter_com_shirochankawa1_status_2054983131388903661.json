@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054874377465090048"
+      ],
+      "media_source_tweet_id": [
+        "2054874565978001712"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054983131388903661",
+    "created_at": "2026-05-14T17:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054983131388903661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "893489787411222528",
+          "start": 3,
+          "username": "kuren_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BnjMGBvaik",
+          "end": 73,
+          "expanded_url": "https://x.com/kuren_chan/status/2054874565978001712/video/1",
+          "media_key": "13_2054874377465090048",
+          "start": 50,
+          "url": "https://t.co/BnjMGBvaik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054983131388903661",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054874565978001712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuren_chan: だって私の好きな人は血まみれだって抱いてくれるわ\n\n音⚠︎血糊⚠︎ https://t.co/BnjMGBvaik"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29666,
+        "height": 1920,
+        "media_key": "13_2054874377465090048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054874377465090048/img/GJe6lk__1JoeeaI0.jpg",
+        "public_metrics": {
+          "view_count": 5800
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054874377465090048/vid/avc1/480x852/0GskwSTgwcZRridT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054874377465090048/pl/_CiUfKk1A1VbnTmC.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054874377465090048/vid/avc1/1080x1920/a-nIf2BdCm_tWCFw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054874377465090048/vid/avc1/720x1280/VKv8p6oh8VGJwPJE.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054874377465090048/vid/avc1/320x568/gXPK3R0iPtEoUbcF.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054874377465090048"
+          ],
+          "media_source_tweet_id": [
+            "2054874565978001712"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054983131388903661",
+        "created_at": "2026-05-14T17:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054983131388903661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "893489787411222528",
+              "start": 3,
+              "username": "kuren_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnjMGBvaik",
+              "end": 73,
+              "expanded_url": "https://x.com/kuren_chan/status/2054874565978001712/video/1",
+              "media_key": "13_2054874377465090048",
+              "start": 50,
+              "url": "https://t.co/BnjMGBvaik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054983131388903661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054874565978001712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuren_chan: だって私の好きな人は血まみれだって抱いてくれるわ\n\n音⚠︎血糊⚠︎ https://t.co/BnjMGBvaik"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054874377465090048"
+          ]
+        },
+        "author_id": "893489787411222528",
+        "conversation_id": "2054874565978001712",
+        "created_at": "2026-05-14T10:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054874565978001712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnjMGBvaik",
+              "end": 57,
+              "expanded_url": "https://x.com/kuren_chan/status/2054874565978001712/video/1",
+              "media_key": "13_2054874377465090048",
+              "start": 34,
+              "url": "https://t.co/BnjMGBvaik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054874565978001712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 18214,
+          "like_count": 1166,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "だって私の好きな人は血まみれだって抱いてくれるわ\n\n音⚠︎血糊⚠︎ https://t.co/BnjMGBvaik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 2077,
+          "like_count": 69062,
+          "listed_count": 9,
+          "media_count": 1683,
+          "tweet_count": 11363
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-04T15:12:20.000Z",
+        "description": "まくらです૮๑•̀ㅁ•́ฅა #まくらーめん 異世界同位体 #花咲ゾンビ／Chinese cosplayer／@hiodoshiao 自慢な火女ちゃん♡ずっと愛してる／加工厨!! 時々変な日本語喋ります／必読→ https://t.co/e8NgojldHh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "まくらーめん"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "花咲ゾンビ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "hiodoshiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/hanasaki…",
+                "end": 129,
+                "expanded_url": "https://lit.link/zh-tw/hanasakimakura",
+                "start": 106,
+                "url": "https://t.co/e8NgojldHh"
+              }
+            ]
+          }
+        },
+        "id": "893489787411222528",
+        "location": "🚫転載禁止⚠️ 写真、仕事はDMへお願いします✨",
+        "name": "花崎Makura🌸🪽",
+        "pinned_tweet_id": "2044344429264404953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966926126384902146/hC-a3afb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192213,
+          "following_count": 1003,
+          "like_count": 102032,
+          "listed_count": 741,
+          "media_count": 1221,
+          "tweet_count": 22420
+        },
+        "username": "kuren_chan",
+        "verified": true
+      }
+    ]
+  }
+}

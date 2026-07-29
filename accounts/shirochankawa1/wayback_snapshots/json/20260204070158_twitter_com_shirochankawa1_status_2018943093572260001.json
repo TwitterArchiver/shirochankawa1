@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2018895900454887480",
+    "created_at": "2026-02-04T07:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T08:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018943093572260001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1844402381070663680",
+          "start": 0,
+          "username": "camellia_ayin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018943093572260001",
+    "in_reply_to_user_id": "1844402381070663680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018937789992345789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@camellia_ayin 😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2018895900454887480",
+        "created_at": "2026-02-04T07:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018943093572260001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1844402381070663680",
+              "start": 0,
+              "username": "camellia_ayin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018943093572260001",
+        "in_reply_to_user_id": "1844402381070663680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018937789992345789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camellia_ayin 😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844402381070663680",
+        "conversation_id": "2018895900454887480",
+        "created_at": "2026-02-04T06:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018937789992345789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018937789992345789",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018895900454887480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 ？100昏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 1959,
+          "like_count": 63794,
+          "listed_count": 8,
+          "media_count": 1442,
+          "tweet_count": 9775
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T15:39:41.000Z",
+        "description": "English//中文//日本語#喜欢动漫，音乐，不站队，05年，喜欢cos，有时候会女装，中二病晚期，欢迎大家加我好友",
+        "id": "1844402381070663680",
+        "name": "三茶可",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877234716556013568/G6UMBCK4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 181,
+          "like_count": 602,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 2369
+        },
+        "username": "camellia_ayin",
+        "verified": false
+      }
+    ]
+  }
+}

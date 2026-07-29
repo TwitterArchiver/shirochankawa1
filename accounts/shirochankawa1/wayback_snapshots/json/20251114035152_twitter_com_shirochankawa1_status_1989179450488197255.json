@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1988950486737920192",
+    "created_at": "2025-11-14T03:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T04:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989179450488197255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714571705694420992",
+          "start": 0,
+          "username": "Ayuki_Believe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989179450488197255",
+    "in_reply_to_user_id": "1714571705694420992",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989167582272975165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayuki_Believe (ㅇㅅㅇ❀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1988950486737920192",
+        "created_at": "2025-11-14T03:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989179450488197255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714571705694420992",
+              "start": 0,
+              "username": "Ayuki_Believe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989179450488197255",
+        "in_reply_to_user_id": "1714571705694420992",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989167582272975165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayuki_Believe (ㅇㅅㅇ❀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714571705694420992",
+        "conversation_id": "1988950486737920192",
+        "created_at": "2025-11-14T03:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989167582272975165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989167582272975165",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988950486737920192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 我干的对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 1953,
+          "like_count": 60623,
+          "listed_count": 8,
+          "media_count": 1239,
+          "tweet_count": 8697
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T09:19:08.000Z",
+        "description": "💗桃井愛莉💗あなたたちが大好きです💗 lover   @Takitsuki_Shoko| baby @Kisen0v0| little girl @Ayuki_Rotsuki|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Takitsuki_Shoko"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Kisen0v0"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Ayuki_Rotsuki"
+              }
+            ]
+          }
+        },
+        "id": "1714571705694420992",
+        "location": "0.1km",
+        "name": "TekeliLi_iLilekeT",
+        "pinned_tweet_id": "1930324317180706816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983739797098393607/LN2e9JFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3355,
+          "following_count": 386,
+          "like_count": 6162,
+          "listed_count": 8,
+          "media_count": 821,
+          "tweet_count": 2493
+        },
+        "username": "Ayuki_Believe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2043931357337006154",
+    "created_at": "2026-04-14T05:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043931357337006154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1490675894238986251",
+          "start": 3,
+          "username": "SayoriCat8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043931357337006154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043894953751818637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SayoriCat8964: 首先自伤很明显在全国绝大多数精神科心理科是被当成可接受的缓解方式 甚至于说自伤本身就是精神疾病的症状之一 你抓个重度精神病的跟医生说他天天割手能不能管管医生大概率是割吧割吧别死了就行 像你这种毫无同理心 偷换概念 歪曲论点 对精神疾病毫无了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2043931357337006154",
+        "created_at": "2026-04-14T05:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043931357337006154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1490675894238986251",
+              "start": 3,
+              "username": "SayoriCat8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043931357337006154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043894953751818637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SayoriCat8964: 首先自伤很明显在全国绝大多数精神科心理科是被当成可接受的缓解方式 甚至于说自伤本身就是精神疾病的症状之一 你抓个重度精神病的跟医生说他天天割手能不能管管医生大概率是割吧割吧别死了就行 像你这种毫无同理心 偷换概念 歪曲论点 对精神疾病毫无了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490675894238986251",
+        "conversation_id": "2043894953751818637",
+        "created_at": "2026-04-14T03:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043894953751818637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iamthujas/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/iamthujas/status/2043835739256062036",
+              "start": 143,
+              "url": "https://t.co/BWcutN6MW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043894953751818637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 944,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043835739256062036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先自伤很明显在全国绝大多数精神科心理科是被当成可接受的缓解方式 甚至于说自伤本身就是精神疾病的症状之一 你抓个重度精神病的跟医生说他天天割手能不能管管医生大概率是割吧割吧别死了就行 像你这种毫无同理心 偷换概念 歪曲论点 对精神疾病毫无了解的奇异搞笑小破孩还是别来辩经了 丢人知道不 https://t.co/BWcutN6MW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 2033,
+          "like_count": 68389,
+          "listed_count": 8,
+          "media_count": 1648,
+          "tweet_count": 11086
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "enby/🌹/🐶@A5tr41",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "A5tr41"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://www.whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/pWZx2Vbika"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "善良纱世理✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010690434545356800/p494Qex-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3131,
+          "following_count": 1268,
+          "like_count": 143246,
+          "listed_count": 13,
+          "media_count": 1695,
+          "tweet_count": 21366
+        },
+        "url": "https://t.co/pWZx2Vbika",
+        "username": "SayoriCat8964",
+        "verified": false
+      }
+    ]
+  }
+}

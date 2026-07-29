@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2055959710508196259",
+    "created_at": "2026-05-17T11:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055978714694033762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1839316583635890183",
+          "start": 0,
+          "username": "iilvv_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055978714694033762",
+    "in_reply_to_user_id": "1839316583635890183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055959710508196259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iilvv_ 可爱是因为你是一个很值得被爱的人，不光是颜值上的美，而是一举一动都很萌哟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2055959710508196259",
+        "created_at": "2026-05-17T11:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055978714694033762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1839316583635890183",
+              "start": 0,
+              "username": "iilvv_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055978714694033762",
+        "in_reply_to_user_id": "1839316583635890183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055959710508196259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iilvv_ 可爱是因为你是一个很值得被爱的人，不光是颜值上的美，而是一举一动都很萌哟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839316583635890183",
+        "conversation_id": "2055959710508196259",
+        "created_at": "2026-05-17T10:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055959710508196259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055959710508196259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為我不漂亮所以大家才說我可愛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 2078,
+          "like_count": 69480,
+          "listed_count": 9,
+          "media_count": 1694,
+          "tweet_count": 11434
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T14:50:43.000Z",
+        "description": "×××××××ひなた ʚ₍ᐢ ›̥̥̥ ༝ ‹̥̥̥ ᐢ₎ɞ 互fo私 加好友私聊易相处",
+        "id": "1839316583635890183",
+        "location": "8",
+        "name": "ヒナタ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055300322151792641/o9z--26e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 200,
+          "like_count": 1776,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 220
+        },
+        "username": "iilvv_",
+        "verified": false
+      }
+    ]
+  }
+}

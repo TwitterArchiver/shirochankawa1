@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077590383933173761"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2077590438832378194",
+    "created_at": "2026-07-16T03:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077590438832378194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8uKNfOv2UU",
+          "end": 25,
+          "expanded_url": "https://x.com/shirochankawa1/status/2077590438832378194/video/1",
+          "media_key": "13_2077590383933173761",
+          "start": 2,
+          "url": "https://t.co/8uKNfOv2UU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077590438832378194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵 https://t.co/8uKNfOv2UU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13582,
+        "height": 1280,
+        "media_key": "13_2077590383933173761",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077590383933173761/img/kp0_yzQA3C5aFZ_q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077590383933173761/vid/avc1/320x568/ULIsrYjtl-y5BL3_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077590383933173761/vid/avc1/480x852/3vzHVf7pIXkvSjvc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077590383933173761/vid/avc1/720x1280/nYwP5U00T4idpdUj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077590383933173761/pl/S3FlMFapADLPLzZG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077590383933173761"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2077590438832378194",
+        "created_at": "2026-07-16T03:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077590438832378194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uKNfOv2UU",
+              "end": 25,
+              "expanded_url": "https://x.com/shirochankawa1/status/2077590438832378194/video/1",
+              "media_key": "13_2077590383933173761",
+              "start": 2,
+              "url": "https://t.co/8uKNfOv2UU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077590438832378194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵 https://t.co/8uKNfOv2UU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 2175,
+          "like_count": 71615,
+          "listed_count": 8,
+          "media_count": 1808,
+          "tweet_count": 12188
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2042082139525804347",
+    "created_at": "2026-04-09T03:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042082139525804347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018742198356131840",
+          "start": 3,
+          "username": "lilidihv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042082139525804347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041883603949514988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilidihv: 16岁，还在房间里意淫幸福。16岁还在用眼泪解决问题。16岁，还在责备命运不公。16岁，还是一个乐子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2042082139525804347",
+        "created_at": "2026-04-09T03:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042082139525804347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018742198356131840",
+              "start": 3,
+              "username": "lilidihv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042082139525804347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041883603949514988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilidihv: 16岁，还在房间里意淫幸福。16岁还在用眼泪解决问题。16岁，还在责备命运不公。16岁，还是一个乐子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018742198356131840",
+        "conversation_id": "2041883603949514988",
+        "created_at": "2026-04-08T14:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041883603949514988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041883603949514988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8326,
+          "like_count": 175,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "16岁，还在房间里意淫幸福。16岁还在用眼泪解决问题。16岁，还在责备命运不公。16岁，还是一个乐子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 2034,
+          "like_count": 68119,
+          "listed_count": 8,
+          "media_count": 1626,
+          "tweet_count": 11005
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T17:45:43.000Z",
+        "description": "tearsvow | 09 宁性恋 \n\n全网最尊重男主嬷之女@Aloneovo_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "Aloneovo_"
+              }
+            ]
+          }
+        },
+        "id": "2018742198356131840",
+        "location": "Amore",
+        "name": "萌狗仆",
+        "pinned_tweet_id": "2033818973553496238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041352714819620865/4Uh2LGna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 134,
+          "like_count": 1688,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 3105
+        },
+        "username": "lilidihv",
+        "verified": false
+      }
+    ]
+  }
+}

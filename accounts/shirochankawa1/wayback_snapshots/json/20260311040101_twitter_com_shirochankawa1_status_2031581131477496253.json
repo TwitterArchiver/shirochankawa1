@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2031276096944226358",
+    "created_at": "2026-03-11T04:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T05:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031581131477496253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1407164538936455181",
+          "start": 0,
+          "username": "im_manbo_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031581131477496253",
+    "in_reply_to_user_id": "1407164538936455181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031569318488514760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@im_manbo_king 这真能过审吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2031276096944226358",
+        "created_at": "2026-03-11T04:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T05:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031581131477496253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1407164538936455181",
+              "start": 0,
+              "username": "im_manbo_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031581131477496253",
+        "in_reply_to_user_id": "1407164538936455181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031569318488514760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@im_manbo_king 这真能过审吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407164538936455181",
+        "conversation_id": "2031276096944226358",
+        "created_at": "2026-03-11T03:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T04:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031569318488514760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031569318488514760",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031276096944226358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 可以搬到墙内吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 2012,
+          "like_count": 67297,
+          "listed_count": 8,
+          "media_count": 1586,
+          "tweet_count": 10703
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-22T02:32:38.000Z",
+        "description": "undergraduate student @trentuniversity Mandarin/English  infp 曼波 小糖人+傻了吧唧一枚 无素质之人 骂你就受着 纸性恋 纯爱党 机长起飞乃人生一大乐事 帖子只发疯 鉴证请绕路 ban位看心情 知行并非合一之人 我很懒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "trentuniversity"
+              }
+            ]
+          }
+        },
+        "id": "1407164538936455181",
+        "location": "Peterborough, Ontario",
+        "name": "我是曼波大王",
+        "pinned_tweet_id": "1970568150875095342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897102168554958848/dBd6_JEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 69,
+          "like_count": 180,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1158
+        },
+        "username": "im_manbo_king",
+        "verified": false
+      }
+    ]
+  }
+}

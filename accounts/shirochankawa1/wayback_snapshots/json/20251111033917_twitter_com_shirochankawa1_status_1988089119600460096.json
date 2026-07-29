@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1988089119600460096",
+    "created_at": "2025-11-11T03:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T04:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988089119600460096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1946240021696040961",
+          "start": 3,
+          "username": "odday_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988089119600460096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985800094185091356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @odday_official: 据报道，服用较高剂量的米氮平会产生一种不寻常的迷幻和镇静混合效应。主观效应包括镇静作用以及轻度至中度的睁眼和闭眼视觉幻觉、概念性思维和欣快感。米氮平的镇静作用可能存在悖论效应。一些轶事报道和研究表明，其镇静作用会随着剂量的增加而减弱（7.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1988089119600460096",
+        "created_at": "2025-11-11T03:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T04:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988089119600460096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1946240021696040961",
+              "start": 3,
+              "username": "odday_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988089119600460096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985800094185091356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @odday_official: 据报道，服用较高剂量的米氮平会产生一种不寻常的迷幻和镇静混合效应。主观效应包括镇静作用以及轻度至中度的睁眼和闭眼视觉幻觉、概念性思维和欣快感。米氮平的镇静作用可能存在悖论效应。一些轶事报道和研究表明，其镇静作用会随着剂量的增加而减弱（7.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946240021696040961",
+        "conversation_id": "1985800094185091356",
+        "created_at": "2025-11-04T20:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T21:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985800094185091356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985800094185091356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2644,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "据报道，服用较高剂量的米氮平会产生一种不寻常的迷幻和镇静混合效应。主观效应包括镇静作用以及轻度至中度的睁眼和闭眼视觉幻觉、概念性思维和欣快感。米氮平的镇静作用可能存在悖论效应。一些轶事报道和研究表明，其镇静作用会随着剂量的增加而减弱（7.5毫克比15毫克的镇静作用更强）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 1952,
+          "like_count": 60536,
+          "listed_count": 8,
+          "media_count": 1233,
+          "tweet_count": 8641
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "💊\noverdoseに集中しています............",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/E7w1cH91nR"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "天国",
+        "name": "化学极乐百科",
+        "pinned_tweet_id": "1986429102811979912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984269351256473600/z_4Rg7td_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 153,
+          "like_count": 510,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/E7w1cH91nR",
+        "username": "odday_official",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016036114050777090",
+        "3_2016036114067554306"
+      ],
+      "media_source_tweet_id": [
+        "2016036124171604394",
+        "2016036124171604394"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2016108801423016034",
+    "created_at": "2026-01-27T11:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016108801423016034"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "援交"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "福利姬"
+        },
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "线下约炮"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1557986650466164739",
+          "start": 3,
+          "username": "Arashi_100224"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/udztxQwKwG",
+          "end": 72,
+          "expanded_url": "https://x.com/Arashi_100224/status/2016036124171604394/photo/1",
+          "media_key": "3_2016036114050777090",
+          "start": 49,
+          "url": "https://t.co/udztxQwKwG"
+        },
+        {
+          "display_url": "pic.x.com/udztxQwKwG",
+          "end": 72,
+          "expanded_url": "https://x.com/Arashi_100224/status/2016036124171604394/photo/1",
+          "media_key": "3_2016036114067554306",
+          "start": 49,
+          "url": "https://t.co/udztxQwKwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016108801423016034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016036124171604394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Arashi_100224: 求转发求过门哥哥们 #援交 #爸爸活 #福利姬 #线下约炮 https://t.co/udztxQwKwG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016108801423016034].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016108801423016034",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016108801423016034"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016036114050777090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_pmKhBbAAI7Nhx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016036114067554306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_pmKhFbAAIQbON.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016036114050777090",
+            "3_2016036114067554306"
+          ]
+        },
+        "author_id": "1557986650466164739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016036124171604394",
+        "created_at": "2026-01-27T06:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016036124171604394"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "援交"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "福利姬"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "线下约炮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/udztxQwKwG",
+              "end": 53,
+              "expanded_url": "https://x.com/Arashi_100224/status/2016036124171604394/photo/1",
+              "media_key": "3_2016036114050777090",
+              "start": 30,
+              "url": "https://t.co/udztxQwKwG"
+            },
+            {
+              "display_url": "pic.x.com/udztxQwKwG",
+              "end": 53,
+              "expanded_url": "https://x.com/Arashi_100224/status/2016036124171604394/photo/1",
+              "media_key": "3_2016036114067554306",
+              "start": 30,
+              "url": "https://t.co/udztxQwKwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016036124171604394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 429,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求转发求过门哥哥们 #援交 #爸爸活 #福利姬 #线下约炮 https://t.co/udztxQwKwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 1954,
+          "like_count": 63305,
+          "listed_count": 8,
+          "media_count": 1417,
+          "tweet_count": 9674
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T07:05:50.000Z",
+        "description": "最低🚪88 私信只回zfb口令/双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/互fo欢迎 LGBTQ友好 🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱",
+        "id": "1557986650466164739",
+        "location": "精神病院",
+        "name": "Arashi",
+        "pinned_tweet_id": "1990693948528996711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008531952551555074/Q7cRFOWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 450,
+          "like_count": 1105,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 834
+        },
+        "username": "Arashi_100224",
+        "verified": false
+      }
+    ]
+  }
+}

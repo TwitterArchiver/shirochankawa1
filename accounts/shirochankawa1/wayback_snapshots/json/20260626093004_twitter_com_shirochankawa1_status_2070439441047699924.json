@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2070439441047699924",
+    "created_at": "2026-06-26T09:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070439441047699924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/topgyaru/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/topgyaru/status/2070258058006290640",
+          "start": 4,
+          "url": "https://t.co/YVDIyDhCky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070439441047699924",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070258058006290640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "OD妹 https://t.co/YVDIyDhCky"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2070257951064104961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsIo0aaoAE8S56.png",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2070439441047699924",
+        "created_at": "2026-06-26T09:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070439441047699924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/topgyaru/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/topgyaru/status/2070258058006290640",
+              "start": 4,
+              "url": "https://t.co/YVDIyDhCky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070439441047699924",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070258058006290640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OD妹 https://t.co/YVDIyDhCky"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070257951064104961"
+          ]
+        },
+        "author_id": "1471640417519030275",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070258058006290640",
+        "created_at": "2026-06-25T21:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T22:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070258058006290640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBQgKAdmTT",
+              "end": 60,
+              "expanded_url": "https://x.com/TopGyaru/status/2070258058006290640/photo/1",
+              "media_key": "3_2070257951064104961",
+              "start": 37,
+              "url": "https://t.co/rBQgKAdmTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070258058006290640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3218,
+          "impression_count": 1107161,
+          "like_count": 27336,
+          "quote_count": 747,
+          "reply_count": 1334,
+          "retweet_count": 1209
+        },
+        "reply_settings": "everyone",
+        "text": "Who's the target audience of this??? https://t.co/rBQgKAdmTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2810,
+          "following_count": 2168,
+          "like_count": 71290,
+          "listed_count": 8,
+          "media_count": 1781,
+          "tweet_count": 12037
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T00:36:50.000Z",
+        "description": "Top Gyaru at your service! I just shitpost and retweet My Dress-up Darling stuff 😆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/topgyaru",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/topgyaru",
+                "start": 0,
+                "url": "https://t.co/PeVNLbcRpx"
+              }
+            ]
+          }
+        },
+        "id": "1471640417519030275",
+        "location": " She/Her",
+        "name": "Maririn~",
+        "pinned_tweet_id": "1892952150281539702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742239844129210369/Y0waOB9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277025,
+          "following_count": 1408,
+          "like_count": 145337,
+          "listed_count": 499,
+          "media_count": 10546,
+          "tweet_count": 28533
+        },
+        "url": "https://t.co/PeVNLbcRpx",
+        "username": "TopGyaru",
+        "verified": true
+      }
+    ]
+  }
+}

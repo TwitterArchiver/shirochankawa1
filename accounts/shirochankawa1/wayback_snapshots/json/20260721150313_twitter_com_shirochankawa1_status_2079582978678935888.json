@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2079174190872330588",
+    "created_at": "2026-07-21T15:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079582978678935888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043916894147575808",
+          "start": 0,
+          "username": "Yuugiri0901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079582978678935888",
+    "in_reply_to_user_id": "2043916894147575808",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079548767649554646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuugiri0901 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2079174190872330588",
+        "created_at": "2026-07-21T15:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079582978678935888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043916894147575808",
+              "start": 0,
+              "username": "Yuugiri0901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079582978678935888",
+        "in_reply_to_user_id": "2043916894147575808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079548767649554646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuugiri0901 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043916894147575808",
+        "conversation_id": "2079174190872330588",
+        "created_at": "2026-07-21T12:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079548767649554646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079548767649554646",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079174190872330588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2928,
+          "following_count": 2194,
+          "like_count": 71824,
+          "listed_count": 8,
+          "media_count": 1818,
+          "tweet_count": 12255
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T04:59:16.000Z",
+        "description": "DJ丨COMPOSER丨SOUND MIXER丨Majsoul丨†堕落少女†丨电波系丨音游苦手丨maimai DX丨PJSK丨异环丨巧克力\n里宝牌：@Sakura1817550",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "Sakura1817550"
+              }
+            ]
+          }
+        },
+        "id": "2043916894147575808",
+        "location": "BACKROOMS",
+        "name": "恋の音#39C5BB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068256224773287936/kb1MYXqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 88,
+          "like_count": 1636,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "Yuugiri0901",
+        "verified": true
+      }
+    ]
+  }
+}

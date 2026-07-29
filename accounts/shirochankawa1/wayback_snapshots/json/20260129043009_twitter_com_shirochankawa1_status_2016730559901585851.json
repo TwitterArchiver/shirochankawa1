@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016446579759267840"
+      ],
+      "media_source_tweet_id": [
+        "2016446585677488433"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2016730559901585851",
+    "created_at": "2026-01-29T04:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1405881693441990663",
+          "start": 3,
+          "username": "takanya_shi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UtdoNrOAK1",
+          "end": 40,
+          "expanded_url": "https://x.com/takanya_shi/status/2016446585677488433/photo/1",
+          "media_key": "3_2016446579759267840",
+          "start": 17,
+          "url": "https://t.co/UtdoNrOAK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016730559901585851",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1037
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016446585677488433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takanya_shi: https://t.co/UtdoNrOAK1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1305,
+        "media_key": "3_2016446579759267840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vbew8aQAAeCQ6.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016446579759267840"
+          ]
+        },
+        "author_id": "1405881693441990663",
+        "conversation_id": "2016446585677488433",
+        "created_at": "2026-01-28T09:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T10:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UtdoNrOAK1",
+              "end": 23,
+              "expanded_url": "https://x.com/takanya_shi/status/2016446585677488433/photo/1",
+              "media_key": "3_2016446579759267840",
+              "start": 0,
+              "url": "https://t.co/UtdoNrOAK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016446585677488433",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 455,
+          "impression_count": 72427,
+          "like_count": 6415,
+          "quote_count": 15,
+          "reply_count": 3,
+          "retweet_count": 1037
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UtdoNrOAK1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 1953,
+          "like_count": 63359,
+          "listed_count": 8,
+          "media_count": 1419,
+          "tweet_count": 9689
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-18T13:35:12.000Z",
+        "description": "何でも描く ご依頼DMor skeb🤍https://t.co/1k6xbtQivK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@takanya_shi",
+                "end": 42,
+                "expanded_url": "http://skeb.jp/@takanya_shi",
+                "start": 19,
+                "url": "https://t.co/1k6xbtQivK"
+              }
+            ]
+          }
+        },
+        "id": "1405881693441990663",
+        "location": "🛜",
+        "name": "たかなし",
+        "pinned_tweet_id": "1896542618320044492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876946644941570048/7Rv3jZAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11138,
+          "following_count": 296,
+          "like_count": 1201,
+          "listed_count": 77,
+          "media_count": 312,
+          "tweet_count": 1952
+        },
+        "username": "takanya_shi",
+        "verified": false
+      }
+    ]
+  }
+}

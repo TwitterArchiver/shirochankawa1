@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2016464089871192169",
+    "created_at": "2026-01-28T10:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T11:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016464089871192169"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016464089871192169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好奇怪啊。\n恋爱不是因为自己深深的爱上对方，不是自己欣赏对方，也不是爱慕着，只是因为自己无聊了想谈而已。\n爱就是为爱人的幸福而开心，感觉与爱人相处很温暖，与爱人一起幸福的哭着庆幸着与你我的相遇。而不是\"爱\"字构成的文字。\n爱好像被刻意回避了\n爱是什么。人类是否能明了表达"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2016464089871192169",
+        "created_at": "2026-01-28T10:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016464089871192169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016464089871192169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪啊。\n恋爱不是因为自己深深的爱上对方，不是自己欣赏对方，也不是爱慕着，只是因为自己无聊了想谈而已。\n爱就是为爱人的幸福而开心，感觉与爱人相处很温暖，与爱人一起幸福的哭着庆幸着与你我的相遇。而不是\"爱\"字构成的文字。\n爱好像被刻意回避了\n爱是什么。人类是否能明了表达"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 1955,
+          "like_count": 63336,
+          "listed_count": 8,
+          "media_count": 1418,
+          "tweet_count": 9683
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

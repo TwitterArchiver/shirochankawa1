@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2002380210046734541",
+    "created_at": "2025-12-20T14:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T15:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002380210046734541"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2002380210046734541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为那🤔春日💐啊\n😮哪里❓都是活的😇\n但是啊[皱眉]只有我是死的💀\n我对着👀美好的🌷在倒喝😤\n厌恶🤮ta 不懂❓我的车辙🚗\n没什么🤨 只是快💨迷路了😵‍💫\n没办法🤷🏻‍♂️ 被什么❓人爱❤️着[流感]\n春日💐啊 你带来👊生机勃勃🍃\n但为什么❓ 不赶我走🦵呢😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2002380210046734541",
+        "created_at": "2025-12-20T14:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002380210046734541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002380210046734541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为那🤔春日💐啊\n😮哪里❓都是活的😇\n但是啊[皱眉]只有我是死的💀\n我对着👀美好的🌷在倒喝😤\n厌恶🤮ta 不懂❓我的车辙🚗\n没什么🤨 只是快💨迷路了😵‍💫\n没办法🤷🏻‍♂️ 被什么❓人爱❤️着[流感]\n春日💐啊 你带来👊生机勃勃🍃\n但为什么❓ 不赶我走🦵呢😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化/永远16的千禧电子生命体",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 1975,
+          "like_count": 62453,
+          "listed_count": 8,
+          "media_count": 1349,
+          "tweet_count": 9362
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

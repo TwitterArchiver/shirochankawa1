@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2030983889037197317",
+    "created_at": "2026-03-09T12:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T13:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030983889037197317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1572217722876080129",
+          "start": 3,
+          "username": "KurokawaRirika"
+        },
+        {
+          "end": 49,
+          "id": "2010632216230113280",
+          "start": 35,
+          "username": "LinRiriKa0603"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030983889037197317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030980503332164064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KurokawaRirika: 我是Ririka/莉莉🫶广州\n@LinRiriKa0603 此乃我前世\n我需要钱治病还要凑生活费和零花钱🥹\n🚪188好友位朋友圈/288可绿色聊天以及线下价格/520福利/1314你是我爹/上不封顶/可验证🙏\n转发评论点赞抽三个520🚪谢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030980493320294400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC99_4IakAALL9C.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030980493303599104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC99_4Eb0AA4YKD.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2030983889037197317",
+        "created_at": "2026-03-09T12:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030983889037197317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1572217722876080129",
+              "start": 3,
+              "username": "KurokawaRirika"
+            },
+            {
+              "end": 49,
+              "id": "2010632216230113280",
+              "start": 35,
+              "username": "LinRiriKa0603"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030983889037197317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030980503332164064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KurokawaRirika: 我是Ririka/莉莉🫶广州\n@LinRiriKa0603 此乃我前世\n我需要钱治病还要凑生活费和零花钱🥹\n🚪188好友位朋友圈/288可绿色聊天以及线下价格/520福利/1314你是我爹/上不封顶/可验证🙏\n转发评论点赞抽三个520🚪谢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030980493320294400",
+            "3_2030980493303599104"
+          ]
+        },
+        "author_id": "1572217722876080129",
+        "conversation_id": "2030980503332164064",
+        "created_at": "2026-03-09T12:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030980503332164064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 151,
+              "start": 147,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "餐券"
+            },
+            {
+              "end": 159,
+              "start": 156,
+              "tag": "广州"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 29,
+              "id": "2010632216230113280",
+              "start": 15,
+              "username": "LinRiriKa0603"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ElwZvSNTu7",
+              "end": 183,
+              "expanded_url": "https://x.com/KurokawaRirika/status/2030980503332164064/photo/1",
+              "media_key": "3_2030980493320294400",
+              "start": 160,
+              "url": "https://t.co/ElwZvSNTu7"
+            },
+            {
+              "display_url": "pic.x.com/ElwZvSNTu7",
+              "end": 183,
+              "expanded_url": "https://x.com/KurokawaRirika/status/2030980503332164064/photo/1",
+              "media_key": "3_2030980493303599104",
+              "start": 160,
+              "url": "https://t.co/ElwZvSNTu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030980503332164064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是Ririka/莉莉🫶广州\n@LinRiriKa0603 此乃我前世\n我需要钱治病还要凑生活费和零花钱🥹\n🚪188好友位朋友圈/288可绿色聊天以及线下价格/520福利/1314你是我爹/上不封顶/可验证🙏\n转发评论点赞抽三个520🚪谢啦！\n🩷餐券妹互fo互转私信谢谢🙏\n#门槛妹 #门槛哥 #门槛姐 #餐券 #广州 https://t.co/ElwZvSNTu7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 2013,
+          "like_count": 67196,
+          "listed_count": 8,
+          "media_count": 1585,
+          "tweet_count": 10686
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T13:37:37.000Z",
+        "description": "我是黒川りりか可以叫我莉莉/广州/165g54kg/不过门不回复任何私信哟！/血图/自拍/废话/餐券妹欢迎互转互fo！",
+        "id": "1572217722876080129",
+        "location": "天国",
+        "name": "Ririka💀🦷🤍",
+        "pinned_tweet_id": "2030980503332164064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030960382580555776/i9Nh8OHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 34,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "KurokawaRirika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T08:37:40.000Z",
+        "description": "毒舌阴魂不散且任性的女人/广州/门槛妹/电波女/大脑永久损伤/88/188/288/520/1314上不封顶",
+        "id": "2010632216230113280",
+        "location": "天國",
+        "name": "🤍Ririka🤍2.0",
+        "pinned_tweet_id": "2028716605438631967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020845394486575105/GXEvWI-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 37
+        },
+        "username": "LinRiriKa0603",
+        "verified": false
+      }
+    ]
+  }
+}

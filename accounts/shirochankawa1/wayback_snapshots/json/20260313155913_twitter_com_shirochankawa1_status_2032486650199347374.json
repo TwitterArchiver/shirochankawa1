@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2032486650199347374",
+    "created_at": "2026-03-13T15:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032486650199347374"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032486650199347374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候也挺庆幸自己没有给ip当孝子冷脸洗内裤的,要么被爆抄袭塌房，要么就是本身作风就有问题，要么就是被神人扣帽子，都只是玩个游戏看个作品的，搞这么多规矩，又不是每个人都有那个时间金钱去证明自己有多热爱，厂商有问题的时候也不该纵容，互相督促互相进步才能有更好的作品，就像谈恋爱一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2032486650199347374",
+        "created_at": "2026-03-13T15:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032486650199347374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032486650199347374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候也挺庆幸自己没有给ip当孝子冷脸洗内裤的,要么被爆抄袭塌房，要么就是本身作风就有问题，要么就是被神人扣帽子，都只是玩个游戏看个作品的，搞这么多规矩，又不是每个人都有那个时间金钱去证明自己有多热爱，厂商有问题的时候也不该纵容，互相督促互相进步才能有更好的作品，就像谈恋爱一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 2008,
+          "like_count": 67400,
+          "listed_count": 8,
+          "media_count": 1590,
+          "tweet_count": 10728
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

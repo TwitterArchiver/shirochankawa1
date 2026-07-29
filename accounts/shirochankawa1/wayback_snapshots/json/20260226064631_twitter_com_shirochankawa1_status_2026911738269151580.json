@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2026820453906690359",
+    "created_at": "2026-02-26T06:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T07:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026911738269151580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677369315388174336",
+          "start": 0,
+          "username": "FoxRay3567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026911738269151580",
+    "in_reply_to_user_id": "1677369315388174336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026820453906690359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRay3567 玩点好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2026820453906690359",
+        "created_at": "2026-02-26T06:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026911738269151580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677369315388174336",
+              "start": 0,
+              "username": "FoxRay3567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026911738269151580",
+        "in_reply_to_user_id": "1677369315388174336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026820453906690359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRay3567 玩点好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677369315388174336",
+        "conversation_id": "2026820453906690359",
+        "created_at": "2026-02-26T00:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T01:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026820453906690359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026820453906690359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "送过前女友平板和手表，给别人花钱大手大脚的只希望能得到更多的关注和爱\n可是结局并不美好，过度降低包容底线只会让别人仗着感情欺负我自己，我才知道原来钱买不来好的感情\n所以我下定决心，今年我一定要给我自己买一台六年都舍不得买的switch\n今年我要对自己好一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 2003,
+          "like_count": 65821,
+          "listed_count": 8,
+          "media_count": 1546,
+          "tweet_count": 10402
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T17:29:58.000Z",
+        "description": "希望有人能懂我。另一个我：@foxray200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "foxray200"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sumlemon",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sumlemon",
+                "start": 0,
+                "url": "https://t.co/UBjh2Kkiv5"
+              }
+            ]
+          }
+        },
+        "id": "1677369315388174336",
+        "location": "你的心中",
+        "name": "AAA测量员鱼蛋🍋",
+        "pinned_tweet_id": "2026181273900003716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992894550386647040/KwmuPlW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 225,
+          "like_count": 7469,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 3013
+        },
+        "url": "https://t.co/UBjh2Kkiv5",
+        "username": "FoxRay3567",
+        "verified": false
+      }
+    ]
+  }
+}

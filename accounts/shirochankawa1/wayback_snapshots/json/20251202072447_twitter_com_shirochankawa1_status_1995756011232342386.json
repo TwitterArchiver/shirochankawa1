@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1995756011232342386",
+    "created_at": "2025-12-02T07:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T08:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995756011232342386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995756011232342386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995531764752941393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 雨瘾者（Pluviophile）\n爱雨之人被称为“雨瘾者”（Pluviophile），指的是一看到下雨就心情平静，或者本身喜欢淋雨的人。\n很多人喜欢在下雨天睡觉，外界窸窸窣窣的声响伴随着一点微冷，灰蒙蒙的天气让周遭变得更暗了，这时蜷缩在温…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_1995531717722177536",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G7GNhkTbAAAabjW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G7GNhkTbAAAabjW.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1995756011232342386",
+        "created_at": "2025-12-02T07:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T08:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995756011232342386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995756011232342386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995531764752941393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 雨瘾者（Pluviophile）\n爱雨之人被称为“雨瘾者”（Pluviophile），指的是一看到下雨就心情平静，或者本身喜欢淋雨的人。\n很多人喜欢在下雨天睡觉，外界窸窸窣窣的声响伴随着一点微冷，灰蒙蒙的天气让周遭变得更暗了，这时蜷缩在温…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1995531717722177536"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1995531764752941393",
+        "created_at": "2025-12-01T16:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995531764752941393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/taBzAyoSe1",
+              "end": 162,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1995531764752941393/photo/1",
+              "media_key": "16_1995531717722177536",
+              "start": 139,
+              "url": "https://t.co/taBzAyoSe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995531764752941393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "雨瘾者（Pluviophile）\n爱雨之人被称为“雨瘾者”（Pluviophile），指的是一看到下雨就心情平静，或者本身喜欢淋雨的人。\n很多人喜欢在下雨天睡觉，外界窸窸窣窣的声响伴随着一点微冷，灰蒙蒙的天气让周遭变得更暗了，这时蜷缩在温暖舒适的被窝里，会觉得自己睡得更香了。\n其实这主要是因为雨声是白噪声（white noise），它是指功率谱密度在整个频域内是常数的噪声。海浪拍打岩石的声音，风吹过树叶的声音都是白噪声，这种声音可以说是一种“和谐”的治疗声音。\n从心理学角度来考虑，喜欢下雨的人还可能是一种处于缺乏安全感的心态。当下雨的时候，从视觉感官上来讲，世界上似乎所有的地方都在被雨水所充斥着，而你本人恰好在屋内，这种感觉就好比自己躲在了一个十分安全的地方，不会被外界打扰，就像原始人躲在山洞里，而外面下着磅礴大雨，他不会担心野兽从背后突袭。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 35123,
+          "like_count": 317,
+          "quote_count": 8,
+          "reply_count": 7,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "雨瘾者（Pluviophile）\n爱雨之人被称为“雨瘾者”（Pluviophile），指的是一看到下雨就心情平静，或者本身喜欢淋雨的人。\n很多人喜欢在下雨天睡觉，外界窸窸窣窣的声响伴随着一点微冷，灰蒙蒙的天气让周遭变得更暗了，这时蜷缩在温暖舒适的被窝里，会觉得自己睡得更香了。 https://t.co/taBzAyoSe1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 1981,
+          "like_count": 62376,
+          "listed_count": 8,
+          "media_count": 1310,
+          "tweet_count": 9235
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9768,
+          "following_count": 7979,
+          "like_count": 27639,
+          "listed_count": 24,
+          "media_count": 6673,
+          "tweet_count": 42064
+        },
+        "username": "DDzhanshou5150",
+        "verified": true
+      }
+    ]
+  }
+}

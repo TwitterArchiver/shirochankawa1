@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2057819135640268880",
+    "created_at": "2026-05-22T19:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T20:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057912867408822480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057912867408822480",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057819135640268880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 辛苦宝宝了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057819132439977984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7XmSEWYAA4fp_.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2057819135640268880",
+        "created_at": "2026-05-22T19:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057912867408822480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057912867408822480",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057819135640268880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 辛苦宝宝了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057819132439977984"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2057819135640268880",
+        "created_at": "2026-05-22T13:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057819135640268880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OYA2DuZm2S",
+              "end": 155,
+              "expanded_url": "https://x.com/Aloevce/status/2057819135640268880/photo/1",
+              "media_key": "3_2057819132439977984",
+              "start": 132,
+              "url": "https://t.co/OYA2DuZm2S"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/Aloevce/status/2057811051597508618",
+              "start": 156,
+              "url": "https://t.co/xwIJzjiVRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057819135640268880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2156,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057811051597508618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天我把我摊砸了 回家躺着了 本来想认真摆摊 结果所有人围着我上压力 本来就热 调酒饮料洒的一脚 胶黏想让对象哥帮买笔 我写酒单 结果对象哥死活不去🤣对象哥妈还非要把花生放到我放酒的地方碍事 拿开了又放回来🤣今天弹琴的一水货还每天给他分钱 老子不调酒谁都没钱挣🤣 https://t.co/OYA2DuZm2S https://t.co/xwIJzjiVRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2530,
+          "following_count": 2097,
+          "like_count": 69923,
+          "listed_count": 8,
+          "media_count": 1712,
+          "tweet_count": 11571
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18210,
+          "following_count": 1975,
+          "like_count": 56076,
+          "listed_count": 24,
+          "media_count": 6723,
+          "tweet_count": 23670
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042615435275927552"
+      ],
+      "media_source_tweet_id": [
+        "2042615450111217752"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2042749095249690994",
+    "created_at": "2026-04-10T23:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T00:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042749095249690994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1395031782014205953",
+          "start": 3,
+          "username": "komacyan_zZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T1qIIvn3KB",
+          "end": 45,
+          "expanded_url": "https://x.com/komacyan_zZ/status/2042615450111217752/photo/1",
+          "media_key": "3_2042615435275927552",
+          "start": 22,
+          "url": "https://t.co/T1qIIvn3KB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042749095249690994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042615450111217752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @komacyan_zZ: 还真是😇 https://t.co/T1qIIvn3KB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2042615435275927552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjT6ohaAAAqJZp.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042615435275927552"
+          ],
+          "media_source_tweet_id": [
+            "2042615450111217752"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2042749095249690994",
+        "created_at": "2026-04-10T23:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T00:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042749095249690994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1395031782014205953",
+              "start": 3,
+              "username": "komacyan_zZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1qIIvn3KB",
+              "end": 45,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2042615450111217752/photo/1",
+              "media_key": "3_2042615435275927552",
+              "start": 22,
+              "url": "https://t.co/T1qIIvn3KB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042749095249690994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042615450111217752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @komacyan_zZ: 还真是😇 https://t.co/T1qIIvn3KB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042615435275927552"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "conversation_id": "2042615450111217752",
+        "created_at": "2026-04-10T14:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042615450111217752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1qIIvn3KB",
+              "end": 28,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2042615450111217752/photo/1",
+              "media_key": "3_2042615435275927552",
+              "start": 5,
+              "url": "https://t.co/T1qIIvn3KB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042615450111217752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 319,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "还真是😇 https://t.co/T1qIIvn3KB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 2033,
+          "like_count": 68154,
+          "listed_count": 8,
+          "media_count": 1635,
+          "tweet_count": 11033
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / 質問箱▶️https://t.co/uE3mxpxUTR / フォロバをご希望の方はDMお願いします ❤️@MoeQike 🚪30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "MoeQike"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/komacyan_zz",
+                "end": 51,
+                "expanded_url": "https://ngl.link/komacyan_zz",
+                "start": 28,
+                "url": "https://t.co/uE3mxpxUTR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komacyan.moe",
+                "end": 23,
+                "expanded_url": "https://komacyan.moe",
+                "start": 0,
+                "url": "https://t.co/xocU8WkTN7"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "pinned_tweet_id": "2025887215470227733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3044,
+          "following_count": 767,
+          "like_count": 14577,
+          "listed_count": 10,
+          "media_count": 1578,
+          "tweet_count": 7269
+        },
+        "url": "https://t.co/xocU8WkTN7",
+        "username": "komacyan_zZ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025831347328012289"
+      ],
+      "media_source_tweet_id": [
+        "2025831354739396671"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2026082762038645179",
+    "created_at": "2026-02-23T23:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T00:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026082762038645179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870313420807163904",
+          "start": 3,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MiCGSATjxH",
+          "end": 51,
+          "expanded_url": "https://x.com/IzayoiMarin/status/2025831354739396671/photo/1",
+          "media_key": "3_2025831347328012289",
+          "start": 28,
+          "url": "https://t.co/MiCGSATjxH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026082762038645179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025831354739396671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayoiMarin: 当代年轻人的社交能力 https://t.co/MiCGSATjxH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 493,
+        "media_key": "3_2025831347328012289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0y4IhWUAEjyDv.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025831347328012289"
+          ],
+          "media_source_tweet_id": [
+            "2025831354739396671"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2026082762038645179",
+        "created_at": "2026-02-23T23:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T00:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026082762038645179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870313420807163904",
+              "start": 3,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MiCGSATjxH",
+              "end": 51,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2025831354739396671/photo/1",
+              "media_key": "3_2025831347328012289",
+              "start": 28,
+              "url": "https://t.co/MiCGSATjxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026082762038645179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025831354739396671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayoiMarin: 当代年轻人的社交能力 https://t.co/MiCGSATjxH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025831347328012289"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2025831354739396671",
+        "created_at": "2026-02-23T07:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025831354739396671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MiCGSATjxH",
+              "end": 34,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2025831354739396671/photo/1",
+              "media_key": "3_2025831347328012289",
+              "start": 11,
+              "url": "https://t.co/MiCGSATjxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025831354739396671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2528,
+          "like_count": 136,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "当代年轻人的社交能力 https://t.co/MiCGSATjxH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 1998,
+          "like_count": 65524,
+          "listed_count": 8,
+          "media_count": 1535,
+          "tweet_count": 10324
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "びゃくやこう     梗图源网络，如有侵权可删\nsub： @IzayoiMarinn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "IzayoiMarinn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "まりん（补药掉fo了）",
+        "pinned_tweet_id": "2025743677142802461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024740561744277504/OllzlXUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415,
+          "following_count": 2315,
+          "like_count": 39368,
+          "listed_count": 4,
+          "media_count": 1672,
+          "tweet_count": 18473
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

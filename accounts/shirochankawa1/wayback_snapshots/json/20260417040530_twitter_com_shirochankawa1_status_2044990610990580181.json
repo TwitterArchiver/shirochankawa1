@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2044990610990580181",
+    "created_at": "2026-04-17T04:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T05:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044990610990580181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932884400439767040",
+          "start": 3,
+          "username": "Fz_Rainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044990610990580181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044663171445915985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fz_Rainy: 周一双相，周二抑郁症，周三焦虑症，周四精神分裂，周五尝试自愈，周六周日康复然后歇逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2044990610990580181",
+        "created_at": "2026-04-17T04:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044990610990580181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932884400439767040",
+              "start": 3,
+              "username": "Fz_Rainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044990610990580181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044663171445915985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fz_Rainy: 周一双相，周二抑郁症，周三焦虑症，周四精神分裂，周五尝试自愈，周六周日康复然后歇逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932884400439767040",
+        "conversation_id": "2044663171445915985",
+        "created_at": "2026-04-16T06:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044663171445915985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044663171445915985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4872,
+          "like_count": 130,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "周一双相，周二抑郁症，周三焦虑症，周四精神分裂，周五尝试自愈，周六周日康复然后歇逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2393,
+          "following_count": 2051,
+          "like_count": 68473,
+          "listed_count": 8,
+          "media_count": 1653,
+          "tweet_count": 11102
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T19:35:35.000Z",
+        "description": "不识字 @Kcatlu0 @Kcatluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "Kcatlu0"
+              },
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Kcatluo"
+              }
+            ]
+          }
+        },
+        "id": "1932884400439767040",
+        "location": "天天开心",
+        "name": "扮演人类只是我在地球上的兼职",
+        "pinned_tweet_id": "2022194901333815359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932885004679589893/KZK1YDCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 1,
+          "like_count": 323,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 83
+        },
+        "username": "Fz_Rainy",
+        "verified": false
+      }
+    ]
+  }
+}

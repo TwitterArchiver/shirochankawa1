@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2057468718213726623",
+    "created_at": "2026-05-21T15:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057490735524712635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1844402381070663680",
+          "start": 0,
+          "username": "camellia_ayin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057490735524712635",
+    "in_reply_to_user_id": "1844402381070663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057482115953164598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@camellia_ayin 好丰富"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057482102669717504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2lEkVaMAAYlue.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2057468718213726623",
+        "created_at": "2026-05-21T15:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057490735524712635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1844402381070663680",
+              "start": 0,
+              "username": "camellia_ayin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057490735524712635",
+        "in_reply_to_user_id": "1844402381070663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057482115953164598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camellia_ayin 好丰富"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057482102669717504"
+          ]
+        },
+        "author_id": "1844402381070663680",
+        "conversation_id": "2057468718213726623",
+        "created_at": "2026-05-21T15:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057482115953164598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjsNlsV6o2",
+              "end": 55,
+              "expanded_url": "https://x.com/camellia_ayin/status/2057482115953164598/photo/1",
+              "media_key": "3_2057482102669717504",
+              "start": 32,
+              "url": "https://t.co/xjsNlsV6o2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057482115953164598",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057468718213726623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 我好想再尝一口，这个在日本吃的 https://t.co/xjsNlsV6o2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2532,
+          "following_count": 2096,
+          "like_count": 69995,
+          "listed_count": 8,
+          "media_count": 1708,
+          "tweet_count": 11554
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T15:39:41.000Z",
+        "description": "English//中文//日本語#喜欢动漫，音乐，不站队，05年，喜欢cos，有时候会女装，中二病晚期，欢迎大家加我好友",
+        "id": "1844402381070663680",
+        "name": "三茶可",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877234716556013568/G6UMBCK4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 184,
+          "like_count": 623,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2578
+        },
+        "username": "camellia_ayin",
+        "verified": false
+      }
+    ]
+  }
+}

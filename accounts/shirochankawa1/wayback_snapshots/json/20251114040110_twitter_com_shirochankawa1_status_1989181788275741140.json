@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988967239656124416"
+      ],
+      "media_source_tweet_id": [
+        "1988967250746044659"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1989181788275741140",
+    "created_at": "2025-11-14T04:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989181788275741140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "FoxKami_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cGe2Nl7L5h",
+          "end": 102,
+          "expanded_url": "https://x.com/FoxKami_/status/1988967250746044659/photo/1",
+          "media_key": "3_1988967239656124416",
+          "start": 79,
+          "url": "https://t.co/cGe2Nl7L5h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989181788275741140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988967250746044659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxKami_: 一群男的装女在那里文爱发令人尴尬的文案 加各种莫名其妙的emoji 这都能让他们发情也是神 \n十年内无人能看懂他们的文爱聊天记录 https://t.co/cGe2Nl7L5h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1578,
+        "media_key": "3_1988967239656124416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5o7Kp2XsAAxb3P.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988967239656124416"
+          ],
+          "media_source_tweet_id": [
+            "1988967250746044659"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "1989181788275741140",
+        "created_at": "2025-11-14T04:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989181788275741140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "FoxKami_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cGe2Nl7L5h",
+              "end": 102,
+              "expanded_url": "https://x.com/FoxKami_/status/1988967250746044659/photo/1",
+              "media_key": "3_1988967239656124416",
+              "start": 79,
+              "url": "https://t.co/cGe2Nl7L5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989181788275741140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988967250746044659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoxKami_: 一群男的装女在那里文爱发令人尴尬的文案 加各种莫名其妙的emoji 这都能让他们发情也是神 \n十年内无人能看懂他们的文爱聊天记录 https://t.co/cGe2Nl7L5h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988967239656124416"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1988967250746044659",
+        "created_at": "2025-11-13T13:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988967250746044659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cGe2Nl7L5h",
+              "end": 88,
+              "expanded_url": "https://x.com/FoxKami_/status/1988967250746044659/photo/1",
+              "media_key": "3_1988967239656124416",
+              "start": 65,
+              "url": "https://t.co/cGe2Nl7L5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988967250746044659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10632,
+          "like_count": 156,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "一群男的装女在那里文爱发令人尴尬的文案 加各种莫名其妙的emoji 这都能让他们发情也是神 \n十年内无人能看懂他们的文爱聊天记录 https://t.co/cGe2Nl7L5h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 1953,
+          "like_count": 60630,
+          "listed_count": 8,
+          "media_count": 1239,
+          "tweet_count": 8701
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "people like you don't deserve to live.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988790525915250688/mi6plSUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7480,
+          "following_count": 238,
+          "like_count": 31396,
+          "listed_count": 19,
+          "media_count": 180,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "FoxKami_",
+        "verified": false
+      }
+    ]
+  }
+}

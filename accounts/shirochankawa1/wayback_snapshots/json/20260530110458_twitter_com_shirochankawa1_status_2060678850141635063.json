@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2060678850141635063",
+    "created_at": "2026-05-30T11:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060678850141635063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2059878871231844352",
+          "start": 3,
+          "username": "qorath4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060678850141635063",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060340212602196435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qorath4r: 칼을 무서워하던 아이가 자해를 하고\n술과 담배를 혐오하던 아이가 술과 담배에 의지를 하고 \n약을 삼키지못하던 아이가 정신과약을 거스름없이 먹는다\n오래 살기를 원했던 아이는 그 누구보다 빨리 죽기를 원한다"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2060678850141635063",
+        "created_at": "2026-05-30T11:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060678850141635063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2059878871231844352",
+              "start": 3,
+              "username": "qorath4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060678850141635063",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060340212602196435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qorath4r: 칼을 무서워하던 아이가 자해를 하고\n술과 담배를 혐오하던 아이가 술과 담배에 의지를 하고 \n약을 삼키지못하던 아이가 정신과약을 거스름없이 먹는다\n오래 살기를 원했던 아이는 그 누구보다 빨리 죽기를 원한다"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059878871231844352",
+        "conversation_id": "2060340212602196435",
+        "created_at": "2026-05-29T12:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060340212602196435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060340212602196435",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2808,
+          "like_count": 129,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "칼을 무서워하던 아이가 자해를 하고\n술과 담배를 혐오하던 아이가 술과 담배에 의지를 하고 \n약을 삼키지못하던 아이가 정신과약을 거스름없이 먹는다\n오래 살기를 원했던 아이는 그 누구보다 빨리 죽기를 원한다"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2581,
+          "following_count": 2107,
+          "like_count": 70339,
+          "listed_count": 8,
+          "media_count": 1738,
+          "tweet_count": 11697
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T06:07:21.000Z",
+        "description": "이 추락은 어디까진 걸까",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/2809261199",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/2809261199",
+                "start": 0,
+                "url": "https://t.co/GrHSoCTdZZ"
+              }
+            ]
+          }
+        },
+        "id": "2059878871231844352",
+        "location": "우울증 불안장애 애정결핍",
+        "name": "녜 ㅌㅊㅅ",
+        "pinned_tweet_id": "2059896766749979048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059879830922092544/z3CE0iaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 68,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/GrHSoCTdZZ",
+        "username": "qorath4r",
+        "verified": false
+      }
+    ]
+  }
+}

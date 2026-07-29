@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1993806963428442306",
+    "created_at": "2025-11-27T07:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993939341434110452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1702477793182019584",
+          "start": 0,
+          "username": "MikoMikoooy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993939341434110452",
+    "in_reply_to_user_id": "1702477793182019584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993806963428442306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikoMikoooy 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1993806963428442306",
+        "created_at": "2025-11-27T07:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993939341434110452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1702477793182019584",
+              "start": 0,
+              "username": "MikoMikoooy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993939341434110452",
+        "in_reply_to_user_id": "1702477793182019584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993806963428442306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikoMikoooy 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702477793182019584",
+        "conversation_id": "1993806963428442306",
+        "created_at": "2025-11-26T22:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T23:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993806963428442306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993806963428442306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1057,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全刪掉了，留了互fo和幾位感興趣的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 1959,
+          "like_count": 61644,
+          "listed_count": 8,
+          "media_count": 1289,
+          "tweet_count": 8997
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T00:22:10.000Z",
+        "description": "",
+        "id": "1702477793182019584",
+        "location": "不存在的地方",
+        "name": "𝐌𝐢𝐤𝐨",
+        "pinned_tweet_id": "1866485909430194655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873335182499123200/b8HtZaLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 541,
+          "like_count": 28577,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 3866
+        },
+        "username": "MikoMikoooy",
+        "verified": false
+      }
+    ]
+  }
+}

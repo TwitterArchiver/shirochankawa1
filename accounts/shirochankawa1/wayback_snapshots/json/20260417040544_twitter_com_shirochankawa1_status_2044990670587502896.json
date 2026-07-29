@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044741738691260416"
+      ],
+      "media_source_tweet_id": [
+        "2044741787378717049"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2044990670587502896",
+    "created_at": "2026-04-17T04:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T05:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044990670587502896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016609313511686144",
+          "start": 3,
+          "username": "chungEdesu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gd4z1ZtOmp",
+          "end": 47,
+          "expanded_url": "https://x.com/chungEdesu/status/2044741787378717049/photo/1",
+          "media_key": "3_2044741738691260416",
+          "start": 24,
+          "url": "https://t.co/Gd4z1ZtOmp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044990670587502896",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1562
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044741787378717049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chungEdesu: 간호사 아메짱 https://t.co/Gd4z1ZtOmp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_2044741738691260416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBhxyAbcAAaTs3.jpg",
+        "width": 1353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044741738691260416"
+          ],
+          "media_source_tweet_id": [
+            "2044741787378717049"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2044990670587502896",
+        "created_at": "2026-04-17T04:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044990670587502896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016609313511686144",
+              "start": 3,
+              "username": "chungEdesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gd4z1ZtOmp",
+              "end": 47,
+              "expanded_url": "https://x.com/chungEdesu/status/2044741787378717049/photo/1",
+              "media_key": "3_2044741738691260416",
+              "start": 24,
+              "url": "https://t.co/Gd4z1ZtOmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044990670587502896",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1562
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044741787378717049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chungEdesu: 간호사 아메짱 https://t.co/Gd4z1ZtOmp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044741738691260416"
+          ]
+        },
+        "author_id": "2016609313511686144",
+        "conversation_id": "2044741787378717049",
+        "created_at": "2026-04-16T11:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044741787378717049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gd4z1ZtOmp",
+              "end": 31,
+              "expanded_url": "https://x.com/chungEdesu/status/2044741787378717049/photo/1",
+              "media_key": "3_2044741738691260416",
+              "start": 8,
+              "url": "https://t.co/Gd4z1ZtOmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044741787378717049",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1171,
+          "impression_count": 90611,
+          "like_count": 11152,
+          "quote_count": 25,
+          "reply_count": 4,
+          "retweet_count": 1562
+        },
+        "reply_settings": "everyone",
+        "text": "간호사 아메짱 https://t.co/Gd4z1ZtOmp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2393,
+          "following_count": 2051,
+          "like_count": 68474,
+          "listed_count": 8,
+          "media_count": 1653,
+          "tweet_count": 11103
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T20:28:30.000Z",
+        "description": "🇰🇷🇯🇵🇺🇸 17+ | 好きな少女たちを描きます🩶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/123380930",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/123380930",
+                "start": 0,
+                "url": "https://t.co/VbR2kNsYgW"
+              }
+            ]
+          }
+        },
+        "id": "2016609313511686144",
+        "location": "Ai🚫",
+        "name": "청이 チョニ",
+        "pinned_tweet_id": "2029366477586116917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028957899729584130/O-mks1oJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 777,
+          "like_count": 2156,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/VbR2kNsYgW",
+        "username": "chungEdesu",
+        "verified": false
+      }
+    ]
+  }
+}

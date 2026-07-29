@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079523390961188864"
+      ],
+      "media_source_tweet_id": [
+        "2079523408833061160"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2079782332861698502",
+    "created_at": "2026-07-22T04:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079782332861698502"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 57,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1892920973932044288",
+          "start": 3,
+          "username": "aneki_erg_sub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H1JyQr60vR",
+          "end": 89,
+          "expanded_url": "https://x.com/aneki_erg_sub/status/2079523408833061160/video/1",
+          "media_key": "13_2079523390961188864",
+          "start": 66,
+          "url": "https://t.co/H1JyQr60vR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079782332861698502",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079523408833061160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aneki_erg_sub: 『やっぱり……いい女には、たばこと屋上と……そしてヒラヒラ服だわね……』\n\n#素晴らしき日々 https://t.co/H1JyQr60vR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4018,
+        "height": 720,
+        "media_key": "13_2079523390961188864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079523390961188864/img/pPjSnsX7Vh4z5TIH.jpg",
+        "public_metrics": {
+          "view_count": 10538
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079523390961188864/vid/avc1/360x270/Lyd7lbhPewoUBf6R.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079523390961188864/vid/avc1/480x360/62URHZUbnDDm4No_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079523390961188864/vid/avc1/960x720/SVAbVuKDWYhvLpa7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079523390961188864/pl/u93sVAz50sS0PVD0.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079523390961188864"
+          ]
+        },
+        "author_id": "1892920973932044288",
+        "conversation_id": "2079523408833061160",
+        "created_at": "2026-07-21T11:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079523408833061160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1JyQr60vR",
+              "end": 70,
+              "expanded_url": "https://x.com/aneki_erg_sub/status/2079523408833061160/video/1",
+              "media_key": "13_2079523390961188864",
+              "start": 47,
+              "url": "https://t.co/H1JyQr60vR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079523408833061160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 29983,
+          "like_count": 1239,
+          "quote_count": 8,
+          "reply_count": 7,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "『やっぱり……いい女には、たばこと屋上と……そしてヒラヒラ服だわね……』\n\n#素晴らしき日々 https://t.co/H1JyQr60vR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079523390961188864"
+          ],
+          "media_source_tweet_id": [
+            "2079523408833061160"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2079782332861698502",
+        "created_at": "2026-07-22T04:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079782332861698502"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1892920973932044288",
+              "start": 3,
+              "username": "aneki_erg_sub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1JyQr60vR",
+              "end": 89,
+              "expanded_url": "https://x.com/aneki_erg_sub/status/2079523408833061160/video/1",
+              "media_key": "13_2079523390961188864",
+              "start": 66,
+              "url": "https://t.co/H1JyQr60vR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079782332861698502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079523408833061160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aneki_erg_sub: 『やっぱり……いい女には、たばこと屋上と……そしてヒラヒラ服だわね……』\n\n#素晴らしき日々 https://t.co/H1JyQr60vR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2929,
+          "following_count": 2195,
+          "like_count": 71835,
+          "listed_count": 8,
+          "media_count": 1818,
+          "tweet_count": 12261
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T12:55:15.000Z",
+        "description": "@aneki_ergのサブで、奏ちゃんのオタク🎹✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "aneki_erg"
+              }
+            ]
+          }
+        },
+        "id": "1892920973932044288",
+        "name": "姉貴ちゃんサブ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947113047119613953/BDlSpw77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 383,
+          "like_count": 1994,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 796
+        },
+        "url": "",
+        "username": "aneki_erg_sub",
+        "verified": false
+      }
+    ]
+  }
+}

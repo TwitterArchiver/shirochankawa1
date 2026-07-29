@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068626747298635776"
+      ],
+      "media_source_tweet_id": [
+        "2068626756815425973"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2069014461948756000",
+    "created_at": "2026-06-22T11:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069014461948756000"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 19,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 51,
+          "start": 41,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1654812240707735553",
+          "start": 3,
+          "username": "duanchi884502"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i1e7Kz3juL",
+          "end": 75,
+          "expanded_url": "https://x.com/duanchi884502/status/2068626756815425973/photo/1",
+          "media_key": "3_2068626747298635776",
+          "start": 52,
+          "url": "https://t.co/i1e7Kz3juL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069014461948756000",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1045
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068626756815425973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duanchi884502: #NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/i1e7Kz3juL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068626747298635776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLU9EQ2bYAAmp7W.jpg",
+        "width": 1508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068626747298635776"
+          ],
+          "media_source_tweet_id": [
+            "2068626756815425973"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2069014461948756000",
+        "created_at": "2026-06-22T11:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069014461948756000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 19,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 51,
+              "start": 41,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1654812240707735553",
+              "start": 3,
+              "username": "duanchi884502"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1e7Kz3juL",
+              "end": 75,
+              "expanded_url": "https://x.com/duanchi884502/status/2068626756815425973/photo/1",
+              "media_key": "3_2068626747298635776",
+              "start": 52,
+              "url": "https://t.co/i1e7Kz3juL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069014461948756000",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1045
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068626756815425973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duanchi884502: #NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/i1e7Kz3juL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068626747298635776"
+          ]
+        },
+        "author_id": "1654812240707735553",
+        "conversation_id": "2068626756815425973",
+        "created_at": "2026-06-21T09:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068626756815425973"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1e7Kz3juL",
+              "end": 56,
+              "expanded_url": "https://x.com/duanchi884502/status/2068626756815425973/photo/1",
+              "media_key": "3_2068626747298635776",
+              "start": 33,
+              "url": "https://t.co/i1e7Kz3juL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068626756815425973",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 629,
+          "impression_count": 51615,
+          "like_count": 6456,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1045
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/i1e7Kz3juL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2743,
+          "following_count": 2168,
+          "like_count": 71167,
+          "listed_count": 8,
+          "media_count": 1778,
+          "tweet_count": 11996
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T11:36:08.000Z",
+        "description": "＝Doxiu | 雜多 obkk左右固定 | 🚫轉載 |翻訳機を使う| 謝謝你#",
+        "id": "1654812240707735553",
+        "name": "断池",
+        "pinned_tweet_id": "1796075673015943617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066475959466045440/rSIDow-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 263,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "duanchi884502",
+        "verified": false
+      }
+    ]
+  }
+}

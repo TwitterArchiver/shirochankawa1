@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1988094246709268538",
+    "created_at": "2025-11-11T04:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T05:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988095531433029752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1542745105899339776",
+          "start": 0,
+          "username": "eriri41383917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988095531433029752",
+    "in_reply_to_user_id": "1542745105899339776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988095286687003096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eriri41383917 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1988094246709268538",
+        "created_at": "2025-11-11T04:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T05:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988095531433029752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1542745105899339776",
+              "start": 0,
+              "username": "eriri41383917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988095531433029752",
+        "in_reply_to_user_id": "1542745105899339776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988095286687003096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eriri41383917 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542745105899339776",
+        "conversation_id": "1988094246709268538",
+        "created_at": "2025-11-11T04:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T05:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988095286687003096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988095286687003096",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988094246709268538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 是呢，如果可以的话就尽情做一些自己想做的事吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 1952,
+          "like_count": 60564,
+          "listed_count": 8,
+          "media_count": 1235,
+          "tweet_count": 8652
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T05:41:23.000Z",
+        "description": "生活不会中断，时间不会停止 ，曾经特别的日子，特别的瞬间 ，都会被远远地抛在身后 ，回头望去， 会发现它们像灯塔和星星一样在闪闪发光 ，为我们指引方向",
+        "id": "1542745105899339776",
+        "name": "eriri",
+        "pinned_tweet_id": "1983496447380115864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985910769301798914/WB9TjZlT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 154,
+          "like_count": 926,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 653
+        },
+        "username": "eriri41383917",
+        "verified": false
+      }
+    ]
+  }
+}

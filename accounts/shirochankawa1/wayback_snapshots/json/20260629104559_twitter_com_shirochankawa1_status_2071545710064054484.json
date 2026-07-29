@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2071545710064054484",
+    "created_at": "2026-06-29T10:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071545710064054484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1414986705459765249",
+          "start": 3,
+          "username": "mitsu20070926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071545710064054484",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 605
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071206196300873893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mitsu20070926: YouTubeとか観てたら中国人の事悪く言う動画多いけどさ、物凄く不愉快だわ\n関わって何かされたなら分かるけど全員が悪い訳じゃないよ\n\n中国人の友達結構出来たけどみんな優しいし面白いのにその子達が悪く言われてるって思ったら凄い腹が立つわ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2071545710064054484",
+        "created_at": "2026-06-29T10:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071545710064054484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1414986705459765249",
+              "start": 3,
+              "username": "mitsu20070926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071545710064054484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 605
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071206196300873893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mitsu20070926: YouTubeとか観てたら中国人の事悪く言う動画多いけどさ、物凄く不愉快だわ\n関わって何かされたなら分かるけど全員が悪い訳じゃないよ\n\n中国人の友達結構出来たけどみんな優しいし面白いのにその子達が悪く言われてるって思ったら凄い腹が立つわ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414986705459765249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2071206196300873893",
+        "created_at": "2026-06-28T12:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071206196300873893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071206196300873893",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 562974,
+          "like_count": 8609,
+          "quote_count": 182,
+          "reply_count": 885,
+          "retweet_count": 605
+        },
+        "reply_settings": "everyone",
+        "text": "YouTubeとか観てたら中国人の事悪く言う動画多いけどさ、物凄く不愉快だわ\n関わって何かされたなら分かるけど全員が悪い訳じゃないよ\n\n中国人の友達結構出来たけどみんな優しいし面白いのにその子達が悪く言われてるって思ったら凄い腹が立つわ\n\n日本人も大概だぞ自覚しろ\n悪い奴はどこの国でも悪いよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2831,
+          "following_count": 2167,
+          "like_count": 71349,
+          "listed_count": 8,
+          "media_count": 1784,
+          "tweet_count": 12057
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-13T16:35:05.000Z",
+        "description": "07 浪油 野球 埼玉西武 玉置浩二 ドラゴンボール",
+        "id": "1414986705459765249",
+        "name": "みっつ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058413783027208192/k4sDvM2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 589,
+          "like_count": 10717,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 2161
+        },
+        "url": "",
+        "username": "mitsu20070926",
+        "verified": false
+      }
+    ]
+  }
+}

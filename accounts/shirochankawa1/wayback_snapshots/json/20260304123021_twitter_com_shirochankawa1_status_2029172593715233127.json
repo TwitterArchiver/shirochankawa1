@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2029142587760922715",
+    "created_at": "2026-03-04T12:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029172593715233127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1761747289939259392",
+          "start": 0,
+          "username": "wngxiox84631890"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029172593715233127",
+    "in_reply_to_user_id": "1761747289939259392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029172481215639582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngxiox84631890 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 88,
+        "media_key": "16_2029172468091609088",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCkRm9SaYAA0Q1u.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCkRm9SaYAA0Q1u.mp4"
+          }
+        ],
+        "width": 88
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2029142587760922715",
+        "created_at": "2026-03-04T12:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029172593715233127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761747289939259392",
+              "start": 0,
+              "username": "wngxiox84631890"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029172593715233127",
+        "in_reply_to_user_id": "1761747289939259392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029172481215639582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngxiox84631890 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2029172468091609088"
+          ]
+        },
+        "author_id": "1761747289939259392",
+        "conversation_id": "2029142587760922715",
+        "created_at": "2026-03-04T12:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029172481215639582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kAfYlVRM7P",
+              "end": 64,
+              "expanded_url": "https://x.com/wngxiox84631890/status/2029172481215639582/photo/1",
+              "media_key": "16_2029172468091609088",
+              "start": 41,
+              "url": "https://t.co/kAfYlVRM7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029172481215639582",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029142587760922715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 ....第一次知道大宰治是因为别人玩梗说是大宰种 https://t.co/kAfYlVRM7P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 2002,
+          "like_count": 66660,
+          "listed_count": 8,
+          "media_count": 1574,
+          "tweet_count": 10592
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T13:37:54.000Z",
+        "description": "那日大雪覆阑干 青锋宝剑是已无关 想我重提这三尺剑 哼哼 曲罢奉宴再回还",
+        "id": "1761747289939259392",
+        "location": "暂时安全 但预备新号@zisn44144",
+        "name": "客",
+        "pinned_tweet_id": "1791075047291142541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765056323610353664/YqdvSzZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 86,
+          "like_count": 73149,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 6859
+        },
+        "username": "wngxiox84631890",
+        "verified": false
+      }
+    ]
+  }
+}

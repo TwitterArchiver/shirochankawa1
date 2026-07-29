@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026930832989106178",
+        "3_2026930833001762817",
+        "3_2026930832997490688",
+        "3_2026930832989151232"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026930869873897740",
+    "created_at": "2026-02-26T08:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026930869873897740"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "星野🥰",
+          "probability": 0.9266,
+          "start": 0,
+          "type": "Person"
+        },
+        {
+          "end": 7,
+          "normalized_text": "星野🥵",
+          "probability": 0.5009,
+          "start": 4,
+          "type": "Person"
+        },
+        {
+          "end": 9,
+          "normalized_text": "星野",
+          "probability": 0.4787,
+          "start": 8,
+          "type": "Person"
+        },
+        {
+          "end": 16,
+          "normalized_text": "星野",
+          "probability": 0.7025,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RuwCOmzXDq",
+          "end": 39,
+          "expanded_url": "https://x.com/shirochankawa1/status/2026930869873897740/photo/1",
+          "media_key": "3_2026930832989106178",
+          "start": 16,
+          "url": "https://t.co/RuwCOmzXDq"
+        },
+        {
+          "display_url": "pic.x.com/RuwCOmzXDq",
+          "end": 39,
+          "expanded_url": "https://x.com/shirochankawa1/status/2026930869873897740/photo/1",
+          "media_key": "3_2026930833001762817",
+          "start": 16,
+          "url": "https://t.co/RuwCOmzXDq"
+        },
+        {
+          "display_url": "pic.x.com/RuwCOmzXDq",
+          "end": 39,
+          "expanded_url": "https://x.com/shirochankawa1/status/2026930869873897740/photo/1",
+          "media_key": "3_2026930832997490688",
+          "start": 16,
+          "url": "https://t.co/RuwCOmzXDq"
+        },
+        {
+          "display_url": "pic.x.com/RuwCOmzXDq",
+          "end": 39,
+          "expanded_url": "https://x.com/shirochankawa1/status/2026930869873897740/photo/1",
+          "media_key": "3_2026930832989151232",
+          "start": 16,
+          "url": "https://t.co/RuwCOmzXDq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026930869873897740",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "星野🥰星野🥵星野🙇‍♀️星野😚 https://t.co/RuwCOmzXDq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 657,
+        "media_key": "3_2026930832989106178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEa2nyaMAIGUhP.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026930833001762817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEa2n1bUAEV2AP.jpg",
+        "width": 1274
+      },
+      {
+        "height": 2004,
+        "media_key": "3_2026930832997490688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEa2n0aIAAJSk-.jpg",
+        "width": 1296
+      },
+      {
+        "height": 1414,
+        "media_key": "3_2026930832989151232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEa2nya4AAzaiS.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026930832989106178",
+            "3_2026930833001762817",
+            "3_2026930832997490688",
+            "3_2026930832989151232"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026930869873897740",
+        "created_at": "2026-02-26T08:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026930869873897740"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "星野🥰",
+              "probability": 0.9266,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 7,
+              "normalized_text": "星野🥵",
+              "probability": 0.5009,
+              "start": 4,
+              "type": "Person"
+            },
+            {
+              "end": 9,
+              "normalized_text": "星野",
+              "probability": 0.4787,
+              "start": 8,
+              "type": "Person"
+            },
+            {
+              "end": 16,
+              "normalized_text": "星野",
+              "probability": 0.7025,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RuwCOmzXDq",
+              "end": 39,
+              "expanded_url": "https://x.com/shirochankawa1/status/2026930869873897740/photo/1",
+              "media_key": "3_2026930832989106178",
+              "start": 16,
+              "url": "https://t.co/RuwCOmzXDq"
+            },
+            {
+              "display_url": "pic.x.com/RuwCOmzXDq",
+              "end": 39,
+              "expanded_url": "https://x.com/shirochankawa1/status/2026930869873897740/photo/1",
+              "media_key": "3_2026930833001762817",
+              "start": 16,
+              "url": "https://t.co/RuwCOmzXDq"
+            },
+            {
+              "display_url": "pic.x.com/RuwCOmzXDq",
+              "end": 39,
+              "expanded_url": "https://x.com/shirochankawa1/status/2026930869873897740/photo/1",
+              "media_key": "3_2026930832997490688",
+              "start": 16,
+              "url": "https://t.co/RuwCOmzXDq"
+            },
+            {
+              "display_url": "pic.x.com/RuwCOmzXDq",
+              "end": 39,
+              "expanded_url": "https://x.com/shirochankawa1/status/2026930869873897740/photo/1",
+              "media_key": "3_2026930832989151232",
+              "start": 16,
+              "url": "https://t.co/RuwCOmzXDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026930869873897740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星野🥰星野🥵星野🙇‍♀️星野😚 https://t.co/RuwCOmzXDq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2311,
+          "following_count": 2003,
+          "like_count": 65838,
+          "listed_count": 8,
+          "media_count": 1547,
+          "tweet_count": 10405
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

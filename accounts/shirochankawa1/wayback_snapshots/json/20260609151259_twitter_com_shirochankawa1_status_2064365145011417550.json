@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2062700886699446645",
+    "created_at": "2026-06-09T15:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064365145011417550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1304276475500269569",
+          "start": 0,
+          "username": "theskyowl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064365145011417550",
+    "in_reply_to_user_id": "1304276475500269569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064364884641673412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theskyowl1 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2062700886699446645",
+        "created_at": "2026-06-09T15:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064365145011417550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1304276475500269569",
+              "start": 0,
+              "username": "theskyowl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064365145011417550",
+        "in_reply_to_user_id": "1304276475500269569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064364884641673412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theskyowl1 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304276475500269569",
+        "conversation_id": "2062700886699446645",
+        "created_at": "2026-06-09T15:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064364884641673412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064364884641673412",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062700886699446645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 主包你要好好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2622,
+          "following_count": 2150,
+          "like_count": 70904,
+          "listed_count": 8,
+          "media_count": 1765,
+          "tweet_count": 11895
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-11T04:32:08.000Z",
+        "description": "",
+        "id": "1304276475500269569",
+        "location": "Tokyo-to, Japan",
+        "name": "theskyowl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739715835609096192/e9-ATUdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 299,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 142
+        },
+        "username": "theskyowl1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2023205200325202247",
+    "created_at": "2026-02-17T04:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T05:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023613249816858892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1385212581342683139",
+          "start": 0,
+          "username": "SKYEN20011217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023613249816858892",
+    "in_reply_to_user_id": "1385212581342683139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023597441250165124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SKYEN20011217 除夕快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2023205200325202247",
+        "created_at": "2026-02-17T04:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T05:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023613249816858892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1385212581342683139",
+              "start": 0,
+              "username": "SKYEN20011217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023613249816858892",
+        "in_reply_to_user_id": "1385212581342683139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023597441250165124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SKYEN20011217 除夕快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385212581342683139",
+        "conversation_id": "2023205200325202247",
+        "created_at": "2026-02-17T03:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023597441250165124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023597441250165124",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023205200325202247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 除夕快樂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 1980,
+          "like_count": 64404,
+          "listed_count": 8,
+          "media_count": 1497,
+          "tweet_count": 10032
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T12:43:22.000Z",
+        "description": "也許是這樣子吧？身處的世界不同\n那顆最深處的本能也不會是一樣的；\n因此通過鮮血的交流，才能知道那些事",
+        "id": "1385212581342683139",
+        "location": "Taiwan",
+        "name": "齋椧",
+        "pinned_tweet_id": "1986095859843633294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003659911709044736/2QkIp9z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 272,
+          "like_count": 3473,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2263
+        },
+        "username": "SKYEN20011217",
+        "verified": false
+      }
+    ]
+  }
+}

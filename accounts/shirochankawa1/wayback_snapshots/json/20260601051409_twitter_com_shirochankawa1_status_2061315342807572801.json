@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2061315342807572801",
+    "created_at": "2026-06-01T05:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061315342807572801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2054830588469858304",
+          "start": 3,
+          "username": "fuyulockaccount"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061315342807572801",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 423
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061117680187593041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuyulockaccount: 정말 죽을사람\n투신 목매기 약물\n이 3가지만은 절대 하지 마요\n전부 실패 확률이 매우 높고 아프기만 해\n경험자 말 좀 들어 아니 걍 죽지 마\n쥭지마죽지마죽디마쥭지매줃ㄱ지마죽지매ㅜ직지마사랑해사랑해사랑해사랑해사랑해가…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2061315342807572801",
+        "created_at": "2026-06-01T05:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061315342807572801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2054830588469858304",
+              "start": 3,
+              "username": "fuyulockaccount"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061315342807572801",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 423
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061117680187593041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuyulockaccount: 정말 죽을사람\n투신 목매기 약물\n이 3가지만은 절대 하지 마요\n전부 실패 확률이 매우 높고 아프기만 해\n경험자 말 좀 들어 아니 걍 죽지 마\n쥭지마죽지마죽디마쥭지매줃ㄱ지마죽지매ㅜ직지마사랑해사랑해사랑해사랑해사랑해가…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054830588469858304",
+        "conversation_id": "2061117680187593041",
+        "created_at": "2026-05-31T16:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061117680187593041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061117680187593041",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 577,
+          "impression_count": 470922,
+          "like_count": 4205,
+          "quote_count": 368,
+          "reply_count": 26,
+          "retweet_count": 423
+        },
+        "reply_settings": "everyone",
+        "text": "정말 죽을사람\n투신 목매기 약물\n이 3가지만은 절대 하지 마요\n전부 실패 확률이 매우 높고 아프기만 해\n경험자 말 좀 들어 아니 걍 죽지 마\n쥭지마죽지마죽디마쥭지매줃ㄱ지마죽지매ㅜ직지마사랑해사랑해사랑해사랑해사랑해가랑해사라랳사앙해사라애시랑해사랑래하상해사ㅏㄹㅇ래사랑해사랑래사랑해"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 2111,
+          "like_count": 70407,
+          "listed_count": 8,
+          "media_count": 1739,
+          "tweet_count": 11720
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T07:47:07.000Z",
+        "description": "@fuyuthemenhera\n정지대비계 + 부계",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "fuyuthemenhera"
+              }
+            ]
+          }
+        },
+        "id": "2054830588469858304",
+        "name": "fuyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060927433340334080/4tl47D8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 99,
+          "like_count": 2648,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 561
+        },
+        "username": "fuyulockaccount",
+        "verified": false
+      }
+    ]
+  }
+}

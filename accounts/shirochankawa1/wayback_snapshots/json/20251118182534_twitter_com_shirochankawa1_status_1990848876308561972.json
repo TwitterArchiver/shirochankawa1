@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1990848876308561972",
+    "created_at": "2025-11-18T18:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T19:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990848876308561972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1522094329954652161",
+          "start": 3,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990848876308561972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990610855197880585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xo_snow: 好像每个人都陷入过贬损困境中….身边的人反复暗示你：你脑子笨、你长得丑、你小家子气…实际上你只是一个普通人，就算真的有这些缺点又怎么样呢？难道影响到你的生命、坚持做喜欢的事情吗？\n虽然我也并没有摆脱这样的困境，但我会始终提醒自己：我是为自己而活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1990848876308561972",
+        "created_at": "2025-11-18T18:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990848876308561972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1522094329954652161",
+              "start": 3,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990848876308561972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990610855197880585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xo_snow: 好像每个人都陷入过贬损困境中….身边的人反复暗示你：你脑子笨、你长得丑、你小家子气…实际上你只是一个普通人，就算真的有这些缺点又怎么样呢？难道影响到你的生命、坚持做喜欢的事情吗？\n虽然我也并没有摆脱这样的困境，但我会始终提醒自己：我是为自己而活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094329954652161",
+        "conversation_id": "1990610855197880585",
+        "created_at": "2025-11-18T02:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:31:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990608865961132138",
+          "1990610855197880585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990610855197880585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4821,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "好像每个人都陷入过贬损困境中….身边的人反复暗示你：你脑子笨、你长得丑、你小家子气…实际上你只是一个普通人，就算真的有这些缺点又怎么样呢？难道影响到你的生命、坚持做喜欢的事情吗？\n虽然我也并没有摆脱这样的困境，但我会始终提醒自己：我是为自己而活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 1958,
+          "like_count": 60894,
+          "listed_count": 8,
+          "media_count": 1249,
+          "tweet_count": 8784
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "我是れん/小恋💗你很可爱，所以点点我简介的“查看更多”可以嘛有我的其他信息哦～北京07｜想找人一起溜达找乐子(՞⸝⸝o̴̶̷̥᷅ ⌑ o̴̶̷̥᷅⸝⸝՞)老二次元请大力找我聊天",
+        "id": "1522094329954652161",
+        "location": "💕北京🚪188咨询线下  请看我亮点！",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "1989243524030820510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943729096589983744/8YCHG4db_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18689,
+          "following_count": 373,
+          "like_count": 13135,
+          "listed_count": 31,
+          "media_count": 978,
+          "tweet_count": 10736
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

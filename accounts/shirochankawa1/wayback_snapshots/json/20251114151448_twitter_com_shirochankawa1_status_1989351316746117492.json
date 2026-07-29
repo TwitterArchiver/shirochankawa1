@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989256167043014656"
+      ],
+      "media_source_tweet_id": [
+        "1989256191537729622"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1989351316746117492",
+    "created_at": "2025-11-14T15:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T16:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989351316746117492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748755970636038144",
+          "start": 3,
+          "username": "er_zuo96208"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o5QPAX3L36",
+          "end": 119,
+          "expanded_url": "https://x.com/er_zuo96208/status/1989256191537729622/photo/1",
+          "media_key": "3_1989256167043014656",
+          "start": 96,
+          "url": "https://t.co/o5QPAX3L36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989351316746117492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989256191537729622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @er_zuo96208: 自介\n♱♡°.+┈••┈+.°♡♱\n叫我小愿就好\nod自残 负能量 什么都发\n萌妹子可以跟我互fo 加我wx🉑私信\n不聊骚不约炮不磕炮\n男的骚扰我先v520 https://t.co/o5QPAX3L36"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989351316746117492].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989351316746117492",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989351316746117492"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989256167043014656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tB8cPaoAAOhQu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989256167043014656"
+          ]
+        },
+        "author_id": "1748755970636038144",
+        "conversation_id": "1989256191537729622",
+        "created_at": "2025-11-14T08:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989256191537729622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5QPAX3L36",
+              "end": 102,
+              "expanded_url": "https://x.com/er_zuo96208/status/1989256191537729622/photo/1",
+              "media_key": "3_1989256167043014656",
+              "start": 79,
+              "url": "https://t.co/o5QPAX3L36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989256191537729622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 600,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自介\n♱♡°.+┈••┈+.°♡♱\n叫我小愿就好\nod自残 负能量 什么都发\n萌妹子可以跟我互fo 加我wx🉑私信\n不聊骚不约炮不磕炮\n男的骚扰我先v520 https://t.co/o5QPAX3L36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 1953,
+          "like_count": 60694,
+          "listed_count": 8,
+          "media_count": 1241,
+          "tweet_count": 8723
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:15:06.000Z",
+        "description": "od自残 看不了血图和疤痕的屏蔽我好吗",
+        "id": "1748755970636038144",
+        "name": "老公孩子在天堂",
+        "pinned_tweet_id": "1989256191537729622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987086610589229056/8IojCkf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 206,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 437
+        },
+        "username": "er_zuo96208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2067568878876778652",
+    "created_at": "2026-06-18T12:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067593102379163696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1309790918363340800",
+          "start": 0,
+          "username": "CherMinty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067593102379163696",
+    "in_reply_to_user_id": "1309790918363340800",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067586606262112566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CherMinty Thanks"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2067568878876778652",
+        "created_at": "2026-06-18T12:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067593102379163696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1309790918363340800",
+              "start": 0,
+              "username": "CherMinty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067593102379163696",
+        "in_reply_to_user_id": "1309790918363340800",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067586606262112566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CherMinty Thanks"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1309790918363340800",
+        "conversation_id": "2067568878876778652",
+        "created_at": "2026-06-18T12:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067586606262112566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067586606262112566",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067568878876778652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 I know you liked my comment\nI know you're online.\nI'm here for you dear\nI hope you get to feel better about yourself.\nI know you can do it\nBut know\nNo one may change in a day or a week\nThat's too hard\nToo many steps\nI believe in you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 2160,
+          "like_count": 71151,
+          "listed_count": 8,
+          "media_count": 1776,
+          "tweet_count": 11976
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-26T09:44:38.000Z",
+        "description": "this apps ass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jotarorubio32…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@jotarorubio3289",
+                "start": 0,
+                "url": "https://t.co/UmilZdG0pW"
+              }
+            ]
+          }
+        },
+        "id": "1309790918363340800",
+        "name": "david007",
+        "pinned_tweet_id": "2067010155699679340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990124393947877376/kM_w0iNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 439,
+          "like_count": 9791,
+          "listed_count": 1,
+          "media_count": 1214,
+          "tweet_count": 5031
+        },
+        "url": "https://t.co/UmilZdG0pW",
+        "username": "CherMinty",
+        "verified": false
+      }
+    ]
+  }
+}

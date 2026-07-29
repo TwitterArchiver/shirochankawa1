@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2033084975801848233",
+    "created_at": "2026-03-15T14:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T15:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033195802328482223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597065444136919040",
+          "start": 0,
+          "username": "impart6324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033195802328482223",
+    "in_reply_to_user_id": "1597065444136919040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033084975801848233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@impart6324 宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6400,
+        "height": 1920,
+        "media_key": "13_2033084901357236224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033084901357236224/img/nidb5r8mNL1coC2d.jpg",
+        "public_metrics": {
+          "view_count": 142
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033084901357236224/pl/OT5x5OHRt6wQOt81.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033084901357236224/vid/avc1/480x852/wCA9uzXakyvJspeX.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033084901357236224/vid/avc1/320x568/Q1gDE-D2jiySgq_I.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033084901357236224/vid/avc1/1080x1920/znohusRmS3f418VA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033084901357236224/vid/avc1/720x1280/BKsZesV5uHLTn6sk.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2033084975801848233",
+        "created_at": "2026-03-15T14:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033195802328482223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033195802328482223",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033084975801848233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033084901357236224"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2033084975801848233",
+        "created_at": "2026-03-15T07:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033084975801848233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKjx6Fh70z",
+              "end": 27,
+              "expanded_url": "https://x.com/impart6324/status/2033084975801848233/video/1",
+              "media_key": "13_2033084901357236224",
+              "start": 4,
+              "url": "https://t.co/AKjx6Fh70z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033084975801848233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 534,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我 https://t.co/AKjx6Fh70z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 2011,
+          "like_count": 67518,
+          "listed_count": 8,
+          "media_count": 1594,
+          "tweet_count": 10760
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 448,
+          "like_count": 11049,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 290
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

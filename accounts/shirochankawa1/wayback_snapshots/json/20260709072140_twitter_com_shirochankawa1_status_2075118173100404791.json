@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2075118173100404791",
+    "created_at": "2026-07-09T07:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075118173100404791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1654534022448713728",
+          "start": 3,
+          "username": "jueduizhengyi_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/YtHM",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/YtHM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075118173100404791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074700183523451314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jueduizhengyi_A: 我说实话天天听一群毛都没长齐的人批判文化作品三观正不正真是让我没有看番的欲望，文化作品为什么一定要三观正？抛开内核看表达形式本身就是文化霸凌,有这时间滚去看意林啊，看啥番🤣就乐意看点黑色幽默，好看爱看 https://t.co/YtHM…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2074700177223639040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrQ0aba4AAq_fo.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2075118173100404791",
+        "created_at": "2026-07-09T07:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075118173100404791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1654534022448713728",
+              "start": 3,
+              "username": "jueduizhengyi_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/YtHM",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/YtHM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075118173100404791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074700183523451314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jueduizhengyi_A: 我说实话天天听一群毛都没长齐的人批判文化作品三观正不正真是让我没有看番的欲望，文化作品为什么一定要三观正？抛开内核看表达形式本身就是文化霸凌,有这时间滚去看意林啊，看啥番🤣就乐意看点黑色幽默，好看爱看 https://t.co/YtHM…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074700177223639040"
+          ]
+        },
+        "author_id": "1654534022448713728",
+        "conversation_id": "2074700183523451314",
+        "created_at": "2026-07-08T03:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074700183523451314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtHMlGSxIK",
+              "end": 124,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2074700183523451314/photo/1",
+              "media_key": "3_2074700177223639040",
+              "start": 101,
+              "url": "https://t.co/YtHMlGSxIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074700183523451314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 11528,
+          "like_count": 270,
+          "quote_count": 5,
+          "reply_count": 52,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "我说实话天天听一群毛都没长齐的人批判文化作品三观正不正真是让我没有看番的欲望，文化作品为什么一定要三观正？抛开内核看表达形式本身就是文化霸凌,有这时间滚去看意林啊，看啥番🤣就乐意看点黑色幽默，好看爱看 https://t.co/YtHMlGSxIK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 2170,
+          "like_count": 71369,
+          "listed_count": 8,
+          "media_count": 1796,
+          "tweet_count": 12107
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "Sugawara/菅原です｜INTJ｜男｜仮面ライダー｜キャラクターデザイナー｜小さな雑記｜京都｜为天地立心，为生民立命，为往圣继绝学，为万世开太平。",
+        "id": "1654534022448713728",
+        "location": "京都",
+        "name": "Suga.",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054129512401813504/FvqgyFhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 321,
+          "like_count": 64426,
+          "listed_count": 2,
+          "media_count": 1249,
+          "tweet_count": 9424
+        },
+        "url": "",
+        "username": "jueduizhengyi_A",
+        "verified": true
+      }
+    ]
+  }
+}

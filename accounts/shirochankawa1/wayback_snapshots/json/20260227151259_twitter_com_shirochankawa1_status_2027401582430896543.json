@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2027401582430896543",
+    "created_at": "2026-02-27T15:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027401582430896543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1060084311502708736",
+          "start": 3,
+          "username": "dingingcingking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027401582430896543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026678729976721625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dingingcingking: 我不想打扮得很漂亮人才会喜欢我\n我想就像睡觉穿睡衣那样打扮的普通也有人喜欢我可以吗？喜欢的不得了，爱我爱的死去活来，我要这种我要这种伴侣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2027401582430896543",
+        "created_at": "2026-02-27T15:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027401582430896543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1060084311502708736",
+              "start": 3,
+              "username": "dingingcingking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027401582430896543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026678729976721625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dingingcingking: 我不想打扮得很漂亮人才会喜欢我\n我想就像睡觉穿睡衣那样打扮的普通也有人喜欢我可以吗？喜欢的不得了，爱我爱的死去活来，我要这种我要这种伴侣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1060084311502708736",
+        "conversation_id": "2026678729976721625",
+        "created_at": "2026-02-25T15:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026678729976721625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026678729976721625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 53165,
+          "like_count": 1243,
+          "quote_count": 11,
+          "reply_count": 21,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "我不想打扮得很漂亮人才会喜欢我\n我想就像睡觉穿睡衣那样打扮的普通也有人喜欢我可以吗？喜欢的不得了，爱我爱的死去活来，我要这种我要这种伴侣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 2002,
+          "like_count": 66012,
+          "listed_count": 8,
+          "media_count": 1558,
+          "tweet_count": 10452
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-07T08:19:30.000Z",
+        "description": "不接电报推广＇其他推广私聊合作  废话很多，偶尔掉落性感照片",
+        "id": "1060084311502708736",
+        "location": "  不知道",
+        "name": "dingingcingking",
+        "pinned_tweet_id": "2023464334253592751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627253477146755072/ggLGz0ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66274,
+          "following_count": 261,
+          "like_count": 22404,
+          "listed_count": 144,
+          "media_count": 1294,
+          "tweet_count": 16940
+        },
+        "username": "dingingcingking",
+        "verified": false
+      }
+    ]
+  }
+}

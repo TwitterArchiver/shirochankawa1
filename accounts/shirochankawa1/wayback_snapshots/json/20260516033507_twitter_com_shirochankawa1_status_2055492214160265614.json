@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2055492214160265614",
+    "created_at": "2026-05-16T03:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055492214160265614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1788083166856749056",
+          "start": 3,
+          "username": "LanLan93083241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055492214160265614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055143128915694014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanLan93083241: 我一直觉得，牵手拥抱只是浅层的亲密关系，身体的赤裸也没办法触及内心。比这一切更亲密的是我们在昏暗的灯光下彻夜畅谈，是我们在彼此面前袒露过去的快乐或痛苦，是看着对方瞳孔里的自己微笑亦或者流泪，是把脆弱的一面展现给对方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2055492214160265614",
+        "created_at": "2026-05-16T03:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055492214160265614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1788083166856749056",
+              "start": 3,
+              "username": "LanLan93083241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055492214160265614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055143128915694014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanLan93083241: 我一直觉得，牵手拥抱只是浅层的亲密关系，身体的赤裸也没办法触及内心。比这一切更亲密的是我们在昏暗的灯光下彻夜畅谈，是我们在彼此面前袒露过去的快乐或痛苦，是看着对方瞳孔里的自己微笑亦或者流泪，是把脆弱的一面展现给对方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788083166856749056",
+        "conversation_id": "2055143128915694014",
+        "created_at": "2026-05-15T04:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055143128915694014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055143128915694014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 11849,
+          "like_count": 241,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得，牵手拥抱只是浅层的亲密关系，身体的赤裸也没办法触及内心。比这一切更亲密的是我们在昏暗的灯光下彻夜畅谈，是我们在彼此面前袒露过去的快乐或痛苦，是看着对方瞳孔里的自己微笑亦或者流泪，是把脆弱的一面展现给对方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 2079,
+          "like_count": 69332,
+          "listed_count": 9,
+          "media_count": 1692,
+          "tweet_count": 11402
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女生\n(希望路过的你可以点一个关注 谢谢😉)",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "2054490737639862320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978758355318611968/KQBoDyuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41202,
+          "following_count": 2907,
+          "like_count": 40872,
+          "listed_count": 131,
+          "media_count": 1674,
+          "tweet_count": 2495
+        },
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

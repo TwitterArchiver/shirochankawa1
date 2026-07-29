@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2069335856415174773",
+    "created_at": "2026-06-23T10:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069366928494444834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1651625926017552385",
+          "start": 0,
+          "username": "gb19880715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069366928494444834",
+    "in_reply_to_user_id": "1651625926017552385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069365766097629335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gb19880715 我就是没有谈啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2069335856415174773",
+        "created_at": "2026-06-23T10:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069366928494444834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1651625926017552385",
+              "start": 0,
+              "username": "gb19880715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069366928494444834",
+        "in_reply_to_user_id": "1651625926017552385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069365766097629335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gb19880715 我就是没有谈啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651625926017552385",
+        "conversation_id": "2069335856415174773",
+        "created_at": "2026-06-23T10:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069365766097629335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069365766097629335",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069335856415174773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 不是不谈恋爱吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 2168,
+          "like_count": 71190,
+          "listed_count": 8,
+          "media_count": 1778,
+          "tweet_count": 12005
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-27T16:34:58.000Z",
+        "description": "",
+        "id": "1651625926017552385",
+        "location": "香港",
+        "name": "如果没有如果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812614511800602624/qH41UUkq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 425,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "gb19880715",
+        "verified": false
+      }
+    ]
+  }
+}

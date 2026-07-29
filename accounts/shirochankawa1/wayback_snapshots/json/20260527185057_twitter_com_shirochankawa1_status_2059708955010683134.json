@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2059707335367704993",
+    "created_at": "2026-05-27T18:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059708955010683134"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059708955010683134",
+    "in_reply_to_user_id": "1713713115270139904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059707335367704993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说什么凭什么不能打厨子不好的饭不能叫饭污染他们的眼睛，但是人家又没花他们的钱出，人家把你们当朋友给你们看看还这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2059707335367704993",
+        "created_at": "2026-05-27T18:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059708955010683134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059708955010683134",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059707335367704993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说什么凭什么不能打厨子不好的饭不能叫饭污染他们的眼睛，但是人家又没花他们的钱出，人家把你们当朋友给你们看看还这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2059707335367704993",
+        "created_at": "2026-05-27T18:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059707335367704993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059707335367704993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要对自己列表要求这么高呢不是每个人都有能力去出高质量cos，不喜欢看可以屏蔽或者划走也没必要去骂啊，人家会发在亲友群里面也是说明用了心的想被认可吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 2101,
+          "like_count": 70276,
+          "listed_count": 8,
+          "media_count": 1731,
+          "tweet_count": 11669
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

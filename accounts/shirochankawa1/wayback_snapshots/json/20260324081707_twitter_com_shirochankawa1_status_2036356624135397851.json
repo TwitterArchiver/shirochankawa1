@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2036356624135397851",
+    "created_at": "2026-03-24T08:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T09:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036356624135397851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962554097120485377",
+          "start": 3,
+          "username": "Owo_zhou3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036356624135397851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036321823072415905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Owo_zhou3: 男的听到你是个嗑药自残的阴暗女，一般有三种反应:\n1觉得此人好恐怖，怕沾染上晦气赶紧远离，不想草\n2待在你身边说一些无关紧不痛不痒的话鼓励你劝阻你，只为草一顿\n3不惜损害自己的身体健康，陪你一起嗑药自残，只为草一顿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2036356624135397851",
+        "created_at": "2026-03-24T08:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T09:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036356624135397851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962554097120485377",
+              "start": 3,
+              "username": "Owo_zhou3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036356624135397851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036321823072415905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Owo_zhou3: 男的听到你是个嗑药自残的阴暗女，一般有三种反应:\n1觉得此人好恐怖，怕沾染上晦气赶紧远离，不想草\n2待在你身边说一些无关紧不痛不痒的话鼓励你劝阻你，只为草一顿\n3不惜损害自己的身体健康，陪你一起嗑药自残，只为草一顿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2036321823072415905",
+        "created_at": "2026-03-24T05:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036321823072415905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036321823072415905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1009,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "男的听到你是个嗑药自残的阴暗女，一般有三种反应:\n1觉得此人好恐怖，怕沾染上晦气赶紧远离，不想草\n2待在你身边说一些无关紧不痛不痒的话鼓励你劝阻你，只为草一顿\n3不惜损害自己的身体健康，陪你一起嗑药自残，只为草一顿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 2028,
+          "like_count": 68005,
+          "listed_count": 8,
+          "media_count": 1609,
+          "tweet_count": 10870
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私｜推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4574,
+          "following_count": 109,
+          "like_count": 944,
+          "listed_count": 5,
+          "media_count": 337,
+          "tweet_count": 3054
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

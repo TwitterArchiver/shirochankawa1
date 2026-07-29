@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015802731769061376"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2015802740082184483",
+    "created_at": "2026-01-26T15:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T16:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015802740082184483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9gBmmVOfio",
+          "end": 28,
+          "expanded_url": "https://x.com/shirochankawa1/status/2015802740082184483/photo/1",
+          "media_key": "3_2015802731769061376",
+          "start": 5,
+          "url": "https://t.co/9gBmmVOfio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015802740082184483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对啊对啊 https://t.co/9gBmmVOfio"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2015802740082184483].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2015802740082184483",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2015802740082184483"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 291,
+        "media_key": "3_2015802731769061376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mR54RbYAAXALv.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 1955,
+          "like_count": 63294,
+          "listed_count": 8,
+          "media_count": 1416,
+          "tweet_count": 9671
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

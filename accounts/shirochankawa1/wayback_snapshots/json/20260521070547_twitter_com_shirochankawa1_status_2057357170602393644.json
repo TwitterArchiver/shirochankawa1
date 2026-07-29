@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2057357170602393644",
+    "created_at": "2026-05-21T07:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057357170602393644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kurokawaririka…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kurokawaririka/status/2057314346309685671",
+          "start": 2,
+          "url": "https://t.co/5BernVd89i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057357170602393644",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057314346309685671",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帅 https://t.co/5BernVd89i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057314338411810816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0MfZxakAAfPvE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2057357170602393644",
+        "created_at": "2026-05-21T07:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057357170602393644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurokawaririka…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kurokawaririka/status/2057314346309685671",
+              "start": 2,
+              "url": "https://t.co/5BernVd89i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057357170602393644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057314346309685671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帅 https://t.co/5BernVd89i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057314338411810816"
+          ]
+        },
+        "author_id": "1572217722876080129",
+        "conversation_id": "2057314346309685671",
+        "created_at": "2026-05-21T04:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057314346309685671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQrvmjviq6",
+              "end": 30,
+              "expanded_url": "https://x.com/KurokawaRirika/status/2057314346309685671/photo/1",
+              "media_key": "3_2057314338411810816",
+              "start": 7,
+              "url": "https://t.co/FQrvmjviq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057314346309685671",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bloody https://t.co/FQrvmjviq6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2532,
+          "following_count": 2097,
+          "like_count": 69922,
+          "listed_count": 8,
+          "media_count": 1707,
+          "tweet_count": 11537
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T13:37:37.000Z",
+        "description": "我是黒川りりか可以叫我莉莉\n🚪🍎门槛288-1314上不封顶👽🫶\n我是来自冥王星北部的神秘外星人，来到地球做卧底观察人类\n广州/165g54kg/血图/自拍/废话/餐券妹欢迎互转互fo！",
+        "id": "1572217722876080129",
+        "location": "天国",
+        "name": "Ririka💀暗渊真视教团教主",
+        "pinned_tweet_id": "2056786251441901621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057315255215345664/SZblubwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 127,
+          "like_count": 1492,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 340
+        },
+        "username": "KurokawaRirika",
+        "verified": false
+      }
+    ]
+  }
+}

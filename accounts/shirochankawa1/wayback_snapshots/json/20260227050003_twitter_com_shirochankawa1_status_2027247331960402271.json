@@ -1,0 +1,615 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027003234485956608"
+      ],
+      "media_source_tweet_id": [
+        "2027005773956661552"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Kizuna Ai (キズナアイ)",
+          "id": "1040257001886871552",
+          "name": "Kizuna Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "description": "Kizuna Ai (キズナアイ)",
+          "id": "1040257001886871552",
+          "name": "Kizuna Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Kizuna Ai (キズナアイ)",
+          "id": "1040257001886871552",
+          "name": "Kizuna Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2027247331960402271",
+    "created_at": "2026-02-27T05:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027247331960402271"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 72,
+          "tag": "KAMACHO"
+        },
+        {
+          "end": 91,
+          "start": 81,
+          "tag": "かまってアイちゃん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "803480007775383552",
+          "start": 3,
+          "username": "aichan_nel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aLkJ2y7AAD",
+          "end": 115,
+          "expanded_url": "https://x.com/aichan_nel/status/2027005773956661552/video/1",
+          "media_key": "13_2027003234485956608",
+          "start": 92,
+          "url": "https://t.co/aLkJ2y7AAD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027247331960402271",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1899
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027005773956661552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aichan_nel: 《 New Update その1 》\n\n🩷「KAMACHO」Official Music Video 公開🩷\n\n＃KAMACHO #かまってアイちゃん https://t.co/aLkJ2y7AAD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31250,
+        "height": 1080,
+        "media_key": "13_2027003234485956608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027003234485956608/img/LqA5aRplAs7O8hhE.jpg",
+        "public_metrics": {
+          "view_count": 95446
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027003234485956608/vid/avc1/1280x720/VHvK4B09VKXspGlD.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027003234485956608/vid/avc1/480x270/J7IhTJNBwdHh3v2B.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027003234485956608/vid/avc1/1920x1080/4Anib36bnaBH6c9O.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027003234485956608/vid/avc1/640x360/qzoIO2QLkRbxhBOt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027003234485956608/pl/KRzDcqSQQC0G_HUV.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027003234485956608"
+          ],
+          "media_source_tweet_id": [
+            "2027005773956661552"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kizuna Ai (キズナアイ)",
+              "id": "1040257001886871552",
+              "name": "Kizuna Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "Kizuna Ai (キズナアイ)",
+              "id": "1040257001886871552",
+              "name": "Kizuna Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kizuna Ai (キズナアイ)",
+              "id": "1040257001886871552",
+              "name": "Kizuna Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2027247331960402271",
+        "created_at": "2026-02-27T05:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027247331960402271"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 72,
+              "tag": "KAMACHO"
+            },
+            {
+              "end": 91,
+              "start": 81,
+              "tag": "かまってアイちゃん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "803480007775383552",
+              "start": 3,
+              "username": "aichan_nel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLkJ2y7AAD",
+              "end": 115,
+              "expanded_url": "https://x.com/aichan_nel/status/2027005773956661552/video/1",
+              "media_key": "13_2027003234485956608",
+              "start": 92,
+              "url": "https://t.co/aLkJ2y7AAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027247331960402271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1899
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027005773956661552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aichan_nel: 《 New Update その1 》\n\n🩷「KAMACHO」Official Music Video 公開🩷\n\n＃KAMACHO #かまってアイちゃん https://t.co/aLkJ2y7AAD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027003234485956608"
+          ]
+        },
+        "author_id": "803480007775383552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kizuna Ai (キズナアイ)",
+              "id": "1040257001886871552",
+              "name": "Kizuna Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "Kizuna Ai (キズナアイ)",
+              "id": "1040257001886871552",
+              "name": "Kizuna Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kizuna Ai (キズナアイ)",
+              "id": "1040257001886871552",
+              "name": "Kizuna Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2027005773956661552",
+        "created_at": "2026-02-26T13:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027005773956661552"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "KAMACHO",
+              "probability": 0.3949,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "KAMACHO"
+            },
+            {
+              "end": 75,
+              "start": 65,
+              "tag": "かまってアイちゃん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLkJ2y7AAD",
+              "end": 99,
+              "expanded_url": "https://x.com/aichan_nel/status/2027005773956661552/video/1",
+              "media_key": "13_2027003234485956608",
+              "start": 76,
+              "url": "https://t.co/aLkJ2y7AAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027005773956661552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 888,
+          "impression_count": 292361,
+          "like_count": 9526,
+          "quote_count": 139,
+          "reply_count": 61,
+          "retweet_count": 1899
+        },
+        "reply_settings": "everyone",
+        "text": "《 New Update その1 》\n\n🩷「KAMACHO」Official Music Video 公開🩷\n\n＃KAMACHO #かまってアイちゃん https://t.co/aLkJ2y7AAD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 2001,
+          "like_count": 65937,
+          "listed_count": 8,
+          "media_count": 1551,
+          "tweet_count": 10434
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-29T06:05:36.000Z",
+        "description": "Hello! I’m Kizuna AI (キズナアイ).\nArtist / Virtual Talent\n\n🤍 ⋆. ౨ৎ˚ ⟡˖ ࣪ ˖⟡ .⋆ ౨ৎ˚\n\nhttps://t.co/Ikhxv0s6wE\n\n@KizunaAIinc\n🎀#KizunaAI 🎨#KizunaPost",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 119,
+                "tag": "KizunaAI"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "tag": "KizunaPost"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "KizunaAIinc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@AIChannel",
+                "end": 103,
+                "expanded_url": "https://www.youtube.com/@AIChannel",
+                "start": 80,
+                "url": "https://t.co/Ikhxv0s6wE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lnk.to/kizunaai_top",
+                "end": 23,
+                "expanded_url": "https://lnk.to/kizunaai_top",
+                "start": 0,
+                "url": "https://t.co/BOM4mApwTa"
+              }
+            ]
+          }
+        },
+        "id": "803480007775383552",
+        "location": "Tokyo,Japan",
+        "name": "Kizuna AI / キズナアイ",
+        "pinned_tweet_id": "2027005773956661552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026978116057653250/dXNg3_2q_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733327,
+          "following_count": 13215,
+          "like_count": 33317,
+          "listed_count": 5415,
+          "media_count": 4218,
+          "tweet_count": 32245
+        },
+        "url": "https://t.co/BOM4mApwTa",
+        "username": "aichan_nel",
+        "verified": true
+      }
+    ]
+  }
+}

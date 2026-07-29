@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2033006232659964157",
+    "created_at": "2026-03-15T02:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T03:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033006232659964157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ll97515/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ll97515/status/2032764069216924014",
+          "start": 5,
+          "url": "https://t.co/dxAW9aZY3N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033006232659964157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032764069216924014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊 https://t.co/dxAW9aZY3N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_2032764064896790528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXUJaBaMAAtBVA.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2033006232659964157",
+        "created_at": "2026-03-15T02:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T03:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033006232659964157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ll97515/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ll97515/status/2032764069216924014",
+              "start": 5,
+              "url": "https://t.co/dxAW9aZY3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033006232659964157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032764069216924014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊 https://t.co/dxAW9aZY3N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032764064896790528"
+          ]
+        },
+        "author_id": "1931634000453345280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032764069216924014",
+        "created_at": "2026-03-14T10:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032764069216924014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/En0l8qkbnA",
+              "end": 34,
+              "expanded_url": "https://x.com/ll97515/status/2032764069216924014/photo/1",
+              "media_key": "3_2032764064896790528",
+              "start": 11,
+              "url": "https://t.co/En0l8qkbnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032764069216924014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 993,
+          "impression_count": 163870,
+          "like_count": 4036,
+          "quote_count": 98,
+          "reply_count": 20,
+          "retweet_count": 397
+        },
+        "reply_settings": "everyone",
+        "text": "空间刷到这个笑崩溃了 https://t.co/En0l8qkbnA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 2012,
+          "like_count": 67510,
+          "listed_count": 8,
+          "media_count": 1594,
+          "tweet_count": 10758
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:46:56.000Z",
+        "description": "404notfound",
+        "id": "1931634000453345280",
+        "name": "(●─●)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987318821154324480/qCEPNWhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 470,
+          "like_count": 4388,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 927
+        },
+        "username": "ll97515",
+        "verified": false
+      }
+    ]
+  }
+}

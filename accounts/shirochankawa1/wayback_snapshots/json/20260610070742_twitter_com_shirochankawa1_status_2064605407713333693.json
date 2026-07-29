@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2064365555877052564",
+    "created_at": "2026-06-10T07:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064605407713333693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762715917879021568",
+          "start": 0,
+          "username": "Achangnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064605407713333693",
+    "in_reply_to_user_id": "1762715917879021568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064600748479205553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Achangnya 本人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2064365555877052564",
+        "created_at": "2026-06-10T07:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064605407713333693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762715917879021568",
+              "start": 0,
+              "username": "Achangnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064605407713333693",
+        "in_reply_to_user_id": "1762715917879021568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064600748479205553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Achangnya 本人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762715917879021568",
+        "conversation_id": "2064365555877052564",
+        "created_at": "2026-06-10T06:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064600748479205553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064600748479205553",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064365555877052564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 本人么 挺好看的 我在抖上面点过推荐🥩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 2153,
+          "like_count": 70978,
+          "listed_count": 8,
+          "media_count": 1767,
+          "tweet_count": 11912
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T05:46:50.000Z",
+        "description": "学习，改变，实践\n仅反对军国主义\n提供网民素质检测服务",
+        "id": "1762715917879021568",
+        "location": "之江省 欲比西子市",
+        "name": "阿长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940098375640096768/-z0NqQiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 692,
+          "like_count": 2308,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1365
+        },
+        "username": "Achangnya",
+        "verified": false
+      }
+    ]
+  }
+}

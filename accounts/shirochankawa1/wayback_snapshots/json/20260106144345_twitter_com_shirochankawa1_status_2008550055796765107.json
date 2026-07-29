@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2008528258661527558",
+    "created_at": "2026-01-06T14:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T15:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008550055796765107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1456640419060944896",
+          "start": 0,
+          "username": "gulingf3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008550055796765107",
+    "in_reply_to_user_id": "1456640419060944896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 12,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008528258661527558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gulingf3 我要吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2008526205507825664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-38TlbcAATZWA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2008528258661527558",
+        "created_at": "2026-01-06T14:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008550055796765107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1456640419060944896",
+              "start": 0,
+              "username": "gulingf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008550055796765107",
+        "in_reply_to_user_id": "1456640419060944896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008528258661527558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gulingf3 我要吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008526205507825664"
+          ]
+        },
+        "author_id": "1456640419060944896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008528258661527558",
+        "created_at": "2026-01-06T13:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T14:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008528258661527558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aEltCjLRk3",
+              "end": 25,
+              "expanded_url": "https://x.com/gulingf3/status/2008528258661527558/photo/1",
+              "media_key": "3_2008526205507825664",
+              "start": 2,
+              "url": "https://t.co/aEltCjLRk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008528258661527558",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/aEltCjLRk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点/🚪100",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 1968,
+          "like_count": 62434,
+          "listed_count": 8,
+          "media_count": 1373,
+          "tweet_count": 9451
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-05T15:12:25.000Z",
+        "description": "002 ❤️ | INFP | 剛從2次元進入2.5次元 | 不善言辭 |",
+        "id": "1456640419060944896",
+        "location": "台灣，新北",
+        "name": "gulingf3",
+        "pinned_tweet_id": "1998038337685500195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985746620538109952/U2ZggV_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 224,
+          "like_count": 901,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1019
+        },
+        "username": "gulingf3",
+        "verified": false
+      }
+    ]
+  }
+}

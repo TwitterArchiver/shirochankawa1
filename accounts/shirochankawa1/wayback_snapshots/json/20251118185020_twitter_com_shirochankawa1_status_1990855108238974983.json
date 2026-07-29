@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990855099326083074",
+        "3_1990855099321888769"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990855108238974983",
+    "created_at": "2025-11-18T18:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T19:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990855108238974983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mdjOH3ut4S",
+          "end": 28,
+          "expanded_url": "https://x.com/shirochankawa1/status/1990855108238974983/photo/1",
+          "media_key": "3_1990855099326083074",
+          "start": 5,
+          "url": "https://t.co/mdjOH3ut4S"
+        },
+        {
+          "display_url": "pic.x.com/mdjOH3ut4S",
+          "end": 28,
+          "expanded_url": "https://x.com/shirochankawa1/status/1990855108238974983/photo/1",
+          "media_key": "3_1990855099321888769",
+          "start": 5,
+          "url": "https://t.co/mdjOH3ut4S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990855108238974983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太幽默了 https://t.co/mdjOH3ut4S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990855099326083074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6DwKjKbMAIrZfW.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990855099321888769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6DwKjJbMAEzHOd.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990855099326083074",
+            "3_1990855099321888769"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990855108238974983",
+        "created_at": "2025-11-18T18:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990855108238974983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdjOH3ut4S",
+              "end": 28,
+              "expanded_url": "https://x.com/shirochankawa1/status/1990855108238974983/photo/1",
+              "media_key": "3_1990855099326083074",
+              "start": 5,
+              "url": "https://t.co/mdjOH3ut4S"
+            },
+            {
+              "display_url": "pic.x.com/mdjOH3ut4S",
+              "end": 28,
+              "expanded_url": "https://x.com/shirochankawa1/status/1990855108238974983/photo/1",
+              "media_key": "3_1990855099321888769",
+              "start": 5,
+              "url": "https://t.co/mdjOH3ut4S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990855108238974983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太幽默了 https://t.co/mdjOH3ut4S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 1959,
+          "like_count": 60965,
+          "listed_count": 8,
+          "media_count": 1250,
+          "tweet_count": 8795
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

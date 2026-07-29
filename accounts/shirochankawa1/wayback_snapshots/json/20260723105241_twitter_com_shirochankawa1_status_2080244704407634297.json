@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2080244704407634297",
+    "created_at": "2026-07-23T10:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080244704407634297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "shennaichuan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080244704407634297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080241070341013834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shennaichuan_: 我没有钱吃饭了，找过很多工作都被拒绝了，不省着一点花我可能要死了，第一次向大家求助，原本还想着等5000百fo给大家抽奖，看来可以要等到我找到工作了……希望大家可以帮我一下，一分一块钱两块钱都没有关系的一分（实在困难的帮忙转发一下也可以），…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2030,
+        "media_key": "3_2080241061654626304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6AOVcbAAARacJ.jpg",
+        "width": 1490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2080244704407634297",
+        "created_at": "2026-07-23T10:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080244704407634297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080244704407634297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080241070341013834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shennaichuan_: 我没有钱吃饭了，找过很多工作都被拒绝了，不省着一点花我可能要死了，第一次向大家求助，原本还想着等5000百fo给大家抽奖，看来可以要等到我找到工作了……希望大家可以帮我一下，一分一块钱两块钱都没有关系的一分（实在困难的帮忙转发一下也可以），…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080241061654626304"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2080241070341013834",
+        "created_at": "2026-07-23T10:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080241070341013834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1IjTZWBVkM",
+              "end": 161,
+              "expanded_url": "https://x.com/shennaichuan_/status/2080241070341013834/photo/1",
+              "media_key": "3_2080241061654626304",
+              "start": 138,
+              "url": "https://t.co/1IjTZWBVkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080241070341013834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我没有钱吃饭了，找过很多工作都被拒绝了，不省着一点花我可能要死了，第一次向大家求助，原本还想着等5000百fo给大家抽奖，看来可以要等到我找到工作了……希望大家可以帮我一下，一分一块钱两块钱都没有关系的一分（实在困难的帮忙转发一下也可以），资助我的钱都是常生活吃饭和生活开销 https://t.co/1IjTZWBVkM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2932,
+          "following_count": 2195,
+          "like_count": 71883,
+          "listed_count": 8,
+          "media_count": 1819,
+          "tweet_count": 12269
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我真可能活不下去了",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4912,
+          "following_count": 626,
+          "like_count": 859,
+          "listed_count": 4,
+          "media_count": 435,
+          "tweet_count": 3409
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

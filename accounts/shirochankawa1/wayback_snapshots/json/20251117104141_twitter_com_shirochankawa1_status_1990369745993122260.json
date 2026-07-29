@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1990121391602147529",
+    "created_at": "2025-11-17T10:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T11:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990369745993122260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1584173045710741504",
+          "start": 0,
+          "username": "SakuraSakuraX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990369745993122260",
+    "in_reply_to_user_id": "1584173045710741504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990337005121843600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraSakuraX7 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1990121391602147529",
+        "created_at": "2025-11-17T10:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990369745993122260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584173045710741504",
+              "start": 0,
+              "username": "SakuraSakuraX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990369745993122260",
+        "in_reply_to_user_id": "1584173045710741504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990337005121843600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraSakuraX7 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584173045710741504",
+        "conversation_id": "1990121391602147529",
+        "created_at": "2025-11-17T08:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T09:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990337005121843600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990337005121843600",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990121391602147529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 那就好久都染不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 1960,
+          "like_count": 60816,
+          "listed_count": 8,
+          "media_count": 1246,
+          "tweet_count": 8755
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T13:21:16.000Z",
+        "description": "证明有可为我而死的爱，掐住自己的脖子吧。",
+        "id": "1584173045710741504",
+        "name": "九只只九就职制酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983643283143405568/fqyNfUE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 639,
+          "like_count": 13012,
+          "listed_count": 8,
+          "media_count": 140,
+          "tweet_count": 5616
+        },
+        "username": "SakuraSakuraX7",
+        "verified": false
+      }
+    ]
+  }
+}

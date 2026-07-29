@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2053761992025153661",
+    "created_at": "2026-05-11T08:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053761992025153661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053761992025153661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053656595356385672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: 妻子准则\n1.严禁对妻子大喊大叫\n2.严禁对妻子冷暴力\n3.严禁故意不理妻子\n4.严禁敷衍妻子，不回妻子消息\n5.严禁跟妻子顶嘴\n6.严禁无缘无故失联让妻子担心\n7.严禁和其他异性搞暧昧，不给妻子安全感的\n8.不可以做对不起妻子的事\n9.出门要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2053761992025153661",
+        "created_at": "2026-05-11T08:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053761992025153661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053761992025153661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053656595356385672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: 妻子准则\n1.严禁对妻子大喊大叫\n2.严禁对妻子冷暴力\n3.严禁故意不理妻子\n4.严禁敷衍妻子，不回妻子消息\n5.严禁跟妻子顶嘴\n6.严禁无缘无故失联让妻子担心\n7.严禁和其他异性搞暧昧，不给妻子安全感的\n8.不可以做对不起妻子的事\n9.出门要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2053656595356385672",
+        "created_at": "2026-05-11T02:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053656595356385672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053656595356385672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 10942,
+          "like_count": 242,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "妻子准则\n1.严禁对妻子大喊大叫\n2.严禁对妻子冷暴力\n3.严禁故意不理妻子\n4.严禁敷衍妻子，不回妻子消息\n5.严禁跟妻子顶嘴\n6.严禁无缘无故失联让妻子担心\n7.严禁和其他异性搞暧昧，不给妻子安全感的\n8.不可以做对不起妻子的事\n9.出门要和妻子报备\n10.妻子的话永远是对的\n11.妻子做错事了，请参考第10条"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 2070,
+          "like_count": 68900,
+          "listed_count": 8,
+          "media_count": 1678,
+          "tweet_count": 11321
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 215,
+          "like_count": 7161,
+          "listed_count": 4,
+          "media_count": 282,
+          "tweet_count": 2791
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

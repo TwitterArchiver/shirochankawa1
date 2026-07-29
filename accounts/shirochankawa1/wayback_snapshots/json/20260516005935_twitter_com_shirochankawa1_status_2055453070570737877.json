@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2055453070570737877",
+    "created_at": "2026-05-16T00:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T01:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055453070570737877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2043637612355940352",
+          "start": 3,
+          "username": "Kriside_a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055453070570737877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055143398924009917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kriside_a: 好喜欢和推上的女孩子们互动… 像是一起抛去现实生活的外衣 躲进被窝里互诉秘密 有一种真实袒露自己的真挚和轻松"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2055453070570737877",
+        "created_at": "2026-05-16T00:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055453070570737877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043637612355940352",
+              "start": 3,
+              "username": "Kriside_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055453070570737877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055143398924009917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kriside_a: 好喜欢和推上的女孩子们互动… 像是一起抛去现实生活的外衣 躲进被窝里互诉秘密 有一种真实袒露自己的真挚和轻松"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043637612355940352",
+        "conversation_id": "2055143398924009917",
+        "created_at": "2026-05-15T04:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055143398924009917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055143398924009917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 25673,
+          "like_count": 426,
+          "quote_count": 3,
+          "reply_count": 98,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢和推上的女孩子们互动… 像是一起抛去现实生活的外衣 躲进被窝里互诉秘密 有一种真实袒露自己的真挚和轻松"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 2078,
+          "like_count": 69167,
+          "listed_count": 9,
+          "media_count": 1687,
+          "tweet_count": 11389
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T10:29:53.000Z",
+        "description": "一只不太乖的小狗狗…",
+        "id": "2043637612355940352",
+        "name": "Limeflmint",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043685909162545152/AirZSfJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 65,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 111
+        },
+        "username": "Kriside_a",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2025380173869449324",
+    "created_at": "2026-02-22T01:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025380173869449324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2022438221590990848",
+          "start": 3,
+          "username": "Miharuka_96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025380173869449324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025168515364462662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miharuka_96: 我决定以后像galgame资深玩家一样生活，骂我的人是傲娇系，视奸我的人是病娇系，不理我的人是三无系，说话听不懂的人是电波系。别人把我删了我就长叹一声，哎这次打出bad ending了啊  地球online不愧是现实系大作。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2025380173869449324",
+        "created_at": "2026-02-22T01:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025380173869449324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2022438221590990848",
+              "start": 3,
+              "username": "Miharuka_96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025380173869449324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025168515364462662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miharuka_96: 我决定以后像galgame资深玩家一样生活，骂我的人是傲娇系，视奸我的人是病娇系，不理我的人是三无系，说话听不懂的人是电波系。别人把我删了我就长叹一声，哎这次打出bad ending了啊  地球online不愧是现实系大作。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022438221590990848",
+        "conversation_id": "2025168515364462662",
+        "created_at": "2026-02-21T11:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025168515364462662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025168515364462662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4217,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我决定以后像galgame资深玩家一样生活，骂我的人是傲娇系，视奸我的人是病娇系，不理我的人是三无系，说话听不懂的人是电波系。别人把我删了我就长叹一声，哎这次打出bad ending了啊  地球online不愧是现实系大作。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 1989,
+          "like_count": 65252,
+          "listed_count": 8,
+          "media_count": 1521,
+          "tweet_count": 10228
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T22:30:27.000Z",
+        "description": "心的距离是遥不可及 | 我是小遥 之前的账号都鼠了 都来和我玩好不好🥺💖💖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/0vZb5MBZ5e"
+              }
+            ]
+          }
+        },
+        "id": "2022438221590990848",
+        "location": "旁边的网址是留言板",
+        "name": "遥（刘海剪毁版",
+        "pinned_tweet_id": "2023783513414406367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024494731917758464/aqquvn8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 82,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/0vZb5MBZ5e",
+        "username": "Miharuka_96",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2074591457558896840",
+    "created_at": "2026-07-08T04:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074713840378605691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530699087133421568",
+          "start": 0,
+          "username": "SpicyspacEmk16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074713840378605691",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074591457558896840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpicyspacEmk16 好吓人啊！抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074591448985649152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpt7mLaQAAgoNN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074591448926973952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpt7l9a8AAqo4O.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074591448918589440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpt7l7bAAAzGeu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2074591448939540480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpt7mAasAAdSf7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2074591457558896840",
+        "created_at": "2026-07-08T04:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074713840378605691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074713840378605691",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074591457558896840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 好吓人啊！抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074591448985649152",
+            "3_2074591448926973952",
+            "3_2074591448918589440",
+            "3_2074591448939540480"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2074591457558896840",
+        "created_at": "2026-07-07T20:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T21:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074591457558896840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ydj4MhoUOf",
+              "end": 156,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2074591457558896840/photo/1",
+              "media_key": "3_2074591448985649152",
+              "start": 133,
+              "url": "https://t.co/Ydj4MhoUOf"
+            },
+            {
+              "display_url": "pic.x.com/Ydj4MhoUOf",
+              "end": 156,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2074591457558896840/photo/1",
+              "media_key": "3_2074591448926973952",
+              "start": 133,
+              "url": "https://t.co/Ydj4MhoUOf"
+            },
+            {
+              "display_url": "pic.x.com/Ydj4MhoUOf",
+              "end": 156,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2074591457558896840/photo/1",
+              "media_key": "3_2074591448918589440",
+              "start": 133,
+              "url": "https://t.co/Ydj4MhoUOf"
+            },
+            {
+              "display_url": "pic.x.com/Ydj4MhoUOf",
+              "end": 156,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2074591457558896840/photo/1",
+              "media_key": "3_2074591448939540480",
+              "start": 133,
+              "url": "https://t.co/Ydj4MhoUOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074591457558896840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 423,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日出街ootd～\n(从外面再回家再出门来来回回换了三个造型笑死)\n\n但是凌晨一个人出门遇到一个恶心死白皮🐷性骚扰猥亵我还被抢了钱…\n麻淡啊怎么这么倒霉…感觉金额不大日本警察又懒得管…而且他们的效率一直都很搞笑…甚至我根本就不信任这些人还对他们有阴影…自认倒霉了… https://t.co/Ydj4MhoUOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 2172,
+          "like_count": 71362,
+          "listed_count": 8,
+          "media_count": 1794,
+          "tweet_count": 12096
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 1572,
+          "like_count": 97778,
+          "listed_count": 6,
+          "media_count": 795,
+          "tweet_count": 10414
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

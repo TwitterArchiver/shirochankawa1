@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2032645460549316955",
+    "created_at": "2026-03-14T02:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T03:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032645460549316955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1533466729292173312",
+          "start": 3,
+          "username": "shewo0921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032645460549316955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032399639140520443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @shewo0921: 人在极端痛苦的时候会变成精神病 艺术家或者极端主义者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2032645460549316955",
+        "created_at": "2026-03-14T02:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032645460549316955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1533466729292173312",
+              "start": 3,
+              "username": "shewo0921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032645460549316955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032399639140520443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @shewo0921: 人在极端痛苦的时候会变成精神病 艺术家或者极端主义者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533466729292173312",
+        "conversation_id": "2032399639140520443",
+        "created_at": "2026-03-13T10:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032399639140520443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032399639140520443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1657,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "人在极端痛苦的时候会变成精神病 艺术家或者极端主义者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 2009,
+          "like_count": 67461,
+          "listed_count": 8,
+          "media_count": 1593,
+          "tweet_count": 10745
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T15:12:34.000Z",
+        "description": "",
+        "id": "1533466729292173312",
+        "name": "闹鬼",
+        "pinned_tweet_id": "1733915436897681577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899367170515103744/E5EUdf_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 9,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 116
+        },
+        "username": "shewo0921",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2027196171945709595",
+    "created_at": "2026-02-27T01:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T02:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027196171945709595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ggdxfulan/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ggdxfulan/status/2027036544205459817",
+          "start": 16,
+          "url": "https://t.co/IedHJ9MGJE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027196171945709595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027036544205459817",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這會是什麼餡的啊我好好奇啥味道 https://t.co/IedHJ9MGJE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2027036541454053376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCF6_qga8AAQR8o.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2027196171945709595",
+        "created_at": "2026-02-27T01:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027196171945709595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ggdxfulan/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ggdxfulan/status/2027036544205459817",
+              "start": 16,
+              "url": "https://t.co/IedHJ9MGJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027196171945709595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027036544205459817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這會是什麼餡的啊我好好奇啥味道 https://t.co/IedHJ9MGJE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027036541454053376"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027036544205459817",
+        "created_at": "2026-02-26T15:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027036544205459817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQH7P08GLr",
+              "end": 25,
+              "expanded_url": "https://x.com/ggdxfulan/status/2027036544205459817/photo/1",
+              "media_key": "3_2027036541454053376",
+              "start": 2,
+              "url": "https://t.co/vQH7P08GLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027036544205459817",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8457,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/vQH7P08GLr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 2002,
+          "like_count": 65919,
+          "listed_count": 8,
+          "media_count": 1550,
+          "tweet_count": 10426
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16748,
+          "following_count": 482,
+          "like_count": 33778,
+          "listed_count": 29,
+          "media_count": 3505,
+          "tweet_count": 11110
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

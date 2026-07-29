@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025035943821152256"
+      ],
+      "media_source_tweet_id": [
+        "2025035946211901651"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2025089692442742879",
+    "created_at": "2026-02-21T06:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T07:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025089692442742879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867432957113204736",
+          "start": 3,
+          "username": "owO123qwe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mtLSk4Ufpn",
+          "end": 96,
+          "expanded_url": "https://x.com/owO123qwe/status/2025035946211901651/photo/1",
+          "media_key": "3_2025035943821152256",
+          "start": 73,
+          "url": "https://t.co/mtLSk4Ufpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025089692442742879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025035946211901651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @owO123qwe: 为什么一到过年或者天冷的时候全都要自杀？o的o死喝药的喝死，是这几天的风水不好吗，这个世界是怎么了？太可悲了🥺🥺🥺 https://t.co/mtLSk4Ufpn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2025035943821152256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpfdjjbkAADa3m.jpg",
+        "width": 694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025035943821152256"
+          ],
+          "media_source_tweet_id": [
+            "2025035946211901651"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2025089692442742879",
+        "created_at": "2026-02-21T06:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025089692442742879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867432957113204736",
+              "start": 3,
+              "username": "owO123qwe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtLSk4Ufpn",
+              "end": 96,
+              "expanded_url": "https://x.com/owO123qwe/status/2025035946211901651/photo/1",
+              "media_key": "3_2025035943821152256",
+              "start": 73,
+              "url": "https://t.co/mtLSk4Ufpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025089692442742879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025035946211901651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @owO123qwe: 为什么一到过年或者天冷的时候全都要自杀？o的o死喝药的喝死，是这几天的风水不好吗，这个世界是怎么了？太可悲了🥺🥺🥺 https://t.co/mtLSk4Ufpn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025035943821152256"
+          ]
+        },
+        "author_id": "1867432957113204736",
+        "conversation_id": "2025035946211901651",
+        "created_at": "2026-02-21T02:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025035946211901651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtLSk4Ufpn",
+              "end": 81,
+              "expanded_url": "https://x.com/owO123qwe/status/2025035946211901651/photo/1",
+              "media_key": "3_2025035943821152256",
+              "start": 58,
+              "url": "https://t.co/mtLSk4Ufpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025035946211901651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 487,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么一到过年或者天冷的时候全都要自杀？o的o死喝药的喝死，是这几天的风水不好吗，这个世界是怎么了？太可悲了🥺🥺🥺 https://t.co/mtLSk4Ufpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 1988,
+          "like_count": 65164,
+          "listed_count": 8,
+          "media_count": 1517,
+          "tweet_count": 10192
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "一只会随机刷新的量子猫|会发日常和梗图|喜欢所有人|正在努力活着|希望世界毁灭|不见证|od抽烟喝酒自残|07|166|双相|HRT.24.10.3|MtF|无性别|双性恋|ODer|互fo.请私信|可爱的睦头: @AiYin16898  爱人:@banyaqwqa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 107,
+                "username": "AiYin16898"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "banyaqwqa"
+              }
+            ]
+          }
+        },
+        "id": "1867432957113204736",
+        "name": "小然🍥",
+        "pinned_tweet_id": "2014159501797318753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009579488129187840/g48sr7Cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 578,
+          "like_count": 5040,
+          "listed_count": 7,
+          "media_count": 316,
+          "tweet_count": 2106
+        },
+        "username": "owO123qwe",
+        "verified": false
+      }
+    ]
+  }
+}

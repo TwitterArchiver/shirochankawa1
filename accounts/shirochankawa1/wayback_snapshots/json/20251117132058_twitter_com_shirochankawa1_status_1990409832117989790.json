@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1990287747869978856",
+    "created_at": "2025-11-17T13:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T14:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990409832117989790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650682917964906496",
+          "start": 0,
+          "username": "QihuaiNya114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990409832117989790",
+    "in_reply_to_user_id": "1650682917964906496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990287747869978856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QihuaiNya114514 有的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_1990287744627871744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57sKKNbkAAAYhl.jpg",
+        "width": 466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1990287747869978856",
+        "created_at": "2025-11-17T13:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T14:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990409832117989790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650682917964906496",
+              "start": 0,
+              "username": "QihuaiNya114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990409832117989790",
+        "in_reply_to_user_id": "1650682917964906496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990287747869978856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QihuaiNya114514 有的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990287744627871744"
+          ]
+        },
+        "author_id": "1650682917964906496",
+        "conversation_id": "1990287747869978856",
+        "created_at": "2025-11-17T05:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T06:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990287747869978856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UpHwBqKqG",
+              "end": 123,
+              "expanded_url": "https://x.com/QihuaiNya114514/status/1990287747869978856/photo/1",
+              "media_key": "3_1990287744627871744",
+              "start": 100,
+              "url": "https://t.co/1UpHwBqKqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990287747869978856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 18102,
+          "like_count": 245,
+          "quote_count": 9,
+          "reply_count": 72,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "话说有没有ADHD或者ASD有这样的体验\n就是听力完全没问题，但是有时候听别人讲话会“听不清”，无法分辨说的是什么词汇，像是一团“乱码”\n而且反复多次确认还是可能听不清，非要对方打字发给自己才行🤔🤔 https://t.co/1UpHwBqKqG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 1960,
+          "like_count": 60844,
+          "listed_count": 8,
+          "media_count": 1247,
+          "tweet_count": 8761
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T02:07:41.000Z",
+        "description": "Hi there is NekoHuai/04/在深圳接受正规HRT治疗的持证长发男生/ISFJ/轻躁狂期性冷淡郁期超想要贴贴的一般路过无性恋/CPTSD/淡推了偶遇即是缘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/QihuaiStartIn2…",
+                "end": 23,
+                "expanded_url": "https://t.me/QihuaiStartIn2025",
+                "start": 0,
+                "url": "https://t.co/nhS32nNCnR"
+              }
+            ]
+          }
+        },
+        "id": "1650682917964906496",
+        "location": "学生",
+        "name": "这个人叫祁怀怀",
+        "pinned_tweet_id": "1962552783527460986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984882953361768464/1nbI14zT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 359,
+          "like_count": 2067,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/nhS32nNCnR",
+        "username": "QihuaiNya114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1990852553756881068",
+    "created_at": "2025-11-18T18:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T19:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990852553756881068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ixxa00/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ixxa00/status/1990253555916415138",
+          "start": 7,
+          "url": "https://t.co/tzIlxXUyHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990852553756881068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990253555916415138",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会吹单簧管 https://t.co/tzIlxXUyHR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1990852553756881068",
+        "created_at": "2025-11-18T18:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990852553756881068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ixxa00/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ixxa00/status/1990253555916415138",
+              "start": 7,
+              "url": "https://t.co/tzIlxXUyHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990852553756881068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990253555916415138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会吹单簧管 https://t.co/tzIlxXUyHR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1990253555916415138",
+        "created_at": "2025-11-17T02:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990253555916415138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990253555916415138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 142359,
+          "like_count": 955,
+          "quote_count": 15,
+          "reply_count": 213,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "人这一辈子一定要学会一种乐器，我学的是吹空调，你呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 1958,
+          "like_count": 60957,
+          "listed_count": 8,
+          "media_count": 1249,
+          "tweet_count": 8792
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我要穿鲨鱼裤，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "ISARA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5493,
+          "following_count": 4550,
+          "like_count": 33364,
+          "listed_count": 11,
+          "media_count": 2370,
+          "tweet_count": 32759
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2020859184766398713",
+    "created_at": "2026-02-09T14:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T15:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020872558137225403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2000477671193747456",
+          "start": 0,
+          "username": "XiaYu40748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020872558137225403",
+    "in_reply_to_user_id": "2000477671193747456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020859184766398713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaYu40748 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2020859184766398713",
+        "created_at": "2026-02-09T14:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020872558137225403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2000477671193747456",
+              "start": 0,
+              "username": "XiaYu40748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020872558137225403",
+        "in_reply_to_user_id": "2000477671193747456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020859184766398713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaYu40748 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000477671193747456",
+        "conversation_id": "2020859184766398713",
+        "created_at": "2026-02-09T13:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020859184766398713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shirochankawa1…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/shirochankawa1/status/2020723706419638314",
+              "start": 6,
+              "url": "https://t.co/tZfsRVdNiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020859184766398713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020723706419638314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好难受呀… https://t.co/tZfsRVdNiS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 1963,
+          "like_count": 63708,
+          "listed_count": 8,
+          "media_count": 1457,
+          "tweet_count": 9837
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T08:07:23.000Z",
+        "description": "主页高浓度奶逼屌屎尿屁死全家 欢迎您来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suhsjsk1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/suhsjsk1",
+                "start": 0,
+                "url": "https://t.co/XM9uVSriFX"
+              }
+            ]
+          }
+        },
+        "id": "2000477671193747456",
+        "name": "二氧化碳是你悲伤的浓度",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019343847281627136/rWGyLiN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 68,
+          "like_count": 592,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/XM9uVSriFX",
+        "username": "XiaYu40748",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2079789134626066577",
+    "created_at": "2026-07-22T04:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079789134626066577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/cyberkanjousen/status/2079398960381480971",
+          "start": 13,
+          "url": "https://t.co/DZnTap95Hw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079789134626066577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079398960381480971",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈什么时候逃离原生家庭 https://t.co/DZnTap95Hw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1753,
+        "media_key": "3_2079269324771217408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsMbzda0AAJNIw.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2079789134626066577",
+        "created_at": "2026-07-22T04:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079789134626066577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2079398960381480971",
+              "start": 13,
+              "url": "https://t.co/DZnTap95Hw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079789134626066577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079398960381480971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈什么时候逃离原生家庭 https://t.co/DZnTap95Hw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079269324771217408"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2079398960381480971",
+        "created_at": "2026-07-21T02:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079398960381480971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJKMun2qUu",
+              "end": 40,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2079398960381480971/photo/1",
+              "media_key": "3_2079269324771217408",
+              "start": 17,
+              "url": "https://t.co/kJKMun2qUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079398960381480971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 395586,
+          "like_count": 1795,
+          "quote_count": 6,
+          "reply_count": 366,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "母亲什么时候才能逃离原生家庭啊😭 https://t.co/kJKMun2qUu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2927,
+          "following_count": 2195,
+          "like_count": 71841,
+          "listed_count": 8,
+          "media_count": 1818,
+          "tweet_count": 12263
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11495,
+          "following_count": 882,
+          "like_count": 31334,
+          "listed_count": 19,
+          "media_count": 2190,
+          "tweet_count": 10831
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

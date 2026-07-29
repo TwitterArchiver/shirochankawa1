@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994034425483689984"
+      ],
+      "media_source_tweet_id": [
+        "1994034429346631862"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1994355221460586562",
+    "created_at": "2025-11-28T10:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994355221460586562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1847655716011835392",
+          "start": 3,
+          "username": "kid25valzrfmo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XZPtl95bpE",
+          "end": 53,
+          "expanded_url": "https://x.com/kid25valzrfmo/status/1994034429346631862/photo/1",
+          "media_key": "3_1994034425483689984",
+          "start": 30,
+          "url": "https://t.co/XZPtl95bpE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994355221460586562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 326
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994034429346631862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kid25valzrfmo: ドヤ顔アニコブ可愛い https://t.co/XZPtl95bpE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_1994034425483689984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6w7vsDbAAAO4st.jpg",
+        "width": 817
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994034425483689984"
+          ],
+          "media_source_tweet_id": [
+            "1994034429346631862"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "1994355221460586562",
+        "created_at": "2025-11-28T10:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994355221460586562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1847655716011835392",
+              "start": 3,
+              "username": "kid25valzrfmo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZPtl95bpE",
+              "end": 53,
+              "expanded_url": "https://x.com/kid25valzrfmo/status/1994034429346631862/photo/1",
+              "media_key": "3_1994034425483689984",
+              "start": 30,
+              "url": "https://t.co/XZPtl95bpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994355221460586562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 326
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994034429346631862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kid25valzrfmo: ドヤ顔アニコブ可愛い https://t.co/XZPtl95bpE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994034425483689984"
+          ]
+        },
+        "author_id": "1847655716011835392",
+        "conversation_id": "1994034429346631862",
+        "created_at": "2025-11-27T13:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994034429346631862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZPtl95bpE",
+              "end": 34,
+              "expanded_url": "https://x.com/kid25valzrfmo/status/1994034429346631862/photo/1",
+              "media_key": "3_1994034425483689984",
+              "start": 11,
+              "url": "https://t.co/XZPtl95bpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994034429346631862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 43227,
+          "like_count": 6387,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 326
+        },
+        "reply_settings": "everyone",
+        "text": "ドヤ顔アニコブ可愛い https://t.co/XZPtl95bpE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 1966,
+          "like_count": 61720,
+          "listed_count": 8,
+          "media_count": 1298,
+          "tweet_count": 9043
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T15:07:31.000Z",
+        "description": "@Kaida_Haru ⌇ @ROF_MAO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Kaida_Haru"
+              },
+              {
+                "end": 22,
+                "start": 14,
+                "username": "ROF_MAO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kid25",
+                "end": 23,
+                "expanded_url": "http://lit.link/kid25",
+                "start": 0,
+                "url": "https://t.co/xaSSyVhix8"
+              }
+            ]
+          }
+        },
+        "id": "1847655716011835392",
+        "location": "共通衣装で並ぶろふまお",
+        "name": "めう🌞",
+        "pinned_tweet_id": "1981737455737848306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847656113514463233/-wu6gUkA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 244,
+          "like_count": 61301,
+          "listed_count": 11,
+          "media_count": 1024,
+          "tweet_count": 5704
+        },
+        "url": "https://t.co/xaSSyVhix8",
+        "username": "kid25valzrfmo",
+        "verified": false
+      }
+    ]
+  }
+}

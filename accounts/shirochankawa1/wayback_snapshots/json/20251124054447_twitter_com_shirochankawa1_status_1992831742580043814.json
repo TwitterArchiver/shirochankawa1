@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1992831742580043814",
+    "created_at": "2025-11-24T05:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992831742580043814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1599125227786608655",
+          "start": 3,
+          "username": "momoko8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992831742580043814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992651058456481872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momoko8964: 人类为什么要互吃生殖器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1992831742580043814",
+        "created_at": "2025-11-24T05:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992831742580043814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1599125227786608655",
+              "start": 3,
+              "username": "momoko8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992831742580043814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992651058456481872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momoko8964: 人类为什么要互吃生殖器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599125227786608655",
+        "conversation_id": "1992651058456481872",
+        "created_at": "2025-11-23T17:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992651058456481872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992651058456481872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 81024,
+          "like_count": 375,
+          "quote_count": 8,
+          "reply_count": 56,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "人类为什么要互吃生殖器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 ，亲友投喂100解锁心理委员",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 1959,
+          "like_count": 61337,
+          "listed_count": 8,
+          "media_count": 1267,
+          "tweet_count": 8917
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去 喜欢我就请给我点钱让我生活得更好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/realeco_771",
+                "end": 23,
+                "expanded_url": "https://ngl.link/realeco_771",
+                "start": 0,
+                "url": "https://t.co/goQGuK3lL5"
+              }
+            ]
+          }
+        },
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1992505717358768130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992619336343711744/i1Np87p3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8586,
+          "following_count": 297,
+          "like_count": 26454,
+          "listed_count": 10,
+          "media_count": 1539,
+          "tweet_count": 17024
+        },
+        "url": "https://t.co/goQGuK3lL5",
+        "username": "momoko8964",
+        "verified": false
+      }
+    ]
+  }
+}

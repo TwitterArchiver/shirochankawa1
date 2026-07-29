@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2031587622561394864",
+    "created_at": "2026-03-12T17:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032146500172857800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1724382058921807872",
+          "start": 0,
+          "username": "firework1209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032146500172857800",
+    "in_reply_to_user_id": "1724382058921807872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031587622561394864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@firework1209 初高中很多男的都没开智啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2031587622561394864",
+        "created_at": "2026-03-12T17:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032146500172857800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1724382058921807872",
+              "start": 0,
+              "username": "firework1209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032146500172857800",
+        "in_reply_to_user_id": "1724382058921807872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031587622561394864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@firework1209 初高中很多男的都没开智啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724382058921807872",
+        "conversation_id": "2031587622561394864",
+        "created_at": "2026-03-11T04:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T05:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031587622561394864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964rinrina896…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/8964rinrina8964/status/2031219399458431120",
+              "start": 8,
+              "url": "https://t.co/tpzp7uzqKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031587622561394864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 148245,
+          "like_count": 4757,
+          "quote_count": 10,
+          "reply_count": 54,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031219399458431120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别哄抬猪价了。 https://t.co/tpzp7uzqKl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 2007,
+          "like_count": 67329,
+          "listed_count": 8,
+          "media_count": 1589,
+          "tweet_count": 10709
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T11:01:47.000Z",
+        "description": "银鞍白马度春风｜https://t.co/EiUThAw6f1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ttoast",
+                "end": 31,
+                "expanded_url": "https://ngl.link/ttoast",
+                "start": 8,
+                "url": "https://t.co/EiUThAw6f1"
+              }
+            ]
+          }
+        },
+        "id": "1724382058921807872",
+        "location": "撒辣子 谢谢",
+        "name": "洋芋蛋",
+        "pinned_tweet_id": "2023807263056818522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012073127979991046/XBT6fTnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 134,
+          "like_count": 4969,
+          "listed_count": 4,
+          "media_count": 97,
+          "tweet_count": 1966
+        },
+        "username": "firework1209",
+        "verified": false
+      }
+    ]
+  }
+}

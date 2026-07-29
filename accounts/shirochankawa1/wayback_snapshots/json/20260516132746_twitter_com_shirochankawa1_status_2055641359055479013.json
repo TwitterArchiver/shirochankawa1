@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2055641359055479013",
+    "created_at": "2026-05-16T13:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055641359055479013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1461268790922989572",
+          "start": 3,
+          "username": "Yoyoyiyi1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055641359055479013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055632715161214995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yoyoyiyi1234: 女人总在追寻着灵魂的共鸣，渴求着有人不是因为外表，家世，利益而爱着，希望有人能看懂她的隐喻，能欣赏她的才华，贪恋她的温柔。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2055641359055479013",
+        "created_at": "2026-05-16T13:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055641359055479013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1461268790922989572",
+              "start": 3,
+              "username": "Yoyoyiyi1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055641359055479013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055632715161214995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yoyoyiyi1234: 女人总在追寻着灵魂的共鸣，渴求着有人不是因为外表，家世，利益而爱着，希望有人能看懂她的隐喻，能欣赏她的才华，贪恋她的温柔。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461268790922989572",
+        "conversation_id": "2055632715161214995",
+        "created_at": "2026-05-16T12:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055632715161214995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055632715161214995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 241,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "女人总在追寻着灵魂的共鸣，渴求着有人不是因为外表，家世，利益而爱着，希望有人能看懂她的隐喻，能欣赏她的才华，贪恋她的温柔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2502,
+          "following_count": 2079,
+          "like_count": 69392,
+          "listed_count": 9,
+          "media_count": 1693,
+          "tweet_count": 11409
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-18T09:43:42.000Z",
+        "description": "忧郁  调皮 美丽",
+        "id": "1461268790922989572",
+        "name": "Yoyo",
+        "pinned_tweet_id": "1972386381923266960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051645288444829696/cMCTyZPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79027,
+          "following_count": 888,
+          "like_count": 7290,
+          "listed_count": 171,
+          "media_count": 193,
+          "tweet_count": 7460
+        },
+        "username": "Yoyoyiyi1234",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024040159449092357",
+    "created_at": "2026-02-19T08:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T09:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024400166837768449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817513346645827584",
+          "start": 0,
+          "username": "linny83215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024400166837768449",
+    "in_reply_to_user_id": "1817513346645827584",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024397423221862732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linny83215 🥰🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024040159449092357",
+        "created_at": "2026-02-19T08:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024400166837768449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817513346645827584",
+              "start": 0,
+              "username": "linny83215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024400166837768449",
+        "in_reply_to_user_id": "1817513346645827584",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024397423221862732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linny83215 🥰🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817513346645827584",
+        "conversation_id": "2024040159449092357",
+        "created_at": "2026-02-19T08:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024397423221862732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024397423221862732",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024040159449092357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 可以哦宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 1982,
+          "like_count": 64688,
+          "listed_count": 8,
+          "media_count": 1507,
+          "tweet_count": 10101
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T10:52:20.000Z",
+        "description": "ugw:120lbs 未受洗新教徒/首席teenager/精神美国人/贪食症转限制/adhd/玉玉/唯一尝过的acid是胃酸/最喜欢蓝色/崇拜艺术/痛苦挂壁者/midwestemo/骂我的人你们忍心吗/沉迷ikea/乳糖不耐/我想学电影编剧/保持一颗银子般的心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyu77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyu77",
+                "start": 0,
+                "url": "https://t.co/7JxVPIXEer"
+              }
+            ]
+          }
+        },
+        "id": "1817513346645827584",
+        "location": "peekaboo",
+        "name": "˚₊‧꒰ა✞uuuUu7✞໒꒱ ‧₊˚",
+        "pinned_tweet_id": "2022526683350471061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012243032624766976/Ri2TQ8on_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 111,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2230
+        },
+        "url": "https://t.co/7JxVPIXEer",
+        "username": "linny83215",
+        "verified": false
+      }
+    ]
+  }
+}

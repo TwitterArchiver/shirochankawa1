@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2059635209159803301",
+    "created_at": "2026-05-27T13:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059635209159803301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1530699087133421568",
+          "start": 3,
+          "username": "SpicyspacEmk16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059635209159803301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059592833624072261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SpicyspacEmk16: 置顶4.44～\n\n欢迎！我是思！\n图上是我和我的oc角～\n梦想是大家都可以幸福！\n精神状态抽象又复杂 不太安定但是有努力治疗❤️‍🩹\n⚠️阅览注意\n我有一些不太好的问题习惯🩸💊嘛…看见背景图大概就能猜到呢(笑）\n爱甜食🍦和你们💙～\n如果愿…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2059635209159803301",
+        "created_at": "2026-05-27T13:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059635209159803301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1530699087133421568",
+              "start": 3,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059635209159803301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059592833624072261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SpicyspacEmk16: 置顶4.44～\n\n欢迎！我是思！\n图上是我和我的oc角～\n梦想是大家都可以幸福！\n精神状态抽象又复杂 不太安定但是有努力治疗❤️‍🩹\n⚠️阅览注意\n我有一些不太好的问题习惯🩸💊嘛…看见背景图大概就能猜到呢(笑）\n爱甜食🍦和你们💙～\n如果愿…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2059592833624072261",
+        "created_at": "2026-05-27T11:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059592833624072261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spicyspacemk16…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/spicyspacemk16/status/2059591440595095951",
+              "start": 155,
+              "url": "https://t.co/hjJamzFilM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059592833624072261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059591440595095951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "置顶4.44～\n\n欢迎！我是思！\n图上是我和我的oc角～\n梦想是大家都可以幸福！\n精神状态抽象又复杂 不太安定但是有努力治疗❤️‍🩹\n⚠️阅览注意\n我有一些不太好的问题习惯🩸💊嘛…看见背景图大概就能猜到呢(笑）\n爱甜食🍦和你们💙～\n如果愿意找我玩我会很开心！\n\n最后 我有接免费树洞之类的服务 希望能帮到各位 https://t.co/hjJamzFilM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2555,
+          "following_count": 2098,
+          "like_count": 70250,
+          "listed_count": 8,
+          "media_count": 1730,
+          "tweet_count": 11659
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2059592833624072261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3183,
+          "following_count": 1523,
+          "like_count": 97119,
+          "listed_count": 6,
+          "media_count": 759,
+          "tweet_count": 10118
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

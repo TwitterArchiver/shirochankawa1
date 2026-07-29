@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040628976302080000"
+      ],
+      "media_source_tweet_id": [
+        "2040631952206942700"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040651220650697167",
+    "created_at": "2026-04-05T04:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T05:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040651220650697167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1781308864438345728",
+          "start": 3,
+          "username": "FoxRed695449"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4yXBdnGeKn",
+          "end": 61,
+          "expanded_url": "https://x.com/FoxRed695449/status/2040631952206942700/photo/1",
+          "media_key": "3_2040628976302080000",
+          "start": 38,
+          "url": "https://t.co/4yXBdnGeKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040651220650697167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040631952206942700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxRed695449: 主播女孩重度依赖第一集\n不只适用于日本 https://t.co/4yXBdnGeKn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2189,
+        "media_key": "3_2040628976302080000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFHFPgLawAAhxwI.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040628976302080000"
+          ],
+          "media_source_tweet_id": [
+            "2040631952206942700"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040651220650697167",
+        "created_at": "2026-04-05T04:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T05:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040651220650697167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1781308864438345728",
+              "start": 3,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yXBdnGeKn",
+              "end": 61,
+              "expanded_url": "https://x.com/FoxRed695449/status/2040631952206942700/photo/1",
+              "media_key": "3_2040628976302080000",
+              "start": 38,
+              "url": "https://t.co/4yXBdnGeKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040651220650697167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040631952206942700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoxRed695449: 主播女孩重度依赖第一集\n不只适用于日本 https://t.co/4yXBdnGeKn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040628976302080000"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040631952206942700",
+        "created_at": "2026-04-05T03:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T04:13:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040628979410010256",
+          "2040631952206942700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yXBdnGeKn",
+              "end": 43,
+              "expanded_url": "https://x.com/FoxRed695449/status/2040631952206942700/photo/1",
+              "media_key": "3_2040628976302080000",
+              "start": 20,
+              "url": "https://t.co/4yXBdnGeKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040631952206942700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "主播女孩重度依赖第一集\n不只适用于日本 https://t.co/4yXBdnGeKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2371,
+          "following_count": 2034,
+          "like_count": 67898,
+          "listed_count": 8,
+          "media_count": 1624,
+          "tweet_count": 10957
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2336,
+          "following_count": 817,
+          "like_count": 7343,
+          "listed_count": 7,
+          "media_count": 969,
+          "tweet_count": 3082
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

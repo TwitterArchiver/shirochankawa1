@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1990790473506828544",
+    "created_at": "2025-11-18T14:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T15:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990790473506828544"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990790473506828544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类注定与痛苦相伴 我们的出生无意纯粹 降临于世的首要的唯一的缘由 不过是压抑的性 我是污浊的 背负原罪 因而选择以善良面对所有人 不断编织善意的谎言 可这份善良 却渐渐化作无形的刀刃 在不知不觉中割伤了靠近我的人 我变得麻木 沉溺于痛苦与赎罪的循环 不停逃避现实 人们总不愿直面自己的过错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1990790473506828544",
+        "created_at": "2025-11-18T14:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990790473506828544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990790473506828544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类注定与痛苦相伴 我们的出生无意纯粹 降临于世的首要的唯一的缘由 不过是压抑的性 我是污浊的 背负原罪 因而选择以善良面对所有人 不断编织善意的谎言 可这份善良 却渐渐化作无形的刀刃 在不知不觉中割伤了靠近我的人 我变得麻木 沉溺于痛苦与赎罪的循环 不停逃避现实 人们总不愿直面自己的过错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 1958,
+          "like_count": 60858,
+          "listed_count": 8,
+          "media_count": 1248,
+          "tweet_count": 8775
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2034870633516167461",
+    "created_at": "2026-03-20T05:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T06:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034870633516167461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1671821091738886144",
+          "start": 3,
+          "username": "_04x_d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034870633516167461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034306366647742539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_04x_d: 真的会有人喜欢一个抽烟喝酒割手嗑药骂天骂地骂原生家庭的小女孩吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2034870633516167461",
+        "created_at": "2026-03-20T05:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034870633516167461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1671821091738886144",
+              "start": 3,
+              "username": "_04x_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034870633516167461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034306366647742539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_04x_d: 真的会有人喜欢一个抽烟喝酒割手嗑药骂天骂地骂原生家庭的小女孩吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671821091738886144",
+        "conversation_id": "2034306366647742539",
+        "created_at": "2026-03-18T16:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034306366647742539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034306366647742539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13862,
+          "like_count": 213,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "真的会有人喜欢一个抽烟喝酒割手嗑药骂天骂地骂原生家庭的小女孩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 2025,
+          "like_count": 67844,
+          "listed_count": 8,
+          "media_count": 1601,
+          "tweet_count": 10821
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T10:04:27.000Z",
+        "description": "251 @_j14q1\n                                                                                         shtwt 只fo同类",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "_j14q1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki71720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki71720",
+                "start": 0,
+                "url": "https://t.co/Ex198DVgSE"
+              }
+            ]
+          }
+        },
+        "id": "1671821091738886144",
+        "name": "死体",
+        "pinned_tweet_id": "2029973835861377248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013525475642019840/pScrwFXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 441,
+          "like_count": 10798,
+          "listed_count": 1,
+          "media_count": 453,
+          "tweet_count": 2727
+        },
+        "url": "https://t.co/Ex198DVgSE",
+        "username": "_04x_d",
+        "verified": false
+      }
+    ]
+  }
+}

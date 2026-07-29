@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2012427070442438923",
+    "created_at": "2026-01-17T07:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T08:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012427070442438923"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012427070442438923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我可以一直吃同样的饭 反复听同样的歌 我不喜欢新鲜感 因为我太喜欢念旧了 所以我很小心翼翼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2012427070442438923",
+        "created_at": "2026-01-17T07:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012427070442438923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012427070442438923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可以一直吃同样的饭 反复听同样的歌 我不喜欢新鲜感 因为我太喜欢念旧了 所以我很小心翼翼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点/🚪100",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2056,
+          "following_count": 1963,
+          "like_count": 62555,
+          "listed_count": 8,
+          "media_count": 1397,
+          "tweet_count": 9531
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

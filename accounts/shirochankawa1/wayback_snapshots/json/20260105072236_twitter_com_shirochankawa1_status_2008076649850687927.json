@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2008076649850687927",
+    "created_at": "2026-01-05T07:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T08:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008076649850687927"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008076649850687927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在变温良的一大部分原因就是不想和任何人吵架。你知道不两个人互相想要说服对方给对方讲道理真的很诡异。有的时候一张口我就知道完了我们合不来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2008076649850687927",
+        "created_at": "2026-01-05T07:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T08:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008076649850687927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008076649850687927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在变温良的一大部分原因就是不想和任何人吵架。你知道不两个人互相想要说服对方给对方讲道理真的很诡异。有的时候一张口我就知道完了我们合不来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化/高纬度生命",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 1969,
+          "like_count": 62426,
+          "listed_count": 8,
+          "media_count": 1371,
+          "tweet_count": 9429
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2057863969508044981",
+    "created_at": "2026-05-22T19:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T20:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057907566148292791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "848304331191336960",
+          "start": 0,
+          "username": "_______https"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057907566148292791",
+    "in_reply_to_user_id": "848304331191336960",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057874767550828964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_______https Thanks for liking my paintings (*≧▽≦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2057863969508044981",
+        "created_at": "2026-05-22T19:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057907566148292791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "848304331191336960",
+              "start": 0,
+              "username": "_______https"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057907566148292791",
+        "in_reply_to_user_id": "848304331191336960",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057874767550828964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_______https Thanks for liking my paintings (*≧▽≦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "848304331191336960",
+        "conversation_id": "2057863969508044981",
+        "created_at": "2026-05-22T17:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057874767550828964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057874767550828964",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057863969508044981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 ⸜(ᐡ⸝ɞ̴̶̷ ·̮ ɞ̴̶̷⸝ᐡ)⸝kawaii†\nI always enjoy seeing your drawings!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 2097,
+          "like_count": 69918,
+          "listed_count": 8,
+          "media_count": 1712,
+          "tweet_count": 11569
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-01T22:41:28.000Z",
+        "description": "illust: @4rror404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "4rror404"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/________._com",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/________._com",
+                "start": 0,
+                "url": "https://t.co/8S0JvFLqhW"
+              }
+            ]
+          }
+        },
+        "id": "848304331191336960",
+        "name": "ْ",
+        "pinned_tweet_id": "2057370823632224596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053700254248398848/Jyr7TP7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 60,
+          "like_count": 32528,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/8S0JvFLqhW",
+        "username": "_______https",
+        "verified": false
+      }
+    ]
+  }
+}

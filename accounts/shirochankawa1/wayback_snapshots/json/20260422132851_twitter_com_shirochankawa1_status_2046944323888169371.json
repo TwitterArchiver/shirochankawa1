@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2046944323888169371",
+    "created_at": "2026-04-22T13:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046944323888169371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cldeop/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/cldeop/status/2046870400823665085",
+          "start": 5,
+          "url": "https://t.co/FjDhb5aoSW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046944323888169371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046870400823665085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的妈呀 https://t.co/FjDhb5aoSW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 662,
+        "media_key": "3_2046870394167275520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfxx1masAAeVhL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2046944323888169371",
+        "created_at": "2026-04-22T13:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046944323888169371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cldeop/status/2046870400823665085",
+              "start": 5,
+              "url": "https://t.co/FjDhb5aoSW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046944323888169371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046870400823665085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的妈呀 https://t.co/FjDhb5aoSW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046870394167275520"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2046870400823665085",
+        "created_at": "2026-04-22T08:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046870400823665085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6IcC1nSWKb",
+              "end": 36,
+              "expanded_url": "https://x.com/Cldeop/status/2046870400823665085/photo/1",
+              "media_key": "3_2046870394167275520",
+              "start": 13,
+              "url": "https://t.co/6IcC1nSWKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046870400823665085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 224232,
+          "like_count": 1340,
+          "quote_count": 2,
+          "reply_count": 221,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "这种截图截一半的最搞笑了 https://t.co/6IcC1nSWKb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 2046,
+          "like_count": 68573,
+          "listed_count": 8,
+          "media_count": 1657,
+          "tweet_count": 11131
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2044637893025787952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101797,
+          "following_count": 763,
+          "like_count": 36334,
+          "listed_count": 284,
+          "media_count": 17851,
+          "tweet_count": 25661
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

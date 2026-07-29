@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2032454497952509959",
+    "created_at": "2026-03-13T16:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T17:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032487157433336097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1950521580288884736",
+          "start": 0,
+          "username": "AmeKam10623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032487157433336097",
+    "in_reply_to_user_id": "1950521580288884736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032454497952509959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeKam10623 最可爱的小女孩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2032454491463880704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDS6l3HaEAAuQde.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2032454497952509959",
+        "created_at": "2026-03-13T16:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032487157433336097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1950521580288884736",
+              "start": 0,
+              "username": "AmeKam10623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032487157433336097",
+        "in_reply_to_user_id": "1950521580288884736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032454497952509959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeKam10623 最可爱的小女孩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032454491463880704"
+          ]
+        },
+        "author_id": "1950521580288884736",
+        "conversation_id": "2032454497952509959",
+        "created_at": "2026-03-13T13:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032454497952509959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lq9eZ2NhdP",
+              "end": 64,
+              "expanded_url": "https://x.com/AmeKam10623/status/2032454497952509959/photo/1",
+              "media_key": "3_2032454491463880704",
+              "start": 41,
+              "url": "https://t.co/Lq9eZ2NhdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032454497952509959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 197,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可能是个攻吧，因为我真的受不了了。我也可能是个受吧，因为我受不了了还一直在受。 https://t.co/Lq9eZ2NhdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 2008,
+          "like_count": 67406,
+          "listed_count": 8,
+          "media_count": 1592,
+          "tweet_count": 10731
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T11:39:27.000Z",
+        "description": "清水推 坐标云南/重庆",
+        "id": "1950521580288884736",
+        "location": "🚪199/288/388",
+        "name": "残次品",
+        "pinned_tweet_id": "1985976851093995534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032470316669337600/QDAJZYSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6891,
+          "following_count": 132,
+          "like_count": 414,
+          "listed_count": 13,
+          "media_count": 52,
+          "tweet_count": 414
+        },
+        "username": "AmeKam10623",
+        "verified": false
+      }
+    ]
+  }
+}

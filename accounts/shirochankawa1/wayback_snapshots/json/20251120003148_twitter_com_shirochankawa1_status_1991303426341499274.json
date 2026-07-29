@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1991058783595082025",
+    "created_at": "2025-11-20T00:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T01:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991303426341499274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566621941359951872",
+          "start": 0,
+          "username": "DearHermit4Nina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991303426341499274",
+    "in_reply_to_user_id": "1566621941359951872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991251256505979135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DearHermit4Nina 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1991058783595082025",
+        "created_at": "2025-11-20T00:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T01:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991303426341499274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566621941359951872",
+              "start": 0,
+              "username": "DearHermit4Nina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991303426341499274",
+        "in_reply_to_user_id": "1566621941359951872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991251256505979135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DearHermit4Nina 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566621941359951872",
+        "conversation_id": "1991058783595082025",
+        "created_at": "2025-11-19T21:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T22:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991251256505979135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991251256505979135",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991058783595082025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 宝宝手术刀割起来顺滑吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 ，亲友投喂100解锁心理委员",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 1960,
+          "like_count": 61120,
+          "listed_count": 8,
+          "media_count": 1256,
+          "tweet_count": 8858
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T02:59:42.000Z",
+        "description": "-Nina， 泛 FTX Sub HSP，BD/ED cptsd社交障碍/Oder，欢迎互fo，语言组织困难",
+        "id": "1566621941359951872",
+        "name": "Hermit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954335070074056704/sJ0h2_oe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 303,
+          "like_count": 3487,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 391
+        },
+        "username": "DearHermit4Nina",
+        "verified": false
+      }
+    ]
+  }
+}

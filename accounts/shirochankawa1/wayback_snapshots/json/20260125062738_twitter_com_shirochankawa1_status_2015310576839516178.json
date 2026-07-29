@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015100848305848320"
+      ],
+      "media_source_tweet_id": [
+        "2015100853972328644"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2015310576839516178",
+    "created_at": "2026-01-25T06:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T07:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015310576839516178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1879647482",
+          "start": 3,
+          "username": "ksb_x4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QuezNmGYHL",
+          "end": 41,
+          "expanded_url": "https://x.com/ksb_x4/status/2015100853972328644/photo/1",
+          "media_key": "3_2015100848305848320",
+          "start": 18,
+          "url": "https://t.co/QuezNmGYHL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015310576839516178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015100853972328644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ksb_x4: かわうぃ🌸 https://t.co/QuezNmGYHL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_2015100848305848320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_cTi4nbwAAChyh.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015100848305848320"
+          ],
+          "media_source_tweet_id": [
+            "2015100853972328644"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2015310576839516178",
+        "created_at": "2026-01-25T06:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015310576839516178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1879647482",
+              "start": 3,
+              "username": "ksb_x4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QuezNmGYHL",
+              "end": 41,
+              "expanded_url": "https://x.com/ksb_x4/status/2015100853972328644/photo/1",
+              "media_key": "3_2015100848305848320",
+              "start": 18,
+              "url": "https://t.co/QuezNmGYHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015310576839516178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015100853972328644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ksb_x4: かわうぃ🌸 https://t.co/QuezNmGYHL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015100848305848320"
+          ]
+        },
+        "author_id": "1879647482",
+        "conversation_id": "2015100853972328644",
+        "created_at": "2026-01-24T16:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015100853972328644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QuezNmGYHL",
+              "end": 29,
+              "expanded_url": "https://x.com/ksb_x4/status/2015100853972328644/photo/1",
+              "media_key": "3_2015100848305848320",
+              "start": 6,
+              "url": "https://t.co/QuezNmGYHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015100853972328644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 11863,
+          "like_count": 1772,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "かわうぃ🌸 https://t.co/QuezNmGYHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 1961,
+          "like_count": 63174,
+          "listed_count": 8,
+          "media_count": 1411,
+          "tweet_count": 9645
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-18T14:17:54.000Z",
+        "description": "ジョイネットのお絵描きマン。ぱっつんとジト目と中性が好き。だれかの性癖に刺さりたい。／DMお返事×無断転載×／comicPOOL「おとなしそうな男子のとんでもない秘密を知ってしまった｣単行本①、②巻発売中 隔週金曜連載中https://t.co/NfaXltswZ2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "comic.pixiv.net/works/9978",
+                "end": 133,
+                "expanded_url": "http://comic.pixiv.net/works/9978",
+                "start": 110,
+                "url": "https://t.co/NfaXltswZ2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kashiba-official.com",
+                "end": 23,
+                "expanded_url": "https://kashiba-official.com/",
+                "start": 0,
+                "url": "https://t.co/XOR598WeFs"
+              }
+            ]
+          }
+        },
+        "id": "1879647482",
+        "location": "お仕事はＨＰ✉️から→",
+        "name": "カシバ@ジョイネット",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943775616043556864/u9oCERgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125712,
+          "following_count": 756,
+          "like_count": 81159,
+          "listed_count": 774,
+          "media_count": 2439,
+          "tweet_count": 88002
+        },
+        "url": "https://t.co/XOR598WeFs",
+        "username": "ksb_x4",
+        "verified": true
+      }
+    ]
+  }
+}

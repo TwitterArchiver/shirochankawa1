@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1999022555685093804",
+    "created_at": "2025-12-11T07:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T08:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999022555685093804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1579651217235378181",
+          "start": 3,
+          "username": "maomaomao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999022555685093804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998437354248483219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maomaomao520: 动不动就叫人集美，小仙女，母人的，能讲出这些话的家里请啥也没用了，没有和畜生交流的必要。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1999022555685093804",
+        "created_at": "2025-12-11T07:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T08:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999022555685093804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1579651217235378181",
+              "start": 3,
+              "username": "maomaomao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999022555685093804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998437354248483219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maomaomao520: 动不动就叫人集美，小仙女，母人的，能讲出这些话的家里请啥也没用了，没有和畜生交流的必要。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579651217235378181",
+        "conversation_id": "1998437354248483219",
+        "created_at": "2025-12-09T16:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T17:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998437354248483219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998437354248483219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 63448,
+          "like_count": 1271,
+          "quote_count": 8,
+          "reply_count": 81,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "动不动就叫人集美，小仙女，母人的，能讲出这些话的家里请啥也没用了，没有和畜生交流的必要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078,
+          "following_count": 1974,
+          "like_count": 62425,
+          "listed_count": 8,
+          "media_count": 1331,
+          "tweet_count": 9296
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-11T01:53:18.000Z",
+        "description": "我是年糕（四爱版）小宝：@doizung 。谢谢大家的关注！🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "doizung"
+              }
+            ]
+          }
+        },
+        "id": "1579651217235378181",
+        "location": "距您3km",
+        "name": "超级无敌喵喵拳",
+        "pinned_tweet_id": "1998050615793250738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996936988608626688/K1UAfMlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 50,
+          "like_count": 925,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1015
+        },
+        "username": "maomaomao520",
+        "verified": false
+      }
+    ]
+  }
+}

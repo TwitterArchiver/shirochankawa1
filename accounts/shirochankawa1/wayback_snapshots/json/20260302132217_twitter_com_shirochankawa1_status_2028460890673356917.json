@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2028460890673356917",
+    "created_at": "2026-03-02T13:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T14:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028460890673356917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980682684985921536",
+          "start": 3,
+          "username": "linovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028460890673356917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028340439909372256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linovo33: 最搞笑的就是一群傻逼喜欢说都上推特了装什么清高，推特对于生活中国外的人就是一个社交软件😂不是你们的看片约炮软件，那你咋不去给那些发政治的人说都上推特了装啥清高发啥政治呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2028460890673356917",
+        "created_at": "2026-03-02T13:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028460890673356917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980682684985921536",
+              "start": 3,
+              "username": "linovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028460890673356917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028340439909372256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linovo33: 最搞笑的就是一群傻逼喜欢说都上推特了装什么清高，推特对于生活中国外的人就是一个社交软件😂不是你们的看片约炮软件，那你咋不去给那些发政治的人说都上推特了装啥清高发啥政治呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980682684985921536",
+        "conversation_id": "2028340439909372256",
+        "created_at": "2026-03-02T05:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028340439909372256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028340439909372256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20950,
+          "like_count": 418,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "最搞笑的就是一群傻逼喜欢说都上推特了装什么清高，推特对于生活中国外的人就是一个社交软件😂不是你们的看片约炮软件，那你咋不去给那些发政治的人说都上推特了装啥清高发啥政治呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 2001,
+          "like_count": 66301,
+          "listed_count": 8,
+          "media_count": 1567,
+          "tweet_count": 10504
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T17:09:11.000Z",
+        "description": "你的心脏是一朵百合花",
+        "id": "1980682684985921536",
+        "location": "厦门",
+        "name": "檩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028400101555904512/paOhnTuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 85,
+          "like_count": 6647,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 4359
+        },
+        "username": "linovo33",
+        "verified": false
+      }
+    ]
+  }
+}

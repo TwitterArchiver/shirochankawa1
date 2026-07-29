@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2028064398343111051",
+    "created_at": "2026-03-01T11:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T12:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028064398343111051"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028064398343111051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "东亚人就特别吃恨海情天这一套 你大大方方说爱我 我觉得你随时就会走 你说你恨死我了 做鬼也要缠着我 我才会相信你的爱有几分真 一方水土养一方人 真没办法就这么贱 爱就要带点恨 就要有点控制欲 执念互相折磨才像真的爱 你温柔体贴讲界限 讲理性 人家反而觉得你心不诚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2028064398343111051",
+        "created_at": "2026-03-01T11:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T12:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028064398343111051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028064398343111051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东亚人就特别吃恨海情天这一套 你大大方方说爱我 我觉得你随时就会走 你说你恨死我了 做鬼也要缠着我 我才会相信你的爱有几分真 一方水土养一方人 真没办法就这么贱 爱就要带点恨 就要有点控制欲 执念互相折磨才像真的爱 你温柔体贴讲界限 讲理性 人家反而觉得你心不诚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 2002,
+          "like_count": 66155,
+          "listed_count": 8,
+          "media_count": 1564,
+          "tweet_count": 10477
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

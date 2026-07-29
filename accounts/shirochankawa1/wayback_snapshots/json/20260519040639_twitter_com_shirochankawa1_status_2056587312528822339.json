@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2056587312528822339",
+    "created_at": "2026-05-19T04:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056587312528822339"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056587312528822339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实从小就不叫人也不怎么说那些场面话，甚至也不怎么见人不怎么出门，一个人自娱自乐，有时候模仿别人的开朗去社交，然后也有问题不敢主动去问也不敢敲门，甚至虽然很感谢但是当面的时候也是小声说或者对着微笑，但是我还是会习惯性的对不起的就像我打游戏的时候，我不知道是不是社交障碍还是自闭症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2056587312528822339",
+        "created_at": "2026-05-19T04:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056587312528822339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056587312528822339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实从小就不叫人也不怎么说那些场面话，甚至也不怎么见人不怎么出门，一个人自娱自乐，有时候模仿别人的开朗去社交，然后也有问题不敢主动去问也不敢敲门，甚至虽然很感谢但是当面的时候也是小声说或者对着微笑，但是我还是会习惯性的对不起的就像我打游戏的时候，我不知道是不是社交障碍还是自闭症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 2083,
+          "like_count": 69639,
+          "listed_count": 8,
+          "media_count": 1699,
+          "tweet_count": 11472
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

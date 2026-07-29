@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2032116174591504640",
+    "created_at": "2026-03-13T00:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T01:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032259315516784644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682432496171114496",
+          "start": 0,
+          "username": "bitchbaby8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032259315516784644",
+    "in_reply_to_user_id": "1682432496171114496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032116174591504640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitchbaby8964 炼铜癖吃紫蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2032116174591504640",
+        "created_at": "2026-03-13T00:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T01:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032259315516784644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682432496171114496",
+              "start": 0,
+              "username": "bitchbaby8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032259315516784644",
+        "in_reply_to_user_id": "1682432496171114496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032116174591504640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitchbaby8964 炼铜癖吃紫蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682432496171114496",
+        "conversation_id": "2032116174591504640",
+        "created_at": "2026-03-12T15:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032116174591504640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxy177/status/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/xxy177/status/2031549180427252049",
+              "start": 39,
+              "url": "https://t.co/GU8EOHZoUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032116174591504640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031549180427252049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这里有治疗恋童癖和猥琐佬的特效药，只需一颗就药到病除🤓你这种人很需要试试。 https://t.co/GU8EOHZoUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 2006,
+          "like_count": 67374,
+          "listed_count": 8,
+          "media_count": 1589,
+          "tweet_count": 10717
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:49:59.000Z",
+        "description": "Whiskey sore in your breath.",
+        "id": "1682432496171114496",
+        "name": "零糖美式",
+        "pinned_tweet_id": "1985242209038557429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030674384944525314/ObEVoQQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 543,
+          "like_count": 34518,
+          "listed_count": 10,
+          "media_count": 1232,
+          "tweet_count": 13020
+        },
+        "username": "bitchbaby8964",
+        "verified": false
+      }
+    ]
+  }
+}

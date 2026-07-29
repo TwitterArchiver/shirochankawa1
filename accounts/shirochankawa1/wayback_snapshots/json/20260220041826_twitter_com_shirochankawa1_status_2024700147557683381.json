@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2024700146026725376"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024700147557683381",
+    "created_at": "2026-02-20T04:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T05:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024700147557683381"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024700147557683381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "查询猫派狗派"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-02-27T04:18:26.000Z",
+        "id": "2024700146026725376",
+        "options": [
+          {
+            "label": "猫",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "狗",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2024700146026725376"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024700147557683381",
+        "created_at": "2026-02-20T04:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024700147557683381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024700147557683381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "查询猫派狗派"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 1985,
+          "like_count": 64842,
+          "listed_count": 8,
+          "media_count": 1509,
+          "tweet_count": 10123
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

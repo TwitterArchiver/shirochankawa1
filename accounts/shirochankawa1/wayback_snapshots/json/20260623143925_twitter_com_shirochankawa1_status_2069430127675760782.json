@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2069430127675760782",
+    "created_at": "2026-06-23T14:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069430127675760782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1727960346554499072",
+          "start": 3,
+          "username": "dlthug_"
+        },
+        {
+          "end": 27,
+          "id": "1841609249170063360",
+          "start": 13,
+          "username": "TheLastTime31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069430127675760782",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068910834827288694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dlthug_: @TheLastTime31 ptsd=scared of fireworks"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2069430127675760782",
+        "created_at": "2026-06-23T14:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069430127675760782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1727960346554499072",
+              "start": 3,
+              "username": "dlthug_"
+            },
+            {
+              "end": 27,
+              "id": "1841609249170063360",
+              "start": 13,
+              "username": "TheLastTime31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069430127675760782",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068910834827288694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dlthug_: @TheLastTime31 ptsd=scared of fireworks"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727960346554499072",
+        "conversation_id": "2068814960768250000",
+        "created_at": "2026-06-22T04:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068910834827288694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1841609249170063360",
+              "start": 0,
+              "username": "TheLastTime31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068910834827288694",
+        "in_reply_to_user_id": "1841609249170063360",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5242,
+          "like_count": 351,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068814960768250000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheLastTime31 ptsd=scared of fireworks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 2168,
+          "like_count": 71202,
+          "listed_count": 8,
+          "media_count": 1778,
+          "tweet_count": 12014
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T08:00:32.000Z",
+        "description": "@simemoney | cambodias strongest esl warrior | free palestine, congo, sudan, and all oppressed countries from western imperialism",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "simemoney"
+              }
+            ]
+          }
+        },
+        "id": "1727960346554499072",
+        "location": "19 | he/him ",
+        "name": "ḉhayton",
+        "pinned_tweet_id": "2064888776535548197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067822135217684481/1aWbEr27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 367,
+          "like_count": 18036,
+          "listed_count": 26,
+          "media_count": 753,
+          "tweet_count": 7867
+        },
+        "url": "",
+        "username": "dlthug_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T22:40:44.000Z",
+        "description": "Neurodivergent alt-left anti-theist queer person with lots of opinions. I love hockey, music, minecraft, and trans people, and I hate ronald reagan. 🏳️‍⚧️🫶🌺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tinylittle.straw.page",
+                "end": 23,
+                "expanded_url": "https://tinylittle.straw.page",
+                "start": 0,
+                "url": "https://t.co/a5uwHcaZs6"
+              }
+            ]
+          }
+        },
+        "id": "1841609249170063360",
+        "location": "they/them",
+        "name": "Ivy 🇨🇦 🌺 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "pinned_tweet_id": "2063659893664674171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067354496104316928/XXJSQ5Pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 1605,
+          "like_count": 11733,
+          "listed_count": 2,
+          "media_count": 1641,
+          "tweet_count": 19683
+        },
+        "url": "https://t.co/a5uwHcaZs6",
+        "username": "TheLastTime31",
+        "verified": false
+      }
+    ]
+  }
+}

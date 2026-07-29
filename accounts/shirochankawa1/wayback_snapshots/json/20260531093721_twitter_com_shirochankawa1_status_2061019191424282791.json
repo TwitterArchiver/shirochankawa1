@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2060690272414228773",
+    "created_at": "2026-05-31T09:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T10:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061019191424282791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1557839863151337473",
+          "start": 0,
+          "username": "scutigera_kuma"
+        },
+        {
+          "end": 25,
+          "id": "1852135214795100164",
+          "start": 16,
+          "username": "ayameeii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061019191424282791",
+    "in_reply_to_user_id": "1557839863151337473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060690272414228773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scutigera_kuma @ayameeii 许愿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_2060690264898117632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkK4L9boAAWgG_.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2060690272414228773",
+        "created_at": "2026-05-31T09:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061019191424282791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            },
+            {
+              "end": 25,
+              "id": "1852135214795100164",
+              "start": 16,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061019191424282791",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060690272414228773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma @ayameeii 许愿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060690264898117632"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2060690272414228773",
+        "created_at": "2026-05-30T11:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060690272414228773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "抽奖"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "互fo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuN5DVJk7l",
+              "end": 148,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2060690272414228773/photo/1",
+              "media_key": "3_2060690264898117632",
+              "start": 125,
+              "url": "https://t.co/WuN5DVJk7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060690272414228773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3580,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "hi各位好，我是kuma。\n玩推好几年了一直都是这个号，最近也达成了5k粉，非常开心，我想抽2个互关，2个粉丝各10t菲尼布特胶囊……\n只要转发关注评论就行，我还想交更多的朋友认识更多的人！\n6.4开奖，随便放个之前和对象的照片。\n#抽奖 #互fo https://t.co/WuN5DVJk7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2578,
+          "following_count": 2107,
+          "like_count": 70354,
+          "listed_count": 8,
+          "media_count": 1738,
+          "tweet_count": 11705
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5034,
+          "following_count": 3312,
+          "like_count": 34503,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 9180
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存| 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 662,
+          "like_count": 10250,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 3888
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

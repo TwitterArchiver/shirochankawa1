@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2057316552484237723",
+    "created_at": "2026-05-22T03:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057663871956205633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1153404762659774464",
+          "start": 0,
+          "username": "zaochuandong200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057663871956205633",
+    "in_reply_to_user_id": "1153404762659774464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057638883030860080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaochuandong200 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2057316552484237723",
+        "created_at": "2026-05-22T03:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057663871956205633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1153404762659774464",
+              "start": 0,
+              "username": "zaochuandong200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057663871956205633",
+        "in_reply_to_user_id": "1153404762659774464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057638883030860080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaochuandong200 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153404762659774464",
+        "conversation_id": "2057316552484237723",
+        "created_at": "2026-05-22T01:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057638883030860080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057638883030860080",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057316552484237723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 不能免，还得加精神损失费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 2095,
+          "like_count": 69859,
+          "listed_count": 8,
+          "media_count": 1708,
+          "tweet_count": 11556
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T20:41:39.000Z",
+        "description": "互联网皇帝/碎碎念/分享日常/礼貌交友🌍/infp/⚖️/06-175-52/喜欢转发世界第一帅/私聊带照/情侣位招租❤️",
+        "id": "1153404762659774464",
+        "location": "你心底的最深处",
+        "name": "小垫少爷（可互推",
+        "pinned_tweet_id": "1902731684841197886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052436323286540288/OLo_HBSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 170,
+          "like_count": 9649,
+          "listed_count": 3,
+          "media_count": 926,
+          "tweet_count": 5621
+        },
+        "username": "zaochuandong200",
+        "verified": false
+      }
+    ]
+  }
+}

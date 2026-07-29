@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021622736276357120"
+      ],
+      "media_source_tweet_id": [
+        "2021622741108207686"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2021733923240521867",
+    "created_at": "2026-02-11T23:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T00:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021733923240521867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699740381603409920",
+          "start": 3,
+          "username": "hll18li"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KbyYi9RscI",
+          "end": 82,
+          "expanded_url": "https://x.com/hll18li/status/2021622741108207686/photo/1",
+          "media_key": "3_2021622736276357120",
+          "start": 59,
+          "url": "https://t.co/KbyYi9RscI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021733923240521867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021622741108207686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hll18li: 致所有中国用户：此账号为假冒账号。我是日本人，只会说日语。这种转发行为极其恶意，绝不容忍。 https://t.co/KbyYi9RscI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_2021622736276357120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4_KumbAAAHvpJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021622736276357120"
+          ],
+          "media_source_tweet_id": [
+            "2021622741108207686"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2021733923240521867",
+        "created_at": "2026-02-11T23:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T00:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021733923240521867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699740381603409920",
+              "start": 3,
+              "username": "hll18li"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbyYi9RscI",
+              "end": 82,
+              "expanded_url": "https://x.com/hll18li/status/2021622741108207686/photo/1",
+              "media_key": "3_2021622736276357120",
+              "start": 59,
+              "url": "https://t.co/KbyYi9RscI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021733923240521867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021622741108207686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hll18li: 致所有中国用户：此账号为假冒账号。我是日本人，只会说日语。这种转发行为极其恶意，绝不容忍。 https://t.co/KbyYi9RscI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021622736276357120"
+          ]
+        },
+        "author_id": "1699740381603409920",
+        "conversation_id": "2021622741108207686",
+        "created_at": "2026-02-11T16:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021622741108207686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbyYi9RscI",
+              "end": 69,
+              "expanded_url": "https://x.com/hll18li/status/2021622741108207686/photo/1",
+              "media_key": "3_2021622736276357120",
+              "start": 46,
+              "url": "https://t.co/KbyYi9RscI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021622741108207686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 18748,
+          "like_count": 164,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "致所有中国用户：此账号为假冒账号。我是日本人，只会说日语。这种转发行为极其恶意，绝不容忍。 https://t.co/KbyYi9RscI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 1970,
+          "like_count": 63944,
+          "listed_count": 8,
+          "media_count": 1468,
+          "tweet_count": 9892
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T11:04:46.000Z",
+        "description": "￤07￤🇯🇵￤HoYoCREATORS⋆꙳￤自我@hll10li｡❀￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "hll10li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hll18li",
+                "end": 23,
+                "expanded_url": "https://lit.link/hll18li",
+                "start": 0,
+                "url": "https://t.co/FY4wR8Sqze"
+              }
+            ]
+          }
+        },
+        "id": "1699740381603409920",
+        "location": "❤️‍🔥🦋    重加工.存在しません         ",
+        "name": "曖昧 ひな",
+        "pinned_tweet_id": "1946926936703602944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953378345468710912/9AxiHL1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13243,
+          "following_count": 152,
+          "like_count": 8775,
+          "listed_count": 61,
+          "media_count": 114,
+          "tweet_count": 1256
+        },
+        "url": "https://t.co/FY4wR8Sqze",
+        "username": "hll18li",
+        "verified": false
+      }
+    ]
+  }
+}

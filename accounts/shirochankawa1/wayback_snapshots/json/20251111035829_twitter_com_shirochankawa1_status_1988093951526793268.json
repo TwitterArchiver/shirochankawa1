@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1988093951526793268",
+    "created_at": "2025-11-11T03:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T04:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988093951526793268"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988093951526793268",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "独特の人生？ 穏やかな人生？ 後悔のないように過ごしなければならないが、未来は自分で短くなる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1988093951526793268",
+        "created_at": "2025-11-11T03:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T04:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988093951526793268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988093951526793268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "独特の人生？ 穏やかな人生？ 後悔のないように過ごしなければならないが、未来は自分で短くなる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 1952,
+          "like_count": 60556,
+          "listed_count": 8,
+          "media_count": 1235,
+          "tweet_count": 8650
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

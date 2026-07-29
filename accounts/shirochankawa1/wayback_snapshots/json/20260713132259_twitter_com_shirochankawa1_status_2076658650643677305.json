@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2076658650643677305",
+    "created_at": "2026-07-13T13:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076658650643677305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012323704139661313",
+          "start": 3,
+          "username": "bellacaotica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076658650643677305",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3634
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076406318118957066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bellacaotica: o trauma de abandono é tão cruel pq por mais que eu esteja com alguém incrível, até mesmo uma amizade linda, eu só consig…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2076658650643677305",
+        "created_at": "2026-07-13T13:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076658650643677305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012323704139661313",
+              "start": 3,
+              "username": "bellacaotica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076658650643677305",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3634
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076406318118957066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bellacaotica: o trauma de abandono é tão cruel pq por mais que eu esteja com alguém incrível, até mesmo uma amizade linda, eu só consig…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012323704139661313",
+        "conversation_id": "2076406318118957066",
+        "created_at": "2026-07-12T20:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076406318118957066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076406318118957066",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 937,
+          "impression_count": 149055,
+          "like_count": 11041,
+          "quote_count": 317,
+          "reply_count": 64,
+          "retweet_count": 3634
+        },
+        "reply_settings": "everyone",
+        "text": "o trauma de abandono é tão cruel pq por mais que eu esteja com alguém incrível, até mesmo uma amizade linda, eu só consigo ficar pensando que ela vai cansar de mim a qualquer momento, é como se eu tivesse que viver em alerta o tempo inteiro e não pudesse aproveitar nada direito"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 2179,
+          "like_count": 71491,
+          "listed_count": 8,
+          "media_count": 1801,
+          "tweet_count": 12144
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T00:39:01.000Z",
+        "description": "nem todo corpo celeste encontra uma constelação para chamar de lar.",
+        "id": "2012323704139661313",
+        "location": "entre o caos e a calmaria",
+        "name": "bella",
+        "pinned_tweet_id": "2074587028247716298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067705242594979840/_PdsxkcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 528,
+          "like_count": 1195,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 1132
+        },
+        "url": "",
+        "username": "bellacaotica",
+        "verified": false
+      }
+    ]
+  }
+}

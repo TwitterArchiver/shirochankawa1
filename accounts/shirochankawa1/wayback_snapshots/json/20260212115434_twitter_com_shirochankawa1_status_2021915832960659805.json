@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2021915832960659805",
+    "created_at": "2026-02-12T11:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021915832960659805"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021915832960659805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的每一次呼吸都好窒息好沉重 焦虑更是永不停歇的在脑海里日夜相随 我对一切都仿佛无所谓的麻木 这种感觉将我包裹 连自暴自弃都成了惯性 孤独从早到晚灌进了我的灵魂 剩下的时间 我只是睁着眼发呆 慢慢任由我的时间去腐烂 旁人总说我该是幸福的 可我比谁都清楚 那些所谓的幸福不过是暂时的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2021915832960659805",
+        "created_at": "2026-02-12T11:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021915832960659805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021915832960659805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的每一次呼吸都好窒息好沉重 焦虑更是永不停歇的在脑海里日夜相随 我对一切都仿佛无所谓的麻木 这种感觉将我包裹 连自暴自弃都成了惯性 孤独从早到晚灌进了我的灵魂 剩下的时间 我只是睁着眼发呆 慢慢任由我的时间去腐烂 旁人总说我该是幸福的 可我比谁都清楚 那些所谓的幸福不过是暂时的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 1972,
+          "like_count": 64133,
+          "listed_count": 8,
+          "media_count": 1474,
+          "tweet_count": 9931
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2043693829400998124",
+    "created_at": "2026-04-14T04:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043909697313571066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1651286541032095745",
+          "start": 0,
+          "username": "Zsmy_3366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043909697313571066",
+    "in_reply_to_user_id": "1651286541032095745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043763383800082558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zsmy_3366 好喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2043693829400998124",
+        "created_at": "2026-04-14T04:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043909697313571066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1651286541032095745",
+              "start": 0,
+              "username": "Zsmy_3366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043909697313571066",
+        "in_reply_to_user_id": "1651286541032095745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043763383800082558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zsmy_3366 好喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651286541032095745",
+        "conversation_id": "2043693829400998124",
+        "created_at": "2026-04-13T18:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T19:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043763383800082558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043763383800082558",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043693829400998124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 糖糖可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 2033,
+          "like_count": 68367,
+          "listed_count": 8,
+          "media_count": 1648,
+          "tweet_count": 11076
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T18:06:28.000Z",
+        "description": "会有人喜欢我的对吧",
+        "id": "1651286541032095745",
+        "name": "罪韶明月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947330101328416768/TRzBz1Fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 80,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "username": "Zsmy_3366",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2026211601301565871",
+    "created_at": "2026-02-24T09:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T10:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026224270100267244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3165723764",
+          "start": 0,
+          "username": "278041403Gjcg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026224270100267244",
+    "in_reply_to_user_id": "3165723764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026223977522405386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@278041403Gjcg 文艺复兴了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2026211601301565871",
+        "created_at": "2026-02-24T09:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026224270100267244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3165723764",
+              "start": 0,
+              "username": "278041403Gjcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026224270100267244",
+        "in_reply_to_user_id": "3165723764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026223977522405386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@278041403Gjcg 文艺复兴了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3165723764",
+        "conversation_id": "2026211601301565871",
+        "created_at": "2026-02-24T09:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026223977522405386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026223977522405386",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026211601301565871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 2026年了还能见到砍口垒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 2001,
+          "like_count": 65627,
+          "listed_count": 8,
+          "media_count": 1541,
+          "tweet_count": 10349
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-20T16:33:13.000Z",
+        "description": "宅男，偶尔才上x。176/51 不玩王者",
+        "id": "3165723764",
+        "name": "shiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1098459371938340864/zCDE1Hgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 176,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 1460,
+          "tweet_count": 1566
+        },
+        "username": "278041403Gjcg",
+        "verified": false
+      }
+    ]
+  }
+}

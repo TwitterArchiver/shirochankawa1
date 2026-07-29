@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2026265053318848971",
+    "created_at": "2026-02-24T13:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026286284759806227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3165723764",
+          "start": 0,
+          "username": "278041403Gjcg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026286284759806227",
+    "in_reply_to_user_id": "3165723764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026276029237789111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@278041403Gjcg 唉代沟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2026265053318848971",
+        "created_at": "2026-02-24T13:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026286284759806227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3165723764",
+              "start": 0,
+              "username": "278041403Gjcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026286284759806227",
+        "in_reply_to_user_id": "3165723764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026276029237789111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@278041403Gjcg 唉代沟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3165723764",
+        "conversation_id": "2026265053318848971",
+        "created_at": "2026-02-24T12:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026276029237789111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026276029237789111",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265053318848971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 有代沟，我父母也不理解我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 2002,
+          "like_count": 65705,
+          "listed_count": 8,
+          "media_count": 1541,
+          "tweet_count": 10369
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-20T16:33:13.000Z",
+        "description": "宅男，偶尔才上x。176/51 不玩王者",
+        "id": "3165723764",
+        "name": "shiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1098459371938340864/zCDE1Hgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 178,
+          "like_count": 49,
+          "listed_count": 1,
+          "media_count": 1460,
+          "tweet_count": 1581
+        },
+        "username": "278041403Gjcg",
+        "verified": false
+      }
+    ]
+  }
+}

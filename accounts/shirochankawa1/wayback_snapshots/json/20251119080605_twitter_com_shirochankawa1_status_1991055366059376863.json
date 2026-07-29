@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1991037514279510185",
+    "created_at": "2025-11-19T08:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T09:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991055366059376863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918279776969842688",
+          "start": 0,
+          "username": "2TejHqfgsS69569"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991055366059376863",
+    "in_reply_to_user_id": "1918279776969842688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991051411606618442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2TejHqfgsS69569 这只是一部分，我家长又不给钱，我自己治精神病也要花钱，有钱的时候还能润出去挂壁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 677,
+        "media_key": "3_1991051383106383917",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6GirxObMC0Dv21.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1991037514279510185",
+        "created_at": "2025-11-19T08:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991055366059376863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918279776969842688",
+              "start": 0,
+              "username": "2TejHqfgsS69569"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991055366059376863",
+        "in_reply_to_user_id": "1918279776969842688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991051411606618442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2TejHqfgsS69569 这只是一部分，我家长又不给钱，我自己治精神病也要花钱，有钱的时候还能润出去挂壁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991051383106383917"
+          ]
+        },
+        "author_id": "1918279776969842688",
+        "conversation_id": "1991037514279510185",
+        "created_at": "2025-11-19T07:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T08:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991051411606618442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pwjTOE0f2v",
+              "end": 39,
+              "expanded_url": "https://x.com/2TejHqfgsS69569/status/1991051411606618442/photo/1",
+              "media_key": "3_1991051383106383917",
+              "start": 16,
+              "url": "https://t.co/pwjTOE0f2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991051411606618442",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991037514279510185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 https://t.co/pwjTOE0f2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 1958,
+          "like_count": 61093,
+          "listed_count": 8,
+          "media_count": 1256,
+          "tweet_count": 8825
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:22:12.000Z",
+        "description": "世界很好，你也不赖。Student in FPGA/ASIC",
+        "id": "1918279776969842688",
+        "name": "小白覆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981725132302209024/cIOnCpEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 15,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 666
+        },
+        "username": "2TejHqfgsS69569",
+        "verified": false
+      }
+    ]
+  }
+}

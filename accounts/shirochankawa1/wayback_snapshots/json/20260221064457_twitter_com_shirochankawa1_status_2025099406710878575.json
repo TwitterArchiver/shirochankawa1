@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025054704129245185"
+      ],
+      "media_source_tweet_id": [
+        "2025054706524193139"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2025099406710878575",
+    "created_at": "2026-02-21T06:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T07:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025099406710878575"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "扩列"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "互推"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "抽奖"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2009620713460887553",
+          "start": 3,
+          "username": "HujiaoFen_sad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XgrqZZeTdU",
+          "end": 99,
+          "expanded_url": "https://x.com/HujiaoFen_sad/status/2025054706524193139/photo/1",
+          "media_key": "3_2025054704129245185",
+          "start": 76,
+          "url": "https://t.co/XgrqZZeTdU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025099406710878575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025054706524193139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HujiaoFen_sad: 马上150fo了！请大家帮帮忙多转一下我的顶置推呢！在评论区点赞关注我会抽五个十块钱呢！ #扩列 #互推 #抽奖 https://t.co/XgrqZZeTdU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2025054704129245185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpwhjJbgAEtU_H.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025054704129245185"
+          ],
+          "media_source_tweet_id": [
+            "2025054706524193139"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2025099406710878575",
+        "created_at": "2026-02-21T06:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025099406710878575"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "扩列"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "互推"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "抽奖"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2009620713460887553",
+              "start": 3,
+              "username": "HujiaoFen_sad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgrqZZeTdU",
+              "end": 99,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2025054706524193139/photo/1",
+              "media_key": "3_2025054704129245185",
+              "start": 76,
+              "url": "https://t.co/XgrqZZeTdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025099406710878575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025054706524193139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HujiaoFen_sad: 马上150fo了！请大家帮帮忙多转一下我的顶置推呢！在评论区点赞关注我会抽五个十块钱呢！ #扩列 #互推 #抽奖 https://t.co/XgrqZZeTdU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025054704129245185"
+          ]
+        },
+        "author_id": "2009620713460887553",
+        "conversation_id": "2025054706524193139",
+        "created_at": "2026-02-21T03:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025054706524193139"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "扩列"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "互推"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgrqZZeTdU",
+              "end": 80,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2025054706524193139/photo/1",
+              "media_key": "3_2025054704129245185",
+              "start": 57,
+              "url": "https://t.co/XgrqZZeTdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025054706524193139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "马上150fo了！请大家帮帮忙多转一下我的顶置推呢！在评论区点赞关注我会抽五个十块钱呢！ #扩列 #互推 #抽奖 https://t.co/XgrqZZeTdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 1988,
+          "like_count": 65175,
+          "listed_count": 8,
+          "media_count": 1517,
+          "tweet_count": 10197
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T13:43:28.000Z",
+        "description": "无聊……我要看到血流成河\n🚪38 重度抑郁/LGBT友好/男の娘/自伤/平常都会回私信，我是个很温良的小男孩呀请来过我门槛谢谢泥૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა",
+        "id": "2009620713460887553",
+        "location": "广东省",
+        "name": "我为你撑起蓝色雨伞",
+        "pinned_tweet_id": "2021651507595379051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017126866835169280/V_t4SvIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 174,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 255
+        },
+        "username": "HujiaoFen_sad",
+        "verified": false
+      }
+    ]
+  }
+}

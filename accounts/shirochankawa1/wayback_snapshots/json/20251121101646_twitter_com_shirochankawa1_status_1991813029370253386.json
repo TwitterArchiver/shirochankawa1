@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1991813029370253386",
+    "created_at": "2025-11-21T10:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T11:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991813029370253386"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991813029370253386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“地球这样的行星，是产生不了重元素的，你身体里的铁，来自璀璨的超新星爆炸”\n        “血液里的锌，源自两次中子星对撞后喷射向宇宙的尘埃”\n        “那微量的铜，更是需要见证一颗白矮星的死亡，即使是最微不足道的钴，也源自几十亿光年外的星云”\n  渴望见证星河大海的极限，因为我们本就是星辰之子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1991813029370253386",
+        "created_at": "2025-11-21T10:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991813029370253386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991813029370253386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“地球这样的行星，是产生不了重元素的，你身体里的铁，来自璀璨的超新星爆炸”\n        “血液里的锌，源自两次中子星对撞后喷射向宇宙的尘埃”\n        “那微量的铜，更是需要见证一颗白矮星的死亡，即使是最微不足道的钴，也源自几十亿光年外的星云”\n  渴望见证星河大海的极限，因为我们本就是星辰之子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 ，亲友投喂100解锁心理委员",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 1962,
+          "like_count": 61195,
+          "listed_count": 8,
+          "media_count": 1258,
+          "tweet_count": 8883
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

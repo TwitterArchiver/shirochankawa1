@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055271771126018048",
+        "3_2055271764503220224"
+      ],
+      "media_source_tweet_id": [
+        "2055271774389194837",
+        "2055271774389194837"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2055293297736995285",
+    "created_at": "2026-05-15T14:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055293297736995285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857335218673483776",
+          "start": 3,
+          "username": "yv_amerain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zUxL4gYkoU",
+          "end": 112,
+          "expanded_url": "https://x.com/yv_amerain/status/2055271774389194837/photo/1",
+          "media_key": "3_2055271771126018048",
+          "start": 89,
+          "url": "https://t.co/zUxL4gYkoU"
+        },
+        {
+          "display_url": "pic.x.com/zUxL4gYkoU",
+          "end": 112,
+          "expanded_url": "https://x.com/yv_amerain/status/2055271774389194837/photo/1",
+          "media_key": "3_2055271764503220224",
+          "start": 89,
+          "url": "https://t.co/zUxL4gYkoU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055293297736995285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055271774389194837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yv_amerain: 这里是小雨  09  ip湖北武汉\n有心理疾病 什么都玩一点点 喜欢我的话可以资助我 不喜欢被叫男娘\n偶尔会发一些血图和负能 对不起\n感谢喜欢呀 https://t.co/zUxL4gYkoU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2055271771126018048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXKyVrasAAHqIp.jpg",
+        "width": 1114
+      },
+      {
+        "height": 1171,
+        "media_key": "3_2055271764503220224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXKx9Aa0AAWjFR.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055271771126018048",
+            "3_2055271764503220224"
+          ],
+          "media_source_tweet_id": [
+            "2055271774389194837",
+            "2055271774389194837"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2055293297736995285",
+        "created_at": "2026-05-15T14:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055293297736995285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857335218673483776",
+              "start": 3,
+              "username": "yv_amerain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zUxL4gYkoU",
+              "end": 112,
+              "expanded_url": "https://x.com/yv_amerain/status/2055271774389194837/photo/1",
+              "media_key": "3_2055271771126018048",
+              "start": 89,
+              "url": "https://t.co/zUxL4gYkoU"
+            },
+            {
+              "display_url": "pic.x.com/zUxL4gYkoU",
+              "end": 112,
+              "expanded_url": "https://x.com/yv_amerain/status/2055271774389194837/photo/1",
+              "media_key": "3_2055271764503220224",
+              "start": 89,
+              "url": "https://t.co/zUxL4gYkoU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055293297736995285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055271774389194837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yv_amerain: 这里是小雨  09  ip湖北武汉\n有心理疾病 什么都玩一点点 喜欢我的话可以资助我 不喜欢被叫男娘\n偶尔会发一些血图和负能 对不起\n感谢喜欢呀 https://t.co/zUxL4gYkoU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055271771126018048",
+            "3_2055271764503220224"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2055271774389194837",
+        "created_at": "2026-05-15T12:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055271774389194837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zUxL4gYkoU",
+              "end": 96,
+              "expanded_url": "https://x.com/yv_amerain/status/2055271774389194837/photo/1",
+              "media_key": "3_2055271771126018048",
+              "start": 73,
+              "url": "https://t.co/zUxL4gYkoU"
+            },
+            {
+              "display_url": "pic.x.com/zUxL4gYkoU",
+              "end": 96,
+              "expanded_url": "https://x.com/yv_amerain/status/2055271774389194837/photo/1",
+              "media_key": "3_2055271764503220224",
+              "start": 73,
+              "url": "https://t.co/zUxL4gYkoU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055271774389194837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 745,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小雨  09  ip湖北武汉\n有心理疾病 什么都玩一点点 喜欢我的话可以资助我 不喜欢被叫男娘\n偶尔会发一些血图和负能 对不起\n感谢喜欢呀 https://t.co/zUxL4gYkoU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 2077,
+          "like_count": 69134,
+          "listed_count": 9,
+          "media_count": 1687,
+          "tweet_count": 11379
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054130028745732096/mmU3HJTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4601,
+          "following_count": 455,
+          "like_count": 8691,
+          "listed_count": 7,
+          "media_count": 347,
+          "tweet_count": 4120
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2048896618955690178",
+    "created_at": "2026-04-27T22:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T23:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048896618955690178"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048896618955690178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我看着那些萌二，个个都在那里幻想着未来的美好，诉说着所憧憬的梦想，那我呢，我的梦想又是什么呢，我不知道，我不明白，行走江湖，总会落下些东西，回首望去，我又留住了些什么呢，唉，俱往矣。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2048896618955690178",
+        "created_at": "2026-04-27T22:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T23:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048896618955690178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048896618955690178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看着那些萌二，个个都在那里幻想着未来的美好，诉说着所憧憬的梦想，那我呢，我的梦想又是什么呢，我不知道，我不明白，行走江湖，总会落下些东西，回首望去，我又留住了些什么呢，唉，俱往矣。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 2056,
+          "like_count": 68585,
+          "listed_count": 8,
+          "media_count": 1662,
+          "tweet_count": 11136
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

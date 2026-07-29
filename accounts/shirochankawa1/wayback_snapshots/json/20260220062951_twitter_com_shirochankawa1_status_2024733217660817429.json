@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024733217660817429",
+    "created_at": "2026-02-20T06:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024733217660817429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eyesouo2b/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/eyesouo2b/status/2024455078996820140",
+          "start": 6,
+          "url": "https://t.co/KCof9x5FIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024733217660817429",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024455078996820140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很有逼格🚬 https://t.co/KCof9x5FIL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024733217660817429",
+        "created_at": "2026-02-20T06:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024733217660817429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eyesouo2b/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/eyesouo2b/status/2024455078996820140",
+              "start": 6,
+              "url": "https://t.co/KCof9x5FIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024733217660817429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024455078996820140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很有逼格🚬 https://t.co/KCof9x5FIL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413042565960503296",
+        "conversation_id": "2024455078996820140",
+        "created_at": "2026-02-19T12:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024455078996820140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024455078996820140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16093,
+          "like_count": 213,
+          "quote_count": 5,
+          "reply_count": 68,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没有觉得一句话下来最后配上🚬这个表情很有格调很装逼吗🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 1987,
+          "like_count": 64880,
+          "listed_count": 8,
+          "media_count": 1511,
+          "tweet_count": 10131
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T07:49:49.000Z",
+        "description": "因为我想一直看着你幸福的表情｜接付费委托转推置顶 推广自辨｜ 情绪时常不稳定所以发的内容会有很强的切割感大家别介意🚪私 女孩子免",
+        "id": "1413042565960503296",
+        "location": "🚪",
+        "name": "休克的羔羊",
+        "pinned_tweet_id": "2024727078453785006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900425950724321280/cchWJJby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9940,
+          "following_count": 183,
+          "like_count": 1858,
+          "listed_count": 21,
+          "media_count": 123,
+          "tweet_count": 793
+        },
+        "username": "Eyesouo2b",
+        "verified": false
+      }
+    ]
+  }
+}

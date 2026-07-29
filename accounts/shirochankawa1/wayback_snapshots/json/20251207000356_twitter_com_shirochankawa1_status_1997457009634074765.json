@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1997315776207106048",
+    "created_at": "2025-12-07T00:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T01:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997457009634074765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1365320156461686790",
+          "start": 0,
+          "username": "shaonuer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997457009634074765",
+    "in_reply_to_user_id": "1365320156461686790",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997333537217819002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaonuer 素de"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1997315776207106048",
+        "created_at": "2025-12-07T00:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T01:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997457009634074765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1365320156461686790",
+              "start": 0,
+              "username": "shaonuer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997457009634074765",
+        "in_reply_to_user_id": "1365320156461686790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997333537217819002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaonuer 素de"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365320156461686790",
+        "conversation_id": "1997315776207106048",
+        "created_at": "2025-12-06T15:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997333537217819002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997333537217819002",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997315776207106048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 你也是外星人吗🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 1980,
+          "like_count": 62500,
+          "listed_count": 8,
+          "media_count": 1324,
+          "tweet_count": 9278
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T15:18:12.000Z",
+        "description": "是梦怎么还不醒",
+        "id": "1365320156461686790",
+        "location": "时光机",
+        "name": "尸体cos人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1425752395942879234/I87Tr-Y2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 105,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 117
+        },
+        "username": "shaonuer",
+        "verified": false
+      }
+    ]
+  }
+}

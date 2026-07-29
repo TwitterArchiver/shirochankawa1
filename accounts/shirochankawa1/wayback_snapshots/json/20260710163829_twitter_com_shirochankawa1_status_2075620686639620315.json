@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2075620686639620315",
+    "created_at": "2026-07-10T16:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075620686639620315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2051426445654646784",
+          "start": 3,
+          "username": "eilenoca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075620686639620315",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1004
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075392406740980159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eilenoca: eu tenho 100% de certeza que vou perder pra depressão alguma hora"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2075620686639620315",
+        "created_at": "2026-07-10T16:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075620686639620315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051426445654646784",
+              "start": 3,
+              "username": "eilenoca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075620686639620315",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1004
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075392406740980159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eilenoca: eu tenho 100% de certeza que vou perder pra depressão alguma hora"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051426445654646784",
+        "conversation_id": "2075392406740980159",
+        "created_at": "2026-07-10T01:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075392406740980159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075392406740980159",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 45916,
+          "like_count": 3226,
+          "quote_count": 47,
+          "reply_count": 15,
+          "retweet_count": 1004
+        },
+        "reply_settings": "everyone",
+        "text": "eu tenho 100% de certeza que vou perder pra depressão alguma hora"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 2175,
+          "like_count": 71443,
+          "listed_count": 8,
+          "media_count": 1797,
+          "tweet_count": 12125
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T22:20:01.000Z",
+        "description": "de lírios",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lenaires_?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lenaires_?igsh=a2h6OTd1N3Q1cnl4&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/Z6BPBF7Fii"
+              }
+            ]
+          }
+        },
+        "id": "2051426445654646784",
+        "name": "lena",
+        "pinned_tweet_id": "2060477649118433633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071688888712564736/PanXW37j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 96,
+          "like_count": 4032,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/Z6BPBF7Fii",
+        "username": "eilenoca",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2025181359174811984",
+    "created_at": "2026-02-22T07:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T08:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025470092918882570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1520794855647039490",
+          "start": 0,
+          "username": "bronie_Zaychik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025470092918882570",
+    "in_reply_to_user_id": "1520794855647039490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025467715860005112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bronie_Zaychik 还好，我也就158"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2025181359174811984",
+        "created_at": "2026-02-22T07:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025470092918882570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1520794855647039490",
+              "start": 0,
+              "username": "bronie_Zaychik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025470092918882570",
+        "in_reply_to_user_id": "1520794855647039490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025467715860005112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bronie_Zaychik 还好，我也就158"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520794855647039490",
+        "conversation_id": "2025181359174811984",
+        "created_at": "2026-02-22T07:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025467715860005112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025467715860005112",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025181359174811984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 看着好高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 1995,
+          "like_count": 65328,
+          "listed_count": 8,
+          "media_count": 1523,
+          "tweet_count": 10253
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T15:58:58.000Z",
+        "description": "To be a nowaday's thinker.\n近期不想聊哲学",
+        "id": "1520794855647039490",
+        "location": "虚数之树",
+        "name": "Bronie",
+        "pinned_tweet_id": "1953881445199753673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895923208764731392/a7CH2hv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 49,
+          "like_count": 1199,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 537
+        },
+        "username": "bronie_Zaychik",
+        "verified": false
+      }
+    ]
+  }
+}

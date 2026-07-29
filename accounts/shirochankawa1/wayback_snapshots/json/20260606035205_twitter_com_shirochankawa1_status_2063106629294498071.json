@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1853541681091801557",
+    "created_at": "2026-06-06T03:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063106629294498071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829914044750499840",
+          "start": 0,
+          "username": "xg205426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063106629294498071",
+    "in_reply_to_user_id": "1829914044750499840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062943115577827743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xg205426 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1853541681091801557",
+        "created_at": "2026-06-06T03:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063106629294498071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829914044750499840",
+              "start": 0,
+              "username": "xg205426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063106629294498071",
+        "in_reply_to_user_id": "1829914044750499840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062943115577827743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xg205426 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829914044750499840",
+        "conversation_id": "1853541681091801557",
+        "created_at": "2026-06-05T17:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062943115577827743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062943115577827743",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853541681091801557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 可以看我的主页"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2610,
+          "following_count": 2142,
+          "like_count": 70594,
+          "listed_count": 8,
+          "media_count": 1750,
+          "tweet_count": 11809
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T16:08:11.000Z",
+        "description": "如果死亡是起点",
+        "id": "1829914044750499840",
+        "name": "西宫",
+        "pinned_tweet_id": "2062942134223950120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977419443207843840/q61e4v7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 38,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 136
+        },
+        "username": "xg205426",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1998941787982082206",
+    "created_at": "2025-12-11T02:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T03:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998941787982082206"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998941787982082206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽我发负能真不是我想博同情 空间的负能只是我情绪冰山的百分之一 我的过往不堪回首 我的未来毫无希望 我的生活就是这么操蛋 从崩溃到更崩溃是我生活的常态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1998941787982082206",
+        "created_at": "2025-12-11T02:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T03:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998941787982082206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998941787982082206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我发负能真不是我想博同情 空间的负能只是我情绪冰山的百分之一 我的过往不堪回首 我的未来毫无希望 我的生活就是这么操蛋 从崩溃到更崩溃是我生活的常态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 1978,
+          "like_count": 62399,
+          "listed_count": 8,
+          "media_count": 1329,
+          "tweet_count": 9291
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

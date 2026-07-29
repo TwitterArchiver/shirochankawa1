@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2042248824501252578",
+    "created_at": "2026-04-09T14:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042248824501252578"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042248824501252578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你太容易自责了实际上我们都存在在一个复杂多样的世界里，没有人可以做出绝对正确的选择，错误才是常态。别再花时间在后悔错误上了，后悔除了让你感到无穷无尽的自我内耗以外并不能解决任何问题。如果你已经做出了你认为错误的、浪费时间的选择，那就千万别再让未来的自己后悔“为什么当时一直陷于后悔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2042248824501252578",
+        "created_at": "2026-04-09T14:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042248824501252578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042248824501252578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你太容易自责了实际上我们都存在在一个复杂多样的世界里，没有人可以做出绝对正确的选择，错误才是常态。别再花时间在后悔错误上了，后悔除了让你感到无穷无尽的自我内耗以外并不能解决任何问题。如果你已经做出了你认为错误的、浪费时间的选择，那就千万别再让未来的自己后悔“为什么当时一直陷于后悔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 2035,
+          "like_count": 68122,
+          "listed_count": 8,
+          "media_count": 1631,
+          "tweet_count": 11018
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

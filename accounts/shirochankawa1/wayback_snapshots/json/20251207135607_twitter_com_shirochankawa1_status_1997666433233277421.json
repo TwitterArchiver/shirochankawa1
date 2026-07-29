@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1997666433233277421",
+    "created_at": "2025-12-07T13:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T14:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997666433233277421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1997495772066324480",
+          "start": 3,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997666433233277421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997557765410349108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuma02150128: kuma以前账号找不到了呜呜呜\n我会把大家一一关注回来的🥺❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1997666433233277421",
+        "created_at": "2025-12-07T13:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997666433233277421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1997495772066324480",
+              "start": 3,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997666433233277421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997557765410349108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuma02150128: kuma以前账号找不到了呜呜呜\n我会把大家一一关注回来的🥺❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997495772066324480",
+        "conversation_id": "1997557765410349108",
+        "created_at": "2025-12-07T06:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T07:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997557765410349108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kumanano215/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/kumanano215/status/1968910256127271245",
+              "start": 32,
+              "url": "https://t.co/M63CM2IXcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997557765410349108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968910256127271245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "kuma以前账号找不到了呜呜呜\n我会把大家一一关注回来的🥺❤️ https://t.co/M63CM2IXcI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 1979,
+          "like_count": 62511,
+          "listed_count": 8,
+          "media_count": 1326,
+          "tweet_count": 9286
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！",
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997497206585327616/mBY164Ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 26
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

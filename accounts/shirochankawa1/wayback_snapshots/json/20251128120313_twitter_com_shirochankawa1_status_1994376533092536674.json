@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1994368559192191133",
+    "created_at": "2025-11-28T12:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T13:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994376533092536674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1906714014299865088",
+          "start": 0,
+          "username": "zyan67079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994376533092536674",
+    "in_reply_to_user_id": "1906714014299865088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994376404885188985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyan67079 唉太恶心人了这人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1994368559192191133",
+        "created_at": "2025-11-28T12:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994376533092536674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906714014299865088",
+              "start": 0,
+              "username": "zyan67079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994376533092536674",
+        "in_reply_to_user_id": "1906714014299865088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994376404885188985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyan67079 唉太恶心人了这人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906714014299865088",
+        "conversation_id": "1994368559192191133",
+        "created_at": "2025-11-28T12:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994376404885188985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994376404885188985",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994368559192191133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 之前就把它拉黑了，实在恶俗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 1969,
+          "like_count": 61773,
+          "listed_count": 8,
+          "media_count": 1302,
+          "tweet_count": 9083
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T14:24:00.000Z",
+        "description": "=世界需要我/紺野巻|心理年龄和实际年龄严重不符，我是幼稚的小孩 | infp | asd | i want to make a lot of friends.",
+        "id": "1906714014299865088",
+        "location": "安全出口EXIT空间和时间🚪188",
+        "name": "theworldneedsme",
+        "pinned_tweet_id": "1992972760864461294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992771743790796802/CYSlfHUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 146,
+          "like_count": 16532,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 940
+        },
+        "username": "zyan67079",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028080512070512640"
+      ],
+      "media_source_tweet_id": [
+        "2028080520253636703"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028431049387294934",
+    "created_at": "2026-03-02T11:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T12:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028431049387294934"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 16,
+          "tag": "フォロワーさんの推しが描きたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593879539259957254",
+          "start": 3,
+          "username": "Jishou_210"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ILeDI2UdJS",
+          "end": 67,
+          "expanded_url": "https://x.com/Jishou_210/status/2028080520253636703/photo/1",
+          "media_key": "3_2028080512070512640",
+          "start": 44,
+          "url": "https://t.co/ILeDI2UdJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028431049387294934",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 582
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028080520253636703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jishou_210: #フォロワーさんの推しが描きたい\n※ジャンルごちゃまぜ https://t.co/ILeDI2UdJS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028080512070512640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUwewHa8AACskw.jpg",
+        "width": 1422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028080512070512640"
+          ],
+          "media_source_tweet_id": [
+            "2028080520253636703"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028431049387294934",
+        "created_at": "2026-03-02T11:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028431049387294934"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 16,
+              "tag": "フォロワーさんの推しが描きたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593879539259957254",
+              "start": 3,
+              "username": "Jishou_210"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILeDI2UdJS",
+              "end": 67,
+              "expanded_url": "https://x.com/Jishou_210/status/2028080520253636703/photo/1",
+              "media_key": "3_2028080512070512640",
+              "start": 44,
+              "url": "https://t.co/ILeDI2UdJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028431049387294934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 582
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028080520253636703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jishou_210: #フォロワーさんの推しが描きたい\n※ジャンルごちゃまぜ https://t.co/ILeDI2UdJS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028080512070512640"
+          ]
+        },
+        "author_id": "1593879539259957254",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028080520253636703",
+        "created_at": "2026-03-01T12:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028080520253636703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "フォロワーさんの推しが描きたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILeDI2UdJS",
+              "end": 51,
+              "expanded_url": "https://x.com/Jishou_210/status/2028080520253636703/photo/1",
+              "media_key": "3_2028080512070512640",
+              "start": 28,
+              "url": "https://t.co/ILeDI2UdJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028080520253636703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 498,
+          "impression_count": 70012,
+          "like_count": 5315,
+          "quote_count": 60,
+          "reply_count": 26,
+          "retweet_count": 582
+        },
+        "reply_settings": "everyone",
+        "text": "#フォロワーさんの推しが描きたい\n※ジャンルごちゃまぜ https://t.co/ILeDI2UdJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 2001,
+          "like_count": 66280,
+          "listed_count": 8,
+          "media_count": 1566,
+          "tweet_count": 10501
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T08:11:33.000Z",
+        "description": "不安定な人を描くのが好き 朝比奈母娘❄️中心。たまに一次創作。ご依頼 skeb→ https://t.co/28LY5KFDpO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Jishou_210",
+                "end": 64,
+                "expanded_url": "https://skeb.jp/@Jishou_210",
+                "start": 41,
+                "url": "https://t.co/28LY5KFDpO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/95885970",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/95885970",
+                "start": 0,
+                "url": "https://t.co/uYSIgciYCC"
+              }
+            ]
+          }
+        },
+        "id": "1593879539259957254",
+        "location": "流血.不穏⚠️無断転載禁止 Don't re-upload.",
+        "name": "寝暗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015351145284485120/5YQU3Qi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55661,
+          "following_count": 27,
+          "like_count": 2510,
+          "listed_count": 109,
+          "media_count": 403,
+          "tweet_count": 1467
+        },
+        "url": "https://t.co/uYSIgciYCC",
+        "username": "Jishou_210",
+        "verified": false
+      }
+    ]
+  }
+}

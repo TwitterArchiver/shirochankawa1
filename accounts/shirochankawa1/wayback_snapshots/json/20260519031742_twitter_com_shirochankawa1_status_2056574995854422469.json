@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2056470383008850054",
+    "created_at": "2026-05-19T03:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T04:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056574995854422469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049936405586214912",
+          "start": 0,
+          "username": "Tear060714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056574995854422469",
+    "in_reply_to_user_id": "2049936405586214912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056499278282170538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tear060714 唉我也经历过，好痛苦，抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "3_2056499273676795904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIonMZBasAAwvR3.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2056470383008850054",
+        "created_at": "2026-05-19T03:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056574995854422469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049936405586214912",
+              "start": 0,
+              "username": "Tear060714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056574995854422469",
+        "in_reply_to_user_id": "2049936405586214912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056499278282170538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tear060714 唉我也经历过，好痛苦，抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056499273676795904"
+          ]
+        },
+        "author_id": "2049936405586214912",
+        "conversation_id": "2056470383008850054",
+        "created_at": "2026-05-18T22:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T23:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056499278282170538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JlmX7u1tyy",
+              "end": 53,
+              "expanded_url": "https://x.com/Tear060714/status/2056499278282170538/photo/1",
+              "media_key": "3_2056499273676795904",
+              "start": 30,
+              "url": "https://t.co/JlmX7u1tyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056499278282170538",
+        "in_reply_to_user_id": "2049936405586214912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1026,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056470383008850054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈我是小丑我把人家当好朋友人家只把我当个无关紧要的人 https://t.co/JlmX7u1tyy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 2083,
+          "like_count": 69612,
+          "listed_count": 8,
+          "media_count": 1698,
+          "tweet_count": 11469
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T19:40:14.000Z",
+        "description": "我是穆穆 生理男 廣東 直的喜歡女生\n照片重加工",
+        "id": "2049936405586214912",
+        "location": "🚪52",
+        "name": "絲",
+        "pinned_tweet_id": "2050955624448737692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051773715269259264/IQ6UsklO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 146,
+          "like_count": 179,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 184
+        },
+        "username": "Tear060714",
+        "verified": false
+      }
+    ]
+  }
+}

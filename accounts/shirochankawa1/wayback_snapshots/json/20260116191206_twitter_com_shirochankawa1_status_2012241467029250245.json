@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2012241467029250245",
+    "created_at": "2026-01-16T19:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T20:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012241467029250245"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012241467029250245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们可以建立起友好的，平等的关系吗？我们没有恶意，就像小狗闻闻味道，小猫碰碰鼻子，然后认定对方是好朋友的关系，不管是摇起尾巴，还是呼噜呼噜，我们做朋友吧，我已经做好了为你流泪的准备。…人是动物，人是人，是猫，是狗，是众生…如果我想支配你，那也请你来支配我。好吗？你愿意吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2012241467029250245",
+        "created_at": "2026-01-16T19:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T20:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012241467029250245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012241467029250245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们可以建立起友好的，平等的关系吗？我们没有恶意，就像小狗闻闻味道，小猫碰碰鼻子，然后认定对方是好朋友的关系，不管是摇起尾巴，还是呼噜呼噜，我们做朋友吧，我已经做好了为你流泪的准备。…人是动物，人是人，是猫，是狗，是众生…如果我想支配你，那也请你来支配我。好吗？你愿意吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点/🚪100",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 1962,
+          "like_count": 62530,
+          "listed_count": 8,
+          "media_count": 1395,
+          "tweet_count": 9522
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

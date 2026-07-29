@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2018335017546706999",
+    "created_at": "2026-02-02T16:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T17:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018365824302739780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1456640419060944896",
+          "start": 0,
+          "username": "gulingf3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018365824302739780",
+    "in_reply_to_user_id": "1456640419060944896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018340750707323340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gulingf3 辛苦你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2018335017546706999",
+        "created_at": "2026-02-02T16:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018365824302739780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1456640419060944896",
+              "start": 0,
+              "username": "gulingf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018365824302739780",
+        "in_reply_to_user_id": "1456640419060944896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018340750707323340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gulingf3 辛苦你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456640419060944896",
+        "conversation_id": "2018335017546706999",
+        "created_at": "2026-02-02T15:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018340750707323340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018340750707323340",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018335017546706999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 我覺得我也挺抽象的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2049,
+          "following_count": 1957,
+          "like_count": 63650,
+          "listed_count": 8,
+          "media_count": 1437,
+          "tweet_count": 9746
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-05T15:12:25.000Z",
+        "description": "002 ❤️ | INFP | 剛從2次元進入2.5次元 | 不善言辭 |",
+        "id": "1456640419060944896",
+        "location": "台灣，新北",
+        "name": "gulingf3",
+        "pinned_tweet_id": "1998038337685500195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985746620538109952/U2ZggV_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 222,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1105
+        },
+        "username": "gulingf3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2060678977048690836",
+    "created_at": "2026-05-30T11:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060678977048690836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1750329917252976640",
+          "start": 3,
+          "username": "yueyue8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060678977048690836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060603983236857890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueyue8964: 鹿野那个事情在我看来就是角色嬷被圈外人攻陷了 我求你们不要打拳了我好难受我从来没有抨击过女拳 但我这次真求你们了😂我记得给男角色画b也没人骂啊。。嗯嗯额额？你们咋了🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2060678977048690836",
+        "created_at": "2026-05-30T11:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060678977048690836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750329917252976640",
+              "start": 3,
+              "username": "yueyue8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060678977048690836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060603983236857890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yueyue8964: 鹿野那个事情在我看来就是角色嬷被圈外人攻陷了 我求你们不要打拳了我好难受我从来没有抨击过女拳 但我这次真求你们了😂我记得给男角色画b也没人骂啊。。嗯嗯额额？你们咋了🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750329917252976640",
+        "conversation_id": "2060603983236857890",
+        "created_at": "2026-05-30T06:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060603983236857890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060603983236857890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1075,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鹿野那个事情在我看来就是角色嬷被圈外人攻陷了 我求你们不要打拳了我好难受我从来没有抨击过女拳 但我这次真求你们了😂我记得给男角色画b也没人骂啊。。嗯嗯额额？你们咋了🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2581,
+          "following_count": 2107,
+          "like_count": 70340,
+          "listed_count": 8,
+          "media_count": 1738,
+          "tweet_count": 11699
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "自私",
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1865899514122666310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9977,
+          "following_count": 552,
+          "like_count": 11037,
+          "listed_count": 22,
+          "media_count": 493,
+          "tweet_count": 13558
+        },
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

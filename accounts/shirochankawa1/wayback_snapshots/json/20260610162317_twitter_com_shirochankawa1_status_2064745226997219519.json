@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064521767230885888",
+        "3_2064521767235067904"
+      ],
+      "media_source_tweet_id": [
+        "2064521775963373741",
+        "2064521775963373741"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2064745226997219519",
+    "created_at": "2026-06-10T16:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T17:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064745226997219519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1695129319767674880",
+          "start": 3,
+          "username": "ayakano_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hdV2lu2n0v",
+          "end": 49,
+          "expanded_url": "https://x.com/ayakano_x/status/2064521775963373741/photo/1",
+          "media_key": "3_2064521767230885888",
+          "start": 26,
+          "url": "https://t.co/hdV2lu2n0v"
+        },
+        {
+          "display_url": "pic.x.com/hdV2lu2n0v",
+          "end": 49,
+          "expanded_url": "https://x.com/ayakano_x/status/2064521775963373741/photo/1",
+          "media_key": "3_2064521767235067904",
+          "start": 26,
+          "url": "https://t.co/hdV2lu2n0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064745226997219519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1232
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064521775963373741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayakano_x: 不是说好不逃走的吗? https://t.co/hdV2lu2n0v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064521767230885888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKanm-bb0AARAuV.jpg",
+        "width": 1486
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064521767235067904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKanm-cboAAmy_v.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064521767230885888",
+            "3_2064521767235067904"
+          ],
+          "media_source_tweet_id": [
+            "2064521775963373741",
+            "2064521775963373741"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2064745226997219519",
+        "created_at": "2026-06-10T16:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064745226997219519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695129319767674880",
+              "start": 3,
+              "username": "ayakano_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdV2lu2n0v",
+              "end": 49,
+              "expanded_url": "https://x.com/ayakano_x/status/2064521775963373741/photo/1",
+              "media_key": "3_2064521767230885888",
+              "start": 26,
+              "url": "https://t.co/hdV2lu2n0v"
+            },
+            {
+              "display_url": "pic.x.com/hdV2lu2n0v",
+              "end": 49,
+              "expanded_url": "https://x.com/ayakano_x/status/2064521775963373741/photo/1",
+              "media_key": "3_2064521767235067904",
+              "start": 26,
+              "url": "https://t.co/hdV2lu2n0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064745226997219519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1232
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064521775963373741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayakano_x: 不是说好不逃走的吗? https://t.co/hdV2lu2n0v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064521767230885888",
+            "3_2064521767235067904"
+          ]
+        },
+        "author_id": "1695129319767674880",
+        "conversation_id": "2064521775963373741",
+        "created_at": "2026-06-10T01:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064521775963373741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdV2lu2n0v",
+              "end": 34,
+              "expanded_url": "https://x.com/ayakano_x/status/2064521775963373741/photo/1",
+              "media_key": "3_2064521767230885888",
+              "start": 11,
+              "url": "https://t.co/hdV2lu2n0v"
+            },
+            {
+              "display_url": "pic.x.com/hdV2lu2n0v",
+              "end": 34,
+              "expanded_url": "https://x.com/ayakano_x/status/2064521775963373741/photo/1",
+              "media_key": "3_2064521767235067904",
+              "start": 11,
+              "url": "https://t.co/hdV2lu2n0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064521775963373741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1913,
+          "impression_count": 708784,
+          "like_count": 16479,
+          "quote_count": 150,
+          "reply_count": 33,
+          "retweet_count": 1232
+        },
+        "reply_settings": "everyone",
+        "text": "不是说好不逃走的吗? https://t.co/hdV2lu2n0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2701,
+          "following_count": 2155,
+          "like_count": 71038,
+          "listed_count": 8,
+          "media_count": 1768,
+          "tweet_count": 11930
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T17:41:45.000Z",
+        "description": "어 그래 트친들아 치파오입어라 트친들 치파오입어 치파오입어라 치파오 이것 좀 입어봐 어 그래 치피오 좀 입어봐라 치파오 입어보래도? 트친들아 치파오 안입냐 치파오 입어라",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/ayakadesu",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/ayakadesu",
+                "start": 0,
+                "url": "https://t.co/tqrzq4AJFk"
+              }
+            ]
+          }
+        },
+        "id": "1695129319767674880",
+        "location": "19↑ 女",
+        "name": "あやか",
+        "pinned_tweet_id": "2061746911561076737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039042720376016896/4j7JtOxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 403,
+          "like_count": 73961,
+          "listed_count": 2,
+          "media_count": 841,
+          "tweet_count": 8674
+        },
+        "url": "https://t.co/tqrzq4AJFk",
+        "username": "ayakano_x",
+        "verified": false
+      }
+    ]
+  }
+}

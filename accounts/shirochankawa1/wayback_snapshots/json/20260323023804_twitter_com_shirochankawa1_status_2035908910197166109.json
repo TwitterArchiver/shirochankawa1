@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2035772308011503640",
+    "created_at": "2026-03-23T02:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T03:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035908910197166109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1490159486006222852",
+          "start": 0,
+          "username": "Nemuyoru_Nemuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035908910197166109",
+    "in_reply_to_user_id": "1490159486006222852",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035904938983948455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nemuyoru_Nemuko 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2035772308011503640",
+        "created_at": "2026-03-23T02:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035908910197166109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1490159486006222852",
+              "start": 0,
+              "username": "Nemuyoru_Nemuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035908910197166109",
+        "in_reply_to_user_id": "1490159486006222852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035904938983948455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nemuyoru_Nemuko 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490159486006222852",
+        "conversation_id": "2035772308011503640",
+        "created_at": "2026-03-23T02:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035904938983948455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035904938983948455",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035772308011503640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 想和你互关！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 2026,
+          "like_count": 67964,
+          "listed_count": 8,
+          "media_count": 1608,
+          "tweet_count": 10860
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T03:05:02.000Z",
+        "description": "眠/双相/06/pan/intp/纯话痨/互联网小猫/低社会化/🚪仅纯绿52",
+        "id": "1490159486006222852",
+        "location": "heeeeeeell",
+        "name": "无眠",
+        "pinned_tweet_id": "1741466272272175515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957212660078084096/5q7ENt7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 272,
+          "like_count": 6519,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 3004
+        },
+        "username": "Nemuyoru_Nemuko",
+        "verified": false
+      }
+    ]
+  }
+}

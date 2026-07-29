@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993234482938494976"
+      ],
+      "media_source_tweet_id": [
+        "1993234499086565592"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1993570519321657725",
+    "created_at": "2025-11-26T06:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T07:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993570519321657725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902317689085030402",
+          "start": 3,
+          "username": "Hifu_03333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ux6e5cwcrV",
+          "end": 39,
+          "expanded_url": "https://x.com/Hifu_03333/status/1993234499086565592/photo/1",
+          "media_key": "3_1993234482938494976",
+          "start": 16,
+          "url": "https://t.co/ux6e5cwcrV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993570519321657725",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993234499086565592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hifu_03333: https://t.co/ux6e5cwcrV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993234482938494976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lkM52bwAAGwsJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993234482938494976"
+          ],
+          "media_source_tweet_id": [
+            "1993234499086565592"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "1993570519321657725",
+        "created_at": "2025-11-26T06:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T07:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993570519321657725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902317689085030402",
+              "start": 3,
+              "username": "Hifu_03333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ux6e5cwcrV",
+              "end": 39,
+              "expanded_url": "https://x.com/Hifu_03333/status/1993234499086565592/photo/1",
+              "media_key": "3_1993234482938494976",
+              "start": 16,
+              "url": "https://t.co/ux6e5cwcrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993570519321657725",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993234499086565592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hifu_03333: https://t.co/ux6e5cwcrV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993234482938494976"
+          ]
+        },
+        "author_id": "1902317689085030402",
+        "conversation_id": "1993234499086565592",
+        "created_at": "2025-11-25T08:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993234499086565592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ux6e5cwcrV",
+              "end": 23,
+              "expanded_url": "https://x.com/Hifu_03333/status/1993234499086565592/photo/1",
+              "media_key": "3_1993234482938494976",
+              "start": 0,
+              "url": "https://t.co/ux6e5cwcrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993234499086565592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 23536,
+          "like_count": 3109,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ux6e5cwcrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 ，亲友投喂100解锁心理委员",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 1957,
+          "like_count": 61453,
+          "listed_count": 8,
+          "media_count": 1282,
+          "tweet_count": 8949
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T11:14:29.000Z",
+        "description": "DV 自創作 ⚠️病人の絵を描きます #病院宛カルテ @shirayori_0333 画集11月下旬再販予定",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "病院宛カルテ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "shirayori_0333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shirayori.booth.pm",
+                "end": 23,
+                "expanded_url": "https://shirayori.booth.pm",
+                "start": 0,
+                "url": "https://t.co/2pcXnpI5aG"
+              }
+            ]
+          }
+        },
+        "id": "1902317689085030402",
+        "location": "✉️shirayori0333@outlook.jp",
+        "name": "白依病院",
+        "pinned_tweet_id": "1910300250914553862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902336694806048771/h-eBjfov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18586,
+          "following_count": 30,
+          "like_count": 1810,
+          "listed_count": 46,
+          "media_count": 365,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/2pcXnpI5aG",
+        "username": "Hifu_03333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042931683591385088"
+      ],
+      "media_source_tweet_id": [
+        "2042931689635353035"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2043103562700591334",
+    "created_at": "2026-04-11T23:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T00:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043103562700591334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1211594361076506624",
+          "start": 3,
+          "username": "hata002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6XoOJwM3V1",
+          "end": 36,
+          "expanded_url": "https://x.com/hata002/status/2042931689635353035/photo/1",
+          "media_key": "3_2042931683591385088",
+          "start": 13,
+          "url": "https://t.co/6XoOJwM3V1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043103562700591334",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042931689635353035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hata002: https://t.co/6XoOJwM3V1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2042931683591385088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnzitTa8AAD-Hf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042931683591385088"
+          ],
+          "media_source_tweet_id": [
+            "2042931689635353035"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2043103562700591334",
+        "created_at": "2026-04-11T23:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T00:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043103562700591334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1211594361076506624",
+              "start": 3,
+              "username": "hata002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XoOJwM3V1",
+              "end": 36,
+              "expanded_url": "https://x.com/hata002/status/2042931689635353035/photo/1",
+              "media_key": "3_2042931683591385088",
+              "start": 13,
+              "url": "https://t.co/6XoOJwM3V1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043103562700591334",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042931689635353035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hata002: https://t.co/6XoOJwM3V1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042931683591385088"
+          ]
+        },
+        "author_id": "1211594361076506624",
+        "conversation_id": "2042931689635353035",
+        "created_at": "2026-04-11T11:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042931689635353035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XoOJwM3V1",
+              "end": 23,
+              "expanded_url": "https://x.com/hata002/status/2042931689635353035/photo/1",
+              "media_key": "3_2042931683591385088",
+              "start": 0,
+              "url": "https://t.co/6XoOJwM3V1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042931689635353035",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 9559,
+          "like_count": 1144,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6XoOJwM3V1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 2037,
+          "like_count": 68305,
+          "listed_count": 8,
+          "media_count": 1641,
+          "tweet_count": 11054
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-30T10:26:27.000Z",
+        "description": "しがない絵描きですグロ注意🔞。エロゲ とすかぢ先生が大好きです。リポスト♡ありがとうございます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/114624979",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/114624979",
+                "start": 0,
+                "url": "https://t.co/EHXwpFLwlQ"
+              }
+            ]
+          }
+        },
+        "id": "1211594361076506624",
+        "location": "07-20-2012-1999👁",
+        "name": "はた坊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659871054393901056/vtr8EjMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3499,
+          "following_count": 82,
+          "like_count": 10145,
+          "listed_count": 17,
+          "media_count": 506,
+          "tweet_count": 4894
+        },
+        "url": "https://t.co/EHXwpFLwlQ",
+        "username": "hata002",
+        "verified": false
+      }
+    ]
+  }
+}

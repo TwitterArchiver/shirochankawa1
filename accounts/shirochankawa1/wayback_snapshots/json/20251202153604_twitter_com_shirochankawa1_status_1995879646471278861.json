@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995879639349334016",
+        "3_1995879639403954181"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1995879646471278861",
+    "created_at": "2025-12-02T15:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T16:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995879646471278861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7j3a3uduj6",
+          "end": 55,
+          "expanded_url": "https://x.com/shirochankawa1/status/1995879646471278861/photo/1",
+          "media_key": "3_1995879639349334016",
+          "start": 32,
+          "url": "https://t.co/7j3a3uduj6"
+        },
+        {
+          "display_url": "pic.x.com/7j3a3uduj6",
+          "end": 55,
+          "expanded_url": "https://x.com/shirochankawa1/status/1995879646471278861/photo/1",
+          "media_key": "3_1995879639403954181",
+          "start": 32,
+          "url": "https://t.co/7j3a3uduj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995879646471278861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也是把我的地偶企划实现了，这还是我众多阴暗逼设定里面唯一的阳角 https://t.co/7j3a3uduj6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995879646471278861].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995879646471278861",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995879646471278861"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995879639349334016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LJ9RXaEAAZoTh.jpg",
+        "width": 588
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1995879639403954181",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LJ9RkbgAU1qwT.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 1981,
+          "like_count": 62400,
+          "listed_count": 8,
+          "media_count": 1315,
+          "tweet_count": 9242
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

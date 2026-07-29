@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016826130251337729"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2016826143010410815",
+    "created_at": "2026-01-29T10:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T11:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016826143010410815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A2Q1s8FWjw",
+          "end": 27,
+          "expanded_url": "https://x.com/shirochankawa1/status/2016826143010410815/photo/1",
+          "media_key": "3_2016826130251337729",
+          "start": 4,
+          "url": "https://t.co/A2Q1s8FWjw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016826143010410815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鼠宝宝 https://t.co/A2Q1s8FWjw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016826143010410815].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016826143010410815",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016826143010410815"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2016826130251337729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_00rgtbUAEmhzR.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 1955,
+          "like_count": 63493,
+          "listed_count": 8,
+          "media_count": 1420,
+          "tweet_count": 9704
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

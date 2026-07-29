@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2058874771606311203",
+    "created_at": "2026-05-25T11:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058874771606311203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1292709744432435200",
+          "start": 3,
+          "username": "0M3a99sOgeVJOdD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058874771606311203",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058872706620387466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0M3a99sOgeVJOdD: 自分がリクしたわけじゃないけどずっとながせさんの描くエリオット見たかったから嬉しすぎる&gt;&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2058874771606311203",
+        "created_at": "2026-05-25T11:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058874771606311203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1292709744432435200",
+              "start": 3,
+              "username": "0M3a99sOgeVJOdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058874771606311203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058872706620387466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0M3a99sOgeVJOdD: 自分がリクしたわけじゃないけどずっとながせさんの描くエリオット見たかったから嬉しすぎる&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292709744432435200",
+        "conversation_id": "2058872706620387466",
+        "created_at": "2026-05-25T11:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058872706620387466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/slnx_01/status…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/slnx_01/status/2058872296379695204",
+              "start": 52,
+              "url": "https://t.co/9MAyV30Soh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058872706620387466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058872296379695204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自分がリクしたわけじゃないけどずっとながせさんの描くエリオット見たかったから嬉しすぎる&gt;&lt; https://t.co/9MAyV30Soh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 2095,
+          "like_count": 70034,
+          "listed_count": 8,
+          "media_count": 1722,
+          "tweet_count": 11614
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-10T06:30:05.000Z",
+        "description": "18⇧気ままに推し活してます 弾き語りと写真が好きです　アイコンは描いていただきました!!→@10_slnx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "10_slnx"
+              }
+            ]
+          }
+        },
+        "id": "1292709744432435200",
+        "location": "ふゆうれい",
+        "name": "よはく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926738285751148545/BxK-d2Xd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 1285,
+          "like_count": 51742,
+          "listed_count": 15,
+          "media_count": 555,
+          "tweet_count": 24495
+        },
+        "username": "0M3a99sOgeVJOdD",
+        "verified": false
+      }
+    ]
+  }
+}

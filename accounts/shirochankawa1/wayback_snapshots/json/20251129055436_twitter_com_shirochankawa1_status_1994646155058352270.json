@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1994598364349174026",
+    "created_at": "2025-11-29T05:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994646155058352270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791859287725400064",
+          "start": 0,
+          "username": "emiya_lin6461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994646155058352270",
+    "in_reply_to_user_id": "1791859287725400064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994641420616077538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emiya_lin6461 那还行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1994598364349174026",
+        "created_at": "2025-11-29T05:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994646155058352270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791859287725400064",
+              "start": 0,
+              "username": "emiya_lin6461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994646155058352270",
+        "in_reply_to_user_id": "1791859287725400064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994641420616077538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emiya_lin6461 那还行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791859287725400064",
+        "conversation_id": "1994598364349174026",
+        "created_at": "2025-11-29T05:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994641420616077538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994641420616077538",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994598364349174026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 日本是一超多強的那個強，本身就有列強的實力。還是個海洋國家，海軍實力很強。打台灣都比打日本靠譜，但是任意打其中一個自動會觸發對美宣戰。蘇聯在的時候日本都不會有事，老鐘比老蘇差太多了。實際只能嘴炮，這只是政治表演。現代國家軍事部署是躲不開衛星監視的，只要有動作老美一早就知道了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674   English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 1980,
+          "like_count": 62166,
+          "listed_count": 8,
+          "media_count": 1305,
+          "tweet_count": 9165
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T15:52:59.000Z",
+        "description": "願你抵達彼岸/比起什麼都不做，去做點什麼/只有我自己能代表我/那個主義根本不會帶來共同富裕和幸福/互fo私信",
+        "id": "1791859287725400064",
+        "location": "阿瓦隆",
+        "name": "夢想已過保質期",
+        "pinned_tweet_id": "1994623928086794584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994636225232474114/k3YM0Fbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 31,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 164
+        },
+        "username": "emiya_lin6461",
+        "verified": false
+      }
+    ]
+  }
+}

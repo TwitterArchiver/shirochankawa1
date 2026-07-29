@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058576928114647040"
+      ],
+      "media_source_tweet_id": [
+        "2058576933579808963"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2059227874641813727",
+    "created_at": "2026-05-26T10:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059227874641813727"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 26,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2005684052167417856",
+          "start": 3,
+          "username": "swrdia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ISAsMZEC7F",
+          "end": 70,
+          "expanded_url": "https://x.com/swrdia/status/2058576933579808963/photo/1",
+          "media_key": "3_2058576928114647040",
+          "start": 47,
+          "url": "https://t.co/ISAsMZEC7F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059227874641813727",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058576933579808963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @swrdia: rn: 100yb100\n #NEEDY_GIRL_OVERDOSE https://t.co/ISAsMZEC7F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1565,
+        "media_key": "3_2058576928114647040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGIzy8WoAAQliF.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058576928114647040"
+          ],
+          "media_source_tweet_id": [
+            "2058576933579808963"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2059227874641813727",
+        "created_at": "2026-05-26T10:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059227874641813727"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 26,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2005684052167417856",
+              "start": 3,
+              "username": "swrdia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISAsMZEC7F",
+              "end": 70,
+              "expanded_url": "https://x.com/swrdia/status/2058576933579808963/photo/1",
+              "media_key": "3_2058576928114647040",
+              "start": 47,
+              "url": "https://t.co/ISAsMZEC7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059227874641813727",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058576933579808963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @swrdia: rn: 100yb100\n #NEEDY_GIRL_OVERDOSE https://t.co/ISAsMZEC7F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058576928114647040"
+          ]
+        },
+        "author_id": "2005684052167417856",
+        "conversation_id": "2058576933579808963",
+        "created_at": "2026-05-24T15:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058576933579808963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 14,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISAsMZEC7F",
+              "end": 58,
+              "expanded_url": "https://x.com/swrdia/status/2058576933579808963/photo/1",
+              "media_key": "3_2058576928114647040",
+              "start": 35,
+              "url": "https://t.co/ISAsMZEC7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058576933579808963",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1049,
+          "impression_count": 91913,
+          "like_count": 13111,
+          "quote_count": 19,
+          "reply_count": 3,
+          "retweet_count": 2116
+        },
+        "reply_settings": "everyone",
+        "text": "rn: 100yb100\n #NEEDY_GIRL_OVERDOSE https://t.co/ISAsMZEC7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 2094,
+          "like_count": 70056,
+          "listed_count": 8,
+          "media_count": 1725,
+          "tweet_count": 11622
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T16:55:43.000Z",
+        "description": "aesthetically pleasing",
+        "id": "2005684052167417856",
+        "location": "𓏵",
+        "name": "ً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050008475585970176/ucjDn0EL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 25,
+          "like_count": 3383,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 44
+        },
+        "username": "swrdia",
+        "verified": false
+      }
+    ]
+  }
+}

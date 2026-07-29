@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021136996836712448"
+      ],
+      "media_source_tweet_id": [
+        "2021137000217313332"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2021182223244828922",
+    "created_at": "2026-02-10T11:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T12:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021182223244828922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1647815138450505730",
+          "start": 3,
+          "username": "yaming00742313"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ihe80W2Yru",
+          "end": 116,
+          "expanded_url": "https://x.com/yaming00742313/status/2021137000217313332/photo/1",
+          "media_key": "3_2021136996836712448",
+          "start": 93,
+          "url": "https://t.co/Ihe80W2Yru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021182223244828922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021137000217313332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaming00742313: 人们什么时候才能意识到要爱具体的人，恨具体的人，而不是根据某一标签就一棒子打死所有人，当你对某一群体有好人滤镜或坏人滤镜时，本质只是底层互害。… https://t.co/Ihe80W2Yru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021136996836712448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyFY-LaIAAAUv5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021136996836712448"
+          ],
+          "media_source_tweet_id": [
+            "2021137000217313332"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2021182223244828922",
+        "created_at": "2026-02-10T11:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021182223244828922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1647815138450505730",
+              "start": 3,
+              "username": "yaming00742313"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ihe80W2Yru",
+              "end": 116,
+              "expanded_url": "https://x.com/yaming00742313/status/2021137000217313332/photo/1",
+              "media_key": "3_2021136996836712448",
+              "start": 93,
+              "url": "https://t.co/Ihe80W2Yru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021182223244828922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021137000217313332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaming00742313: 人们什么时候才能意识到要爱具体的人，恨具体的人，而不是根据某一标签就一棒子打死所有人，当你对某一群体有好人滤镜或坏人滤镜时，本质只是底层互害。… https://t.co/Ihe80W2Yru"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021136996836712448"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "conversation_id": "2021137000217313332",
+        "created_at": "2026-02-10T08:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T09:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021137000217313332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ihe80W2Yru",
+              "end": 95,
+              "expanded_url": "https://x.com/yaming00742313/status/2021137000217313332/photo/1",
+              "media_key": "3_2021136996836712448",
+              "start": 72,
+              "url": "https://t.co/Ihe80W2Yru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021137000217313332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "人们什么时候才能意识到要爱具体的人，恨具体的人，而不是根据某一标签就一棒子打死所有人，当你对某一群体有好人滤镜或坏人滤镜时，本质只是底层互害。\n当然，由创伤产生的对某一特质的阴影是必须被允许的，但你也要知道，被你由于你的创伤而伤害的人没有义务为你负责，更没有义务承受毫无根据的恶意，你们甚至可能只是萍水相逢的陌生人。\n所以，“做纯粹的人，做具体的事”也是我们一直以来的行事风格吧，尽管过程曲折，但找我们求助的人，请记住，我爱你与你何干?你恨我，亦与我无关。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 752,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "人们什么时候才能意识到要爱具体的人，恨具体的人，而不是根据某一标签就一棒子打死所有人，当你对某一群体有好人滤镜或坏人滤镜时，本质只是底层互害。 https://t.co/Ihe80W2Yru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 1966,
+          "like_count": 63817,
+          "listed_count": 8,
+          "media_count": 1460,
+          "tweet_count": 9863
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1957361981465522636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12190,
+          "following_count": 1556,
+          "like_count": 6937,
+          "listed_count": 30,
+          "media_count": 361,
+          "tweet_count": 2604
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

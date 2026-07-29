@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024040159449092357",
+    "created_at": "2026-02-19T00:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T01:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024276700809551985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1655563133094621195",
+          "start": 0,
+          "username": "chnsqng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024276700809551985",
+    "in_reply_to_user_id": "1655563133094621195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024190679866626308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnsqng 你吃雌二醇吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024040159449092357",
+        "created_at": "2026-02-19T00:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T01:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024276700809551985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1655563133094621195",
+              "start": 0,
+              "username": "chnsqng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024276700809551985",
+        "in_reply_to_user_id": "1655563133094621195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024190679866626308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnsqng 你吃雌二醇吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655563133094621195",
+        "conversation_id": "2024040159449092357",
+        "created_at": "2026-02-18T18:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T19:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024190679866626308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024190679866626308",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024040159449092357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 男的女孩可以吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 1981,
+          "like_count": 64600,
+          "listed_count": 8,
+          "media_count": 1505,
+          "tweet_count": 10083
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T13:20:03.000Z",
+        "description": "。",
+        "id": "1655563133094621195",
+        "location": "東京 新宿区",
+        "name": "陈四清",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655563418059808769/mK_Lq102_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 60,
+          "like_count": 58,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 476
+        },
+        "username": "chnsqng",
+        "verified": false
+      }
+    ]
+  }
+}

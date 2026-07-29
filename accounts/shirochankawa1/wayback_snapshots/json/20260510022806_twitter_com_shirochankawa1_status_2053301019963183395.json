@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2053301019963183395",
+    "created_at": "2026-05-10T02:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T03:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053301019963183395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        },
+        {
+          "end": 30,
+          "id": "1713713115270139904",
+          "start": 15,
+          "username": "shirochankawa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053301019963183395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053292612044607976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: @shirochankawa1 感謝人美心善好闺闺送的礼物啊！非常人美心善啊\n自我介绍：主喜欢主播女孩弹丸罗破的非常人美心善的小姐姐一枚啊！！你简直是超天酱本人啊！喜欢在短视频平台发点低脂短视频啊\n你们千万不要巴结啊千万不要认识她啊！！ https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2053292608823443456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7Cv7jbQAAhuTL.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2053301019963183395",
+        "created_at": "2026-05-10T02:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053301019963183395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            },
+            {
+              "end": 30,
+              "id": "1713713115270139904",
+              "start": 15,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053301019963183395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053292612044607976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: @shirochankawa1 感謝人美心善好闺闺送的礼物啊！非常人美心善啊\n自我介绍：主喜欢主播女孩弹丸罗破的非常人美心善的小姐姐一枚啊！！你简直是超天酱本人啊！喜欢在短视频平台发点低脂短视频啊\n你们千万不要巴结啊千万不要认识她啊！！ https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053292608823443456"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2053292612044607976",
+        "created_at": "2026-05-10T01:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053292612044607976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzqi9Cp1SE",
+              "end": 142,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2053292612044607976/photo/1",
+              "media_key": "3_2053292608823443456",
+              "start": 119,
+              "url": "https://t.co/mzqi9Cp1SE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053292612044607976",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 感謝人美心善好闺闺送的礼物啊！非常人美心善啊\n自我介绍：主喜欢主播女孩弹丸罗破的非常人美心善的小姐姐一枚啊！！你简直是超天酱本人啊！喜欢在短视频平台发点低脂短视频啊\n你们千万不要巴结啊千万不要认识她啊！！ https://t.co/mzqi9Cp1SE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 2069,
+          "like_count": 68712,
+          "listed_count": 8,
+          "media_count": 1673,
+          "tweet_count": 11247
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 414,
+          "like_count": 708,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 1915
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

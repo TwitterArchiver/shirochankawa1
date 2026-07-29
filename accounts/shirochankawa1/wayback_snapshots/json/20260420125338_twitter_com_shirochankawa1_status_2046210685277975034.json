@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2045624850082058590",
+    "created_at": "2026-04-20T12:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046210685277975034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1928018874454163456",
+          "start": 0,
+          "username": "AA5587664820518"
+        },
+        {
+          "end": 33,
+          "id": "1835278193085087744",
+          "start": 17,
+          "username": "Sunflowers_2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046210685277975034",
+    "in_reply_to_user_id": "1928018874454163456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046199004602740764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AA5587664820518 @Sunflowers_2233 我不是抑郁症啊我好不起来的我是双相精神分裂，而且我不需要可怜，我想以后成为很优秀的人，我不甘心这样，但是我只能这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2045624850082058590",
+        "created_at": "2026-04-20T12:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046210685277975034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1928018874454163456",
+              "start": 0,
+              "username": "AA5587664820518"
+            },
+            {
+              "end": 33,
+              "id": "1835278193085087744",
+              "start": 17,
+              "username": "Sunflowers_2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046210685277975034",
+        "in_reply_to_user_id": "1928018874454163456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046199004602740764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AA5587664820518 @Sunflowers_2233 我不是抑郁症啊我好不起来的我是双相精神分裂，而且我不需要可怜，我想以后成为很优秀的人，我不甘心这样，但是我只能这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928018874454163456",
+        "conversation_id": "2045624850082058590",
+        "created_at": "2026-04-20T12:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046199004602740764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            },
+            {
+              "end": 32,
+              "id": "1835278193085087744",
+              "start": 16,
+              "username": "Sunflowers_2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046199004602740764",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046150667560222948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 @Sunflowers_2233 我自己也抑郁过，为此休学一年，那是真不想上学。\n所以说了，互相开开玩笑罢了。\n毕竟这种情况下，不是把彼此当病人，展现出同情或可怜。而是当平常人一样对待，会更好一些，对吧？\n最后祝你早日康复，会好起来的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 2050,
+          "like_count": 68521,
+          "listed_count": 8,
+          "media_count": 1653,
+          "tweet_count": 11111
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T09:21:56.000Z",
+        "description": "一愿遍享人间美女，二愿天下太平、人人安居乐业",
+        "id": "1928018874454163456",
+        "name": "亦成",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 18,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 214
+        },
+        "username": "AA5587664820518",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T11:23:46.000Z",
+        "description": "=葵织/yukino\n💙vocaloid💙miku💙\n🇨🇳🇦🇺 中文/English/日本語機械翻訳\n想认识更多朋友！",
+        "id": "1835278193085087744",
+        "name": "TwT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991808044070789120/l8bdoFxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 52,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 143
+        },
+        "username": "Sunflowers_2233",
+        "verified": false
+      }
+    ]
+  }
+}

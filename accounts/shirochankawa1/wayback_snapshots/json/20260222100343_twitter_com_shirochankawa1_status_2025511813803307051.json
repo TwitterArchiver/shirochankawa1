@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2025504634656473244",
+    "created_at": "2026-02-22T10:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025511813803307051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1749512000340942848",
+          "start": 0,
+          "username": "jiu95061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025511813803307051",
+    "in_reply_to_user_id": "1749512000340942848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025504634656473244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu95061 萌神来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7592,
+        "height": 1280,
+        "media_key": "7_2025504591820001281",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025504591820001281/pu/img/g2iuC_SzR7GS534F.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025504591820001281/pu/vid/avc1/320x568/WY5fovIoyS9Vy3s4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025504591820001281/pu/vid/avc1/480x852/h-QApxdDY75cloJf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025504591820001281/pu/vid/avc1/720x1280/Fl2VqZj6VFjn51xV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025504591820001281/pu/pl/jeVBMLw-0sYSLqfK.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2025504634656473244",
+        "created_at": "2026-02-22T10:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025511813803307051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025511813803307051",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025504634656473244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 萌神来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025504591820001281"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "2025504634656473244",
+        "created_at": "2026-02-22T09:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025504634656473244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yqsglzbc0o",
+              "end": 40,
+              "expanded_url": "https://x.com/jiu95061/status/2025504634656473244/video/1",
+              "media_key": "7_2025504591820001281",
+              "start": 17,
+              "url": "https://t.co/Yqsglzbc0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025504634656473244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贴上假睫毛是不是有点大人感了呢？ https://t.co/Yqsglzbc0o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 1998,
+          "like_count": 65364,
+          "listed_count": 8,
+          "media_count": 1526,
+          "tweet_count": 10266
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 203,
+          "like_count": 1122,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1621
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

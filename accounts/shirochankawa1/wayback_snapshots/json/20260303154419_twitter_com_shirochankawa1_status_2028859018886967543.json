@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2028859018886967543",
+    "created_at": "2026-03-03T15:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T16:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028859018886967543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697998200366362624",
+          "start": 3,
+          "username": "LOUIELU1666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028859018886967543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028751817576951970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LOUIELU1666: 如果你对一个人太过上头，其实是你自身出现了问题，是你太需要一段感情了，而这时他刚好出现，他所有的好，不过都是你给他的光环和滤镜，而不是他本身有多好。他到底哪里好，你喜欢他身上的哪些特质，其实你自己也说不出所以然来，你爱的不过是一种幻想，你不是多…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2028859018886967543",
+        "created_at": "2026-03-03T15:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028859018886967543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697998200366362624",
+              "start": 3,
+              "username": "LOUIELU1666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028859018886967543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028751817576951970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LOUIELU1666: 如果你对一个人太过上头，其实是你自身出现了问题，是你太需要一段感情了，而这时他刚好出现，他所有的好，不过都是你给他的光环和滤镜，而不是他本身有多好。他到底哪里好，你喜欢他身上的哪些特质，其实你自己也说不出所以然来，你爱的不过是一种幻想，你不是多…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697998200366362624",
+        "conversation_id": "2028751817576951970",
+        "created_at": "2026-03-03T08:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028751817576951970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028751817576951970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 7440,
+          "like_count": 312,
+          "quote_count": 11,
+          "reply_count": 18,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "如果你对一个人太过上头，其实是你自身出现了问题，是你太需要一段感情了，而这时他刚好出现，他所有的好，不过都是你给他的光环和滤镜，而不是他本身有多好。他到底哪里好，你喜欢他身上的哪些特质，其实你自己也说不出所以然来，你爱的不过是一种幻想，你不是多喜欢这个人，而是你只是太孤独了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 2002,
+          "like_count": 66509,
+          "listed_count": 8,
+          "media_count": 1569,
+          "tweet_count": 10550
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T15:41:42.000Z",
+        "description": "没有自介条，因为我就是个路人甲            丨我的世界：小动物@Devi114514｜☁️@cloudyun13z｜好弟弟@Jun1z520｜小叔叔@GloryUhk｜ kako @kakoice1｜\n｜豆@dooyoun119809｜男神@yuzeh776677   許願不要再有短暫的人出現打破我平靜的生活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Devi114514"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "cloudyun13z"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "Jun1z520"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "GloryUhk"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "kakoice1"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "dooyoun119809"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "yuzeh776677"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/louielu1666",
+                "end": 23,
+                "expanded_url": "https://ngl.link/louielu1666",
+                "start": 0,
+                "url": "https://t.co/2Ba38SpT3g"
+              }
+            ]
+          }
+        },
+        "id": "1697998200366362624",
+        "location": "有求必应屋",
+        "name": "路易十六",
+        "pinned_tweet_id": "2021875205472497839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973069643981221888/DdpfrLQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 985,
+          "like_count": 3609,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/2Ba38SpT3g",
+        "username": "LOUIELU1666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1995497255437221929",
+    "created_at": "2025-12-01T14:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T15:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995497255437221929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1772308958495260672",
+          "start": 3,
+          "username": "Rushsharkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995497255437221929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995372570783453373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rushsharkk: 回到千禧年吧，我们悄悄回去好不好。噪点和低保真的年代，电子设备尚且还不是生活本身。你是什么样的人基本只由你身边的人决定，大家的关系更近，于是思想更近，很难孤独。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1995497255437221929",
+        "created_at": "2025-12-01T14:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995497255437221929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1772308958495260672",
+              "start": 3,
+              "username": "Rushsharkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995497255437221929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995372570783453373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rushsharkk: 回到千禧年吧，我们悄悄回去好不好。噪点和低保真的年代，电子设备尚且还不是生活本身。你是什么样的人基本只由你身边的人决定，大家的关系更近，于是思想更近，很难孤独。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772308958495260672",
+        "conversation_id": "1995372570783453373",
+        "created_at": "2025-12-01T06:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T07:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995372570783453373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995372570783453373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2403,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "回到千禧年吧，我们悄悄回去好不好。噪点和低保真的年代，电子设备尚且还不是生活本身。你是什么样的人基本只由你身边的人决定，大家的关系更近，于是思想更近，很难孤独。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 1982,
+          "like_count": 62369,
+          "listed_count": 8,
+          "media_count": 1310,
+          "tweet_count": 9228
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T17:06:18.000Z",
+        "description": "女Female/2004/ACGN/🎮Splatoon3/日常废话daily yapping/假文艺真傻逼/小提手",
+        "id": "1772308958495260672",
+        "location": "Canada",
+        "name": "Rushshark猛鯊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908586697920577536/P-PC1WEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 971,
+          "like_count": 44874,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 2581
+        },
+        "username": "Rushsharkk",
+        "verified": false
+      }
+    ]
+  }
+}

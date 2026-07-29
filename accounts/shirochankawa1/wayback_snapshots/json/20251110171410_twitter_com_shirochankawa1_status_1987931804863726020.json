@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1629861019622473729"
+      ],
+      "media_source_tweet_id": [
+        "1629861081635229699"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987931804863726020",
+    "created_at": "2025-11-10T17:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T18:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987931804863726020"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "LCB"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "림버스"
+        },
+        {
+          "end": 53,
+          "start": 39,
+          "tag": "LimbusCompany"
+        },
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "リンバス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1580274306",
+          "start": 3,
+          "username": "NishikujiC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IsJ2pMwfXs",
+          "end": 84,
+          "expanded_url": "https://x.com/NishikujiC/status/1629861081635229699/photo/1",
+          "media_key": "3_1629861019622473729",
+          "start": 61,
+          "url": "https://t.co/IsJ2pMwfXs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987931804863726020",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4328
+    },
+    "referenced_tweets": [
+      {
+        "id": "1629861081635229699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NishikujiC: リンバス楽しみ！！！！\n\n#LCB #림버스\n#LimbusCompany \n#リンバス https://t.co/IsJ2pMwfXs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_1629861019622473729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fp5t9kPagAE8BpH.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1629861019622473729"
+          ],
+          "media_source_tweet_id": [
+            "1629861081635229699"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987931804863726020",
+        "created_at": "2025-11-10T17:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T18:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987931804863726020"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "LCB"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "림버스"
+            },
+            {
+              "end": 53,
+              "start": 39,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "リンバス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580274306",
+              "start": 3,
+              "username": "NishikujiC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsJ2pMwfXs",
+              "end": 84,
+              "expanded_url": "https://x.com/NishikujiC/status/1629861081635229699/photo/1",
+              "media_key": "3_1629861019622473729",
+              "start": 61,
+              "url": "https://t.co/IsJ2pMwfXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987931804863726020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4328
+        },
+        "referenced_tweets": [
+          {
+            "id": "1629861081635229699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NishikujiC: リンバス楽しみ！！！！\n\n#LCB #림버스\n#LimbusCompany \n#リンバス https://t.co/IsJ2pMwfXs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1629861019622473729"
+          ]
+        },
+        "author_id": "1580274306",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1629861081635229699",
+        "created_at": "2023-02-26T15:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-26T15:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1629861081635229699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "LCB"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "림버스"
+            },
+            {
+              "end": 37,
+              "start": 23,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "リンバス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsJ2pMwfXs",
+              "end": 68,
+              "expanded_url": "https://x.com/NishikujiC/status/1629861081635229699/photo/1",
+              "media_key": "3_1629861019622473729",
+              "start": 45,
+              "url": "https://t.co/IsJ2pMwfXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1629861081635229699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 856,
+          "impression_count": 488286,
+          "like_count": 10210,
+          "quote_count": 149,
+          "reply_count": 4,
+          "retweet_count": 4328
+        },
+        "reply_settings": "everyone",
+        "text": "リンバス楽しみ！！！！\n\n#LCB #림버스\n#LimbusCompany \n#リンバス https://t.co/IsJ2pMwfXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 1952,
+          "like_count": 60532,
+          "listed_count": 8,
+          "media_count": 1233,
+          "tweet_count": 8639
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-09T12:51:01.000Z",
+        "description": "=ShiiC/西九时\n中国人★現在地：プロムン沼（アルガリア！）★ 他いろいろ\n中国語日本語OK。English probably OK。成人済み\nicon:@South_AC\nheader:@Kelala_R\nマシュマロ：https://t.co/Y61Y0zEqWs\nAI禁止🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "South_AC"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "Kelala_R"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nishikujic",
+                "end": 135,
+                "expanded_url": "http://marshmallow-qa.com/nishikujic",
+                "start": 112,
+                "url": "https://t.co/Y61Y0zEqWs"
+              }
+            ]
+          }
+        },
+        "id": "1580274306",
+        "location": "連絡：nishikuji@gmail.com",
+        "name": "西九時 in ラ・マンチャランド",
+        "pinned_tweet_id": "1968856989913551191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894590345226354689/jhAMJaLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70921,
+          "following_count": 369,
+          "like_count": 23523,
+          "listed_count": 224,
+          "media_count": 1863,
+          "tweet_count": 11148
+        },
+        "username": "NishikujiC",
+        "verified": false
+      }
+    ]
+  }
+}

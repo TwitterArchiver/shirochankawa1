@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2044412667985809484",
+    "created_at": "2026-04-16T01:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044593490471047547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3165723764",
+          "start": 0,
+          "username": "278041403Gjcg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044593490471047547",
+    "in_reply_to_user_id": "3165723764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044444557874704816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@278041403Gjcg 痛并快乐着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2044412667985809484",
+        "created_at": "2026-04-16T01:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044593490471047547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3165723764",
+              "start": 0,
+              "username": "278041403Gjcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044593490471047547",
+        "in_reply_to_user_id": "3165723764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044444557874704816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@278041403Gjcg 痛并快乐着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3165723764",
+        "conversation_id": "2044412667985809484",
+        "created_at": "2026-04-15T15:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044444557874704816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044444557874704816",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044412667985809484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 一个爽一个疼呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 2037,
+          "like_count": 68433,
+          "listed_count": 8,
+          "media_count": 1650,
+          "tweet_count": 11094
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-20T16:33:13.000Z",
+        "description": "人间观察中",
+        "id": "3165723764",
+        "name": "shiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1098459371938340864/zCDE1Hgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 185,
+          "like_count": 174,
+          "listed_count": 1,
+          "media_count": 1477,
+          "tweet_count": 1734
+        },
+        "username": "278041403Gjcg",
+        "verified": false
+      }
+    ]
+  }
+}

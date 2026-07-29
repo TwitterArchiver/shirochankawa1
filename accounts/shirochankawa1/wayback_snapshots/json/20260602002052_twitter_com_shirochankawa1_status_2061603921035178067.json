@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061335396366397440"
+      ],
+      "media_source_tweet_id": [
+        "2061335417841148151"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061603921035178067",
+    "created_at": "2026-06-02T00:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T01:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061603921035178067"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 13,
+          "tag": "League_of_Legends"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "Briar"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "贝蕾亚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "735093794987642881",
+          "start": 3,
+          "username": "_KOUROU"
+        }
+      ],
+      "urls": [
+        {
+          "description": "微博：http://weibo.com/kouroukun twitter：https://twitter.com/_KOUROU bilibili：https://space.bilibili.com/4811868 BLUESKY: https://bsky.app/prof",
+          "display_url": "pixiv.net/artworks/14547…",
+          "end": 67,
+          "expanded_url": "http://www.pixiv.net/artworks/145474777",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2061335418243805184/3QaEwyjs?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2061335418243805184/3QaEwyjs?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 44,
+          "status": 200,
+          "title": "Briar",
+          "unwound_url": "https://www.pixiv.net/artworks/145474777",
+          "url": "https://t.co/pWKBfxdFXC"
+        },
+        {
+          "display_url": "pic.x.com/o58gDR5aSW",
+          "end": 91,
+          "expanded_url": "https://x.com/_KOUROU/status/2061335417841148151/photo/1",
+          "media_key": "3_2061335396366397440",
+          "start": 68,
+          "url": "https://t.co/o58gDR5aSW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061603921035178067",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 432
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061335417841148151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_KOUROU: #League_of_Legends #Briar #贝蕾亚\nhttps://t.co/pWKBfxdFXC https://t.co/o58gDR5aSW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2061335396366397440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtVnx9bsAArUd4.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061335396366397440"
+          ],
+          "media_source_tweet_id": [
+            "2061335417841148151"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061603921035178067",
+        "created_at": "2026-06-02T00:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061603921035178067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 13,
+              "tag": "League_of_Legends"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "Briar"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "贝蕾亚"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "735093794987642881",
+              "start": 3,
+              "username": "_KOUROU"
+            }
+          ],
+          "urls": [
+            {
+              "description": "微博：http://weibo.com/kouroukun twitter：https://twitter.com/_KOUROU bilibili：https://space.bilibili.com/4811868 BLUESKY: https://bsky.app/prof",
+              "display_url": "pixiv.net/artworks/14547…",
+              "end": 67,
+              "expanded_url": "http://www.pixiv.net/artworks/145474777",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2061335418243805184/3QaEwyjs?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061335418243805184/3QaEwyjs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 44,
+              "status": 200,
+              "title": "Briar",
+              "unwound_url": "https://www.pixiv.net/artworks/145474777",
+              "url": "https://t.co/pWKBfxdFXC"
+            },
+            {
+              "display_url": "pic.x.com/o58gDR5aSW",
+              "end": 91,
+              "expanded_url": "https://x.com/_KOUROU/status/2061335417841148151/photo/1",
+              "media_key": "3_2061335396366397440",
+              "start": 68,
+              "url": "https://t.co/o58gDR5aSW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061603921035178067",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 432
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061335417841148151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_KOUROU: #League_of_Legends #Briar #贝蕾亚\nhttps://t.co/pWKBfxdFXC https://t.co/o58gDR5aSW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061335396366397440"
+          ]
+        },
+        "author_id": "735093794987642881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061335417841148151",
+        "created_at": "2026-06-01T06:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061335417841148151"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "League_of_Legends"
+            },
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "Briar"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "贝蕾亚"
+            }
+          ],
+          "urls": [
+            {
+              "description": "微博：http://weibo.com/kouroukun twitter：https://twitter.com/_KOUROU bilibili：https://space.bilibili.com/4811868 BLUESKY: https://bsky.app/prof",
+              "display_url": "pixiv.net/artworks/14547…",
+              "end": 54,
+              "expanded_url": "http://www.pixiv.net/artworks/145474777",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2061335418243805184/3QaEwyjs?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061335418243805184/3QaEwyjs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "Briar",
+              "unwound_url": "https://www.pixiv.net/artworks/145474777",
+              "url": "https://t.co/pWKBfxdFXC"
+            },
+            {
+              "display_url": "pic.x.com/o58gDR5aSW",
+              "end": 78,
+              "expanded_url": "https://x.com/_KOUROU/status/2061335417841148151/photo/1",
+              "media_key": "3_2061335396366397440",
+              "start": 55,
+              "url": "https://t.co/o58gDR5aSW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061335417841148151",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 962,
+          "impression_count": 54196,
+          "like_count": 7761,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 432
+        },
+        "reply_settings": "everyone",
+        "text": "#League_of_Legends #Briar #贝蕾亚\nhttps://t.co/pWKBfxdFXC https://t.co/o58gDR5aSW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 2110,
+          "like_count": 70409,
+          "listed_count": 8,
+          "media_count": 1740,
+          "tweet_count": 11725
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-24T13:03:12.000Z",
+        "description": "たまに絵を描きます。フォローありがとうございます。\nPIXIV: https://t.co/VRROa2hyNP\n微博：https://t.co/72fa0RdQjk\nBILIBILI: https://t.co/Su20nMfBqW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/30396530",
+                "end": 56,
+                "expanded_url": "https://www.pixiv.net/users/30396530",
+                "start": 33,
+                "url": "https://t.co/VRROa2hyNP"
+              },
+              {
+                "display_url": "weibo.com/kouroukun",
+                "end": 83,
+                "expanded_url": "http://weibo.com/kouroukun",
+                "start": 60,
+                "url": "https://t.co/72fa0RdQjk"
+              },
+              {
+                "display_url": "space.bilibili.com/4811868",
+                "end": 117,
+                "expanded_url": "https://space.bilibili.com/4811868",
+                "start": 94,
+                "url": "https://t.co/Su20nMfBqW"
+              }
+            ]
+          }
+        },
+        "id": "735093794987642881",
+        "name": "紅楼電力",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673017346297061376/K8LVVXhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8748,
+          "following_count": 103,
+          "like_count": 14,
+          "listed_count": 52,
+          "media_count": 213,
+          "tweet_count": 221
+        },
+        "username": "_KOUROU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2057705689628475459",
+    "created_at": "2026-05-22T15:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057853340592333170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "uixxixu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057853340592333170",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057705689628475459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uixxixu 如此美貌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1613,
+        "media_key": "3_2057705681780973568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5walbboAAvKBz.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1577,
+        "media_key": "3_2057705681814519808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5waljbgAAUBvK.jpg",
+        "width": 1145
+      },
+      {
+        "height": 885,
+        "media_key": "3_2057705681776754688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5walabQAA2Ak5.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2057705689628475459",
+        "created_at": "2026-05-22T15:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057853340592333170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057853340592333170",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057705689628475459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 如此美貌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057705681780973568",
+            "3_2057705681814519808",
+            "3_2057705681776754688"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057705689628475459",
+        "created_at": "2026-05-22T06:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057705689628475459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GWa4mCjAD1",
+              "end": 55,
+              "expanded_url": "https://x.com/uixxixu/status/2057705689628475459/photo/1",
+              "media_key": "3_2057705681780973568",
+              "start": 32,
+              "url": "https://t.co/GWa4mCjAD1"
+            },
+            {
+              "display_url": "pic.x.com/GWa4mCjAD1",
+              "end": 55,
+              "expanded_url": "https://x.com/uixxixu/status/2057705689628475459/photo/1",
+              "media_key": "3_2057705681814519808",
+              "start": 32,
+              "url": "https://t.co/GWa4mCjAD1"
+            },
+            {
+              "display_url": "pic.x.com/GWa4mCjAD1",
+              "end": 55,
+              "expanded_url": "https://x.com/uixxixu/status/2057705689628475459/photo/1",
+              "media_key": "3_2057705681776754688",
+              "start": 32,
+              "url": "https://t.co/GWa4mCjAD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057705689628475459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 19130,
+          "like_count": 336,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "八重神子\n\n对了健全人不用关注我 \n我只是发发以前的cos照片 https://t.co/GWa4mCjAD1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 2097,
+          "like_count": 69904,
+          "listed_count": 8,
+          "media_count": 1709,
+          "tweet_count": 11562
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 433,
+          "like_count": 5476,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 3183
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

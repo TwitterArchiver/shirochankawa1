@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2026206373373940082",
+    "created_at": "2026-02-24T13:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026287167992189241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999096774733209600",
+          "start": 0,
+          "username": "Spreachis5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026287167992189241",
+    "in_reply_to_user_id": "1999096774733209600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026206373373940082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spreachis5 雷霆id"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2026206355799891968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6H8f8XYAAPgtN.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2026206373373940082",
+        "created_at": "2026-02-24T13:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026287167992189241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999096774733209600",
+              "start": 0,
+              "username": "Spreachis5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026287167992189241",
+        "in_reply_to_user_id": "1999096774733209600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026206373373940082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spreachis5 雷霆id"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026206355799891968"
+          ]
+        },
+        "author_id": "1999096774733209600",
+        "conversation_id": "2026206373373940082",
+        "created_at": "2026-02-24T08:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026206373373940082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0qdbyyG4W",
+              "end": 33,
+              "expanded_url": "https://x.com/Spreachis5/status/2026206373373940082/photo/1",
+              "media_key": "3_2026206355799891968",
+              "start": 10,
+              "url": "https://t.co/s0qdbyyG4W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026206373373940082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12235,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "分享巨搞笑id一个 https://t.co/s0qdbyyG4W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 2002,
+          "like_count": 65709,
+          "listed_count": 8,
+          "media_count": 1542,
+          "tweet_count": 10372
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T12:39:54.000Z",
+        "description": "🌱芽重生了(｡ ́︿ ̀｡)",
+        "id": "1999096774733209600",
+        "name": "芽",
+        "pinned_tweet_id": "1999100203471696021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999141194782429184/yDpAPVjy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 226,
+          "like_count": 1643,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 638
+        },
+        "username": "Spreachis5",
+        "verified": false
+      }
+    ]
+  }
+}

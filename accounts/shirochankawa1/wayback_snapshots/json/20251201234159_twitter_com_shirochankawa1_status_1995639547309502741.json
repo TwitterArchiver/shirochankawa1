@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1995465169846124866",
+    "created_at": "2025-12-01T23:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T00:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995639547309502741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1175234920257470464",
+          "start": 0,
+          "username": "kokoniiroyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995639547309502741",
+    "in_reply_to_user_id": "1175234920257470464",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995537699550495032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokoniiroyo 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1995465169846124866",
+        "created_at": "2025-12-01T23:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T00:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995639547309502741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1175234920257470464",
+              "start": 0,
+              "username": "kokoniiroyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995639547309502741",
+        "in_reply_to_user_id": "1175234920257470464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995537699550495032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokoniiroyo 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1175234920257470464",
+        "conversation_id": "1995465169846124866",
+        "created_at": "2025-12-01T16:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995537699550495032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995537699550495032",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995465169846124866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 萌🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 1981,
+          "like_count": 62372,
+          "listed_count": 8,
+          "media_count": 1310,
+          "tweet_count": 9232
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-21T02:26:57.000Z",
+        "description": "",
+        "id": "1175234920257470464",
+        "name": "Miok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942215720407851008/DQ3iVv7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 58,
+          "like_count": 43,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "kokoniiroyo",
+        "verified": false
+      }
+    ]
+  }
+}

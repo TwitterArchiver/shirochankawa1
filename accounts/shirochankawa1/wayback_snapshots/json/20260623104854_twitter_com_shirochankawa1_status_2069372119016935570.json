@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2069007454801957168",
+    "created_at": "2026-06-23T10:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069372119016935570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061225770392154112",
+          "start": 0,
+          "username": "wuqiu233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069372119016935570",
+    "in_reply_to_user_id": "2061225770392154112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069057841680543960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuqiu233 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2069007454801957168",
+        "created_at": "2026-06-23T10:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069372119016935570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061225770392154112",
+              "start": 0,
+              "username": "wuqiu233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069372119016935570",
+        "in_reply_to_user_id": "2061225770392154112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069057841680543960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuqiu233 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061225770392154112",
+        "conversation_id": "2069007454801957168",
+        "created_at": "2026-06-22T14:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069057841680543960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069057841680543960",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069007454801957168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 聊天可以不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 2168,
+          "like_count": 71196,
+          "listed_count": 8,
+          "media_count": 1778,
+          "tweet_count": 12007
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T23:19:08.000Z",
+        "description": "我不是gay",
+        "id": "2061225770392154112",
+        "location": "chongqindd",
+        "name": "莫丘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061277297379024896/y3Gf5oyT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "wuqiu233",
+        "verified": false
+      }
+    ]
+  }
+}

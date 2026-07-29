@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076583755700183040",
+        "3_2076583756887171072"
+      ],
+      "media_source_tweet_id": [
+        "2076583760062247017",
+        "2076583760062247017"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2076639132265402537",
+    "created_at": "2026-07-13T12:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076639132265402537"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "男娘"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "女仆装"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2009620713460887553",
+          "start": 3,
+          "username": "HujiaoFen_sad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FByRk1m3q5",
+          "end": 57,
+          "expanded_url": "https://x.com/HujiaoFen_sad/status/2076583760062247017/photo/1",
+          "media_key": "3_2076583755700183040",
+          "start": 34,
+          "url": "https://t.co/FByRk1m3q5"
+        },
+        {
+          "display_url": "pic.x.com/FByRk1m3q5",
+          "end": 57,
+          "expanded_url": "https://x.com/HujiaoFen_sad/status/2076583760062247017/photo/1",
+          "media_key": "3_2076583756887171072",
+          "start": 34,
+          "url": "https://t.co/FByRk1m3q5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076639132265402537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076583760062247017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HujiaoFen_sad: 来点老库存 #男娘 #女仆装 https://t.co/FByRk1m3q5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2076583755700183040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGB7HDbIAAcklX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2076583756887171072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGB7LebIAAsV4I.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076583755700183040",
+            "3_2076583756887171072"
+          ],
+          "media_source_tweet_id": [
+            "2076583760062247017",
+            "2076583760062247017"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2076639132265402537",
+        "created_at": "2026-07-13T12:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076639132265402537"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "男娘"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "女仆装"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2009620713460887553",
+              "start": 3,
+              "username": "HujiaoFen_sad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FByRk1m3q5",
+              "end": 57,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2076583760062247017/photo/1",
+              "media_key": "3_2076583755700183040",
+              "start": 34,
+              "url": "https://t.co/FByRk1m3q5"
+            },
+            {
+              "display_url": "pic.x.com/FByRk1m3q5",
+              "end": 57,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2076583760062247017/photo/1",
+              "media_key": "3_2076583756887171072",
+              "start": 34,
+              "url": "https://t.co/FByRk1m3q5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076639132265402537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076583760062247017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HujiaoFen_sad: 来点老库存 #男娘 #女仆装 https://t.co/FByRk1m3q5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076583755700183040",
+            "3_2076583756887171072"
+          ]
+        },
+        "author_id": "2009620713460887553",
+        "conversation_id": "2076583760062247017",
+        "created_at": "2026-07-13T08:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076583760062247017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "男娘"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "女仆装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FByRk1m3q5",
+              "end": 38,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2076583760062247017/photo/1",
+              "media_key": "3_2076583755700183040",
+              "start": 15,
+              "url": "https://t.co/FByRk1m3q5"
+            },
+            {
+              "display_url": "pic.x.com/FByRk1m3q5",
+              "end": 38,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2076583760062247017/photo/1",
+              "media_key": "3_2076583756887171072",
+              "start": 15,
+              "url": "https://t.co/FByRk1m3q5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076583760062247017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点老库存 #男娘 #女仆装 https://t.co/FByRk1m3q5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 2180,
+          "like_count": 71475,
+          "listed_count": 8,
+          "media_count": 1801,
+          "tweet_count": 12138
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T13:43:28.000Z",
+        "description": "拉吉塔尼的鹦鹉会笑/双相患者/一个温柔善良的人/我会对所有无恶意的人保持友好/🚪88纯绿",
+        "id": "2009620713460887553",
+        "location": "广东省",
+        "name": "我为你撑起蓝色雨伞",
+        "pinned_tweet_id": "2074518375217447038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031232015601905664/WEsjBOI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 245,
+          "like_count": 364,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 730
+        },
+        "url": "",
+        "username": "HujiaoFen_sad",
+        "verified": false
+      }
+    ]
+  }
+}

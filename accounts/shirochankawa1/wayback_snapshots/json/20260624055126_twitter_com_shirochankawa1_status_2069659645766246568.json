@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2069659645766246568",
+    "created_at": "2026-06-24T05:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069659645766246568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2034586230881722368",
+          "start": 3,
+          "username": "hgds03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069659645766246568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 291
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069106700381196661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds03: 没人觉得重新认识一个人好累吗。我懒得再跟别人一遍遍说我是谁，我的名字，我的生日在哪天，我爱看的电影，我最爱吃的食物，我最喜欢的颜色，我最爱听但每次都很悲伤的歌，我讨厌的东西，我害怕的事情，我曾经热爱但放弃的事物，我去过的城市，独处时我会听的歌，我理想的生…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2069659645766246568",
+        "created_at": "2026-06-24T05:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069659645766246568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2034586230881722368",
+              "start": 3,
+              "username": "hgds03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069659645766246568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 291
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069106700381196661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds03: 没人觉得重新认识一个人好累吗。我懒得再跟别人一遍遍说我是谁，我的名字，我的生日在哪天，我爱看的电影，我最爱吃的食物，我最喜欢的颜色，我最爱听但每次都很悲伤的歌，我讨厌的东西，我害怕的事情，我曾经热爱但放弃的事物，我去过的城市，独处时我会听的歌，我理想的生…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2069106700381196661",
+        "created_at": "2026-06-22T17:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069106700381196661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069106700381196661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "没人觉得重新认识一个人好累吗。我懒得再跟别人一遍遍说我是谁，我的名字，我的生日在哪天，我爱看的电影，我最爱吃的食物，我最喜欢的颜色，我最爱听但每次都很悲伤的歌，我讨厌的东西，我害怕的事情，我曾经热爱但放弃的事物，我去过的城市，独处时我会听的歌，我理想的生活，我喜欢看的书。感兴趣的运动，我的小癖好和特别的习惯，我对生活的看法和态度，我对爱和生命的理解...我懒得说了，也懒得重新认识别人，就连打这段字我都觉得累了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 47968,
+          "like_count": 1857,
+          "quote_count": 38,
+          "reply_count": 125,
+          "retweet_count": 291
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得重新认识一个人好累吗。我懒得再跟别人一遍遍说我是谁，我的名字，我的生日在哪天，我爱看的电影，我最爱吃的食物，我最喜欢的颜色，我最爱听但每次都很悲伤的歌，我讨厌的东西，我害怕的事情，我曾经热爱但放弃的事物，我去过的城市，独处时我会听的歌，我理想的生活，我喜欢看的书。感兴趣的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2802,
+          "following_count": 2164,
+          "like_count": 71225,
+          "listed_count": 8,
+          "media_count": 1778,
+          "tweet_count": 12017
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2069303530599641589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5146,
+          "following_count": 577,
+          "like_count": 6137,
+          "listed_count": 5,
+          "media_count": 83,
+          "tweet_count": 803
+        },
+        "url": "",
+        "username": "hgds03",
+        "verified": true
+      }
+    ]
+  }
+}

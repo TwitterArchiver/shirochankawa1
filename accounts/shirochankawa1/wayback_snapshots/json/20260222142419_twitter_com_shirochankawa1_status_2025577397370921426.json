@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2025575050259411121",
+    "created_at": "2026-02-22T14:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025577397370921426"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025577397370921426",
+    "in_reply_to_user_id": "1713713115270139904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025575050259411121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现实中见过小雨，小雨也不丑啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2025575040486608896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxJxHIaEAA-uv-.jpg",
+        "width": 1440
+      },
+      {
+        "height": 263,
+        "media_key": "3_2025575040482447360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxJxHHakAAmjtI.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2025575050259411121",
+        "created_at": "2026-02-22T14:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025577397370921426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025577397370921426",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025575050259411121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现实中见过小雨，小雨也不丑啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025575040486608896",
+            "3_2025575040482447360"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2025575050259411121",
+        "created_at": "2026-02-22T14:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025575050259411121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ETnzy1lEjk",
+              "end": 114,
+              "expanded_url": "https://x.com/shirochankawa1/status/2025575050259411121/photo/1",
+              "media_key": "3_2025575040486608896",
+              "start": 91,
+              "url": "https://t.co/ETnzy1lEjk"
+            },
+            {
+              "display_url": "pic.x.com/ETnzy1lEjk",
+              "end": 114,
+              "expanded_url": "https://x.com/shirochankawa1/status/2025575050259411121/photo/1",
+              "media_key": "3_2025575040482447360",
+              "start": 91,
+              "url": "https://t.co/ETnzy1lEjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025575050259411121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他是皮下男，然后一直攻击小雨，还有别人社交软件爱发什么发什么，关他什么事，还有圈钱关他什么事，然后。嗯，发自己过去不好的事情，这里是推特，又关他什么事，拿着人家身份证到处说也不好啊 https://t.co/ETnzy1lEjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 1999,
+          "like_count": 65435,
+          "listed_count": 8,
+          "media_count": 1532,
+          "tweet_count": 10292
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

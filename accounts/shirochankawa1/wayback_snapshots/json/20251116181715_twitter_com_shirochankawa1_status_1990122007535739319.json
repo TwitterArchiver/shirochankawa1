@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989916804865839104"
+      ],
+      "media_source_tweet_id": [
+        "1989916832204210267"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1990122007535739319",
+    "created_at": "2025-11-16T18:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T19:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990122007535739319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1915389809452871680",
+          "start": 3,
+          "username": "qbbhgc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ao2nBGBTK",
+          "end": 35,
+          "expanded_url": "https://x.com/qbbhgc/status/1989916832204210267/photo/1",
+          "media_key": "3_1989916804865839104",
+          "start": 12,
+          "url": "https://t.co/2ao2nBGBTK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990122007535739319",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 416
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989916832204210267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qbbhgc: https://t.co/2ao2nBGBTK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989916804865839104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52ayn6b0AAcQj-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989916804865839104"
+          ],
+          "media_source_tweet_id": [
+            "1989916832204210267"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "1990122007535739319",
+        "created_at": "2025-11-16T18:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T19:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990122007535739319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1915389809452871680",
+              "start": 3,
+              "username": "qbbhgc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ao2nBGBTK",
+              "end": 35,
+              "expanded_url": "https://x.com/qbbhgc/status/1989916832204210267/photo/1",
+              "media_key": "3_1989916804865839104",
+              "start": 12,
+              "url": "https://t.co/2ao2nBGBTK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990122007535739319",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 416
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989916832204210267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qbbhgc: https://t.co/2ao2nBGBTK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989916804865839104"
+          ]
+        },
+        "author_id": "1915389809452871680",
+        "conversation_id": "1989916832204210267",
+        "created_at": "2025-11-16T04:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989916832204210267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ao2nBGBTK",
+              "end": 23,
+              "expanded_url": "https://x.com/qbbhgc/status/1989916832204210267/photo/1",
+              "media_key": "3_1989916804865839104",
+              "start": 0,
+              "url": "https://t.co/2ao2nBGBTK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989916832204210267",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 35334,
+          "like_count": 4348,
+          "quote_count": 20,
+          "reply_count": 36,
+          "retweet_count": 416
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2ao2nBGBTK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 1958,
+          "like_count": 60802,
+          "listed_count": 8,
+          "media_count": 1245,
+          "tweet_count": 8750
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T12:58:22.000Z",
+        "description": "只有这一个号 偷我图的惨惨惨死死死 🚪288/520/1888/5200私信只回口令红包 一个问题50",
+        "id": "1915389809452871680",
+        "name": "寿鼠",
+        "pinned_tweet_id": "1990042419929419896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989169448323018752/MYkf2AIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11448,
+          "following_count": 0,
+          "like_count": 98,
+          "listed_count": 25,
+          "media_count": 22,
+          "tweet_count": 31
+        },
+        "username": "qbbhgc",
+        "verified": false
+      }
+    ]
+  }
+}

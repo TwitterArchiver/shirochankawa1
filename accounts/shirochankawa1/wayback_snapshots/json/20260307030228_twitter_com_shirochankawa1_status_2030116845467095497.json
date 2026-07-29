@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2030116845467095497",
+    "created_at": "2026-03-07T03:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T04:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030116845467095497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "958737597336928256",
+          "start": 3,
+          "username": "MitoTsukino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030116845467095497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1013
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030073390476775615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MitoTsukino: 辞任月ノ美兎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2030116845467095497",
+        "created_at": "2026-03-07T03:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T04:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030116845467095497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "958737597336928256",
+              "start": 3,
+              "username": "MitoTsukino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030116845467095497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1013
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030073390476775615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MitoTsukino: 辞任月ノ美兎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "958737597336928256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2030073390476775615",
+        "created_at": "2026-03-07T00:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T01:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030073390476775615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030073390476775615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 744446,
+          "like_count": 21247,
+          "quote_count": 54,
+          "reply_count": 406,
+          "retweet_count": 1013
+        },
+        "reply_settings": "everyone",
+        "text": "辞任月ノ美兎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 2009,
+          "like_count": 67032,
+          "listed_count": 8,
+          "media_count": 1579,
+          "tweet_count": 10649
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-31T16:23:50.000Z",
+        "description": "バーチャル界の委員長、月ノ美兎です！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCD-mi…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/2IZMiHflkX"
+              }
+            ]
+          }
+        },
+        "id": "958737597336928256",
+        "location": " 🐰ファンアート→ #みとあーと ",
+        "name": "月ノ美兎🐰",
+        "pinned_tweet_id": "2019380483583537410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1088727022069637120/hk11wmu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922490,
+          "following_count": 3112,
+          "like_count": 27244,
+          "listed_count": 13714,
+          "media_count": 2797,
+          "tweet_count": 10691
+        },
+        "url": "https://t.co/2IZMiHflkX",
+        "username": "MitoTsukino",
+        "verified": true
+      }
+    ]
+  }
+}

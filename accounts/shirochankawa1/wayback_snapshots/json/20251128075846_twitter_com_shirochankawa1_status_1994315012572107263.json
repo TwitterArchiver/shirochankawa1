@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1993995475951997364",
+    "created_at": "2025-11-28T07:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T08:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994315012572107263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513817865463349249",
+          "start": 0,
+          "username": "MirrorRoseAyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994315012572107263",
+    "in_reply_to_user_id": "1513817865463349249",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994313615743324474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MirrorRoseAyr 🥺❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1993995475951997364",
+        "created_at": "2025-11-28T07:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T08:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994315012572107263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513817865463349249",
+              "start": 0,
+              "username": "MirrorRoseAyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994315012572107263",
+        "in_reply_to_user_id": "1513817865463349249",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994313615743324474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MirrorRoseAyr 🥺❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513817865463349249",
+        "conversation_id": "1993995475951997364",
+        "created_at": "2025-11-28T07:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T08:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994313615743324474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994313615743324474",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993995475951997364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 美丽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 1963,
+          "like_count": 61681,
+          "listed_count": 8,
+          "media_count": 1297,
+          "tweet_count": 9021
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T09:55:09.000Z",
+        "description": "镜中玫瑰艾尔｜少年otaku的灰英雄独白，金发蓝眸在巨大ms引擎中翩跹。尼禄Umu～罗马温泉的泡泡梦，痛根化作花瓣，浪漫觉醒永恒。夜空星河，ROMA黄金，野萌眨眼。otakuおたく诗意｜嘘を破る光、君のロマンス✨(灬ºωº灬)💕”",
+        "id": "1513817865463349249",
+        "name": "伽耶",
+        "pinned_tweet_id": "1991220859936358642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993041629222219776/Z8XBeMnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33863,
+          "following_count": 1332,
+          "like_count": 8169,
+          "listed_count": 163,
+          "media_count": 72,
+          "tweet_count": 1147
+        },
+        "username": "MirrorRoseAyr",
+        "verified": false
+      }
+    ]
+  }
+}

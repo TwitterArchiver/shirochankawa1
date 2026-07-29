@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057888599576838144"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2057888710642008143",
+    "created_at": "2026-05-22T18:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T19:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057888710642008143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eK4SRM7261",
+          "end": 30,
+          "expanded_url": "https://x.com/shirochankawa1/status/2057888710642008143/photo/1",
+          "media_key": "3_2057888599576838144",
+          "start": 7,
+          "url": "https://t.co/eK4SRM7261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057888710642008143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我细化了一下 https://t.co/eK4SRM7261"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2057888599576838144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI8WxzUagAAqf7c.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057888599576838144"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2057888710642008143",
+        "created_at": "2026-05-22T18:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057888710642008143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eK4SRM7261",
+              "end": 30,
+              "expanded_url": "https://x.com/shirochankawa1/status/2057888710642008143/photo/1",
+              "media_key": "3_2057888599576838144",
+              "start": 7,
+              "url": "https://t.co/eK4SRM7261"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057888710642008143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我细化了一下 https://t.co/eK4SRM7261"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 2097,
+          "like_count": 69908,
+          "listed_count": 8,
+          "media_count": 1712,
+          "tweet_count": 11566
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

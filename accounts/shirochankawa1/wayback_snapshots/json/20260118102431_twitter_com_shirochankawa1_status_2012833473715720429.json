@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2012833473715720429",
+    "created_at": "2026-01-18T10:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T11:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012833473715720429"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "金欠"
+        },
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "有償依頼"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875913888505774080",
+          "start": 3,
+          "username": "uuuuua07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/WRT2jx4H",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/WRT2jx4H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012833473715720429",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 248
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012531461543378992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uuuuua07: 依頼承っております。\n金額は¥4000〜です\nアイコン、サムネイル、立ち絵等様々な用途によって描き分けできます！\nお見積もりだけでも大丈夫ですので、お気軽にdmまでご相談ください！！\n #金欠  #有償依頼 https://t.co/WRT2jx4H…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2029,
+        "media_key": "3_2012531450017382400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3ysOGWgAAx9Sh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2012531450109698048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3ysOcXIAA8nX1.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1669,
+        "media_key": "3_2012531450126454784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3ysOgW0AAGuGJ.jpg",
+        "width": 1400
+      },
+      {
+        "height": 1580,
+        "media_key": "3_2012531450134884353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3ysOiXcAEWUbZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2012833473715720429",
+        "created_at": "2026-01-18T10:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012833473715720429"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "金欠"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "有償依頼"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875913888505774080",
+              "start": 3,
+              "username": "uuuuua07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/WRT2jx4H",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/WRT2jx4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012833473715720429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012531461543378992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uuuuua07: 依頼承っております。\n金額は¥4000〜です\nアイコン、サムネイル、立ち絵等様々な用途によって描き分けできます！\nお見積もりだけでも大丈夫ですので、お気軽にdmまでご相談ください！！\n #金欠  #有償依頼 https://t.co/WRT2jx4H…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012531450017382400",
+            "3_2012531450109698048",
+            "3_2012531450126454784",
+            "3_2012531450134884353"
+          ]
+        },
+        "author_id": "1875913888505774080",
+        "conversation_id": "2012531461543378992",
+        "created_at": "2026-01-17T14:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012531461543378992"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "金欠"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "有償依頼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRT2jx4HCI",
+              "end": 127,
+              "expanded_url": "https://x.com/uuuuua07/status/2012531461543378992/photo/1",
+              "media_key": "3_2012531450017382400",
+              "start": 104,
+              "url": "https://t.co/WRT2jx4HCI"
+            },
+            {
+              "display_url": "pic.x.com/WRT2jx4HCI",
+              "end": 127,
+              "expanded_url": "https://x.com/uuuuua07/status/2012531461543378992/photo/1",
+              "media_key": "3_2012531450109698048",
+              "start": 104,
+              "url": "https://t.co/WRT2jx4HCI"
+            },
+            {
+              "display_url": "pic.x.com/WRT2jx4HCI",
+              "end": 127,
+              "expanded_url": "https://x.com/uuuuua07/status/2012531461543378992/photo/1",
+              "media_key": "3_2012531450126454784",
+              "start": 104,
+              "url": "https://t.co/WRT2jx4HCI"
+            },
+            {
+              "display_url": "pic.x.com/WRT2jx4HCI",
+              "end": 127,
+              "expanded_url": "https://x.com/uuuuua07/status/2012531461543378992/photo/1",
+              "media_key": "3_2012531450134884353",
+              "start": 104,
+              "url": "https://t.co/WRT2jx4HCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012531461543378992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1416,
+          "impression_count": 296487,
+          "like_count": 4780,
+          "quote_count": 50,
+          "reply_count": 5,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "依頼承っております。\n金額は¥4000〜です\nアイコン、サムネイル、立ち絵等様々な用途によって描き分けできます！\nお見積もりだけでも大丈夫ですので、お気軽にdmまでご相談ください！！\n #金欠  #有償依頼 https://t.co/WRT2jx4HCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，无性别/泛/雙相精分焦慮/oc梦/画/亚/中古/acg/VTB/啥都沾点/🚪100",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 1964,
+          "like_count": 62687,
+          "listed_count": 8,
+          "media_count": 1398,
+          "tweet_count": 9566
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:35:13.000Z",
+        "description": "依頼はdmまで @uqxlxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "uqxlxx"
+              }
+            ]
+          }
+        },
+        "id": "1875913888505774080",
+        "name": "ua",
+        "pinned_tweet_id": "2012531461543378992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008505617682755585/CVsS1D_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3535,
+          "following_count": 13,
+          "like_count": 653,
+          "listed_count": 15,
+          "media_count": 45,
+          "tweet_count": 62
+        },
+        "username": "uuuuua07",
+        "verified": false
+      }
+    ]
+  }
+}

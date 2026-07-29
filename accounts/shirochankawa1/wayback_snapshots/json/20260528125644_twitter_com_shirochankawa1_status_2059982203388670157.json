@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2059937892638888212",
+    "created_at": "2026-05-28T12:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059982203388670157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1451911290050412553",
+          "start": 0,
+          "username": "Yizuki_Ame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059982203388670157",
+    "in_reply_to_user_id": "1451911290050412553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059978599772602483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yizuki_Ame 我哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2059937892638888212",
+        "created_at": "2026-05-28T12:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059982203388670157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1451911290050412553",
+              "start": 0,
+              "username": "Yizuki_Ame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059982203388670157",
+        "in_reply_to_user_id": "1451911290050412553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059978599772602483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yizuki_Ame 我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451911290050412553",
+        "conversation_id": "2059937892638888212",
+        "created_at": "2026-05-28T12:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059978599772602483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059978599772602483",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059937892638888212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 wtf😭😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2576,
+          "following_count": 2103,
+          "like_count": 70327,
+          "listed_count": 8,
+          "media_count": 1733,
+          "tweet_count": 11685
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T14:00:18.000Z",
+        "description": "4'-DMA-7,8-DHF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aidn.jp",
+                "end": 23,
+                "expanded_url": "https://aidn.jp/",
+                "start": 0,
+                "url": "https://t.co/MBroFXzGaV"
+              }
+            ]
+          }
+        },
+        "id": "1451911290050412553",
+        "location": "メルヘル小惑星",
+        "name": "いずきあめ",
+        "pinned_tweet_id": "1840118227659304972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705208194669400064/H5rXLOG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 3627,
+          "like_count": 33257,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 28124
+        },
+        "url": "https://t.co/MBroFXzGaV",
+        "username": "Yizuki_Ame",
+        "verified": false
+      }
+    ]
+  }
+}

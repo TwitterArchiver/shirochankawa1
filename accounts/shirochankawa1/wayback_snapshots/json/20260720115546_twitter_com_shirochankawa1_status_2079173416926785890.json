@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078615517322248192"
+      ],
+      "media_source_tweet_id": [
+        "2078615527376015459"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2079173416926785890",
+    "created_at": "2026-07-20T11:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079173416926785890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038184435477319680",
+          "start": 3,
+          "username": "MIMIsamaOvo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AECVCP7VJS",
+          "end": 47,
+          "expanded_url": "https://x.com/MIMIsamaOvo/status/2078615527376015459/photo/1",
+          "media_key": "3_2078615517322248192",
+          "start": 24,
+          "url": "https://t.co/AECVCP7VJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079173416926785890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078615527376015459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MIMIsamaOvo: 这药没力气（ https://t.co/AECVCP7VJS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_2078615517322248192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNi5zM6bgAAkVxK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078615517322248192"
+          ]
+        },
+        "author_id": "2038184435477319680",
+        "conversation_id": "2078615527376015459",
+        "created_at": "2026-07-18T22:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T23:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078615527376015459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AECVCP7VJS",
+              "end": 30,
+              "expanded_url": "https://x.com/MIMIsamaOvo/status/2078615527376015459/photo/1",
+              "media_key": "3_2078615517322248192",
+              "start": 7,
+              "url": "https://t.co/AECVCP7VJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078615527376015459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8207,
+          "like_count": 122,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "这药没力气（ https://t.co/AECVCP7VJS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078615517322248192"
+          ],
+          "media_source_tweet_id": [
+            "2078615527376015459"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2079173416926785890",
+        "created_at": "2026-07-20T11:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079173416926785890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038184435477319680",
+              "start": 3,
+              "username": "MIMIsamaOvo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AECVCP7VJS",
+              "end": 47,
+              "expanded_url": "https://x.com/MIMIsamaOvo/status/2078615527376015459/photo/1",
+              "media_key": "3_2078615517322248192",
+              "start": 24,
+              "url": "https://t.co/AECVCP7VJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079173416926785890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078615527376015459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MIMIsamaOvo: 这药没力气（ https://t.co/AECVCP7VJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2918,
+          "following_count": 2190,
+          "like_count": 71789,
+          "listed_count": 8,
+          "media_count": 1813,
+          "tweet_count": 12234
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T09:21:29.000Z",
+        "description": "梦到什么发什么，关注mimi谢谢喵\n戒毒中day0",
+        "id": "2038184435477319680",
+        "location": "戒毒所",
+        "name": "MIMI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069136182697672704/2H0_ygY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 35,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "MIMIsamaOvo",
+        "verified": false
+      }
+    ]
+  }
+}

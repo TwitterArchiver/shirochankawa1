@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1989889487628062863",
+    "created_at": "2025-11-16T02:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T03:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989889487628062863"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989889487628062863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我小心翼翼地趴在你的怀里好冷好冷。我们十指相扣突然一只沾着血的蛆虫掉到了我的脸上，我抬头看你眼睛里钻出来密密麻麻的蛆。可是我还是好爱你就算你是一具尸体我也会一直爱你我们紧紧相拥我抚摸着你的脸颊，蛆虫爬到了我的手上我吻上了你的唇，蛆虫顺着你的口腔爬到了我的嘴里最后蛆虫吃掉了我的内脏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1989889487628062863",
+        "created_at": "2025-11-16T02:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T03:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989889487628062863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989889487628062863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小心翼翼地趴在你的怀里好冷好冷。我们十指相扣突然一只沾着血的蛆虫掉到了我的脸上，我抬头看你眼睛里钻出来密密麻麻的蛆。可是我还是好爱你就算你是一具尸体我也会一直爱你我们紧紧相拥我抚摸着你的脸颊，蛆虫爬到了我的手上我吻上了你的唇，蛆虫顺着你的口腔爬到了我的嘴里最后蛆虫吃掉了我的内脏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 1952,
+          "like_count": 60692,
+          "listed_count": 8,
+          "media_count": 1242,
+          "tweet_count": 8726
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

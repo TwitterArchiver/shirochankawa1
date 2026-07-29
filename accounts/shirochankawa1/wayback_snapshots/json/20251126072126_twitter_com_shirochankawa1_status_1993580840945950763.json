@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993327512362070016"
+      ],
+      "media_source_tweet_id": [
+        "1993327542766555376"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1993580840945950763",
+    "created_at": "2025-11-26T07:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T08:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993580840945950763"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "青の残り香",
+          "probability": 0.3141,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1525352490467663872",
+          "start": 3,
+          "username": "RuinedBeauty_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7VqGGioO4f",
+          "end": 48,
+          "expanded_url": "https://x.com/RuinedBeauty_/status/1993327542766555376/photo/1",
+          "media_key": "3_1993327512362070016",
+          "start": 25,
+          "url": "https://t.co/7VqGGioO4f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993580840945950763",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993327542766555376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RuinedBeauty_: 青の残り香 https://t.co/7VqGGioO4f"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993580840945950763].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993580840945950763",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993580840945950763"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1993327512362070016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6m4z7dasAAnTk6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993327512362070016"
+          ]
+        },
+        "author_id": "1525352490467663872",
+        "conversation_id": "1993327542766555376",
+        "created_at": "2025-11-25T14:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993327542766555376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7VqGGioO4f",
+              "end": 29,
+              "expanded_url": "https://x.com/RuinedBeauty_/status/1993327542766555376/photo/1",
+              "media_key": "3_1993327512362070016",
+              "start": 6,
+              "url": "https://t.co/7VqGGioO4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993327542766555376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3170,
+          "like_count": 380,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "青の残り香 https://t.co/7VqGGioO4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 ，亲友投喂100解锁心理委员",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 1957,
+          "like_count": 61501,
+          "listed_count": 8,
+          "media_count": 1282,
+          "tweet_count": 8956
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:49:23.000Z",
+        "description": "佐藤 腐敗 (Fuhai Sato) | 🍓 Japanese artist | Chaos × Dark-cute ⚠️ Gore /surreal art – • Novels • Goods",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/fuhaio",
+                "end": 23,
+                "expanded_url": "https://lit.link/fuhaio",
+                "start": 0,
+                "url": "https://t.co/w9G59rmATA"
+              }
+            ]
+          }
+        },
+        "id": "1525352490467663872",
+        "location": "グッズ、書籍、作品購入⇒",
+        "name": "佐藤 腐敗 / Fuhai Sato",
+        "pinned_tweet_id": "1988222876726755800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960087027853959169/75LidLEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16942,
+          "following_count": 927,
+          "like_count": 24472,
+          "listed_count": 102,
+          "media_count": 178,
+          "tweet_count": 4089
+        },
+        "url": "https://t.co/w9G59rmATA",
+        "username": "RuinedBeauty_",
+        "verified": true
+      }
+    ]
+  }
+}

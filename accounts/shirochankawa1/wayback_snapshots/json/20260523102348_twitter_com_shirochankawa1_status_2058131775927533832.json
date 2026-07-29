@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2058131775927533832",
+    "created_at": "2026-05-23T10:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058131775927533832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979406362175315969",
+          "start": 3,
+          "username": "Liilcuainil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058131775927533832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057487593269604550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liilcuainil: 很喜欢用嘿嘿这两个字 给人一种豁达、一种乐观、一种淡泊名利、一种智商上的难言之隐，嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2058131775927533832",
+        "created_at": "2026-05-23T10:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058131775927533832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979406362175315969",
+              "start": 3,
+              "username": "Liilcuainil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058131775927533832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057487593269604550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liilcuainil: 很喜欢用嘿嘿这两个字 给人一种豁达、一种乐观、一种淡泊名利、一种智商上的难言之隐，嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979406362175315969",
+        "conversation_id": "2057487593269604550",
+        "created_at": "2026-05-21T15:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057487593269604550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057487593269604550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 62087,
+          "like_count": 1085,
+          "quote_count": 34,
+          "reply_count": 141,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢用嘿嘿这两个字 给人一种豁达、一种乐观、一种淡泊名利、一种智商上的难言之隐，嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2530,
+          "following_count": 2097,
+          "like_count": 69962,
+          "listed_count": 8,
+          "media_count": 1716,
+          "tweet_count": 11583
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T04:37:20.000Z",
+        "description": "可以叫我小礼。自用🪜2r/100g https://t.co/EEJ2bqjapc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "良心云.com/#/register?cod…",
+                "end": 41,
+                "expanded_url": "https://xn--9kqz23b19z.com/#/register?code=R7Rpcr84",
+                "start": 18,
+                "url": "https://t.co/EEJ2bqjapc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lii94162",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lii94162",
+                "start": 0,
+                "url": "https://t.co/aAN2bZvSmT"
+              }
+            ]
+          }
+        },
+        "id": "1979406362175315969",
+        "location": "向我提问",
+        "name": "lii",
+        "pinned_tweet_id": "2052372375518453850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034321803972333568/WP--n2XT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 148,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 456,
+          "tweet_count": 4459
+        },
+        "url": "https://t.co/aAN2bZvSmT",
+        "username": "Liilcuainil",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2050147892242120976",
+    "created_at": "2026-05-01T09:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050147892242120976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1574407959177678848",
+          "start": 3,
+          "username": "iseeu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050147892242120976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049507265775034750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iseeu8964: 嘴特别贱和刻薄的人最好不要在主页哭诉自己的难处，不然会给人一种你现实生活过得不好才会这么刻薄的既视感。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2050147892242120976",
+        "created_at": "2026-05-01T09:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050147892242120976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1574407959177678848",
+              "start": 3,
+              "username": "iseeu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050147892242120976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049507265775034750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iseeu8964: 嘴特别贱和刻薄的人最好不要在主页哭诉自己的难处，不然会给人一种你现实生活过得不好才会这么刻薄的既视感。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574407959177678848",
+        "conversation_id": "2049507265775034750",
+        "created_at": "2026-04-29T15:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049507265775034750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049507265775034750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 58358,
+          "like_count": 1327,
+          "quote_count": 13,
+          "reply_count": 190,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "嘴特别贱和刻薄的人最好不要在主页哭诉自己的难处，不然会给人一种你现实生活过得不好才会这么刻薄的既视感。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 2071,
+          "like_count": 68650,
+          "listed_count": 8,
+          "media_count": 1665,
+          "tweet_count": 11173
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T14:38:14.000Z",
+        "description": "没门槛更没有陪聊的义务，不和傻屌讨论",
+        "id": "1574407959177678848",
+        "name": "Tyu1",
+        "pinned_tweet_id": "2016119875182162270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036441543503212544/jC7mDph8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6978,
+          "following_count": 116,
+          "like_count": 7513,
+          "listed_count": 15,
+          "media_count": 181,
+          "tweet_count": 3526
+        },
+        "username": "iseeu8964",
+        "verified": false
+      }
+    ]
+  }
+}

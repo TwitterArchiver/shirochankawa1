@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016917574949490689"
+      ],
+      "media_source_tweet_id": [
+        "2016943677059584382"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017191377256538178",
+    "created_at": "2026-01-30T11:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017191377256538178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684788633797287936",
+          "start": 3,
+          "username": "Moningmeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P5VZbxND80",
+          "end": 108,
+          "expanded_url": "https://x.com/Moningmeng/status/2016943677059584382/photo/1",
+          "media_key": "3_2016917574949490689",
+          "start": 85,
+          "url": "https://t.co/P5VZbxND80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017191377256538178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016943677059584382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moningmeng: 你们和AI聊天的时候聊到一些愧疚的或者错误的事情的时候会感到不合适吗……有没有这种感觉，虽然知道对面是机器人可是还是莫名的把对面当成真人 https://t.co/P5VZbxND80"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2016917574949490689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_2H2SwbUAExlZ3.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016917574949490689"
+          ],
+          "media_source_tweet_id": [
+            "2016943677059584382"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017191377256538178",
+        "created_at": "2026-01-30T11:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017191377256538178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1684788633797287936",
+              "start": 3,
+              "username": "Moningmeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P5VZbxND80",
+              "end": 108,
+              "expanded_url": "https://x.com/Moningmeng/status/2016943677059584382/photo/1",
+              "media_key": "3_2016917574949490689",
+              "start": 85,
+              "url": "https://t.co/P5VZbxND80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017191377256538178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016943677059584382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moningmeng: 你们和AI聊天的时候聊到一些愧疚的或者错误的事情的时候会感到不合适吗……有没有这种感觉，虽然知道对面是机器人可是还是莫名的把对面当成真人 https://t.co/P5VZbxND80"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016917574949490689"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016943677059584382",
+        "created_at": "2026-01-29T18:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T19:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016943677059584382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P5VZbxND80",
+              "end": 92,
+              "expanded_url": "https://x.com/Moningmeng/status/2016943677059584382/photo/1",
+              "media_key": "3_2016917574949490689",
+              "start": 69,
+              "url": "https://t.co/P5VZbxND80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016943677059584382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10377,
+          "like_count": 274,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "你们和AI聊天的时候聊到一些愧疚的或者错误的事情的时候会感到不合适吗……有没有这种感觉，虽然知道对面是机器人可是还是莫名的把对面当成真人 https://t.co/P5VZbxND80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 1957,
+          "like_count": 63544,
+          "listed_count": 8,
+          "media_count": 1424,
+          "tweet_count": 9717
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26337,
+          "following_count": 10941,
+          "like_count": 85272,
+          "listed_count": 101,
+          "media_count": 4669,
+          "tweet_count": 15940
+        },
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

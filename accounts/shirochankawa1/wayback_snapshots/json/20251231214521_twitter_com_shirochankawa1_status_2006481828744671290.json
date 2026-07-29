@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2006481828744671290",
+    "created_at": "2025-12-31T21:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T22:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006481828744671290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1652379995883601921",
+          "start": 3,
+          "username": "miaomiao0830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006481828744671290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006093168664891859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaomiao0830: 一想到珍视的人已经离开我，可能离开我，即将离开我，我就要哭了，有时候也会想，既然分别那么痛苦，是不是一开始就不要接触好了，可是过程真的很美好很快乐啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2006481828744671290",
+        "created_at": "2025-12-31T21:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T22:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006481828744671290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1652379995883601921",
+              "start": 3,
+              "username": "miaomiao0830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006481828744671290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006093168664891859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miaomiao0830: 一想到珍视的人已经离开我，可能离开我，即将离开我，我就要哭了，有时候也会想，既然分别那么痛苦，是不是一开始就不要接触好了，可是过程真的很美好很快乐啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652379995883601921",
+        "conversation_id": "2006093168664891859",
+        "created_at": "2025-12-30T20:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T21:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006093168664891859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006093168664891859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 18208,
+          "like_count": 369,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "一想到珍视的人已经离开我，可能离开我，即将离开我，我就要哭了，有时候也会想，既然分别那么痛苦，是不是一开始就不要接触好了，可是过程真的很美好很快乐啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化/高纬度生命",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 1969,
+          "like_count": 62563,
+          "listed_count": 8,
+          "media_count": 1369,
+          "tweet_count": 9432
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T18:31:34.000Z",
+        "description": "账号主人是一只小猫｜纯绿🚪线上288/线下520一日女友cos委托｜坐标10r｜坐标＋咨询线下50r｜私信只回口令｜喜欢可以投喂让我更好♡｜置顶关评推广自辩",
+        "id": "1652379995883601921",
+        "name": "喵呜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004480569154158592/m18a2taO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12717,
+          "following_count": 360,
+          "like_count": 11983,
+          "listed_count": 20,
+          "media_count": 400,
+          "tweet_count": 8124
+        },
+        "username": "miaomiao0830",
+        "verified": false
+      }
+    ]
+  }
+}

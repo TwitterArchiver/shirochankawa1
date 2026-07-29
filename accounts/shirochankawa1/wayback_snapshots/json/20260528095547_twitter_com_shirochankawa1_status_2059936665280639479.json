@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2059708160693465115",
+    "created_at": "2026-05-28T09:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059936665280639479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2350197295",
+          "start": 0,
+          "username": "GingerNishikino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059936665280639479",
+    "in_reply_to_user_id": "2350197295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059910057291386946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GingerNishikino 对的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2059708160693465115",
+        "created_at": "2026-05-28T09:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059936665280639479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2350197295",
+              "start": 0,
+              "username": "GingerNishikino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059936665280639479",
+        "in_reply_to_user_id": "2350197295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059910057291386946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GingerNishikino 对的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2350197295",
+        "conversation_id": "2059708160693465115",
+        "created_at": "2026-05-28T08:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059910057291386946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059910057291386946",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059708160693465115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 原來還是個賴打廚！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 2102,
+          "like_count": 70299,
+          "listed_count": 8,
+          "media_count": 1731,
+          "tweet_count": 11676
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-18T14:23:18.000Z",
+        "description": "Maybe the only 🔞editor without AI\nDiscord Server:https://t.co/ShCJJZIO55   \nDiscord: GingerNishikino\n\n#剥きコラ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 102,
+                "tag": "剥きコラ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/apS7RyNwgu",
+                "end": 72,
+                "expanded_url": "http://discord.gg/apS7RyNwgu",
+                "start": 49,
+                "url": "https://t.co/ShCJJZIO55"
+              }
+            ]
+          }
+        },
+        "id": "2350197295",
+        "location": "Backroom level 11",
+        "name": "Ginger Nishikino/西木野ショウガ",
+        "pinned_tweet_id": "1666403085672132608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739344198183292928/mCBlTcC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 211,
+          "like_count": 974,
+          "listed_count": 18,
+          "media_count": 181,
+          "tweet_count": 700
+        },
+        "username": "GingerNishikino",
+        "verified": false
+      }
+    ]
+  }
+}

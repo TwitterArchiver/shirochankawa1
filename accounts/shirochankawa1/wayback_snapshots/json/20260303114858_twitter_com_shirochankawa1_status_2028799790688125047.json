@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2028799790688125047",
+    "created_at": "2026-03-03T11:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028799790688125047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/goldenegg567/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/goldenegg567/status/2028696852003234121",
+          "start": 6,
+          "url": "https://t.co/V4f1DqqBqS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028799790688125047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028696852003234121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被你发现了 https://t.co/V4f1DqqBqS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2028799790688125047",
+        "created_at": "2026-03-03T11:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028799790688125047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/goldenegg567/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/goldenegg567/status/2028696852003234121",
+              "start": 6,
+              "url": "https://t.co/V4f1DqqBqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028799790688125047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028696852003234121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被你发现了 https://t.co/V4f1DqqBqS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835181750806626308",
+        "conversation_id": "2028696852003234121",
+        "created_at": "2026-03-03T04:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028696852003234121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028696852003234121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 35115,
+          "like_count": 337,
+          "quote_count": 10,
+          "reply_count": 34,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "觉得哥哥这个称呼色情的都是独生女吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2344,
+          "following_count": 2002,
+          "like_count": 66439,
+          "listed_count": 8,
+          "media_count": 1568,
+          "tweet_count": 10535
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T05:00:12.000Z",
+        "description": "im waiting",
+        "id": "1835181750806626308",
+        "name": "戈多",
+        "pinned_tweet_id": "2014553398440558976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945696029548113920/coj5RIoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 78,
+          "like_count": 2777,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 437
+        },
+        "username": "goldenegg567",
+        "verified": false
+      }
+    ]
+  }
+}

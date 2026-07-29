@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024091744082755584"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024091751401787828",
+    "created_at": "2026-02-18T12:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T13:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024091751401787828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oud1o9zswf",
+          "end": 29,
+          "expanded_url": "https://x.com/shirochankawa1/status/2024091751401787828/photo/1",
+          "media_key": "3_2024091744082755584",
+          "start": 6,
+          "url": "https://t.co/oud1o9zswf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024091751401787828",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要笑死了 https://t.co/oud1o9zswf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2024091744082755584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcEt5bagAADLOV.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024091744082755584"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2024091751401787828",
+        "created_at": "2026-02-18T12:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024091751401787828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oud1o9zswf",
+              "end": 29,
+              "expanded_url": "https://x.com/shirochankawa1/status/2024091751401787828/photo/1",
+              "media_key": "3_2024091744082755584",
+              "start": 6,
+              "url": "https://t.co/oud1o9zswf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024091751401787828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要笑死了 https://t.co/oud1o9zswf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 1982,
+          "like_count": 64600,
+          "listed_count": 8,
+          "media_count": 1505,
+          "tweet_count": 10078
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

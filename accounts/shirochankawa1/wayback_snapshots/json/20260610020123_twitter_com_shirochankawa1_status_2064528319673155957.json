@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2064528319673155957",
+    "created_at": "2026-06-10T02:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064528319673155957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1473529668263628805",
+          "start": 3,
+          "username": "real39715698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064528319673155957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064304008303636936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @real39715698: 事实上好恐怖，如果我把注意力全放在对方身上我就是一个完全的控制狂。可是如果我选择为了让对方没那么窒息，转移一部分注意力，我就会变成一个不在乎任何事情的情感漠视。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2064528319673155957",
+        "created_at": "2026-06-10T02:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064528319673155957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1473529668263628805",
+              "start": 3,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064528319673155957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064304008303636936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @real39715698: 事实上好恐怖，如果我把注意力全放在对方身上我就是一个完全的控制狂。可是如果我选择为了让对方没那么窒息，转移一部分注意力，我就会变成一个不在乎任何事情的情感漠视。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2064304008303636936",
+        "created_at": "2026-06-09T11:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064304008303636936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064304008303636936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 8637,
+          "like_count": 322,
+          "quote_count": 10,
+          "reply_count": 20,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "事实上好恐怖，如果我把注意力全放在对方身上我就是一个完全的控制狂。可是如果我选择为了让对方没那么窒息，转移一部分注意力，我就会变成一个不在乎任何事情的情感漠视。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2642,
+          "following_count": 2150,
+          "like_count": 70958,
+          "listed_count": 8,
+          "media_count": 1766,
+          "tweet_count": 11907
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 199,
+          "like_count": 22505,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 3180
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2028892257844400128"
+      ],
+      "media_source_tweet_id": [
+        "2028892364052525185"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028903738677826019",
+    "created_at": "2026-03-03T18:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T19:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028903738677826019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370299304707989512",
+          "start": 3,
+          "username": "8co28"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cH5nBnSxj8",
+          "end": 77,
+          "expanded_url": "https://x.com/8co28/status/2028892364052525185/video/1",
+          "media_key": "13_2028892257844400128",
+          "start": 54,
+          "url": "https://t.co/cH5nBnSxj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028903738677826019",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028892364052525185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8co28: The girl written outside the happy ending. https://t.co/cH5nBnSxj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30394,
+        "height": 1080,
+        "media_key": "13_2028892257844400128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028892257844400128/img/7FShQ5YAVME2O2YI.jpg",
+        "public_metrics": {
+          "view_count": 863
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028892257844400128/vid/avc1/1928x1080/_9XX7e2ZuYRVZaNf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028892257844400128/vid/avc1/1284x720/k2S8Lgg_OxRuVc8B.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028892257844400128/vid/avc1/642x360/5kV_1Ii0CoMtmM0Q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028892257844400128/pl/5ezKGkDaHhVEhFCp.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028892257844400128/vid/avc1/482x270/8l-LcGdC5xR5i1o3.mp4"
+          }
+        ],
+        "width": 1928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028892257844400128"
+          ],
+          "media_source_tweet_id": [
+            "2028892364052525185"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028903738677826019",
+        "created_at": "2026-03-03T18:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T19:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028903738677826019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370299304707989512",
+              "start": 3,
+              "username": "8co28"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cH5nBnSxj8",
+              "end": 77,
+              "expanded_url": "https://x.com/8co28/status/2028892364052525185/video/1",
+              "media_key": "13_2028892257844400128",
+              "start": 54,
+              "url": "https://t.co/cH5nBnSxj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028903738677826019",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028892364052525185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8co28: The girl written outside the happy ending. https://t.co/cH5nBnSxj8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028892257844400128"
+          ]
+        },
+        "author_id": "1370299304707989512",
+        "conversation_id": "2028892364052525185",
+        "created_at": "2026-03-03T17:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028892364052525185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cH5nBnSxj8",
+              "end": 66,
+              "expanded_url": "https://x.com/8co28/status/2028892364052525185/video/1",
+              "media_key": "13_2028892257844400128",
+              "start": 43,
+              "url": "https://t.co/cH5nBnSxj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028892364052525185",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 3010,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "The girl written outside the happy ending. https://t.co/cH5nBnSxj8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 2002,
+          "like_count": 66600,
+          "listed_count": 8,
+          "media_count": 1570,
+          "tweet_count": 10568
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T09:03:18.000Z",
+        "description": "hakoniwa is the Executive Director of And Idea Co., Ltd. @AndIdea_jp For work requests, please contact info@andidea.jp. お仕事のご依頼はメールへどうぞ。AIをツールとして活用しています。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "AndIdea_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/8528",
+                "end": 23,
+                "expanded_url": "http://lit.link/8528",
+                "start": 0,
+                "url": "https://t.co/upytk33INI"
+              }
+            ]
+          }
+        },
+        "id": "1370299304707989512",
+        "location": "Tokyo, Japan / 大切な家族最優先",
+        "name": "852話(hakoniwa)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499865775246815232/jRximB_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405734,
+          "following_count": 217,
+          "like_count": 5607,
+          "listed_count": 2883,
+          "media_count": 6297,
+          "tweet_count": 11572
+        },
+        "url": "https://t.co/upytk33INI",
+        "username": "8co28",
+        "verified": true
+      }
+    ]
+  }
+}

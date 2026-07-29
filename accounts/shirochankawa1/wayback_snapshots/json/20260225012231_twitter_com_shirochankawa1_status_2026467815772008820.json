@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2026467815772008820",
+    "created_at": "2026-02-25T01:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T02:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026467815772008820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995076111328509952",
+          "start": 3,
+          "username": "o_Ouser123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026467815772008820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026310871287521288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o_Ouser123: 就让把男网友误以为是妹子互动的我们……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2026467815772008820",
+        "created_at": "2026-02-25T01:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026467815772008820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995076111328509952",
+              "start": 3,
+              "username": "o_Ouser123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026467815772008820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026310871287521288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o_Ouser123: 就让把男网友误以为是妹子互动的我们……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995076111328509952",
+        "conversation_id": "2026310871287521288",
+        "created_at": "2026-02-24T14:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026310871287521288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026310871287521288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16142,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "就让把男网友误以为是妹子互动的我们……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 2003,
+          "like_count": 65748,
+          "listed_count": 8,
+          "media_count": 1543,
+          "tweet_count": 10385
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T10:23:16.000Z",
+        "description": "只回应好听话和钱｜超低精力有时候不想回评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/user123ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/user123ovo",
+                "start": 0,
+                "url": "https://t.co/nxkujmpTYc"
+              }
+            ]
+          }
+        },
+        "id": "1995076111328509952",
+        "location": "答应我会幸福",
+        "name": "我有被爱妄想症",
+        "pinned_tweet_id": "2012418617401548963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010002942137712640/osx2RvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 157,
+          "like_count": 7516,
+          "listed_count": 5,
+          "media_count": 61,
+          "tweet_count": 2540
+        },
+        "url": "https://t.co/nxkujmpTYc",
+        "username": "o_Ouser123",
+        "verified": false
+      }
+    ]
+  }
+}

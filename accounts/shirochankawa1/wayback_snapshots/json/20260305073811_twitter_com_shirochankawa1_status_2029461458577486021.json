@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2029461458577486021",
+    "created_at": "2026-03-05T07:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T08:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029461458577486021"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "广州"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "广州同城"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "女高"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "餐券"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2010632216230113280",
+          "start": 3,
+          "username": "LinRiriKa0603"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029461458577486021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028716605438631967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LinRiriKa0603: 我是莉莉，我重生了🪽\n坐标广州 165/54kg\n我需要钱医治我的精神病，还需要零用钱\n88好友位/188开放朋友圈/288积极回复绿色信息且开放线下价表/520暧昧/1314老公\n不过门不回复任何信息🫶\n#广州 #广州同城 #女高 #餐券…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028716595917520896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdy_tGagAABPM0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028716593996517376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdy_l8aUAAn1S0.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2029461458577486021",
+        "created_at": "2026-03-05T07:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029461458577486021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "广州"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "广州同城"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "女高"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "餐券"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2010632216230113280",
+              "start": 3,
+              "username": "LinRiriKa0603"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029461458577486021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028716605438631967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LinRiriKa0603: 我是莉莉，我重生了🪽\n坐标广州 165/54kg\n我需要钱医治我的精神病，还需要零用钱\n88好友位/188开放朋友圈/288积极回复绿色信息且开放线下价表/520暧昧/1314老公\n不过门不回复任何信息🫶\n#广州 #广州同城 #女高 #餐券…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028716595917520896",
+            "3_2028716593996517376"
+          ]
+        },
+        "author_id": "2010632216230113280",
+        "conversation_id": "2028716605438631967",
+        "created_at": "2026-03-03T06:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028716605438631967"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "广州"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "广州同城"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "女高"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "餐券"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "自伤"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "门槛"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "萝莉控"
+            },
+            {
+              "end": 154,
+              "start": 150,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iP7KczcOrr",
+              "end": 178,
+              "expanded_url": "https://x.com/LinRiriKa0603/status/2028716605438631967/photo/1",
+              "media_key": "3_2028716595917520896",
+              "start": 155,
+              "url": "https://t.co/iP7KczcOrr"
+            },
+            {
+              "display_url": "pic.x.com/iP7KczcOrr",
+              "end": 178,
+              "expanded_url": "https://x.com/LinRiriKa0603/status/2028716605438631967/photo/1",
+              "media_key": "3_2028716593996517376",
+              "start": 155,
+              "url": "https://t.co/iP7KczcOrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028716605438631967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是莉莉，我重生了🪽\n坐标广州 165/54kg\n我需要钱医治我的精神病，还需要零用钱\n88好友位/188开放朋友圈/288积极回复绿色信息且开放线下价表/520暧昧/1314老公\n不过门不回复任何信息🫶\n#广州 #广州同城 #女高 #餐券 #门槛哥 #自伤 #门槛姐 #门槛妹 #门槛 #萝莉控 \n#爸爸活 https://t.co/iP7KczcOrr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 2003,
+          "like_count": 66742,
+          "listed_count": 8,
+          "media_count": 1574,
+          "tweet_count": 10605
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T08:37:40.000Z",
+        "description": "毒舌阴魂不散且任性的女人/广州/门槛妹/88/188/288/520/1314上不封顶",
+        "id": "2010632216230113280",
+        "location": "天國",
+        "name": "🤍Ririka🤍2.0",
+        "pinned_tweet_id": "2028716605438631967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020845394486575105/GXEvWI-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 11,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 13
+        },
+        "username": "LinRiriKa0603",
+        "verified": false
+      }
+    ]
+  }
+}

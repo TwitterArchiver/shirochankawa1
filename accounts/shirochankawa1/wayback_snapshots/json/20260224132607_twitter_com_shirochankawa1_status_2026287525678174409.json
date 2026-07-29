@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2026287525678174409",
+    "created_at": "2026-02-24T13:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026287525678174409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tired_8964/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/tired_8964/status/2025691465880621378",
+          "start": 21,
+          "url": "https://t.co/4eT9LKn94a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026287525678174409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025691465880621378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯，，其实我挺喜欢的只要提前刷牙漱口就行 https://t.co/4eT9LKn94a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2026287525678174409",
+        "created_at": "2026-02-24T13:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026287525678174409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tired_8964/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/tired_8964/status/2025691465880621378",
+              "start": 21,
+              "url": "https://t.co/4eT9LKn94a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026287525678174409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025691465880621378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯，，其实我挺喜欢的只要提前刷牙漱口就行 https://t.co/4eT9LKn94a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513898402366439427",
+        "conversation_id": "2025691465880621378",
+        "created_at": "2026-02-22T21:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T22:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025691465880621378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025691465880621378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 171952,
+          "like_count": 487,
+          "quote_count": 6,
+          "reply_count": 96,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得舌吻有点恶心。。你们不会觉得别人的唾液有一种怪怪的味道吗…我妈喝过我瓶子里的水我就不会再喝了…两坨肥肉在口腔里搅来搅去 我都不敢想对方带了上多少人口腔内的菌群…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 2002,
+          "like_count": 65713,
+          "listed_count": 8,
+          "media_count": 1542,
+          "tweet_count": 10372
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "我很脆弱。梦到啥说啥。匿名问答：https://t.co/02AmJFCDEU。可以找我玩switch联机游戏😣",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amaya_ovo",
+                "end": 39,
+                "expanded_url": "https://ngl.link/amaya_ovo",
+                "start": 16,
+                "url": "https://t.co/02AmJFCDEU"
+              }
+            ]
+          }
+        },
+        "id": "1513898402366439427",
+        "location": "抱抱",
+        "name": "烦烦",
+        "pinned_tweet_id": "1999365860356759785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004997128914149376/V6jWbjSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 328,
+          "like_count": 6816,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 3280
+        },
+        "username": "tired_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061726479818641408"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2061726489352327210",
+    "created_at": "2026-06-02T08:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061726489352327210"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "七草荠"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZmpoYGBvMe",
+          "end": 28,
+          "expanded_url": "https://x.com/shirochankawa1/status/2061726489352327210/photo/1",
+          "media_key": "3_2061726479818641408",
+          "start": 5,
+          "url": "https://t.co/ZmpoYGBvMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061726489352327210",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#七草荠 https://t.co/ZmpoYGBvMe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2061726479818641408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJy5T1WbUAAE_wc.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061726479818641408"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2061726489352327210",
+        "created_at": "2026-06-02T08:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061726489352327210"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "七草荠"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZmpoYGBvMe",
+              "end": 28,
+              "expanded_url": "https://x.com/shirochankawa1/status/2061726489352327210/photo/1",
+              "media_key": "3_2061726479818641408",
+              "start": 5,
+              "url": "https://t.co/ZmpoYGBvMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061726489352327210",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#七草荠 https://t.co/ZmpoYGBvMe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2578,
+          "following_count": 2110,
+          "like_count": 70437,
+          "listed_count": 8,
+          "media_count": 1744,
+          "tweet_count": 11738
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

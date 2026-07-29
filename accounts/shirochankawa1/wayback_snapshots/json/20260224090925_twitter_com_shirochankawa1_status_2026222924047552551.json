@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2026211601301565871",
+    "created_at": "2026-02-24T09:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T10:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026222924047552551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1473889196511473664",
+          "start": 0,
+          "username": "TAKAYAvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026222924047552551",
+    "in_reply_to_user_id": "1473889196511473664",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026219435753902139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAKAYAvs ꒰՞&gt; · &lt;𓈒՞꒱❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2026211601301565871",
+        "created_at": "2026-02-24T09:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026222924047552551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1473889196511473664",
+              "start": 0,
+              "username": "TAKAYAvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026222924047552551",
+        "in_reply_to_user_id": "1473889196511473664",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026219435753902139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAKAYAvs ꒰՞&gt; · &lt;𓈒՞꒱❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473889196511473664",
+        "conversation_id": "2026211601301565871",
+        "created_at": "2026-02-24T08:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026219435753902139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026219435753902139",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026211601301565871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 島風可愛い〜💗💗💗💗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 2001,
+          "like_count": 65626,
+          "listed_count": 8,
+          "media_count": 1541,
+          "tweet_count": 10348
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T05:32:32.000Z",
+        "description": "札幌の人 漫画、コスプレ、SF、ミステリー、映画が好きな人　呼びタメ大歓迎です😊",
+        "id": "1473889196511473664",
+        "location": "北海道 ",
+        "name": "TAKAYA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784420499306725376/DnCYIWcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2544,
+          "following_count": 2533,
+          "like_count": 233210,
+          "listed_count": 22,
+          "media_count": 167,
+          "tweet_count": 126672
+        },
+        "username": "TAKAYAvs",
+        "verified": false
+      }
+    ]
+  }
+}

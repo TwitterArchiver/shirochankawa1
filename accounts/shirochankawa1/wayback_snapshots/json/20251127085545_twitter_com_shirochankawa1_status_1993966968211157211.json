@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993966957876662278"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1993966968211157211",
+    "created_at": "2025-11-27T08:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T09:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993966968211157211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qx5uXfdfgo",
+          "end": 27,
+          "expanded_url": "https://x.com/shirochankawa1/status/1993966968211157211/photo/1",
+          "media_key": "3_1993966957876662278",
+          "start": 4,
+          "url": "https://t.co/Qx5uXfdfgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993966968211157211",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽爽 https://t.co/Qx5uXfdfgo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993966968211157211].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993966968211157211",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993966968211157211"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1993966957876662278",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6v-Yjoa0AYmXQG.jpg",
+        "width": 1392
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 1963,
+          "like_count": 61671,
+          "listed_count": 8,
+          "media_count": 1291,
+          "tweet_count": 9002
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021634384697401345"
+      ],
+      "media_source_tweet_id": [
+        "2021634398349930973"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2021914261182886058",
+    "created_at": "2026-02-12T11:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021914261182886058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852657204681428992",
+          "start": 3,
+          "username": "jk_ssy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dn3X96sco0",
+          "end": 35,
+          "expanded_url": "https://x.com/jk_ssy/status/2021634398349930973/photo/1",
+          "media_key": "3_2021634384697401345",
+          "start": 12,
+          "url": "https://t.co/dn3X96sco0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021914261182886058",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 792
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021634398349930973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @jk_ssy: https://t.co/dn3X96sco0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021634384697401345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA5JwwWaoAE1NzR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021634384697401345"
+          ],
+          "media_source_tweet_id": [
+            "2021634398349930973"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2021914261182886058",
+        "created_at": "2026-02-12T11:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021914261182886058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852657204681428992",
+              "start": 3,
+              "username": "jk_ssy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dn3X96sco0",
+              "end": 35,
+              "expanded_url": "https://x.com/jk_ssy/status/2021634398349930973/photo/1",
+              "media_key": "3_2021634384697401345",
+              "start": 12,
+              "url": "https://t.co/dn3X96sco0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021914261182886058",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 792
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021634398349930973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @jk_ssy: https://t.co/dn3X96sco0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021634384697401345"
+          ]
+        },
+        "author_id": "1852657204681428992",
+        "conversation_id": "2021634398349930973",
+        "created_at": "2026-02-11T17:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021634398349930973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dn3X96sco0",
+              "end": 23,
+              "expanded_url": "https://x.com/jk_ssy/status/2021634398349930973/photo/1",
+              "media_key": "3_2021634384697401345",
+              "start": 0,
+              "url": "https://t.co/dn3X96sco0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021634398349930973",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 530,
+          "impression_count": 83052,
+          "like_count": 8635,
+          "quote_count": 19,
+          "reply_count": 0,
+          "retweet_count": 792
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/dn3X96sco0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 1972,
+          "like_count": 64119,
+          "listed_count": 8,
+          "media_count": 1474,
+          "tweet_count": 9928
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T10:21:39.000Z",
+        "description": "17歳は絶対的私のお葬式",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/te1_hee",
+                "end": 23,
+                "expanded_url": "https://note.com/te1_hee",
+                "start": 0,
+                "url": "https://t.co/O4USBpIZv4"
+              }
+            ]
+          }
+        },
+        "id": "1852657204681428992",
+        "location": "嘘つき",
+        "name": "火葬式",
+        "pinned_tweet_id": "2021107762739150923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973091525300305920/phMN4djC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 413,
+          "like_count": 3131,
+          "listed_count": 6,
+          "media_count": 32,
+          "tweet_count": 341
+        },
+        "url": "https://t.co/O4USBpIZv4",
+        "username": "jk_ssy",
+        "verified": false
+      }
+    ]
+  }
+}

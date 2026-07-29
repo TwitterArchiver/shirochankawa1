@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2063510647091167728",
+    "created_at": "2026-06-07T06:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063510647091167728"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063510647091167728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我27考研早把复习基地搬黑洞边缘了，相对论时间膨胀直接拉满，地球一秒我能学一年。书桌焊在曲率引擎旁，笔是中子星材质，刷题自带引力场，错题刚冒头就被时空扭曲成正确答案。三餐直接吸暗物质能量液，吸一口顶三百年代谢，连呼吸都省了，全用来刷数学。现在3000年的押题卷我都刷到吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2063510647091167728",
+        "created_at": "2026-06-07T06:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063510647091167728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063510647091167728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我27考研早把复习基地搬黑洞边缘了，相对论时间膨胀直接拉满，地球一秒我能学一年。书桌焊在曲率引擎旁，笔是中子星材质，刷题自带引力场，错题刚冒头就被时空扭曲成正确答案。三餐直接吸暗物质能量液，吸一口顶三百年代谢，连呼吸都省了，全用来刷数学。现在3000年的押题卷我都刷到吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2612,
+          "following_count": 2143,
+          "like_count": 70639,
+          "listed_count": 8,
+          "media_count": 1753,
+          "tweet_count": 11819
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

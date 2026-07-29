@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2016746340278251799",
+    "created_at": "2026-01-29T05:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016746340278251799"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016746340278251799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我奶送我的玉佩炸了，我爷给我的符纸自燃了，妈妈送给我的怀表炸了，我拜过的神仙陨落了，给我护道的狐仙被配了，请来的老道士跳进水缸自杀了，家里的关公像看完站起来跑了，我床底下的鬼冲我的手机上撒了把糯米就魂飞魄散了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2016746340278251799",
+        "created_at": "2026-01-29T05:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016746340278251799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016746340278251799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我奶送我的玉佩炸了，我爷给我的符纸自燃了，妈妈送给我的怀表炸了，我拜过的神仙陨落了，给我护道的狐仙被配了，请来的老道士跳进水缸自杀了，家里的关公像看完站起来跑了，我床底下的鬼冲我的手机上撒了把糯米就魂飞魄散了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 1953,
+          "like_count": 63374,
+          "listed_count": 8,
+          "media_count": 1419,
+          "tweet_count": 9692
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

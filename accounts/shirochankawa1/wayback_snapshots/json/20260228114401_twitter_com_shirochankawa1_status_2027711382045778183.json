@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027322064991055872"
+      ],
+      "media_source_tweet_id": [
+        "2027322551928799273"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027711382045778183",
+    "created_at": "2026-02-28T11:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T12:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027711382045778183"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 44,
+          "tag": "パンスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1520784045021724672",
+          "start": 3,
+          "username": "akutan_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1X1ZeaILr0",
+          "end": 73,
+          "expanded_url": "https://x.com/akutan_bot/status/2027322551928799273/video/1",
+          "media_key": "13_2027322064991055872",
+          "start": 50,
+          "url": "https://t.co/1X1ZeaILr0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027711382045778183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 598
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027322551928799273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akutan_bot: パンティ&amp;ストッキングの逆作画崩壊マジで好きw\n#パンスト https://t.co/1X1ZeaILr0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75075,
+        "height": 720,
+        "media_key": "13_2027322064991055872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027322064991055872/img/vr_XwKWcPs-le0HT.jpg",
+        "public_metrics": {
+          "view_count": 222440
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027322064991055872/vid/avc1/480x270/YoYrby3ChHY2mjOg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027322064991055872/vid/avc1/640x360/eICX58OExma5Mnnk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027322064991055872/vid/avc1/1280x720/11ZsSQv4cS3Xbh4m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027322064991055872/pl/oBUd0MsOkVmGwq5J.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027322064991055872"
+          ],
+          "media_source_tweet_id": [
+            "2027322551928799273"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027711382045778183",
+        "created_at": "2026-02-28T11:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027711382045778183"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "パンスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1520784045021724672",
+              "start": 3,
+              "username": "akutan_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1X1ZeaILr0",
+              "end": 73,
+              "expanded_url": "https://x.com/akutan_bot/status/2027322551928799273/video/1",
+              "media_key": "13_2027322064991055872",
+              "start": 50,
+              "url": "https://t.co/1X1ZeaILr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027711382045778183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 598
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027322551928799273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akutan_bot: パンティ&amp;ストッキングの逆作画崩壊マジで好きw\n#パンスト https://t.co/1X1ZeaILr0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027322064991055872"
+          ]
+        },
+        "author_id": "1520784045021724672",
+        "conversation_id": "2027322551928799273",
+        "created_at": "2026-02-27T09:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027322551928799273"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "パンスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1X1ZeaILr0",
+              "end": 57,
+              "expanded_url": "https://x.com/akutan_bot/status/2027322551928799273/video/1",
+              "media_key": "13_2027322064991055872",
+              "start": 34,
+              "url": "https://t.co/1X1ZeaILr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027322551928799273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1485,
+          "impression_count": 351338,
+          "like_count": 6815,
+          "quote_count": 33,
+          "reply_count": 9,
+          "retweet_count": 598
+        },
+        "reply_settings": "everyone",
+        "text": "パンティ&amp;ストッキングの逆作画崩壊マジで好きw\n#パンスト https://t.co/1X1ZeaILr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 2001,
+          "like_count": 66080,
+          "listed_count": 8,
+          "media_count": 1562,
+          "tweet_count": 10469
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T15:15:54.000Z",
+        "description": "■アニメAnime■漫画■ネタツイ■イラスト■ツイ廃界隈■サブ@mco_az ■分身 @a_bkro■251 @114514Maaa ■bot @f6kof @5kn_3 @3ev34 ■管理 @forlosedays■鍵@akukinbot■よく絡んでくれる人フォロバします✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 31,
+                "username": "mco_az"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "username": "a_bkro"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "114514Maaa"
+              },
+              {
+                "end": 78,
+                "start": 72,
+                "username": "f6kof"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "username": "5kn_3"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "3ev34"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "forlosedays"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "akukinbot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yzkrb",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@yzkrb",
+                "start": 0,
+                "url": "https://t.co/FuguaoDTJy"
+              }
+            ]
+          }
+        },
+        "id": "1520784045021724672",
+        "location": "フォロワー4万人目標‼️",
+        "name": "夜桜🌸",
+        "pinned_tweet_id": "1983131003607814461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953395257430929408/Rryg0qv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38816,
+          "following_count": 996,
+          "like_count": 33375,
+          "listed_count": 98,
+          "media_count": 3823,
+          "tweet_count": 17003
+        },
+        "url": "https://t.co/FuguaoDTJy",
+        "username": "akutan_bot",
+        "verified": true
+      }
+    ]
+  }
+}

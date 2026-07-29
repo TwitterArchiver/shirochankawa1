@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990725510096433153"
+      ],
+      "media_source_tweet_id": [
+        "1990725512646287387"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "1990852594340647416",
+    "created_at": "2025-11-18T18:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T19:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990852594340647416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T1ux4veYGm",
+          "end": 44,
+          "expanded_url": "https://x.com/Dormicumproject/status/1990725512646287387/photo/1",
+          "media_key": "3_1990725510096433153",
+          "start": 21,
+          "url": "https://t.co/T1ux4veYGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990852594340647416",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990725512646287387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: https://t.co/T1ux4veYGm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990852594340647416].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990852594340647416",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990852594340647416"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_1990725510096433153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6B6TdqbMAE-jNY.jpg",
+        "width": 623
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990725510096433153"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "1990725512646287387",
+        "created_at": "2025-11-18T10:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990725512646287387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1ux4veYGm",
+              "end": 23,
+              "expanded_url": "https://x.com/Dormicumproject/status/1990725512646287387/photo/1",
+              "media_key": "3_1990725510096433153",
+              "start": 0,
+              "url": "https://t.co/T1ux4veYGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990725512646287387",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 17471,
+          "like_count": 1058,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T1ux4veYGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 1958,
+          "like_count": 60960,
+          "listed_count": 8,
+          "media_count": 1249,
+          "tweet_count": 8793
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n作品はここから読めますhttps://t.co/SB66qxQm2S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxQm2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLRIV"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "1974406691593871804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130198,
+          "following_count": 0,
+          "like_count": 1775,
+          "listed_count": 570,
+          "media_count": 770,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/CtEGqQLRIV",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

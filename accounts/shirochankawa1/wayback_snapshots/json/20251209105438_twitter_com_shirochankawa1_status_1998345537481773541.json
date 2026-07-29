@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1998345537481773541",
+    "created_at": "2025-12-09T10:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T11:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998345537481773541"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998345537481773541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": ":你们不要再说电波系是弱智了，其实电波系通常要担任主角团氛围凝固时的破壁机，队友吵架时把小蛋糕都偷吃完的宠物，推理片场找线索时的灵机一动，莫名其妙指出真凶的请神上身，0常识需要被大家轮流盯着的残疾人，以为他能发表什么重要意见结果只是睡着了一动不动的盆栽，很忙的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1998345537481773541",
+        "created_at": "2025-12-09T10:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T11:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998345537481773541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998345537481773541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": ":你们不要再说电波系是弱智了，其实电波系通常要担任主角团氛围凝固时的破壁机，队友吵架时把小蛋糕都偷吃完的宠物，推理片场找线索时的灵机一动，莫名其妙指出真凶的请神上身，0常识需要被大家轮流盯着的残疾人，以为他能发表什么重要意见结果只是睡着了一动不动的盆栽，很忙的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 1977,
+          "like_count": 62523,
+          "listed_count": 8,
+          "media_count": 1328,
+          "tweet_count": 9294
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

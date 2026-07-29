@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1995341985570599403",
+    "created_at": "2025-12-01T03:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T04:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995341985570599403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821560692140544000",
+          "start": 3,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995341985570599403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994743593186238969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouo: 我亲友可以一边在她主页发“吸毒的人不值得同情并且凡是不反对吸毒的人全是脑残”，然后另一边我心平气和地给他动态点赞\n我们俩依旧在互动里恩爱贴贴，我拿着她的红包喝着奶茶顺便载我动态里自言自语“今天吃什么迷幻剂”，她也会给我点赞\n\n不双标不包容的人get不到…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1995341985570599403",
+        "created_at": "2025-12-01T03:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T04:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995341985570599403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821560692140544000",
+              "start": 3,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995341985570599403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994743593186238969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouo: 我亲友可以一边在她主页发“吸毒的人不值得同情并且凡是不反对吸毒的人全是脑残”，然后另一边我心平气和地给他动态点赞\n我们俩依旧在互动里恩爱贴贴，我拿着她的红包喝着奶茶顺便载我动态里自言自语“今天吃什么迷幻剂”，她也会给我点赞\n\n不双标不包容的人get不到…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1994743593186238969",
+        "created_at": "2025-11-29T12:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994743593186238969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994743593186238969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14171,
+          "like_count": 203,
+          "quote_count": 6,
+          "reply_count": 25,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我亲友可以一边在她主页发“吸毒的人不值得同情并且凡是不反对吸毒的人全是脑残”，然后另一边我心平气和地给他动态点赞\n我们俩依旧在互动里恩爱贴贴，我拿着她的红包喝着奶茶顺便载我动态里自言自语“今天吃什么迷幻剂”，她也会给我点赞\n\n不双标不包容的人get不到这个萌点的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 1981,
+          "like_count": 62261,
+          "listed_count": 8,
+          "media_count": 1308,
+          "tweet_count": 9210
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护与互关的大家庭👨‍👩‍👦疯狗狂犬病弱智神经病狂野精神病滥用自残啥都碰不可理喻无药可救精力旺盛绝赞病b小心染病❤️同类fo必回-漏fo请大力戳俺！-爱互关宝宝❤️点赞评论bot-讨厌闲聊请勿打扰♡喜欢sex与drug♡除推文外不提供任何咨询解答♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 1210,
+          "like_count": 3808,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3418
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

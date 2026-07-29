@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2001670374040440833"
+      ],
+      "media_source_tweet_id": [
+        "2001670618316710072"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002945703015055667",
+    "created_at": "2025-12-22T03:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T04:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002945703015055667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1796937387899064320",
+          "start": 3,
+          "username": "CleverFf050755"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r12gCUAL5z",
+          "end": 57,
+          "expanded_url": "https://x.com/CleverFf050755/status/2001670618316710072/video/1",
+          "media_key": "13_2001670374040440833",
+          "start": 34,
+          "url": "https://t.co/r12gCUAL5z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002945703015055667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001670618316710072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CleverFf050755: 我们当中出了一个卖主的叛徒 https://t.co/r12gCUAL5z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61834,
+        "height": 1080,
+        "media_key": "13_2001670374040440833",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001670374040440833/img/7xCsp-GJ9W_XxOWP.jpg",
+        "public_metrics": {
+          "view_count": 2801
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001670374040440833/vid/avc1/480x270/4SZSjCjSls6M_Xe7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001670374040440833/vid/avc1/640x360/4m23K9VAOjHPAvT0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001670374040440833/vid/avc1/1280x720/sHyzqKNRWUb4gCVx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001670374040440833/pl/EDs7FhC75KwhHlGy.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001670374040440833"
+          ],
+          "media_source_tweet_id": [
+            "2001670618316710072"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002945703015055667",
+        "created_at": "2025-12-22T03:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T04:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002945703015055667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1796937387899064320",
+              "start": 3,
+              "username": "CleverFf050755"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r12gCUAL5z",
+              "end": 57,
+              "expanded_url": "https://x.com/CleverFf050755/status/2001670618316710072/video/1",
+              "media_key": "13_2001670374040440833",
+              "start": 34,
+              "url": "https://t.co/r12gCUAL5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002945703015055667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001670618316710072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CleverFf050755: 我们当中出了一个卖主的叛徒 https://t.co/r12gCUAL5z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001670374040440833"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "2001670618316710072",
+        "created_at": "2025-12-18T15:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001670618316710072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r12gCUAL5z",
+              "end": 37,
+              "expanded_url": "https://x.com/CleverFf050755/status/2001670618316710072/video/1",
+              "media_key": "13_2001670374040440833",
+              "start": 14,
+              "url": "https://t.co/r12gCUAL5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001670618316710072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5208,
+          "like_count": 176,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我们当中出了一个卖主的叛徒 https://t.co/r12gCUAL5z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，asexuality/Pansexual love/雙相精分焦慮asd/adhd/宅/單機/電波/acg/亚文化/永远16的千禧电子生命体",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 1974,
+          "like_count": 62468,
+          "listed_count": 8,
+          "media_count": 1351,
+          "tweet_count": 9375
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#地卫一",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 211,
+          "like_count": 140,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064365482078343168"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2064365555877052564",
+    "created_at": "2026-06-09T15:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064365555877052564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S5eOHsul1E",
+          "end": 52,
+          "expanded_url": "https://x.com/shirochankawa1/status/2064365555877052564/video/1",
+          "media_key": "13_2064365482078343168",
+          "start": 29,
+          "url": "https://t.co/S5eOHsul1E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064365555877052564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我求你们了这也叫色情啊，抖音这些人真是看什么都带有色眼镜 https://t.co/S5eOHsul1E"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8500,
+        "height": 1280,
+        "media_key": "13_2064365482078343168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064365482078343168/img/sQOIqqy-85x9Yrd1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064365482078343168/vid/avc1/320x568/v112uz2jQRMFV97T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064365482078343168/vid/avc1/480x852/U4uVesaYWO9ENmva.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064365482078343168/vid/avc1/720x1280/VfWnhLKxxcCQnPgb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064365482078343168/pl/H0ogjQJazAawCY85.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064365482078343168"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2064365555877052564",
+        "created_at": "2026-06-09T15:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064365555877052564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5eOHsul1E",
+              "end": 52,
+              "expanded_url": "https://x.com/shirochankawa1/status/2064365555877052564/video/1",
+              "media_key": "13_2064365482078343168",
+              "start": 29,
+              "url": "https://t.co/S5eOHsul1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064365555877052564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我求你们了这也叫色情啊，抖音这些人真是看什么都带有色眼镜 https://t.co/S5eOHsul1E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2622,
+          "following_count": 2150,
+          "like_count": 70905,
+          "listed_count": 8,
+          "media_count": 1766,
+          "tweet_count": 11896
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

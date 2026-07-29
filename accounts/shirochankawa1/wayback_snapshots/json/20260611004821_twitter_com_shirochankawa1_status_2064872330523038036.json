@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2053776372720603523",
+    "created_at": "2026-06-11T00:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T01:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064872330523038036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2055907554870583296",
+          "start": 0,
+          "username": "6_s_v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064872330523038036",
+    "in_reply_to_user_id": "2055907554870583296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064832450753401083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6_s_v 郁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2064832447683129344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKfCK9TacAANOWm.jpg",
+        "width": 1142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2053776372720603523",
+        "created_at": "2026-06-11T00:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064872330523038036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2055907554870583296",
+              "start": 0,
+              "username": "6_s_v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064872330523038036",
+        "in_reply_to_user_id": "2055907554870583296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064832450753401083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6_s_v 郁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064832447683129344"
+          ]
+        },
+        "author_id": "2055907554870583296",
+        "conversation_id": "2053776372720603523",
+        "created_at": "2026-06-10T22:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T23:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064832450753401083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dysUf8egeR",
+              "end": 48,
+              "expanded_url": "https://x.com/6_s_v/status/2064832450753401083/photo/1",
+              "media_key": "3_2064832447683129344",
+              "start": 25,
+              "url": "https://t.co/dysUf8egeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064832450753401083",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053776372720603523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 你的名字怎么读？ https://t.co/dysUf8egeR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2709,
+          "following_count": 2155,
+          "like_count": 71036,
+          "listed_count": 8,
+          "media_count": 1768,
+          "tweet_count": 11936
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T07:06:00.000Z",
+        "description": "正在学习说话",
+        "id": "2055907554870583296",
+        "name": "6sv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064582727194812416/efMkYIID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 30,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 68
+        },
+        "username": "6_s_v",
+        "verified": false
+      }
+    ]
+  }
+}

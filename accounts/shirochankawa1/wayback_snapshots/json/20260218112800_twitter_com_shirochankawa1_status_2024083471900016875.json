@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024053002856972288"
+      ],
+      "media_source_tweet_id": [
+        "2024057552011759773"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2024083471900016875",
+    "created_at": "2026-02-18T11:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T12:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024083471900016875"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "AIart"
+        },
+        {
+          "end": 36,
+          "start": 22,
+          "tag": "nijijourneyv7"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1877965883886456832",
+          "start": 3,
+          "username": "amaji_den"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xljy2U6Q1I",
+          "end": 60,
+          "expanded_url": "https://x.com/amaji_den/status/2024057552011759773/photo/1",
+          "media_key": "3_2024053002856972288",
+          "start": 37,
+          "url": "https://t.co/Xljy2U6Q1I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024083471900016875",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024057552011759773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amaji_den: #AIart #nijijourneyv7 https://t.co/Xljy2U6Q1I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2024053002856972288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbhe3HaQAAyZ3M.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024053002856972288"
+          ],
+          "media_source_tweet_id": [
+            "2024057552011759773"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2024083471900016875",
+        "created_at": "2026-02-18T11:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024083471900016875"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "AIart"
+            },
+            {
+              "end": 36,
+              "start": 22,
+              "tag": "nijijourneyv7"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1877965883886456832",
+              "start": 3,
+              "username": "amaji_den"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xljy2U6Q1I",
+              "end": 60,
+              "expanded_url": "https://x.com/amaji_den/status/2024057552011759773/photo/1",
+              "media_key": "3_2024053002856972288",
+              "start": 37,
+              "url": "https://t.co/Xljy2U6Q1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024083471900016875",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024057552011759773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amaji_den: #AIart #nijijourneyv7 https://t.co/Xljy2U6Q1I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024053002856972288"
+          ]
+        },
+        "author_id": "1877965883886456832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2024057552011759773",
+        "created_at": "2026-02-18T09:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024057552011759773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "AIart"
+            },
+            {
+              "end": 21,
+              "start": 7,
+              "tag": "nijijourneyv7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xljy2U6Q1I",
+              "end": 45,
+              "expanded_url": "https://x.com/amaji_den/status/2024057552011759773/photo/1",
+              "media_key": "3_2024053002856972288",
+              "start": 22,
+              "url": "https://t.co/Xljy2U6Q1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024057552011759773",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2590,
+          "like_count": 330,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "#AIart #nijijourneyv7 https://t.co/Xljy2U6Q1I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 1980,
+          "like_count": 64598,
+          "listed_count": 8,
+          "media_count": 1504,
+          "tweet_count": 10077
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T06:29:05.000Z",
+        "description": "あまじです｜AI+retouch｜天使と半透明な女の子がすきです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/amajiden",
+                "end": 23,
+                "expanded_url": "https://lit.link/amajiden",
+                "start": 0,
+                "url": "https://t.co/WKFmXCDnAG"
+              }
+            ]
+          }
+        },
+        "id": "1877965883886456832",
+        "location": "nijijourney🌈",
+        "name": "あまじでん",
+        "pinned_tweet_id": "1878037891898560527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877968713401638912/1yuULI4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5431,
+          "following_count": 129,
+          "like_count": 4532,
+          "listed_count": 31,
+          "media_count": 215,
+          "tweet_count": 311
+        },
+        "url": "https://t.co/WKFmXCDnAG",
+        "username": "amaji_den",
+        "verified": false
+      }
+    ]
+  }
+}

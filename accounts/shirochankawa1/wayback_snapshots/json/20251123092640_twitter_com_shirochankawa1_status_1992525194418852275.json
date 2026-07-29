@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1992453071360954631",
+    "created_at": "2025-11-23T09:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T10:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992525194418852275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1011861281387655169",
+          "start": 0,
+          "username": "nxssvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992525194418852275",
+    "in_reply_to_user_id": "1011861281387655169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992496267398984058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nxssvk 我也想你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1992453071360954631",
+        "created_at": "2025-11-23T09:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992525194418852275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1011861281387655169",
+              "start": 0,
+              "username": "nxssvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992525194418852275",
+        "in_reply_to_user_id": "1011861281387655169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992496267398984058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nxssvk 我也想你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1011861281387655169",
+        "conversation_id": "1992453071360954631",
+        "created_at": "2025-11-23T07:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992496267398984058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992496267398984058",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992453071360954631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 想你了闺蜜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 ，亲友投喂100解锁心理委员",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 1961,
+          "like_count": 61307,
+          "listed_count": 8,
+          "media_count": 1266,
+          "tweet_count": 8911
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-27T06:38:23.000Z",
+        "description": "“明亮之星，早晨之子啊，你何竟从天坠落？你这攻败列国的，何竟被砍倒在地上？你心里曾说：我要升到天上；我要高举我的宝座在神众星以上；我要坐在聚会的山上，在北方的极处。我要升到高云之上；我要与至上者同等。然而，你必坠落阴间，到坑中极深之处",
+        "id": "1011861281387655169",
+        "location": "向日葵的坂道",
+        "name": "eu sem você",
+        "pinned_tweet_id": "1874817823773737252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929177557133606912/ClWzyDCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 2376,
+          "like_count": 35353,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 3912
+        },
+        "username": "nxssvk",
+        "verified": false
+      }
+    ]
+  }
+}

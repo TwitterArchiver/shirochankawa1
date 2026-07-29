@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2036817487594139782",
+    "created_at": "2026-03-25T14:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036817487594139782"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036817487594139782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太喜欢纸片人了，纸片人就在那里永远不作妖的等待我倾注一些多余的感情。\n而活人总是能在一些我意想不到的时刻拿出各种各样的绝技增加困扰，为甲状腺结节助力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2036817487594139782",
+        "created_at": "2026-03-25T14:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036817487594139782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036817487594139782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太喜欢纸片人了，纸片人就在那里永远不作妖的等待我倾注一些多余的感情。\n而活人总是能在一些我意想不到的时刻拿出各种各样的绝技增加困扰，为甲状腺结节助力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 2030,
+          "like_count": 68037,
+          "listed_count": 8,
+          "media_count": 1611,
+          "tweet_count": 10881
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

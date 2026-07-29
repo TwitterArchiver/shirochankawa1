@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2033424514835681736",
+    "created_at": "2026-03-16T06:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033424514835681736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028027034556088320",
+          "start": 3,
+          "username": "nocule00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033424514835681736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033128114465956312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nocule00: 我挺讨厌反差 母狗 母猪 肉便器一类的词的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2033424514835681736",
+        "created_at": "2026-03-16T06:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033424514835681736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028027034556088320",
+              "start": 3,
+              "username": "nocule00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033424514835681736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033128114465956312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nocule00: 我挺讨厌反差 母狗 母猪 肉便器一类的词的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028027034556088320",
+        "conversation_id": "2033128114465956312",
+        "created_at": "2026-03-15T10:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T11:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033128114465956312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033128114465956312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 175991,
+          "like_count": 1728,
+          "quote_count": 10,
+          "reply_count": 300,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "我挺讨厌反差 母狗 母猪 肉便器一类的词的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 2017,
+          "like_count": 67666,
+          "listed_count": 8,
+          "media_count": 1596,
+          "tweet_count": 10784
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T08:38:32.000Z",
+        "description": "所有问我闹够了没的人 我告诉你们 我还没开始闹",
+        "id": "2028027034556088320",
+        "name": "Done.",
+        "pinned_tweet_id": "2031798757432705262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028027529358163969/o0Z7KwNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 8,
+          "like_count": 515,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 748
+        },
+        "username": "nocule00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1993914355461857635",
+    "created_at": "2025-11-27T07:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993938765853937932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1508447794537070595",
+          "start": 0,
+          "username": "sakura2333owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993938765853937932",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993914355461857635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakura2333owo 好萌，我将学习"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20460,
+        "height": 1280,
+        "media_key": "13_1993914205100232704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993914205100232704/img/rXgQJTpfmns8XaYL.jpg",
+        "public_metrics": {
+          "view_count": 344
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993914205100232704/vid/avc1/320x694/HpNUdQcKIN7s5Ryt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993914205100232704/vid/avc1/480x1040/DThA0zRp9iYAo2qn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993914205100232704/vid/avc1/590x1280/Xbza0C1VCd3DFrRL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993914205100232704/pl/OYeD2m87RyyeOleK.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "duration_ms": 30953,
+        "height": 1280,
+        "media_key": "13_1993914205091905536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993914205091905536/img/0j-h2soDaE2uKVta.jpg",
+        "public_metrics": {
+          "view_count": 62
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993914205091905536/vid/avc1/320x694/vMSKXSboxrJri1jA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993914205091905536/vid/avc1/480x1040/_Hp1ugeGVruLUCEx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993914205091905536/vid/avc1/590x1280/YKmUW7jbRpnHDAZn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993914205091905536/pl/vFgnXdSSnL_0jAPS.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1993914355461857635",
+        "created_at": "2025-11-27T07:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993938765853937932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993938765853937932",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993914355461857635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 好萌，我将学习"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993914205100232704",
+            "13_1993914205091905536"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1993914355461857635",
+        "created_at": "2025-11-27T05:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T06:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993914355461857635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xiubsmn8Qx",
+              "end": 175,
+              "expanded_url": "https://x.com/sakura2333owo/status/1993914355461857635/video/1",
+              "media_key": "13_1993914205100232704",
+              "start": 152,
+              "url": "https://t.co/xiubsmn8Qx"
+            },
+            {
+              "display_url": "pic.x.com/xiubsmn8Qx",
+              "end": 175,
+              "expanded_url": "https://x.com/sakura2333owo/status/1993914355461857635/video/1",
+              "media_key": "13_1993914205091905536",
+              "start": 152,
+              "url": "https://t.co/xiubsmn8Qx"
+            },
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1993599228464214123",
+              "start": 176,
+              "url": "https://t.co/kkhqoZ6tew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993914355461857635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1882,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993599228464214123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "试着录制了教程！(υ . . υ) ❅·°希望能帮助到大家喔！一起变得更可爱吧！˰̮⛻̴⃠︣⸝⸝̼⸝֪⛻̴⃠︣𛰨\n\n①图标教程☆                    ②美化插件教程♡\n↓                                                        ↓ https://t.co/xiubsmn8Qx https://t.co/kkhqoZ6tew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 1959,
+          "like_count": 61640,
+          "listed_count": 8,
+          "media_count": 1289,
+          "tweet_count": 8996
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36380,
+          "following_count": 283,
+          "like_count": 7417,
+          "listed_count": 74,
+          "media_count": 1145,
+          "tweet_count": 5193
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

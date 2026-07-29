@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024843558277324800"
+      ],
+      "media_source_tweet_id": [
+        "2024843693468090850"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2024867046136394192",
+    "created_at": "2026-02-20T15:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T16:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024867046136394192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mwImMhBea4",
+          "end": 50,
+          "expanded_url": "https://x.com/DDaquaforever/status/2024843693468090850/photo/1",
+          "media_key": "3_2024843558277324800",
+          "start": 27,
+          "url": "https://t.co/mwImMhBea4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024867046136394192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024843693468090850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: 我活的像藤本树 https://t.co/mwImMhBea4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024867046136394192].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024867046136394192",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024867046136394192"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 702,
+        "media_key": "3_2024843558277324800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmwfPjboAA12Ca.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024843558277324800"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2024843693468090850",
+        "created_at": "2026-02-20T13:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024843693468090850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwImMhBea4",
+              "end": 31,
+              "expanded_url": "https://x.com/DDaquaforever/status/2024843693468090850/photo/1",
+              "media_key": "3_2024843558277324800",
+              "start": 8,
+              "url": "https://t.co/mwImMhBea4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024843693468090850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1457,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我活的像藤本树 https://t.co/mwImMhBea4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232,
+          "following_count": 1988,
+          "like_count": 65101,
+          "listed_count": 8,
+          "media_count": 1514,
+          "tweet_count": 10181
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了 可爱的YOYO：@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2979,
+          "following_count": 3359,
+          "like_count": 4934,
+          "listed_count": 9,
+          "media_count": 1782,
+          "tweet_count": 8097
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

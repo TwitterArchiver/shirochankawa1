@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2035772308011503640",
+    "created_at": "2026-03-23T08:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T09:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035996359355191641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783810900555882496",
+          "start": 0,
+          "username": "MaybefL8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035996359355191641",
+    "in_reply_to_user_id": "1783810900555882496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035996010049396759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaybefL8964 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2035772308011503640",
+        "created_at": "2026-03-23T08:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035996359355191641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783810900555882496",
+              "start": 0,
+              "username": "MaybefL8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035996359355191641",
+        "in_reply_to_user_id": "1783810900555882496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035996010049396759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaybefL8964 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783810900555882496",
+        "conversation_id": "2035772308011503640",
+        "created_at": "2026-03-23T08:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035996010049396759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035996010049396759",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035772308011503640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 我也想和你互关!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2383,
+          "following_count": 2028,
+          "like_count": 67988,
+          "listed_count": 8,
+          "media_count": 1608,
+          "tweet_count": 10865
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T10:50:54.000Z",
+        "description": "我是以前的dunk~^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MaybefL8965",
+                "end": 23,
+                "expanded_url": "http://t.me/MaybefL8965",
+                "start": 0,
+                "url": "https://t.co/I2l7c4CBgJ"
+              }
+            ]
+          }
+        },
+        "id": "1783810900555882496",
+        "name": "au revoir4227^ ^",
+        "pinned_tweet_id": "1957778396156395565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021881579124232192/Pg7308E0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 110,
+          "like_count": 11140,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/I2l7c4CBgJ",
+        "username": "MaybefL8964",
+        "verified": true
+      }
+    ]
+  }
+}

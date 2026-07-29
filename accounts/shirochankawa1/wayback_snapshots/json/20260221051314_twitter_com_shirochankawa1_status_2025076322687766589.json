@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025076312092934144"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2025076322687766589",
+    "created_at": "2026-02-21T05:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025076322687766589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vXLRMMUDMQ",
+          "end": 40,
+          "expanded_url": "https://x.com/shirochankawa1/status/2025076322687766589/photo/1",
+          "media_key": "3_2025076312092934144",
+          "start": 17,
+          "url": "https://t.co/vXLRMMUDMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025076322687766589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实头发更倾向于镭射自发光材质哦 https://t.co/vXLRMMUDMQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_2025076312092934144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqELTFbgAA3kka.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025076312092934144"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2025076322687766589",
+        "created_at": "2026-02-21T05:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025076322687766589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXLRMMUDMQ",
+              "end": 40,
+              "expanded_url": "https://x.com/shirochankawa1/status/2025076322687766589/photo/1",
+              "media_key": "3_2025076312092934144",
+              "start": 17,
+              "url": "https://t.co/vXLRMMUDMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025076322687766589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实头发更倾向于镭射自发光材质哦 https://t.co/vXLRMMUDMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 1987,
+          "like_count": 65151,
+          "listed_count": 8,
+          "media_count": 1517,
+          "tweet_count": 10187
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

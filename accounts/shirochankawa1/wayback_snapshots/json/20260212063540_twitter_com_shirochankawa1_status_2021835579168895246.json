@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2021835579168895246",
+    "created_at": "2026-02-12T06:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021835579168895246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2020173367773724672",
+          "start": 3,
+          "username": "fu_gc78361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021835579168895246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021541554973004239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fu_gc78361: 我很喜欢那种极端爱恋。两个人之间有很多羁绊，双方都很痛苦但是分不开。一直痛苦的纠缠下去，一直一直……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2021835579168895246",
+        "created_at": "2026-02-12T06:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021835579168895246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2020173367773724672",
+              "start": 3,
+              "username": "fu_gc78361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021835579168895246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021541554973004239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fu_gc78361: 我很喜欢那种极端爱恋。两个人之间有很多羁绊，双方都很痛苦但是分不开。一直痛苦的纠缠下去，一直一直……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020173367773724672",
+        "conversation_id": "2021541554973004239",
+        "created_at": "2026-02-11T11:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021541554973004239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021541554973004239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2996,
+          "like_count": 71,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我很喜欢那种极端爱恋。两个人之间有很多羁绊，双方都很痛苦但是分不开。一直痛苦的纠缠下去，一直一直……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 1970,
+          "like_count": 64011,
+          "listed_count": 8,
+          "media_count": 1472,
+          "tweet_count": 9908
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T16:30:48.000Z",
+        "description": "🚪52纯圈",
+        "id": "2020173367773724672",
+        "name": "依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021269041428705280/9ba-LsA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 4,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 181
+        },
+        "username": "fu_gc78361",
+        "verified": false
+      }
+    ]
+  }
+}

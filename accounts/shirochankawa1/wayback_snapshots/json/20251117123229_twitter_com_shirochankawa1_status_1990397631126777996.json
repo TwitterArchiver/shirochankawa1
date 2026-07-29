@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1990093597811593464",
+    "created_at": "2025-11-17T12:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T13:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990397631126777996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1541819073964933120",
+          "start": 0,
+          "username": "free_hk71"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990397631126777996",
+    "in_reply_to_user_id": "1541819073964933120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990093597811593464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@free_hk71 我也不太敢去医院"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1990093597811593464",
+        "created_at": "2025-11-17T12:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990397631126777996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1541819073964933120",
+              "start": 0,
+              "username": "free_hk71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990397631126777996",
+        "in_reply_to_user_id": "1541819073964933120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990093597811593464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@free_hk71 我也不太敢去医院"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541819073964933120",
+        "conversation_id": "1990093597811593464",
+        "created_at": "2025-11-16T16:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T17:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990093597811593464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990093597811593464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抑鬱症+焦慮症+極度社恐\n是不是沒救了\n門都不敢出\n我要怎樣去看醫生\n到底為甚麼精神科藥物比大麻更難買.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を禁ずる ，  亲友群：854686674",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️Ĉiela regno🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 1960,
+          "like_count": 60829,
+          "listed_count": 8,
+          "media_count": 1246,
+          "tweet_count": 8755
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T16:21:33.000Z",
+        "description": "🇭🇰 未來的人生 會有你的存在嗎.. |已有喜歡的人 將會愛他一輩子 | 私訊不回 找我請加ig  | 焦慮症 | 抑鬱症 | 極度社恐 | 歡迎互fol(๑•̀ω•́๑)",
+        "id": "1541819073964933120",
+        "location": "香港",
+        "name": "重度沉船患者🇭🇰",
+        "pinned_tweet_id": "1987078570171310307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973130163186745344/2qSEEREL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 6067,
+          "like_count": 2609,
+          "listed_count": 11,
+          "media_count": 50,
+          "tweet_count": 211
+        },
+        "username": "free_hk71",
+        "verified": false
+      }
+    ]
+  }
+}

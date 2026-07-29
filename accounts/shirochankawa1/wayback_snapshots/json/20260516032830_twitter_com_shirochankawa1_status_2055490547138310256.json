@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054826438969409536"
+      ],
+      "media_source_tweet_id": [
+        "2054826447295139921"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "conversation_id": "2055490547138310256",
+    "created_at": "2026-05-16T03:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055490547138310256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1873263260029599745",
+          "start": 3,
+          "username": "hayashishisou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p6Bg9rQdel",
+          "end": 52,
+          "expanded_url": "https://x.com/hayashishisou/status/2054826447295139921/photo/1",
+          "media_key": "3_2054826438969409536",
+          "start": 29,
+          "url": "https://t.co/p6Bg9rQdel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055490547138310256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1452
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054826447295139921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hayashishisou: 狗嘴和猫嘴的区别： https://t.co/p6Bg9rQdel"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2054826438969409536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQ1wmHaQAAdIZs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054826438969409536"
+          ],
+          "media_source_tweet_id": [
+            "2054826447295139921"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2055490547138310256",
+        "created_at": "2026-05-16T03:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055490547138310256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1873263260029599745",
+              "start": 3,
+              "username": "hayashishisou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p6Bg9rQdel",
+              "end": 52,
+              "expanded_url": "https://x.com/hayashishisou/status/2054826447295139921/photo/1",
+              "media_key": "3_2054826438969409536",
+              "start": 29,
+              "url": "https://t.co/p6Bg9rQdel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055490547138310256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1452
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054826447295139921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @hayashishisou: 狗嘴和猫嘴的区别： https://t.co/p6Bg9rQdel"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054826438969409536"
+          ]
+        },
+        "author_id": "1873263260029599745",
+        "conversation_id": "2054826447295139921",
+        "created_at": "2026-05-14T07:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054826447295139921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p6Bg9rQdel",
+              "end": 33,
+              "expanded_url": "https://x.com/hayashishisou/status/2054826447295139921/photo/1",
+              "media_key": "3_2054826438969409536",
+              "start": 10,
+              "url": "https://t.co/p6Bg9rQdel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054826447295139921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2094,
+          "impression_count": 307281,
+          "like_count": 35291,
+          "quote_count": 49,
+          "reply_count": 30,
+          "retweet_count": 1452
+        },
+        "reply_settings": "following",
+        "text": "狗嘴和猫嘴的区别： https://t.co/p6Bg9rQdel"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 2079,
+          "like_count": 69287,
+          "listed_count": 9,
+          "media_count": 1692,
+          "tweet_count": 11400
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T07:02:32.000Z",
+        "description": "FF7（主セフィロス）/Resident Evil （aeon）/AI🚫/中文/日本語ok/把我作品喂ai或未经授权搬运者即刻绞杀\\ 🦋：https://t.co/l8uNEKAOrn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linzi00297.bsky.social",
+                "end": 92,
+                "expanded_url": "http://linzi00297.bsky.social",
+                "start": 69,
+                "url": "https://t.co/l8uNEKAOrn"
+              }
+            ]
+          }
+        },
+        "id": "1873263260029599745",
+        "name": "ｼｿｳ🥝",
+        "pinned_tweet_id": "2049778728583225690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974023641814933504/7mC94PX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9609,
+          "following_count": 65,
+          "like_count": 745,
+          "listed_count": 30,
+          "media_count": 150,
+          "tweet_count": 394
+        },
+        "username": "hayashishisou",
+        "verified": false
+      }
+    ]
+  }
+}

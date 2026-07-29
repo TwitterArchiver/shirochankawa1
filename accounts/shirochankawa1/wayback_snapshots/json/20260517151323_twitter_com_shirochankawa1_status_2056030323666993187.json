@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2056030323666993187",
+    "created_at": "2026-05-17T15:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056030323666993187"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056030323666993187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "纠缠就是很牛逼啊。每次两个人都以为对面放弃了 这段感情要结束了，实则两个人都像厉鬼一样揪着对方不放"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2056030323666993187",
+        "created_at": "2026-05-17T15:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056030323666993187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056030323666993187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纠缠就是很牛逼啊。每次两个人都以为对面放弃了 这段感情要结束了，实则两个人都像厉鬼一样揪着对方不放"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 2080,
+          "like_count": 69538,
+          "listed_count": 9,
+          "media_count": 1697,
+          "tweet_count": 11450
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

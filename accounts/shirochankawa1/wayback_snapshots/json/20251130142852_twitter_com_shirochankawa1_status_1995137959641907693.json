@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "1995137959641907693",
+    "created_at": "2025-11-30T14:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T15:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995137959641907693"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "不破湊",
+          "probability": 0.8693,
+          "start": 25,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1184354588213698561",
+          "start": 3,
+          "username": "Fuwa_Minato"
+        }
+      ],
+      "urls": [
+        {
+          "description": "本家様｜なとりhttps://youtu.be/VDdLF1YubI0?si=Qt_KFZFMFsNR41mQ絵｜ちゃっぴー　 / Chapi__01 動画｜紺色。（スタジオメイビー）　 / alice_eishin Inst｜歌っちゃ王Mix｜アキモトユウスケ　 / _uskuskusk_歌唱｜不破湊　...",
+          "display_url": "youtu.be/cBk3HrHQu4M",
+          "end": 58,
+          "expanded_url": "https://youtu.be/cBk3HrHQu4M",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1995113719110475776/ZMuEHpsh?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1995113719110475776/ZMuEHpsh?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 35,
+          "status": 200,
+          "title": "プロポーズ / 不破湊 Cover",
+          "unwound_url": "https://www.youtube.com/watch?v=cBk3HrHQu4M&feature=youtu.be",
+          "url": "https://t.co/i0O1nEvku7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995137959641907693",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14389
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995116380065075493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuwa_Minato: プロポーズ / 不破湊 Cover\nhttps://t.co/i0O1nEvku7\n\n明日\n12/01 20:00\n\nなとり様のプロポーズを歌わせて頂きました\n歌カバーの動画はかなり久々かもですが\nよければ聴いてください\n愛を込めて https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1995116375392821249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ATxdjaoAExma1.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "1995137959641907693",
+        "created_at": "2025-11-30T14:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995137959641907693"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "不破湊",
+              "probability": 0.8693,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1184354588213698561",
+              "start": 3,
+              "username": "Fuwa_Minato"
+            }
+          ],
+          "urls": [
+            {
+              "description": "本家様｜なとりhttps://youtu.be/VDdLF1YubI0?si=Qt_KFZFMFsNR41mQ絵｜ちゃっぴー　 / Chapi__01 動画｜紺色。（スタジオメイビー）　 / alice_eishin Inst｜歌っちゃ王Mix｜アキモトユウスケ　 / _uskuskusk_歌唱｜不破湊　...",
+              "display_url": "youtu.be/cBk3HrHQu4M",
+              "end": 58,
+              "expanded_url": "https://youtu.be/cBk3HrHQu4M",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1995113719110475776/ZMuEHpsh?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1995113719110475776/ZMuEHpsh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "プロポーズ / 不破湊 Cover",
+              "unwound_url": "https://www.youtube.com/watch?v=cBk3HrHQu4M&feature=youtu.be",
+              "url": "https://t.co/i0O1nEvku7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995137959641907693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14389
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995116380065075493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuwa_Minato: プロポーズ / 不破湊 Cover\nhttps://t.co/i0O1nEvku7\n\n明日\n12/01 20:00\n\nなとり様のプロポーズを歌わせて頂きました\n歌カバーの動画はかなり久々かもですが\nよければ聴いてください\n愛を込めて https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995116375392821249"
+          ]
+        },
+        "author_id": "1184354588213698561",
+        "conversation_id": "1995116380065075493",
+        "created_at": "2025-11-30T13:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995116380065075493"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "不破湊",
+              "probability": 0.7874,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "本家様｜なとりhttps://youtu.be/VDdLF1YubI0?si=Qt_KFZFMFsNR41mQ絵｜ちゃっぴー　 / Chapi__01 動画｜紺色。（スタジオメイビー）　 / alice_eishin Inst｜歌っちゃ王Mix｜アキモトユウスケ　 / _uskuskusk_歌唱｜不破湊　...",
+              "display_url": "youtu.be/cBk3HrHQu4M",
+              "end": 41,
+              "expanded_url": "https://youtu.be/cBk3HrHQu4M",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1995113719110475776/ZMuEHpsh?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1995113719110475776/ZMuEHpsh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "プロポーズ / 不破湊 Cover",
+              "unwound_url": "https://www.youtube.com/watch?v=cBk3HrHQu4M&feature=youtu.be",
+              "url": "https://t.co/i0O1nEvku7"
+            },
+            {
+              "display_url": "pic.x.com/m1xAZgYi4q",
+              "end": 140,
+              "expanded_url": "https://x.com/Fuwa_Minato/status/1995116380065075493/photo/1",
+              "media_key": "3_1995116375392821249",
+              "start": 117,
+              "url": "https://t.co/m1xAZgYi4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995116380065075493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1465,
+          "impression_count": 1251514,
+          "like_count": 57201,
+          "quote_count": 1502,
+          "reply_count": 640,
+          "retweet_count": 14389
+        },
+        "reply_settings": "everyone",
+        "text": "プロポーズ / 不破湊 Cover\nhttps://t.co/i0O1nEvku7\n\n明日\n12/01 20:00\n\nなとり様のプロポーズを歌わせて頂きました\n歌カバーの動画はかなり久々かもですが\nよければ聴いてください\n愛を込めて https://t.co/m1xAZgYi4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674   English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️heaven🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 1980,
+          "like_count": 62227,
+          "listed_count": 8,
+          "media_count": 1307,
+          "tweet_count": 9200
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-16T06:27:35.000Z",
+        "description": "にじさんじ所属バーチャルホストの不破湊です。 サブ垢@Puwa_Minato #絵スコート",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 39,
+                "tag": "絵スコート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Puwa_Minato"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC6wvd…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/TcjYlDzb6T"
+              }
+            ]
+          }
+        },
+        "id": "1184354588213698561",
+        "location": "ｾﾞｳｽ",
+        "name": "不破湊🥂✨",
+        "pinned_tweet_id": "1862801186744897981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780798620897615872/p7GEFyPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161633,
+          "following_count": 626,
+          "like_count": 15655,
+          "listed_count": 16465,
+          "media_count": 2095,
+          "tweet_count": 12323
+        },
+        "url": "https://t.co/TcjYlDzb6T",
+        "username": "Fuwa_Minato",
+        "verified": false
+      }
+    ]
+  }
+}

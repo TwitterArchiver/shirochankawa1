@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2027342263366668334",
+    "created_at": "2026-03-01T02:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027931514827378804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818573054605508610",
+          "start": 0,
+          "username": "ZhizhiziOsward"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027931514827378804",
+    "in_reply_to_user_id": "1818573054605508610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027741942575206793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhizhiziOsward 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2027342263366668334",
+        "created_at": "2026-03-01T02:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027931514827378804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818573054605508610",
+              "start": 0,
+              "username": "ZhizhiziOsward"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027931514827378804",
+        "in_reply_to_user_id": "1818573054605508610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027741942575206793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhizhiziOsward 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818573054605508610",
+        "conversation_id": "2027342263366668334",
+        "created_at": "2026-02-28T13:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027741942575206793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027741942575206793",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027342263366668334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 好看耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 2003,
+          "like_count": 66074,
+          "listed_count": 8,
+          "media_count": 1562,
+          "tweet_count": 10471
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T09:03:06.000Z",
+        "description": "前世@Zhizhizi_Osward/07infp/國際高中/雙向情感障礙/重抑重焦/mtx無性別/三無病弱/負面希死/地雷割手/⚠️無性戀/互fo大歡迎！/請不要討厭我/三无号退散/下辈子还要在一起@Gr13f_of_Xhan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Zhizhizi_Osward"
+              },
+              {
+                "end": 114,
+                "start": 100,
+                "username": "Gr13f_of_Xhan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/cp6FlPKWMT"
+              }
+            ]
+          }
+        },
+        "id": "1818573054605508610",
+        "location": "花有一万种开法 祝我们方寸不乱",
+        "name": "失眠电子猫会遇到仿生思诺思吗",
+        "pinned_tweet_id": "1849247940143116374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858818062566445056/PlEV-01p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 124,
+          "like_count": 649,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 593
+        },
+        "url": "https://t.co/cp6FlPKWMT",
+        "username": "ZhizhiziOsward",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075173279678214144",
+        "3_2075173279711805440"
+      ],
+      "media_source_tweet_id": [
+        "2075173285298630667",
+        "2075173285298630667"
+      ]
+    },
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075592871806447729",
+    "created_at": "2026-07-10T14:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075592871806447729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1002877605719126022",
+          "start": 3,
+          "username": "nyaanemui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f6Qfi4hJFF",
+          "end": 68,
+          "expanded_url": "https://x.com/nyaanemui/status/2075173285298630667/photo/1",
+          "media_key": "3_2075173279678214144",
+          "start": 45,
+          "url": "https://t.co/f6Qfi4hJFF"
+        },
+        {
+          "display_url": "pic.x.com/f6Qfi4hJFF",
+          "end": 68,
+          "expanded_url": "https://x.com/nyaanemui/status/2075173285298630667/photo/1",
+          "media_key": "3_2075173279711805440",
+          "start": 45,
+          "url": "https://t.co/f6Qfi4hJFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075592871806447729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075173285298630667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyaanemui: 素敵おいしいさん՞⸝⸝&gt;  ̫ &lt;⸝⸝՞👍🏻ᕷ https://t.co/f6Qfi4hJFF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075173279678214144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx_GmaaMAAXkz6.jpg",
+        "width": 1576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075173279711805440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx_GmiawAAyXeO.jpg",
+        "width": 1576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075173279678214144",
+            "3_2075173279711805440"
+          ],
+          "media_source_tweet_id": [
+            "2075173285298630667",
+            "2075173285298630667"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075592871806447729",
+        "created_at": "2026-07-10T14:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075592871806447729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1002877605719126022",
+              "start": 3,
+              "username": "nyaanemui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6Qfi4hJFF",
+              "end": 68,
+              "expanded_url": "https://x.com/nyaanemui/status/2075173285298630667/photo/1",
+              "media_key": "3_2075173279678214144",
+              "start": 45,
+              "url": "https://t.co/f6Qfi4hJFF"
+            },
+            {
+              "display_url": "pic.x.com/f6Qfi4hJFF",
+              "end": 68,
+              "expanded_url": "https://x.com/nyaanemui/status/2075173285298630667/photo/1",
+              "media_key": "3_2075173279711805440",
+              "start": 45,
+              "url": "https://t.co/f6Qfi4hJFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075592871806447729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075173285298630667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyaanemui: 素敵おいしいさん՞⸝⸝&gt;  ̫ &lt;⸝⸝՞👍🏻ᕷ https://t.co/f6Qfi4hJFF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075173279678214144",
+            "3_2075173279711805440"
+          ]
+        },
+        "author_id": "1002877605719126022",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075173285298630667",
+        "created_at": "2026-07-09T11:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075173285298630667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6Qfi4hJFF",
+              "end": 53,
+              "expanded_url": "https://x.com/nyaanemui/status/2075173285298630667/photo/1",
+              "media_key": "3_2075173279678214144",
+              "start": 30,
+              "url": "https://t.co/f6Qfi4hJFF"
+            },
+            {
+              "display_url": "pic.x.com/f6Qfi4hJFF",
+              "end": 53,
+              "expanded_url": "https://x.com/nyaanemui/status/2075173285298630667/photo/1",
+              "media_key": "3_2075173279711805440",
+              "start": 30,
+              "url": "https://t.co/f6Qfi4hJFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075173285298630667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 43076,
+          "like_count": 1624,
+          "quote_count": 15,
+          "reply_count": 21,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "素敵おいしいさん՞⸝⸝&gt;  ̫ &lt;⸝⸝՞👍🏻ᕷ https://t.co/f6Qfi4hJFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 2175,
+          "like_count": 71418,
+          "listed_count": 8,
+          "media_count": 1797,
+          "tweet_count": 12122
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-02T11:40:28.000Z",
+        "description": "面がおかしいです。ぷろでゅーすぶらんど♡ @nyanMe_info 𝐘𝐨𝐮𝐓𝐮𝐛𝐞♡ https://t.co/MKTVuTlifr 文字いっぱい🅦ͅ⊂( ˆoˆ )⊃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "nyanMe_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@miumio_info?s…",
+                "end": 66,
+                "expanded_url": "https://youtube.com/@miumio_info?si=2LETPey0ivXAE-ae",
+                "start": 43,
+                "url": "https://t.co/MKTVuTlifr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/uo_ou24",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/uo_ou24",
+                "start": 0,
+                "url": "https://t.co/9asaXo5eWX"
+              }
+            ]
+          }
+        },
+        "id": "1002877605719126022",
+        "name": "砂糖 みう",
+        "pinned_tweet_id": "2073725627723915390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903029347608563714/LvpEbFv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39146,
+          "following_count": 59,
+          "like_count": 115750,
+          "listed_count": 207,
+          "media_count": 62,
+          "tweet_count": 3970
+        },
+        "url": "https://t.co/9asaXo5eWX",
+        "username": "nyaanemui",
+        "verified": false
+      }
+    ]
+  }
+}

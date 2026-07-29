@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2056572421457768854",
+    "created_at": "2026-05-19T03:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T04:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056572421457768854"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056572421457768854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小美女 🤣都这么漂亮还入地蕾啊？是不是因为没有男朋友？🤣个玩笑，看你比较喜欢讨论地蕾，其实我也喜欢地蕾的🤣，长得还不错，年龄也比你大（目前还是单身)，还是资深地蕾迷当然我也有幽默的一面啦还可以陪你一起吃谷，看动漫，穿搭什么的我都可以给你指点指点一遍哦怎么样🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2056572421457768854",
+        "created_at": "2026-05-19T03:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056572421457768854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056572421457768854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小美女 🤣都这么漂亮还入地蕾啊？是不是因为没有男朋友？🤣个玩笑，看你比较喜欢讨论地蕾，其实我也喜欢地蕾的🤣，长得还不错，年龄也比你大（目前还是单身)，还是资深地蕾迷当然我也有幽默的一面啦还可以陪你一起吃谷，看动漫，穿搭什么的我都可以给你指点指点一遍哦怎么样🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 2082,
+          "like_count": 69587,
+          "listed_count": 8,
+          "media_count": 1698,
+          "tweet_count": 11466
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

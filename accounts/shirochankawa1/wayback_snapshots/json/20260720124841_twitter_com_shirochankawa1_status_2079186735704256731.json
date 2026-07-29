@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2079175062805233769",
+    "created_at": "2026-07-20T12:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079186735704256731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1776109161358807040",
+          "start": 0,
+          "username": "JXSXWSJHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079186735704256731",
+    "in_reply_to_user_id": "1776109161358807040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079177490254438416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JXSXWSJHP 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2079175062805233769",
+        "created_at": "2026-07-20T12:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079186735704256731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1776109161358807040",
+              "start": 0,
+              "username": "JXSXWSJHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079186735704256731",
+        "in_reply_to_user_id": "1776109161358807040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079177490254438416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JXSXWSJHP 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776109161358807040",
+        "conversation_id": "2079175062805233769",
+        "created_at": "2026-07-20T12:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079177490254438416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079177490254438416",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079175062805233769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 就是容易被别人的幸福感染啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2918,
+          "following_count": 2192,
+          "like_count": 71802,
+          "listed_count": 8,
+          "media_count": 1815,
+          "tweet_count": 12240
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T04:46:43.000Z",
+        "description": "希望能成为一个温柔善良正能量的人。\n爱思考🤔 爱做白日梦😪 想交到真诚的朋友🤗\n希望你能陪我很久很久",
+        "id": "1776109161358807040",
+        "name": "纪",
+        "pinned_tweet_id": "2072275962008354887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779802687791656960/SB-UJ9LP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 21,
+          "like_count": 644,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "JXSXWSJHP",
+        "verified": false
+      }
+    ]
+  }
+}
