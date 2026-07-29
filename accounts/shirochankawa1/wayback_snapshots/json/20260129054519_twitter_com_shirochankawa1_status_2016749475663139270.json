@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2016333773143736831",
+    "created_at": "2026-01-29T05:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016749475663139270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663516164306382852",
+          "start": 0,
+          "username": "DouBao8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016749475663139270",
+    "in_reply_to_user_id": "1663516164306382852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016333773143736831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DouBao8964 智械危机了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2016333773143736831",
+        "created_at": "2026-01-29T05:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016749475663139270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "DouBao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016749475663139270",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016333773143736831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DouBao8964 智械危机了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "conversation_id": "2016333773143736831",
+        "created_at": "2026-01-28T02:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T03:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016333773143736831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016333773143736831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 19448,
+          "like_count": 515,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "一切都是男的骗我，女的欠我，老的冤枉我，小的欺负我，中国的圧迫我，外国的引诱我，身边的霸凌我，网上的笑话我，你们全都对不起我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 1953,
+          "like_count": 63398,
+          "listed_count": 8,
+          "media_count": 1419,
+          "tweet_count": 9693
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "此豆包非彼豆包 老公@callme_mom_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "callme_mom_"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2011694838832578671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005501477104889856/F2ohZri8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10902,
+          "following_count": 84,
+          "like_count": 14275,
+          "listed_count": 5,
+          "media_count": 329,
+          "tweet_count": 6153
+        },
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

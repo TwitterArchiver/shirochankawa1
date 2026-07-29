@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2025473639991443851",
+    "created_at": "2026-02-22T08:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T09:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025486153504489976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984971479210229760",
+          "start": 0,
+          "username": "Kallen0720"
+        },
+        {
+          "end": 24,
+          "id": "2022438221590990848",
+          "start": 12,
+          "username": "Miharuka_96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025486153504489976",
+    "in_reply_to_user_id": "1984971479210229760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025475802289123523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kallen0720 @Miharuka_96 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2025475799684403200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvvgiVW0AAj82I.jpg",
+        "width": 300
+      },
+      {
+        "height": 300,
+        "media_key": "3_2025475799697022976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvvgiYXYAAVMJE.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2025473639991443851",
+        "created_at": "2026-02-22T08:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025486153504489976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984971479210229760",
+              "start": 0,
+              "username": "Kallen0720"
+            },
+            {
+              "end": 24,
+              "id": "2022438221590990848",
+              "start": 12,
+              "username": "Miharuka_96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025486153504489976",
+        "in_reply_to_user_id": "1984971479210229760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025475802289123523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kallen0720 @Miharuka_96 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025475799684403200",
+            "3_2025475799697022976"
+          ]
+        },
+        "author_id": "1984971479210229760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025473639991443851",
+        "created_at": "2026-02-22T07:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025475802289123523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022438221590990848",
+              "start": 0,
+              "username": "Miharuka_96"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Up92DDKSG7",
+              "end": 36,
+              "expanded_url": "https://x.com/Kallen0720/status/2025475802289123523/photo/1",
+              "media_key": "3_2025475799684403200",
+              "start": 13,
+              "url": "https://t.co/Up92DDKSG7"
+            },
+            {
+              "display_url": "pic.x.com/Up92DDKSG7",
+              "end": 36,
+              "expanded_url": "https://x.com/Kallen0720/status/2025475802289123523/photo/1",
+              "media_key": "3_2025475799697022976",
+              "start": 13,
+              "url": "https://t.co/Up92DDKSG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025475802289123523",
+        "in_reply_to_user_id": "2022438221590990848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025473639991443851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miharuka_96 https://t.co/Up92DDKSG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 1998,
+          "like_count": 65352,
+          "listed_count": 8,
+          "media_count": 1526,
+          "tweet_count": 10259
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "✞鏡よ鏡 正直割れたいか? ✞ * 重音テト擁護同盟",
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "ァмē寔初喑鮇麳Оㄩ#AXIS",
+        "pinned_tweet_id": "2022779546987098119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017319965242589184/njqFGk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 407,
+          "like_count": 26954,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 8187
+        },
+        "username": "Kallen0720",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T22:30:27.000Z",
+        "description": "心的距离是遥不可及 | 我是小遥 之前的账号都鼠了 都来和我玩好不好🥺💖💖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/0vZb5MBZ5e"
+              }
+            ]
+          }
+        },
+        "id": "2022438221590990848",
+        "location": "旁边的网址是留言板",
+        "name": "遥（刘海剪毁版",
+        "pinned_tweet_id": "2023783513414406367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024494731917758464/aqquvn8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 81,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/0vZb5MBZ5e",
+        "username": "Miharuka_96",
+        "verified": false
+      }
+    ]
+  }
+}
