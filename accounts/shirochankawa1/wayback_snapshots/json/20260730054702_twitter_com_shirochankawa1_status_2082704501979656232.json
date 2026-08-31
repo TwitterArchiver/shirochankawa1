@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2082704501979656232",
+    "created_at": "2026-07-30T05:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082704501979656232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916974498903166978",
+          "start": 3,
+          "username": "Sakura8964666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082704501979656232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082469852930052194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakura8964666: 电波系、ADHD与精神分裂的共同特点就是游牧思维单位的不断切换与位移，这是一种神经元的无政府主义繁殖，它以情动力突触间的交媾来生产无尽的欲望装配，从而活跃的分子突破一切空间封锁，甚至将块本身纳入自身的地图领土之内。 https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 469,
+        "media_key": "3_2082469846194003968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZrSq3bIAAFg19.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2082704501979656232",
+        "created_at": "2026-07-30T05:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082704501979656232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916974498903166978",
+              "start": 3,
+              "username": "Sakura8964666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082704501979656232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082469852930052194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakura8964666: 电波系、ADHD与精神分裂的共同特点就是游牧思维单位的不断切换与位移，这是一种神经元的无政府主义繁殖，它以情动力突触间的交媾来生产无尽的欲望装配，从而活跃的分子突破一切空间封锁，甚至将块本身纳入自身的地图领土之内。 https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082469846194003968"
+          ]
+        },
+        "author_id": "1916974498903166978",
+        "conversation_id": "2082469852930052194",
+        "created_at": "2026-07-29T14:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082469852930052194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ms9irdQsHW",
+              "end": 131,
+              "expanded_url": "https://x.com/Sakura8964666/status/2082469852930052194/photo/1",
+              "media_key": "3_2082469846194003968",
+              "start": 108,
+              "url": "https://t.co/ms9irdQsHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082469852930052194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 931,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "电波系、ADHD与精神分裂的共同特点就是游牧思维单位的不断切换与位移，这是一种神经元的无政府主义繁殖，它以情动力突触间的交媾来生产无尽的欲望装配，从而活跃的分子突破一切空间封锁，甚至将块本身纳入自身的地图领土之内。 https://t.co/ms9irdQsHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 2193,
+          "like_count": 72098,
+          "listed_count": 8,
+          "media_count": 1827,
+          "tweet_count": 12313
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n化学极乐百科：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "Sakura",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 628,
+          "like_count": 465,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/BeprZt3OWA",
+        "username": "Sakura8964666",
+        "verified": false
+      }
+    ]
+  }
+}

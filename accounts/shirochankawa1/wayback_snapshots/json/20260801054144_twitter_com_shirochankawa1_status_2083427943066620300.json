@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2083427943066620300",
+    "created_at": "2026-08-01T05:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083427943066620300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2025288475206189056",
+          "start": 3,
+          "username": "mi0599458659662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083427943066620300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083139813960753327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mi0599458659662: 我出生:我靠 好喜欢温柔的人\n我上小学:我靠 好喜欢温柔的人\n我上初中:我靠 好喜欢温柔的人\n我上高中:我靠 好喜欢温柔的人\n我上大学:我靠 好喜欢温柔的人\n我工作:我靠 好喜欢温柔的人\n我病危:我靠 好喜欢温柔的人\n我的墓志铭:我靠…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2083427943066620300",
+        "created_at": "2026-08-01T05:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083427943066620300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2025288475206189056",
+              "start": 3,
+              "username": "mi0599458659662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083427943066620300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083139813960753327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mi0599458659662: 我出生:我靠 好喜欢温柔的人\n我上小学:我靠 好喜欢温柔的人\n我上初中:我靠 好喜欢温柔的人\n我上高中:我靠 好喜欢温柔的人\n我上大学:我靠 好喜欢温柔的人\n我工作:我靠 好喜欢温柔的人\n我病危:我靠 好喜欢温柔的人\n我的墓志铭:我靠…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025288475206189056",
+        "conversation_id": "2083139813960753327",
+        "created_at": "2026-07-31T10:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083139813960753327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083139813960753327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18027,
+          "like_count": 471,
+          "quote_count": 6,
+          "reply_count": 53,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "我出生:我靠 好喜欢温柔的人\n我上小学:我靠 好喜欢温柔的人\n我上初中:我靠 好喜欢温柔的人\n我上高中:我靠 好喜欢温柔的人\n我上大学:我靠 好喜欢温柔的人\n我工作:我靠 好喜欢温柔的人\n我病危:我靠 好喜欢温柔的人\n我的墓志铭:我靠 好喜欢温柔的人\n我转生:我靠 好喜欢温柔的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 2195,
+          "like_count": 72122,
+          "listed_count": 8,
+          "media_count": 1832,
+          "tweet_count": 12323
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T19:16:29.000Z",
+        "description": "最爱变脸之人",
+        "id": "2025288475206189056",
+        "location": "14250km",
+        "name": "T . T",
+        "pinned_tweet_id": "2083221232531742862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767484260659200/gTCWASzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 5,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1062
+        },
+        "url": "",
+        "username": "mi0599458659662",
+        "verified": false
+      }
+    ]
+  }
+}

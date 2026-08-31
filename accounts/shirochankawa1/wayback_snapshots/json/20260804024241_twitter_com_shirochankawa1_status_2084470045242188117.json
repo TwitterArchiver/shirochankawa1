@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2084322490286059763",
+    "created_at": "2026-08-04T02:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084470045242188117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1289715612978044928",
+          "start": 0,
+          "username": "77srl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084470045242188117",
+    "in_reply_to_user_id": "1289715612978044928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084323140977733932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77srl 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2084322490286059763",
+        "created_at": "2026-08-04T02:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084470045242188117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1289715612978044928",
+              "start": 0,
+              "username": "77srl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084470045242188117",
+        "in_reply_to_user_id": "1289715612978044928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084323140977733932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77srl 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289715612978044928",
+        "conversation_id": "2084322490286059763",
+        "created_at": "2026-08-03T16:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084323140977733932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084323140977733932",
+        "in_reply_to_user_id": "1289715612978044928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084322490286059763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一会别给这逼骂爽了，。大概她是故意发表一些低能评论然后手机开震动放裤裆里震吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2932,
+          "following_count": 2196,
+          "like_count": 72408,
+          "listed_count": 8,
+          "media_count": 1835,
+          "tweet_count": 12377
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-02T00:12:26.000Z",
+        "description": "死在回忆里",
+        "id": "1289715612978044928",
+        "location": "Hong Kong",
+        "name": "堇z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793379496177135619/kdn7TJf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 67,
+          "like_count": 4709,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "77srl",
+        "verified": false
+      }
+    ]
+  }
+}

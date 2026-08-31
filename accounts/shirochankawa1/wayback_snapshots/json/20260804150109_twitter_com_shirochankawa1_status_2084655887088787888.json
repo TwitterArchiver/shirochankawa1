@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2084641557165244592",
+    "created_at": "2026-08-04T15:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084655887088787888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1114119017524891648",
+          "start": 0,
+          "username": "KUYAXIKUYAXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084655887088787888",
+    "in_reply_to_user_id": "1114119017524891648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084645624637804829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KUYAXIKUYAXI 嘿嘿ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2084641557165244592",
+        "created_at": "2026-08-04T15:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084655887088787888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1114119017524891648",
+              "start": 0,
+              "username": "KUYAXIKUYAXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084655887088787888",
+        "in_reply_to_user_id": "1114119017524891648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084645624637804829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KUYAXIKUYAXI 嘿嘿ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114119017524891648",
+        "conversation_id": "2084641557165244592",
+        "created_at": "2026-08-04T14:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084645624637804829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084645624637804829",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084641557165244592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 好萌...🥺太可爱了吧ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2934,
+          "following_count": 2196,
+          "like_count": 72418,
+          "listed_count": 8,
+          "media_count": 1837,
+          "tweet_count": 12385
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-05T10:54:07.000Z",
+        "description": "对我来说，无痛死去才是最好的祝福。",
+        "id": "1114119017524891648",
+        "location": "恶魔岛",
+        "name": "病弱の牢爻（三代目）",
+        "pinned_tweet_id": "1839307765539549408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999487455284854792/vyCVBcTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 157,
+          "like_count": 21048,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 12374
+        },
+        "url": "",
+        "username": "KUYAXIKUYAXI",
+        "verified": false
+      }
+    ]
+  }
+}

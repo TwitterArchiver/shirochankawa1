@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2084210063720530416",
+    "created_at": "2026-08-03T09:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084210063720530416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926589725189476352",
+          "start": 3,
+          "username": "sandyyyy0922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084210063720530416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084017995047641114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sandyyyy0922: 说到底我觉得歧视od自残等心理疾病行为的人都是认知浅薄的人。\n这些行为无法仅仅只停留在“小众爱好”上。如果自伤自残oded能够仅仅浮于表面地定义为人类的个人爱好及选择，那么心理疾病的诊断就不会有这些选项了。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2084210063720530416",
+        "created_at": "2026-08-03T09:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084210063720530416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926589725189476352",
+              "start": 3,
+              "username": "sandyyyy0922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084210063720530416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084017995047641114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sandyyyy0922: 说到底我觉得歧视od自残等心理疾病行为的人都是认知浅薄的人。\n这些行为无法仅仅只停留在“小众爱好”上。如果自伤自残oded能够仅仅浮于表面地定义为人类的个人爱好及选择，那么心理疾病的诊断就不会有这些选项了。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926589725189476352",
+        "conversation_id": "2084017995047641114",
+        "created_at": "2026-08-02T20:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084017995047641114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084017995047641114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说到底我觉得歧视od自残等心理疾病行为的人都是认知浅薄的人。\n这些行为无法仅仅只停留在“小众爱好”上。如果自伤自残oded能够仅仅浮于表面地定义为人类的个人爱好及选择，那么心理疾病的诊断就不会有这些选项了。\n人的生物本能是无法驱使自己去伤害自己的，任何生物在面临生死存亡之际都会本能地逃跑和保护自己，人作为高等生物更是。人是贪生怕死的，如果一个人选择这些极端行为来逃避痛苦，我觉得那个人的痛苦是除ta本人以外无人能够共情的，ta所承受的痛苦远超肉体受伤导致的疼痛。\n如果人能够避免痛苦地活着，谁会去选择承受痛苦"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3574,
+          "like_count": 115,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "说到底我觉得歧视od自残等心理疾病行为的人都是认知浅薄的人。\n这些行为无法仅仅只停留在“小众爱好”上。如果自伤自残oded能够仅仅浮于表面地定义为人类的个人爱好及选择，那么心理疾病的诊断就不会有这些选项了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2925,
+          "following_count": 2191,
+          "like_count": 72227,
+          "listed_count": 8,
+          "media_count": 1835,
+          "tweet_count": 12362
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "碎碎念+照片随机掉落+恋爱碎片｜07天秤｜叫我M豆或者豆就好｜Bisexual｜infj｜有老公/男友/哥哥/宝宝（同一个人）｜另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//lcel46/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//lcel46/web?t=1780027673",
+                "start": 0,
+                "url": "https://t.co/9CCewqfogR"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "M豆星",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2058565041256063190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 354,
+          "like_count": 3969,
+          "listed_count": 2,
+          "media_count": 387,
+          "tweet_count": 3790
+        },
+        "url": "https://t.co/9CCewqfogR",
+        "username": "sandyyyy0922",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2084228042604605925",
+    "created_at": "2026-08-03T10:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084228042604605925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1891848716023422976",
+          "start": 3,
+          "username": "AORINGO_nemuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084228042604605925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083765903330873769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AORINGO_nemuru: 牢🀄️健全人也就是这样，对别人受到的伤害和造成他们成为这样的罪魁祸首视若无睹，却要帮着那群所谓人上人痛踩这些人。经典受害者有罪论，没经历过别人的生活但是可以随意点评，我觉得不对就是不对，管你怎么样不符合我心意的都得全部消失。妄想着自己也是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2084228042604605925",
+        "created_at": "2026-08-03T10:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084228042604605925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1891848716023422976",
+              "start": 3,
+              "username": "AORINGO_nemuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084228042604605925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083765903330873769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AORINGO_nemuru: 牢🀄️健全人也就是这样，对别人受到的伤害和造成他们成为这样的罪魁祸首视若无睹，却要帮着那群所谓人上人痛踩这些人。经典受害者有罪论，没经历过别人的生活但是可以随意点评，我觉得不对就是不对，管你怎么样不符合我心意的都得全部消失。妄想着自己也是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891848716023422976",
+        "conversation_id": "2083765903330873769",
+        "created_at": "2026-08-02T04:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083765903330873769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083765903330873769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3898,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "牢🀄️健全人也就是这样，对别人受到的伤害和造成他们成为这样的罪魁祸首视若无睹，却要帮着那群所谓人上人痛踩这些人。经典受害者有罪论，没经历过别人的生活但是可以随意点评，我觉得不对就是不对，管你怎么样不符合我心意的都得全部消失。妄想着自己也是皇帝，等那些事真到它们头上又喊的比谁都大声"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2925,
+          "following_count": 2193,
+          "like_count": 72281,
+          "listed_count": 8,
+          "media_count": 1835,
+          "tweet_count": 12368
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T13:54:55.000Z",
+        "description": "冰块儿 | 神堕｜欲望,暴力,自由｜神聖かまってちゃん♡｜*裏垢 @uni_wwwww｜视奸的全家死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "uni_wwwww"
+              }
+            ]
+          }
+        },
+        "id": "1891848716023422976",
+        "location": "🚪50/88",
+        "name": "青林檎",
+        "pinned_tweet_id": "2020529733109223531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044971844642775042/k4QuHVS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 235,
+          "like_count": 13810,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1373
+        },
+        "url": "",
+        "username": "AORINGO_nemuru",
+        "verified": false
+      }
+    ]
+  }
+}

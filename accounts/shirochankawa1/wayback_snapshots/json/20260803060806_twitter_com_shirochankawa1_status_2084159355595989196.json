@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2084159355595989196",
+    "created_at": "2026-08-03T06:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084159355595989196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1901883776126648321",
+          "start": 3,
+          "username": "lyz7i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084159355595989196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083864448947941390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lyz7i: ガチ陰キャあるある\n1人が好きなくせに寂しがり屋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2084159355595989196",
+        "created_at": "2026-08-03T06:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084159355595989196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1901883776126648321",
+              "start": 3,
+              "username": "lyz7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084159355595989196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083864448947941390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lyz7i: ガチ陰キャあるある\n1人が好きなくせに寂しがり屋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901883776126648321",
+        "conversation_id": "2083864448947941390",
+        "created_at": "2026-08-02T10:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083864448947941390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083864448947941390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 16438,
+          "like_count": 1053,
+          "quote_count": 32,
+          "reply_count": 7,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "ガチ陰キャあるある\n1人が好きなくせに寂しがり屋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 2193,
+          "like_count": 72175,
+          "listed_count": 8,
+          "media_count": 1835,
+          "tweet_count": 12348
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T06:30:55.000Z",
+        "description": "#出禁界隈 師匠@adda20200\n仲良くしましょう",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "出禁界隈"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "adda20200"
+              }
+            ]
+          }
+        },
+        "id": "1901883776126648321",
+        "name": "あずき出禁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083913969518190592/bJiRSLnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 470,
+          "like_count": 37496,
+          "listed_count": 6,
+          "media_count": 681,
+          "tweet_count": 6047
+        },
+        "url": "",
+        "username": "lyz7i",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "conversation_id": "2084297463142510756",
+    "created_at": "2026-08-03T15:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084297463142510756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1213412688790843397",
+          "start": 3,
+          "username": "AkiratheShining"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084297463142510756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083958753834193228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkiratheShining: 你的心，那么敏感，像玻璃一样纤细，那颗心给了你那么多的痛苦，却也是你的美丽之处。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2084297463142510756",
+        "created_at": "2026-08-03T15:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084297463142510756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1213412688790843397",
+              "start": 3,
+              "username": "AkiratheShining"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084297463142510756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083958753834193228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkiratheShining: 你的心，那么敏感，像玻璃一样纤细，那颗心给了你那么多的痛苦，却也是你的美丽之处。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1213412688790843397",
+        "conversation_id": "2083958753834193228",
+        "created_at": "2026-08-02T16:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083958753834193228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083958753834193228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4218,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "你的心，那么敏感，像玻璃一样纤细，那颗心给了你那么多的痛苦，却也是你的美丽之处。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2930,
+          "following_count": 2195,
+          "like_count": 72317,
+          "listed_count": 8,
+          "media_count": 1835,
+          "tweet_count": 12373
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T10:51:51.000Z",
+        "description": "昨夜我飞向了遥远的火星",
+        "id": "1213412688790843397",
+        "location": "精神病院",
+        "name": "闪光阿基拉",
+        "pinned_tweet_id": "1862137696195670378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081236049788108800/g4HL1P3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4531,
+          "following_count": 215,
+          "like_count": 5167,
+          "listed_count": 7,
+          "media_count": 553,
+          "tweet_count": 8200
+        },
+        "url": "",
+        "username": "AkiratheShining",
+        "verified": false
+      }
+    ]
+  }
+}

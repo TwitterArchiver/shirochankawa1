@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1713713115270139904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2084159563843108876",
+    "created_at": "2026-08-03T06:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084159563843108876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1863439667577978880",
+          "start": 3,
+          "username": "HomicipherMZBK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084159563843108876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 463
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084112027786842545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @HomicipherMZBK: ◤文字化化 POP UP SHOP in AMNIBUS STORE -blue-◢\nMAGNET by SHIBUYA109にて開催決定！\n「ルームウェア」テーマの作者描き下ろしイラストを公開💤\n開催期間：2026/9/18(金)～9/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2920,
+        "media_key": "3_2083081320176214016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiXbI9a4AAEpmi.jpg",
+        "width": 2064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2084159563843108876",
+        "created_at": "2026-08-03T06:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084159563843108876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1863439667577978880",
+              "start": 3,
+              "username": "HomicipherMZBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084159563843108876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 463
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084112027786842545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @HomicipherMZBK: ◤文字化化 POP UP SHOP in AMNIBUS STORE -blue-◢\nMAGNET by SHIBUYA109にて開催決定！\n「ルームウェア」テーマの作者描き下ろしイラストを公開💤\n開催期間：2026/9/18(金)～9/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083081320176214016"
+          ]
+        },
+        "author_id": "1863439667577978880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2084112027786842545",
+        "created_at": "2026-08-03T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084112027786842545"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 181,
+              "start": 176,
+              "tag": "文字化化"
+            },
+            {
+              "end": 193,
+              "start": 182,
+              "tag": "Homicipher"
+            },
+            {
+              "end": 211,
+              "start": 195,
+              "tag": "文字化化POPUPルームウェア"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nourTnrh4U",
+              "end": 235,
+              "expanded_url": "https://x.com/HomicipherMZBK/status/2084112027786842545/photo/1",
+              "media_key": "3_2083081320176214016",
+              "start": 212,
+              "url": "https://t.co/nourTnrh4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084112027786842545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 79383,
+          "like_count": 2463,
+          "quote_count": 320,
+          "reply_count": 1,
+          "retweet_count": 463
+        },
+        "reply_settings": "following",
+        "text": "◤文字化化 POP UP SHOP in AMNIBUS STORE -blue-◢\nMAGNET by SHIBUYA109にて開催決定！\n「ルームウェア」テーマの作者描き下ろしイラストを公開💤\n開催期間：2026/9/18(金)～9/27(日)\n開催場所：AMNIBUS STORE -blue-（MAGNET by SHIBUYA109 5F）\n#文字化化 #Homicipher \n#文字化化POPUPルームウェア https://t.co/nourTnrh4U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 2193,
+          "like_count": 72178,
+          "listed_count": 8,
+          "media_count": 1835,
+          "tweet_count": 12349
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:27:00.000Z",
+        "description": "言語解読ホラーADV『#文字化化 / #Homicipher 』好評発売中！販売数20万突破  |アニメイトグループの㈱フロンティアワークスが作品IP管理をしています▶︎@frontier_works | 開発元【八名木Games】 作者▶︎@Yatsunag",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 11,
+                "tag": "文字化化"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "tag": "Homicipher"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "frontier_works"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "Yatsunag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dramaticcreate.com/mozibake/",
+                "end": 23,
+                "expanded_url": "https://dramaticcreate.com/mozibake/",
+                "start": 0,
+                "url": "https://t.co/exFvPMapUk"
+              }
+            ]
+          }
+        },
+        "id": "1863439667577978880",
+        "name": "【公式】文字化化：Homicipher |八名木Games",
+        "pinned_tweet_id": "2000171603397910729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863440162283560960/Q4IkBK58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52048,
+          "following_count": 27,
+          "like_count": 985,
+          "listed_count": 25,
+          "media_count": 319,
+          "tweet_count": 1010
+        },
+        "url": "https://t.co/exFvPMapUk",
+        "username": "HomicipherMZBK",
+        "verified": false
+      }
+    ]
+  }
+}
